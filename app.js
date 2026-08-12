@@ -34,7 +34,9 @@ const elements = {
   filterMessage: document.querySelector("#filterMessage"),
 
   featuredRecord: document.querySelector("#featuredRecord"),
+  stackCovers: [...document.querySelectorAll(".stack-cover")],
   coverArt: document.querySelector("#coverArt"),
+  coverImage: document.querySelector("#coverImage"),
   coverArtist: document.querySelector("#coverArtist"),
   coverTitle: document.querySelector("#coverTitle"),
   coverYear: document.querySelector("#coverYear"),
@@ -301,6 +303,14 @@ function renderRecommendation() {
   elements.coverArt.className =
     `cover-art ${record.coverClass}`;
 
+  elements.featuredRecord.classList.toggle(
+    "is-single",
+    record.type === "song"
+  );
+
+  renderCoverImage(record);
+  renderStackCovers(record);
+
   elements.recommendationTitle.textContent =
     record.title;
 
@@ -320,6 +330,76 @@ function renderRecommendation() {
     )}`;
 
   updateHeardButton();
+}
+
+function renderCoverImage(record) {
+  elements.coverImage.onload = null;
+  elements.coverImage.onerror = null;
+  elements.coverImage.alt = "";
+  elements.coverImage.removeAttribute("src");
+
+  if (!record.coverUrl) {
+    return;
+  }
+
+  const expectedUrl = record.coverUrl;
+
+  elements.coverImage.onload = () => {
+    if (elements.coverImage.src !== expectedUrl) {
+      return;
+    }
+
+    elements.coverImage.alt = `${record.title} — ${record.artist}`;
+    elements.coverArt.classList.add("has-real-cover");
+  };
+
+  elements.coverImage.onerror = () => {
+    elements.coverArt.classList.remove("has-real-cover");
+    elements.coverImage.alt = "";
+  };
+
+  elements.coverImage.src = record.coverUrl;
+}
+
+function renderStackCovers(currentRecord) {
+  const uniqueRecords = [...new Map(
+    state.records
+      .filter((record) =>
+        record.id !== currentRecord.id && record.coverUrl
+      )
+      .map((record) => [record.coverUrl, record])
+  ).values()];
+
+  const shuffledRecords = uniqueRecords
+    .sort(() => Math.random() - 0.5)
+    .slice(0, elements.stackCovers.length);
+
+  elements.stackCovers.forEach((image, index) => {
+    const stackRecord = shuffledRecords[index];
+    const sleeve = image.parentElement;
+
+    image.hidden = true;
+    sleeve.classList.remove("has-real-cover");
+    image.onload = null;
+    image.onerror = null;
+    image.removeAttribute("src");
+
+    if (!stackRecord) {
+      return;
+    }
+
+    image.onload = () => {
+      image.hidden = false;
+      sleeve.classList.add("has-real-cover");
+    };
+
+    image.onerror = () => {
+      image.hidden = true;
+      sleeve.classList.remove("has-real-cover");
+    };
+
+    image.src = stackRecord.coverUrl;
+  });
 }
 
 function updateHeardButton() {
