@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <meta
+    name="description"
+    content="Descubre álbumes y canciones imprescindibles, una escucha a la vez."
+  >
+
+  <title>To the Last Groove</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+  <link
+    href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700;800&family=Inter:wght@400;500;600;700&display=swap"
+    rel="stylesheet"
+  >
+
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+  <header class="site-header">
+    <a
+      class="logo"
+      href="#"
+      aria-label="To the Last Groove"
+    >
+      <span class="logo-prefix">TO THE LAST</span>
+
+      <span class="logo-groove" aria-hidden="true">
+        GR<span class="logo-record logo-record-solid">O</span><span class="logo-record logo-record-rings">O</span>VE
+      </span>
+    </a>
+
+    <nav class="main-nav" aria-label="Navegación principal">
+      <button class="nav-link active" type="button">
+        Descubrir
+      </button>
+
+      <button class="nav-link" id="openCollection" type="button">
+        Mi colección
+        <span class="collection-count" id="collectionCount">0</span>
+      </button>
+
+      <button class="nav-link" type="button">
+        Acerca de
+      </button>
+    </nav>
+
+    <div
+  class="language-switcher"
+  role="group"
+  aria-label="Idioma / Language / Langue"
+>
+  <button
+    class="language-option active"
+    type="button"
+    data-language="es"
+    aria-pressed="true"
+  >
+    ES
+  </button>
+
+  <button
+    class="language-option"
+    type="button"
+    data-language="en"
+    aria-pressed="false"
+  >
+    EN
+  </button>
+
+  <button
+    class="language-option"
+    type="button"
+    data-language="fr"
+    aria-pressed="false"
+  >
+    FR
+  </button>
+</div>
+  </header>
+
+  <main>
+    <section class="discovery-layout">
+      <div class="discovery-controls">
+        <p class="eyebrow">Música imprescindible, una escucha a la vez</p>
+
+        <h1>¿Qué quieres escuchar?</h1>
+
+        <div class="format-selector" aria-label="Tipo de recomendación">
+          <button
+            class="format-button active"
+            type="button"
+            data-format="album"
+          >
+            <span class="format-icon format-icon-record"></span>
+            Álbum
+          </button>
+
+          <button
+            class="format-button"
+            type="button"
+            data-format="song"
+          >
+            <span class="format-icon">♪</span>
+            Canción
+          </button>
+
+          <button
+            class="format-button"
+            type="button"
+            data-format="surprise"
+          >
+            <span class="format-icon">⚄</span>
+            Sorpréndeme
+          </button>
+        </div>
+
+        <div class="filters">
+          <label class="filter-field">
+            <span>Década</span>
+
+            <select id="decadeFilter">
+              <option value="all">Cualquier década</option>
+              <option value="1950">1950</option>
+              <option value="1960">1960</option>
+              <option value="1970">1970</option>
+              <option value="1980">1980</option>
+              <option value="1990">1990</option>
+              <option value="2000">2000</option>
+              <option value="2010">2010</option>
+              <option value="2020">2020</option>
+            </select>
+          </label>
+
+          <label class="filter-field">
+            <span>Género</span>
+
+            <select id="genreFilter">
+              <option value="all">Cualquier género</option>
+              <option value="rock">Rock</option>
+              <option value="pop">Pop</option>
+              <option value="jazz">Jazz</option>
+              <option value="soul">Soul y R&amp;B</option>
+              <option value="hip-hop">Hip-hop</option>
+              <option value="electronic">Electrónica</option>
+              <option value="folk">Folk y country</option>
+              <option value="latin">Música latina</option>
+            </select>
+          </label>
+        </div>
+
+        <button class="primary-button" id="discoverButton" type="button">
+          Buscar entre los discos
+        </button>
+
+        <p class="filter-message" id="filterMessage" aria-live="polite"></p>
+      </div>
+
+      <div class="recommendation-area">
+        <div class="record-stage" id="recordStage">
+          <div class="sleeve-stack" aria-hidden="true">
+            <div class="back-sleeve sleeve-one"></div>
+            <div class="back-sleeve sleeve-two"></div>
+            <div class="back-sleeve sleeve-three"></div>
+            <div class="back-sleeve sleeve-four"></div>
+            <div class="back-sleeve sleeve-five"></div>
+          </div>
+
+          <article class="featured-record" id="featuredRecord">
+            <div class="vinyl-record">
+              <div class="vinyl-label"></div>
+            </div>
+
+            <div class="record-sleeve">
+              <div class="cover-art cover-blue" id="coverArt">
+                <div class="cover-shape cover-shape-large"></div>
+                <div class="cover-shape cover-shape-small"></div>
+
+                <div class="cover-copy">
+                  <p class="cover-artist" id="coverArtist">Chet Baker</p>
+                  <p class="cover-title" id="coverTitle">
+                    The Touch<br>of Your Lips
+                  </p>
+                </div>
+
+                <p class="cover-year" id="coverYear">1979</p>
+                <p class="catalogue-number" id="catalogueNumber">
+                  TLG–A–0074
+                </p>
+              </div>
+            </div>
+          </article>
+        </div>
+
+        <article class="recommendation-card">
+          <p class="staff-pick">★ Selección esencial</p>
+
+          <h2 id="recommendationTitle">The Touch of Your Lips</h2>
+          <p class="recommendation-artist" id="recommendationArtist">
+            Chet Baker
+          </p>
+
+          <p class="recommendation-details" id="recommendationDetails">
+            1979 · Jazz · 44 min
+          </p>
+
+          <p class="recommendation-description" id="recommendationDescription">
+            Una escucha íntima, delicada y esencial.
+          </p>
+
+          <div class="recommendation-actions">
+            <a
+              class="listen-button"
+              id="listenButton"
+              href="https://music.youtube.com/search?q=Chet+Baker+The+Touch+of+Your+Lips"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              ▶ Escuchar
+            </a>
+
+            <button class="secondary-button" id="heardButton" type="button">
+              Ya lo escuché
+            </button>
+
+            <button class="text-button" id="anotherButton" type="button">
+              Dame otro
+            </button>
+          </div>
+        </article>
+      </div>
+    </section>
+  </main>
+
+  <dialog class="collection-dialog" id="collectionDialog">
+    <div class="collection-header">
+      <div>
+        <p class="eyebrow">Tu historial musical</p>
+        <h2>Mi colección</h2>
+      </div>
+
+      <button
+        class="close-dialog"
+        id="closeCollection"
+        type="button"
+        aria-label="Cerrar colección"
+      >
+        ×
+      </button>
+    </div>
+
+    <div class="collection-grid" id="collectionGrid">
+      <p class="empty-collection">
+        Los discos que escuches aparecerán aquí.
+      </p>
+    </div>
+  </dialog>
+
+  <footer class="site-footer">
+    <p>To the Last Groove</p>
+    <p>Escucha hasta el último surco.</p>
+  </footer>
+
+  <script src="translations.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

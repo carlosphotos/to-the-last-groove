@@ -1,0 +1,182 @@
+[
+  {
+    "id": "song-001",
+    "type": "song",
+    "artist": "Chuck Berry",
+    "title": "Johnny B. Goode",
+    "year": 1958,
+    "decade": "1950",
+    "genre": "rock",
+    "duration": "2:41",
+    "catalogue": "TLG–S–0001",
+    "coverClass": "cover-yellow",
+    "searchQuery": "Chuck Berry Johnny B. Goode",
+    "description": {
+      "es": "Uno de los planos fundamentales sobre los que se construyó el rock.",
+      "en": "One of the fundamental blueprints upon which rock was built.",
+      "fr": "L’un des plans fondamentaux sur lesquels le rock s’est construit."
+    }
+  },
+  {
+    "id": "song-002",
+    "type": "song",
+    "artist": "The Ronettes",
+    "title": "Be My Baby",
+    "year": 1963,
+    "decade": "1960",
+    "genre": "pop",
+    "duration": "2:40",
+    "catalogue": "TLG–S–0002",
+    "coverClass": "cover-red",
+    "searchQuery": "The Ronettes Be My Baby",
+    "description": {
+      "es": "Una entrada de batería inolvidable y una producción que definió una época.",
+      "en": "An unforgettable drum intro and production that defined an era.",
+      "fr": "Une introduction de batterie inoubliable et une production qui a défini une époque."
+    }
+  },
+  {
+    "id": "song-003",
+    "type": "song",
+    "artist": "The Beach Boys",
+    "title": "God Only Knows",
+    "year": 1966,
+    "decade": "1960",
+    "genre": "pop",
+    "duration": "2:55",
+    "catalogue": "TLG–S–0003",
+    "coverClass": "cover-green",
+    "searchQuery": "The Beach Boys God Only Knows",
+    "description": {
+      "es": "Pop de enorme sofisticación convertido en una declaración sencilla.",
+      "en": "Highly sophisticated pop transformed into a simple declaration.",
+      "fr": "Une pop d’une grande sophistication transformée en déclaration simple."
+    }
+  },
+  {
+    "id": "song-004",
+    "type": "song",
+    "artist": "Marvin Gaye",
+    "title": "What's Going On",
+    "year": 1971,
+    "decade": "1970",
+    "genre": "soul",
+    "duration": "3:53",
+    "catalogue": "TLG–S–0004",
+    "coverClass": "cover-blue",
+    "searchQuery": "Marvin Gaye What's Going On",
+    "description": {
+      "es": "Una pregunta política expresada con calidez, compasión y elegancia.",
+      "en": "A political question expressed with warmth, compassion and elegance.",
+      "fr": "Une question politique exprimée avec chaleur, compassion et élégance."
+    }
+  },
+  {
+    "id": "song-005",
+    "type": "song",
+    "artist": "New Order",
+    "title": "Blue Monday",
+    "year": 1983,
+    "decade": "1980",
+    "genre": "electronic",
+    "duration": "7:29",
+    "catalogue": "TLG–S–0005",
+    "coverClass": "cover-purple",
+    "searchQuery": "New Order Blue Monday",
+    "description": {
+      "es": "El punto de encuentro entre el post-punk, las máquinas y la pista de baile.",
+      "en": "The meeting point between post-punk, machines and the dance floor.",
+      "fr": "Le point de rencontre entre le post-punk, les machines et la piste de danse."
+    }
+  },
+  {
+    "id": "song-006",
+    "type": "song",
+    "artist": "Pulp",
+    "title": "Common People",
+    "year": 1995,
+    "decade": "1990",
+    "genre": "rock",
+    "duration": "5:50",
+    "catalogue": "TLG–S–0006",
+    "coverClass": "cover-red",
+    "searchQuery": "Pulp Common People",
+    "description": {
+      "es": "Una historia de clase social que crece hasta convertirse en un himno.",
+      "en": "A story about social class that grows into an anthem.",
+      "fr": "Une histoire de classe sociale qui grandit jusqu’à devenir un hymne."
+    }
+  },
+  {
+    "id": "song-007",
+    "type": "song",
+    "artist": "Celia Cruz",
+    "title": "La vida es un carnaval",
+    "year": 1998,
+    "decade": "1990",
+    "genre": "latin",
+    "duration": "4:36",
+    "catalogue": "TLG–S–0007",
+    "coverClass": "cover-yellow",
+    "searchQuery": "Celia Cruz La vida es un carnaval",
+    "description": {
+      "es": "Una celebración de resistencia y alegría convertida en canto colectivo.",
+      "en": "A celebration of resilience and joy transformed into a collective song.",
+      "fr": "Une célébration de la résistance et de la joie devenue chant collectif."
+    }
+  },
+  {
+    "id": "song-008",
+    "type": "song",
+    "artist": "Daft Punk",
+    "title": "Digital Love",
+    "year": 2001,
+    "decade": "2000",
+    "genre": "electronic",
+    "duration": "4:58",
+    "catalogue": "TLG–S–0008",
+    "coverClass": "cover-blue",
+    "searchQuery": "Daft Punk Digital Love",
+    "description": {
+      "es": "Nostalgia, tecnología y romanticismo dentro de una canción pop perfecta.",
+      "en": "Nostalgia, technology and romance inside a perfect pop song.",
+      "fr": "Nostalgie, technologie et romantisme dans une chanson pop parfaite."
+    }
+  },
+  {
+    "id": "song-009",
+    "type": "song",
+    "artist": "Phoenix",
+    "title": "1901",
+    "year": 2009,
+    "decade": "2000",
+    "genre": "pop",
+    "duration": "3:13",
+    "catalogue": "TLG–S–0009",
+    "coverClass": "cover-green",
+    "searchQuery": "Phoenix 1901",
+    "description": {
+      "es": "Sintetizadores, guitarras y energía reunidas en tres minutos de pop preciso.",
+      "en": "Synths, guitars and energy condensed into three minutes of precise pop.",
+      "fr": "Synthétiseurs, guitares et énergie réunis dans trois minutes de pop précise."
+    }
+  },
+  {
+    "id": "song-010",
+    "type": "song",
+    "artist": "Kendrick Lamar",
+    "title": "Alright",
+    "year": 2015,
+    "decade": "2010",
+    "genre": "hip-hop",
+    "duration": "3:39",
+    "catalogue": "TLG–S–0010",
+    "coverClass": "cover-purple",
+    "searchQuery": "Kendrick Lamar Alright",
+    "description": {
+      "es": "Una canción de supervivencia personal que se convirtió en protesta colectiva.",
+      "en": "A song of personal survival that became a collective protest.",
+      "fr": "Une chanson de survie personnelle devenue une protestation collective."
+    }
+  }
+]
