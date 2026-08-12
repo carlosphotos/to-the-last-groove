@@ -81,6 +81,19 @@ const elements = {
   listeningNoteEntryTitle: document.querySelector("#listeningNoteEntryTitle"),
   listeningNoteEntryTrack: document.querySelector("#listeningNoteEntryTrack"),
   listeningNoteEntryReason: document.querySelector("#listeningNoteEntryReason"),
+  listeningNoteListenLabel: document.querySelector(
+    "#listeningNoteListenLabel"
+  ),
+  listeningNotePlatforms: document.querySelector(
+    "#listeningNotePlatforms"
+  ),
+  listeningNoteSpotify: document.querySelector("#listeningNoteSpotify"),
+  listeningNoteAppleMusic: document.querySelector(
+    "#listeningNoteAppleMusic"
+  ),
+  listeningNoteYouTubeMusic: document.querySelector(
+    "#listeningNoteYouTubeMusic"
+  ),
   listeningNoteSourcesTitle: document.querySelector(
     "#listeningNoteSourcesTitle"
   ),
@@ -580,10 +593,39 @@ function renderListeningNote() {
     elements.listeningNoteListenFor.appendChild(item);
   });
 
-  elements.listeningNoteEntryTrack.textContent =
-    content.entryPoint?.title || "";
+  const entryTitle = content.entryPoint?.title || "";
+  const entryQuery = encodeURIComponent(
+    `${state.current.artist} ${entryTitle}`
+  );
+  const entryDescription = `${entryTitle} — ${state.current.artist}`;
+
+  elements.listeningNoteEntryTrack.textContent = entryTitle;
   elements.listeningNoteEntryReason.textContent =
     content.entryPoint?.reason || "";
+  elements.listeningNoteListenLabel.textContent =
+    text.editorial.listenNow;
+  elements.listeningNoteListenLabel.hidden = !entryTitle;
+  elements.listeningNotePlatforms.hidden = !entryTitle;
+
+  elements.listeningNoteSpotify.href =
+    `https://open.spotify.com/search/${entryQuery}`;
+  elements.listeningNoteAppleMusic.href =
+    `https://music.apple.com/search?term=${entryQuery}`;
+  elements.listeningNoteYouTubeMusic.href =
+    `https://music.youtube.com/search?q=${entryQuery}`;
+
+  elements.listeningNoteSpotify.setAttribute(
+    "aria-label",
+    `${text.editorial.listenNow} — Spotify: ${entryDescription}`
+  );
+  elements.listeningNoteAppleMusic.setAttribute(
+    "aria-label",
+    `${text.editorial.listenNow} — Apple Music: ${entryDescription}`
+  );
+  elements.listeningNoteYouTubeMusic.setAttribute(
+    "aria-label",
+    `${text.editorial.listenNow} — YouTube Music: ${entryDescription}`
+  );
 
   elements.listeningNoteSources.replaceChildren();
   (editorial.sources || []).forEach((source) => {

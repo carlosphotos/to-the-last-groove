@@ -61,6 +61,7 @@ window.TLG_TRANSLATIONS = {
       readTime: "{minutes} min de lectura",
       listenFor: "Escucha con atención",
       entryPoint: "Punto de entrada",
+      listenNow: "Escuchar ahora",
       sources: "Fuentes"
     },
 
@@ -152,6 +153,7 @@ window.TLG_TRANSLATIONS = {
       readTime: "{minutes} min read",
       listenFor: "Listen for",
       entryPoint: "Entry point",
+      listenNow: "Listen now",
       sources: "Sources"
     },
 
@@ -243,6 +245,7 @@ window.TLG_TRANSLATIONS = {
       readTime: "{minutes} min de lecture",
       listenFor: "À écouter attentivement",
       entryPoint: "Point de départ",
+      listenNow: "Écouter maintenant",
       sources: "Sources"
     },
 

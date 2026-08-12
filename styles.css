@@ -1459,6 +1459,55 @@ main {
   line-height: 1.55;
 }
 
+.listening-note-entry .listening-note-listen-label {
+  margin-top: 17px;
+  color: var(--muted);
+  font-family: var(--condensed);
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.07em;
+  line-height: 1;
+  text-transform: uppercase;
+}
+
+.listening-note-platforms {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 5px;
+  margin-top: 8px;
+}
+
+.listening-note-platforms[hidden],
+.listening-note-listen-label[hidden] {
+  display: none;
+}
+
+.listening-note-platforms a {
+  min-height: 34px;
+  padding: 7px 3px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid var(--line);
+  color: var(--charcoal);
+  background: rgba(255, 255, 255, 0.22);
+  font-family: var(--condensed);
+  font-size: 0.61rem;
+  font-weight: 700;
+  line-height: 1;
+  text-align: center;
+  text-decoration: none;
+  transition: background 160ms ease, border-color 160ms ease,
+    color 160ms ease;
+}
+
+.listening-note-platforms a:hover,
+.listening-note-platforms a:focus-visible {
+  border-color: var(--blue);
+  color: white;
+  background: var(--blue);
+}
+
 .listening-note-sources a {
   color: var(--muted);
   text-decoration: none;
