@@ -375,8 +375,10 @@ function renderRecommendation() {
   elements.catalogueNumber.textContent =
     record.catalogue;
 
-  elements.coverArt.className =
-    `cover-art ${record.coverClass}`;
+  Object.keys(coverColors).forEach((coverClass) => {
+    elements.coverArt.classList.remove(coverClass);
+  });
+  elements.coverArt.classList.add(record.coverClass);
 
   elements.featuredRecord.classList.toggle(
     "is-single",
@@ -467,36 +469,43 @@ function renderRecognition(record) {
 }
 
 function renderCoverImage(record) {
-  elements.coverImage.onload = null;
-  elements.coverImage.onerror = null;
-  elements.coverImage.alt = "";
-  elements.coverImage.removeAttribute("src");
+  const requestId = Symbol(record.id);
+  renderCoverImage.currentRequest = requestId;
 
   if (!record.coverUrl) {
+    elements.coverImage.alt = "";
+    elements.coverImage.removeAttribute("src");
+    elements.coverArt.classList.remove("has-real-cover");
+    elements.coverArt.classList.remove("is-loading");
+    elements.coverArt.removeAttribute("aria-busy");
     scheduleFixedStackCovers();
     prepareRecommendationQueue();
     return;
   }
 
   const expectedUrl = record.coverUrl;
+  const pendingImage = new Image();
 
   elements.coverArt.classList.add("is-loading");
+  elements.coverArt.setAttribute("aria-busy", "true");
 
-  elements.coverImage.onload = () => {
-    const revealCover = () => {
-      if (elements.coverImage.src !== expectedUrl) {
-        return;
-      }
+  const revealCover = () => {
+    if (renderCoverImage.currentRequest !== requestId) {
+      return;
+    }
 
-      elements.coverImage.alt = `${record.title} — ${record.artist}`;
-      elements.coverArt.classList.remove("is-loading");
-      elements.coverArt.classList.add("has-real-cover");
-      scheduleFixedStackCovers();
-      prepareRecommendationQueue();
-    };
+    elements.coverImage.src = expectedUrl;
+    elements.coverImage.alt = `${record.title} — ${record.artist}`;
+    elements.coverArt.classList.remove("is-loading");
+    elements.coverArt.classList.add("has-real-cover");
+    elements.coverArt.removeAttribute("aria-busy");
+    scheduleFixedStackCovers();
+    prepareRecommendationQueue();
+  };
 
-    if (typeof elements.coverImage.decode === "function") {
-      elements.coverImage.decode()
+  pendingImage.onload = () => {
+    if (typeof pendingImage.decode === "function") {
+      pendingImage.decode()
         .catch(() => {})
         .finally(revealCover);
     } else {
@@ -504,16 +513,26 @@ function renderCoverImage(record) {
     }
   };
 
-  elements.coverImage.onerror = () => {
+  pendingImage.onerror = () => {
+    if (renderCoverImage.currentRequest !== requestId) {
+      return;
+    }
+
+    elements.coverImage.alt = "";
+    elements.coverImage.removeAttribute("src");
     elements.coverArt.classList.remove("is-loading");
     elements.coverArt.classList.remove("has-real-cover");
-    elements.coverImage.alt = "";
+    elements.coverArt.removeAttribute("aria-busy");
     scheduleFixedStackCovers();
     prepareRecommendationQueue();
   };
 
-  elements.coverImage.src = record.coverUrl;
+  pendingImage.decoding = "async";
+  pendingImage.fetchPriority = "high";
+  pendingImage.src = expectedUrl;
 }
+
+renderCoverImage.currentRequest = null;
 
 function hasDataSavingConnection() {
   const connection =
@@ -527,15 +546,29 @@ function hasDataSavingConnection() {
   );
 }
 
-function getCoverThumbnailUrl(coverUrl, size = 250) {
+function getCoverThumbnailUrl(recordOrUrl, size = 250) {
+  const record = typeof recordOrUrl === "object"
+    ? recordOrUrl
+    : null;
+  const coverUrl = record?.coverUrl || recordOrUrl;
+
   if (!coverUrl) {
     return "";
   }
 
-  return coverUrl.replace(
-    /\/front-(250|500|1200)(?=$|[?#])/,
-    `/front-${size}`
-  );
+  if (size === 250 && record?.thumbnailUrl) {
+    return record.thumbnailUrl;
+  }
+
+  return coverUrl
+    .replace(
+      /\/front-(250|500|1200)(?=$|[?#])/,
+      `/front-${size}`
+    )
+    .replace(
+      /-(250|500|1200)\.(jpe?g|webp|png)(?=$|[?#])/i,
+      `-${size}.$2`
+    );
 }
 
 function scheduleIdleTask(callback, timeout = 1200) {
@@ -638,7 +671,7 @@ function renderFixedStackCovers() {
       sleeve.classList.remove("has-real-cover");
     };
 
-    image.src = getCoverThumbnailUrl(stackRecord.coverUrl, 250);
+    image.src = getCoverThumbnailUrl(stackRecord, 250);
   });
 }
 
@@ -760,7 +793,7 @@ function renderCollection() {
         ${record.coverUrl ? `
           <img
             class="collection-cover-image"
-            src="${getCoverThumbnailUrl(record.coverUrl, 250)}"
+            src="${getCoverThumbnailUrl(record, 250)}"
             alt=""
             loading="lazy"
             decoding="async"
