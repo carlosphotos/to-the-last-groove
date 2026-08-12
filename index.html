@@ -251,6 +251,16 @@
             </a>
           </div>
 
+          <button
+            class="listening-note-button"
+            id="openListeningNote"
+            type="button"
+            aria-haspopup="dialog"
+            hidden
+          >
+            Leer nota de escucha · 1 min
+          </button>
+
           <p class="platform-label" id="platformLabel">Escuchar en</p>
 
           <div class="platform-links" aria-labelledby="platformLabel">
@@ -320,6 +330,64 @@
       <p class="empty-collection">
         Los discos que escuches aparecerán aquí.
       </p>
+    </div>
+  </dialog>
+
+  <dialog
+    class="listening-note-dialog"
+    id="listeningNoteDialog"
+    aria-labelledby="listeningNoteTitle"
+  >
+    <header class="listening-note-header">
+      <img
+        class="listening-note-cover-image"
+        id="listeningNoteCoverImage"
+        alt=""
+        decoding="async"
+      >
+
+      <div>
+        <div class="listening-note-meta">
+          <p class="eyebrow" id="listeningNoteEyebrow">Nota de escucha</p>
+          <p id="listeningNoteReadTime">1 min de lectura</p>
+        </div>
+
+        <h2 id="listeningNoteTitle">The Touch of Your Lips</h2>
+        <p class="listening-note-artist" id="listeningNoteArtist">
+          Chet Baker
+        </p>
+      </div>
+
+      <button
+        class="close-dialog"
+        id="closeListeningNote"
+        type="button"
+        aria-label="Cerrar nota de escucha"
+      >
+        ×
+      </button>
+    </header>
+
+    <div class="listening-note-layout">
+      <div class="listening-note-review" id="listeningNoteReview"></div>
+
+      <aside class="listening-note-sidebar">
+        <section class="listening-note-section">
+          <h3 id="listeningNoteListenForTitle">Escucha con atención</h3>
+          <ul id="listeningNoteListenFor"></ul>
+        </section>
+
+        <section class="listening-note-section listening-note-entry">
+          <h3 id="listeningNoteEntryTitle">Punto de entrada</h3>
+          <strong id="listeningNoteEntryTrack">I Waited for You</strong>
+          <p id="listeningNoteEntryReason"></p>
+        </section>
+
+        <section class="listening-note-section listening-note-sources">
+          <h3 id="listeningNoteSourcesTitle">Fuentes</h3>
+          <ul id="listeningNoteSources"></ul>
+        </section>
+      </aside>
     </div>
   </dialog>
 

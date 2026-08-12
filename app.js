@@ -63,6 +63,31 @@ const elements = {
   recognitionLink: document.querySelector("#recognitionLink"),
   recognitionText: document.querySelector("#recognitionText"),
   recognitionSource: document.querySelector("#recognitionSource"),
+  openListeningNote: document.querySelector("#openListeningNote"),
+  listeningNoteDialog: document.querySelector("#listeningNoteDialog"),
+  closeListeningNote: document.querySelector("#closeListeningNote"),
+  listeningNoteEyebrow: document.querySelector("#listeningNoteEyebrow"),
+  listeningNoteReadTime: document.querySelector("#listeningNoteReadTime"),
+  listeningNoteTitle: document.querySelector("#listeningNoteTitle"),
+  listeningNoteArtist: document.querySelector("#listeningNoteArtist"),
+  listeningNoteCoverImage: document.querySelector(
+    "#listeningNoteCoverImage"
+  ),
+  listeningNoteReview: document.querySelector("#listeningNoteReview"),
+  listeningNoteListenForTitle: document.querySelector(
+    "#listeningNoteListenForTitle"
+  ),
+  listeningNoteListenFor: document.querySelector("#listeningNoteListenFor"),
+  listeningNoteEntryTitle: document.querySelector("#listeningNoteEntryTitle"),
+  listeningNoteEntryTrack: document.querySelector("#listeningNoteEntryTrack"),
+  listeningNoteEntryReason: document.querySelector("#listeningNoteEntryReason"),
+  listeningNoteSourcesTitle: document.querySelector(
+    "#listeningNoteSourcesTitle"
+  ),
+  listeningNoteSources: document.querySelector("#listeningNoteSources"),
+  listeningNoteSourcesSection: document.querySelector(
+    ".listening-note-sources"
+  ),
 
   platformLabel: document.querySelector("#platformLabel"),
   spotifyLink: document.querySelector("#spotifyLink"),
@@ -217,6 +242,11 @@ function applyTranslations() {
   elements.closeCollection.setAttribute(
     "aria-label",
     text.collection.closeLabel
+  );
+
+  elements.closeListeningNote.setAttribute(
+    "aria-label",
+    text.accessibility.closeListeningNote
   );
 
   elements.aboutEyebrow.textContent =
@@ -387,6 +417,7 @@ function renderRecommendation() {
 
   renderCoverImage(record);
   renderRecognition(record);
+  renderEditorialAvailability(record);
 
   elements.recommendationTitle.textContent =
     record.title;
@@ -466,6 +497,150 @@ function renderRecognition(record) {
     `${text.accessibility.recognitionSource}: ${recognitionText}, ${recognition.source}, ${recognition.year}`
   );
   elements.recognitionBlock.hidden = false;
+}
+
+function getEditorialContent(record = state.current) {
+  const editorial = record?.editorial;
+  const content =
+    editorial?.[state.language] ||
+    editorial?.es;
+
+  if (!editorial || !content?.review?.length) {
+    return null;
+  }
+
+  return { editorial, content };
+}
+
+function renderEditorialAvailability(record) {
+  const editorialData = getEditorialContent(record);
+
+  if (!editorialData) {
+    elements.openListeningNote.hidden = true;
+    return;
+  }
+
+  const { editorial } = editorialData;
+  const minutes = editorial.readTime || 1;
+
+  elements.openListeningNote.textContent =
+    getText().recommendation.listeningNoteButton.replace(
+      "{minutes}",
+      minutes
+    );
+  elements.openListeningNote.hidden = false;
+}
+
+function renderListeningNote() {
+  const editorialData = getEditorialContent();
+
+  if (!editorialData || !state.current) {
+    return false;
+  }
+
+  const text = getText();
+  const { editorial, content } = editorialData;
+  const minutes = editorial.readTime || 1;
+
+  elements.listeningNoteEyebrow.textContent =
+    text.editorial.eyebrow;
+  elements.listeningNoteReadTime.textContent =
+    text.editorial.readTime.replace("{minutes}", minutes);
+  elements.listeningNoteTitle.textContent = state.current.title;
+  elements.listeningNoteArtist.textContent = state.current.artist;
+  elements.listeningNoteCoverImage.src = state.current.coverUrl;
+  elements.listeningNoteCoverImage.style.objectPosition =
+    editorial.headerPosition || "center";
+  elements.listeningNoteListenForTitle.textContent =
+    text.editorial.listenFor;
+  elements.listeningNoteEntryTitle.textContent =
+    text.editorial.entryPoint;
+  elements.listeningNoteSourcesTitle.textContent =
+    text.editorial.sources;
+
+  elements.listeningNoteReview.replaceChildren();
+  content.review.forEach((paragraphText) => {
+    const paragraph = document.createElement("p");
+    appendHighlightedText(
+      paragraph,
+      paragraphText,
+      editorial.trackMentions
+    );
+    elements.listeningNoteReview.appendChild(paragraph);
+  });
+
+  elements.listeningNoteListenFor.replaceChildren();
+  (content.listenFor || []).forEach((itemText) => {
+    const item = document.createElement("li");
+    appendHighlightedText(
+      item,
+      itemText,
+      editorial.trackMentions
+    );
+    elements.listeningNoteListenFor.appendChild(item);
+  });
+
+  elements.listeningNoteEntryTrack.textContent =
+    content.entryPoint?.title || "";
+  elements.listeningNoteEntryReason.textContent =
+    content.entryPoint?.reason || "";
+
+  elements.listeningNoteSources.replaceChildren();
+  (editorial.sources || []).forEach((source) => {
+    const item = document.createElement("li");
+    const link = document.createElement("a");
+
+    link.href = source.url;
+    link.target = "_blank";
+    link.rel = "noopener noreferrer";
+    const sourceName =
+      source.name?.[state.language] ||
+      source.name?.es ||
+      source.name;
+
+    link.textContent = `${sourceName} ↗`;
+    item.appendChild(link);
+    elements.listeningNoteSources.appendChild(item);
+  });
+
+  elements.listeningNoteSourcesSection.hidden =
+    elements.listeningNoteSources.children.length === 0;
+
+  return true;
+}
+
+function appendHighlightedText(container, value, highlights = []) {
+  const validHighlights = highlights
+    .filter(Boolean)
+    .sort((first, second) => second.length - first.length);
+
+  if (validHighlights.length === 0) {
+    container.textContent = value;
+    return;
+  }
+
+  const escapedHighlights = validHighlights.map((highlight) =>
+    highlight.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")
+  );
+  const pattern = new RegExp(
+    `(${escapedHighlights.join("|")})`,
+    "g"
+  );
+  const highlightSet = new Set(validHighlights);
+
+  value.split(pattern).forEach((part) => {
+    if (!part) {
+      return;
+    }
+
+    if (highlightSet.has(part)) {
+      const strong = document.createElement("strong");
+      strong.textContent = part;
+      container.appendChild(strong);
+    } else {
+      container.appendChild(document.createTextNode(part));
+    }
+  });
 }
 
 function renderCoverImage(record) {
@@ -893,6 +1068,25 @@ elements.heardButton.addEventListener(
   "click",
   saveCurrentRecord
 );
+
+elements.openListeningNote.addEventListener("click", () => {
+  if (
+    renderListeningNote() &&
+    !elements.listeningNoteDialog.open
+  ) {
+    elements.listeningNoteDialog.showModal();
+  }
+});
+
+elements.closeListeningNote.addEventListener("click", () => {
+  elements.listeningNoteDialog.close();
+});
+
+elements.listeningNoteDialog.addEventListener("click", (event) => {
+  if (event.target === elements.listeningNoteDialog) {
+    elements.listeningNoteDialog.close();
+  }
+});
 
 elements.languageOptions.forEach((button) => {
   button.addEventListener("click", () => {

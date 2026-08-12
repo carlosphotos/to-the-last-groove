@@ -19,6 +19,91 @@
       "en": "An intimate, delicate and essential listen.",
       "fr": "Un album intime, délicat et incontournable."
     },
+    "editorial": {
+      "readTime": 1,
+      "headerPosition": "center 38%",
+      "trackMentions": [
+        "I Waited for You",
+        "But Not for Me"
+      ],
+      "es": {
+        "review": [
+          "En The Touch of Your Lips, el silencio funciona como un cuarto integrante. Chet Baker está acompañado únicamente por el guitarrista Doug Raney y el contrabajista Niels-Henning Ørsted Pedersen; sin piano ni batería, cada decisión melódica queda expuesta.",
+          "El repertorio está formado por estándares, pero el interés no reside tanto en las canciones elegidas como en la manera en que el trío las habita. Raney sostiene la armonía sin llenar todos los espacios, Pedersen da dirección incluso a bajo volumen y Baker deja respirar sus frases hasta hacerlas parecer casi habladas.",
+          "En But Not for Me y la canción titular, su voz conserva la misma contención que su trompeta: ninguna intenta imponerse. El disco utiliza la calma, el espacio y la economía como recursos expresivos.",
+          "Es música nocturna, pero no música de fondo. Su intimidad se vuelve más evidente cuando prestamos atención a todo lo que los músicos deciden no tocar."
+        ],
+        "listenFor": [
+          "El espacio entre las primeras frases de I Waited for You.",
+          "La transición entre la voz y la trompeta en But Not for Me.",
+          "Cómo el contrabajo mantiene el movimiento sin romper la delicadeza del conjunto."
+        ],
+        "entryPoint": {
+          "title": "I Waited for You",
+          "reason": "No necesariamente porque sea la mejor canción, sino porque presenta inmediatamente el sonido abierto y sin batería que define al disco."
+        }
+      },
+      "en": {
+        "review": [
+          "On The Touch of Your Lips, silence functions like a fourth member. Chet Baker is accompanied only by guitarist Doug Raney and bassist Niels-Henning Ørsted Pedersen; without piano or drums, every melodic decision is left exposed.",
+          "The repertoire consists of standards, but the interest lies less in the songs chosen than in the way the trio inhabits them. Raney supports the harmony without filling every space, Pedersen gives the music direction even at low volume, and Baker lets his phrases breathe until they sound almost spoken.",
+          "On But Not for Me and the title track, his voice carries the same restraint as his trumpet: neither tries to dominate. The album turns calm, space and economy into expressive resources.",
+          "This is late-night music, but not background music. Its intimacy becomes clearer when we pay attention to everything the musicians choose not to play."
+        ],
+        "listenFor": [
+          "The space between the opening phrases of I Waited for You.",
+          "The transition between voice and trumpet on But Not for Me.",
+          "How the bass keeps the music moving without disturbing the trio’s delicacy."
+        ],
+        "entryPoint": {
+          "title": "I Waited for You",
+          "reason": "Not necessarily because it is the best track, but because it immediately introduces the open, drumless sound that defines the album."
+        }
+      },
+      "fr": {
+        "review": [
+          "Dans The Touch of Your Lips, le silence agit comme un quatrième membre. Chet Baker n’est accompagné que du guitariste Doug Raney et du contrebassiste Niels-Henning Ørsted Pedersen ; sans piano ni batterie, chaque choix mélodique reste à découvert.",
+          "Le répertoire se compose de standards, mais l’intérêt réside moins dans le choix des morceaux que dans la manière dont le trio les habite. Raney soutient l’harmonie sans combler tous les espaces, Pedersen donne une direction même à faible volume et Baker laisse respirer ses phrases jusqu’à les faire paraître presque parlées.",
+          "Dans But Not for Me et le morceau-titre, sa voix garde la même retenue que sa trompette : aucune ne cherche à s’imposer. L’album fait du calme, de l’espace et de l’économie de moyens de véritables ressources expressives.",
+          "C’est une musique nocturne, mais pas une musique de fond. Son intimité se révèle davantage lorsque l’on prête attention à tout ce que les musiciens choisissent de ne pas jouer."
+        ],
+        "listenFor": [
+          "L’espace entre les premières phrases de I Waited for You.",
+          "Le passage de la voix à la trompette dans But Not for Me.",
+          "La manière dont la contrebasse entretient le mouvement sans rompre la délicatesse de l’ensemble."
+        ],
+        "entryPoint": {
+          "title": "I Waited for You",
+          "reason": "Pas nécessairement parce qu’il s’agit du meilleur morceau, mais parce qu’il présente d’emblée le son ouvert et sans batterie qui définit l’album."
+        }
+      },
+      "sources": [
+        {
+          "name": {
+            "es": "AllMusic",
+            "en": "AllMusic",
+            "fr": "AllMusic"
+          },
+          "url": "https://www.allmusic.com/album/the-touch-of-your-lips-mw0000187664"
+        },
+        {
+          "name": {
+            "es": "Créditos de SteepleChase · Amoeba Music",
+            "en": "SteepleChase credits · Amoeba Music",
+            "fr": "Crédits SteepleChase · Amoeba Music"
+          },
+          "url": "https://www.amoeba.com/touch-of-your-lips-cd-chet-baker/albums/782093/"
+        },
+        {
+          "name": {
+            "es": "Apple Music",
+            "en": "Apple Music",
+            "fr": "Apple Music"
+          },
+          "url": "https://music.apple.com/es/album/the-touch-of-your-lips/159233558"
+        }
+      ]
+    },
     "recognition": {
       "type": "selection",
       "title": {

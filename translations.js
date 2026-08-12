@@ -7,7 +7,8 @@ window.TLG_TRANSLATIONS = {
     accessibility: {
       mainNavigation: "Navegación principal",
       recommendationType: "Tipo de recomendación",
-      recognitionSource: "Abrir la fuente del reconocimiento"
+      recognitionSource: "Abrir la fuente del reconocimiento",
+      closeListeningNote: "Cerrar nota de escucha"
     },
 
     nav: {
@@ -51,7 +52,16 @@ window.TLG_TRANSLATIONS = {
       ranking: "N.º {rank} en {title}",
       chart: "N.º {rank} en {title}",
       award: "Premio: {title}",
-      selection: "Incluido en {title}"
+      selection: "Incluido en {title}",
+      listeningNoteButton: "Leer nota de escucha · {minutes} min"
+    },
+
+    editorial: {
+      eyebrow: "Nota de escucha",
+      readTime: "{minutes} min de lectura",
+      listenFor: "Escucha con atención",
+      entryPoint: "Punto de entrada",
+      sources: "Fuentes"
     },
 
     collection: {
@@ -88,7 +98,8 @@ window.TLG_TRANSLATIONS = {
     accessibility: {
       mainNavigation: "Main navigation",
       recommendationType: "Recommendation type",
-      recognitionSource: "Open the recognition source"
+      recognitionSource: "Open the recognition source",
+      closeListeningNote: "Close listening notes"
     },
 
     nav: {
@@ -132,7 +143,16 @@ window.TLG_TRANSLATIONS = {
       ranking: "No. {rank} in {title}",
       chart: "No. {rank} on {title}",
       award: "Winner: {title}",
-      selection: "Included in {title}"
+      selection: "Included in {title}",
+      listeningNoteButton: "Read listening notes · {minutes} min"
+    },
+
+    editorial: {
+      eyebrow: "Listening notes",
+      readTime: "{minutes} min read",
+      listenFor: "Listen for",
+      entryPoint: "Entry point",
+      sources: "Sources"
     },
 
     collection: {
@@ -169,7 +189,8 @@ window.TLG_TRANSLATIONS = {
     accessibility: {
       mainNavigation: "Navigation principale",
       recommendationType: "Type de recommandation",
-      recognitionSource: "Ouvrir la source de cette distinction"
+      recognitionSource: "Ouvrir la source de cette distinction",
+      closeListeningNote: "Fermer la note d’écoute"
     },
 
     nav: {
@@ -213,7 +234,16 @@ window.TLG_TRANSLATIONS = {
       ranking: "N° {rank} dans {title}",
       chart: "N° {rank} du {title}",
       award: "Prix : {title}",
-      selection: "Sélection de {title}"
+      selection: "Sélection de {title}",
+      listeningNoteButton: "Lire la note d’écoute · {minutes} min"
+    },
+
+    editorial: {
+      eyebrow: "Note d’écoute",
+      readTime: "{minutes} min de lecture",
+      listenFor: "À écouter attentivement",
+      entryPoint: "Point de départ",
+      sources: "Sources"
     },
 
     collection: {
