@@ -15,7 +15,19 @@
     "description": {
       "es": "Uno de los planos fundamentales sobre los que se construyó el rock.",
       "en": "One of the fundamental blueprints upon which rock was built.",
-      "fr": "L’un des plans fondamentaux sur lesquels le rock s’est construit."
+      "fr": "L’un des morceaux fondateurs du rock."
+    },
+    "recognition": {
+      "type": "ranking",
+      "rank": 33,
+      "title": {
+        "es": "Las 500 mejores canciones de todos los tiempos",
+        "en": "The 500 Greatest Songs of All Time",
+        "fr": "Les 500 plus grandes chansons de tous les temps"
+      },
+      "source": "Rolling Stone",
+      "year": 2021,
+      "url": "https://www.rollingstone.com/music/music-lists/best-songs-of-all-time-1224767/"
     }
   },
   {
@@ -34,7 +46,19 @@
     "description": {
       "es": "Una entrada de batería inolvidable y una producción que definió una época.",
       "en": "An unforgettable drum intro and production that defined an era.",
-      "fr": "Une introduction de batterie inoubliable et une production qui a défini une époque."
+      "fr": "Une introduction à la batterie inoubliable et une production qui a défini une époque."
+    },
+    "recognition": {
+      "type": "ranking",
+      "rank": 22,
+      "title": {
+        "es": "Las 500 mejores canciones de todos los tiempos",
+        "en": "The 500 Greatest Songs of All Time",
+        "fr": "Les 500 plus grandes chansons de tous les temps"
+      },
+      "source": "Rolling Stone",
+      "year": 2021,
+      "url": "https://www.rollingstone.com/music/music-lists/best-songs-of-all-time-1224767/"
     }
   },
   {
@@ -53,7 +77,19 @@
     "description": {
       "es": "Pop de enorme sofisticación convertido en una declaración sencilla.",
       "en": "Highly sophisticated pop transformed into a simple declaration.",
-      "fr": "Une pop d’une grande sophistication transformée en déclaration simple."
+      "fr": "Une pop sophistiquée ramenée à une déclaration d’une simplicité désarmante."
+    },
+    "recognition": {
+      "type": "ranking",
+      "rank": 11,
+      "title": {
+        "es": "Las 500 mejores canciones de todos los tiempos",
+        "en": "The 500 Greatest Songs of All Time",
+        "fr": "Les 500 plus grandes chansons de tous les temps"
+      },
+      "source": "Rolling Stone",
+      "year": 2021,
+      "url": "https://www.rollingstone.com/music/music-lists/best-songs-of-all-time-1224767/"
     }
   },
   {
@@ -73,6 +109,18 @@
       "es": "Una pregunta política expresada con calidez, compasión y elegancia.",
       "en": "A political question expressed with warmth, compassion and elegance.",
       "fr": "Une question politique exprimée avec chaleur, compassion et élégance."
+    },
+    "recognition": {
+      "type": "ranking",
+      "rank": 6,
+      "title": {
+        "es": "Las 500 mejores canciones de todos los tiempos",
+        "en": "The 500 Greatest Songs of All Time",
+        "fr": "Les 500 plus grandes chansons de tous les temps"
+      },
+      "source": "Rolling Stone",
+      "year": 2021,
+      "url": "https://www.rollingstone.com/music/music-lists/best-songs-of-all-time-1224767/"
     }
   },
   {
@@ -92,6 +140,18 @@
       "es": "El punto de encuentro entre el post-punk, las máquinas y la pista de baile.",
       "en": "The meeting point between post-punk, machines and the dance floor.",
       "fr": "Le point de rencontre entre le post-punk, les machines et la piste de danse."
+    },
+    "recognition": {
+      "type": "ranking",
+      "rank": 234,
+      "title": {
+        "es": "Las 500 mejores canciones de todos los tiempos",
+        "en": "The 500 Greatest Songs of All Time",
+        "fr": "Les 500 plus grandes chansons de tous les temps"
+      },
+      "source": "Rolling Stone",
+      "year": 2021,
+      "url": "https://www.rollingstone.com/music/music-lists/best-songs-of-all-time-1224767/"
     }
   },
   {
@@ -111,6 +171,18 @@
       "es": "Una historia de clase social que crece hasta convertirse en un himno.",
       "en": "A story about social class that grows into an anthem.",
       "fr": "Une histoire de classe sociale qui grandit jusqu’à devenir un hymne."
+    },
+    "recognition": {
+      "type": "ranking",
+      "rank": 75,
+      "title": {
+        "es": "Las 500 mejores canciones de todos los tiempos",
+        "en": "The 500 Greatest Songs of All Time",
+        "fr": "Les 500 plus grandes chansons de tous les temps"
+      },
+      "source": "Rolling Stone",
+      "year": 2021,
+      "url": "https://www.rollingstone.com/music/music-lists/best-songs-of-all-time-1224767/"
     }
   },
   {
@@ -129,7 +201,19 @@
     "description": {
       "es": "Una celebración de resistencia y alegría convertida en canto colectivo.",
       "en": "A celebration of resilience and joy transformed into a collective song.",
-      "fr": "Une célébration de la résistance et de la joie devenue chant collectif."
+      "fr": "Une célébration de la résilience et de la joie, devenue un hymne collectif."
+    },
+    "recognition": {
+      "type": "ranking",
+      "rank": 439,
+      "title": {
+        "es": "Las 500 mejores canciones de todos los tiempos",
+        "en": "The 500 Greatest Songs of All Time",
+        "fr": "Les 500 plus grandes chansons de tous les temps"
+      },
+      "source": "Rolling Stone",
+      "year": 2021,
+      "url": "https://www.rollingstone.com/music/music-lists/best-songs-of-all-time-1224767/"
     }
   },
   {
@@ -149,6 +233,18 @@
       "es": "Nostalgia, tecnología y romanticismo dentro de una canción pop perfecta.",
       "en": "Nostalgia, technology and romance inside a perfect pop song.",
       "fr": "Nostalgie, technologie et romantisme dans une chanson pop parfaite."
+    },
+    "recognition": {
+      "type": "ranking",
+      "rank": 23,
+      "title": {
+        "es": "Las 500 mejores canciones de los años 2000",
+        "en": "The Top 500 Tracks of the 2000s",
+        "fr": "Les 500 meilleurs morceaux des années 2000"
+      },
+      "source": "Pitchfork",
+      "year": 2009,
+      "url": "https://pitchfork.com/features/lists-and-guides/7693-the-top-500-tracks-of-the-2000s-20-1/"
     }
   },
   {
@@ -167,7 +263,19 @@
     "description": {
       "es": "Sintetizadores, guitarras y energía reunidas en tres minutos de pop preciso.",
       "en": "Synths, guitars and energy condensed into three minutes of precise pop.",
-      "fr": "Synthétiseurs, guitares et énergie réunis dans trois minutes de pop précise."
+      "fr": "Synthétiseurs, guitares et énergie réunis en trois minutes de pop ciselée."
+    },
+    "recognition": {
+      "type": "chart",
+      "rank": 1,
+      "title": {
+        "es": "Lista Alternative Songs",
+        "en": "Alternative Songs chart",
+        "fr": "Classement Alternative Songs"
+      },
+      "source": "Billboard",
+      "year": 2010,
+      "url": "https://www.billboard.com/music/rock/daniel-glass-phoenix-1901-billboard-moment-8504810/"
     }
   },
   {
@@ -186,7 +294,18 @@
     "description": {
       "es": "Una canción de supervivencia personal que se convirtió en protesta colectiva.",
       "en": "A song of personal survival that became a collective protest.",
-      "fr": "Une chanson de survie personnelle devenue une protestation collective."
+      "fr": "Une chanson de survie personnelle devenue un hymne collectif de protestation."
+    },
+    "recognition": {
+      "type": "award",
+      "title": {
+        "es": "Mejor canción de rap",
+        "en": "Best Rap Song",
+        "fr": "Meilleure chanson rap"
+      },
+      "source": "Grammy Awards",
+      "year": 2016,
+      "url": "https://www.grammy.com/awards/categories/best-rap-song/"
     }
   }
 ]

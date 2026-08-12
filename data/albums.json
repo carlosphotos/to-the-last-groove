@@ -15,7 +15,18 @@
     "description": {
       "es": "Una escucha íntima, delicada y esencial.",
       "en": "An intimate, delicate and essential listen.",
-      "fr": "Une écoute intime, délicate et essentielle."
+      "fr": "Un album intime, délicat et incontournable."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Diez discos alternativos de Chet Baker para perderse",
+        "en": "Chet Baker: An Alternative Top Ten Albums to Get Lost In",
+        "fr": "Dix albums alternatifs de Chet Baker dans lesquels se perdre"
+      },
+      "source": "All About Jazz",
+      "year": 2020,
+      "url": "https://www.allaboutjazz.com/chet-baker-an-alternative-top-ten-albums-chet-baker"
     }
   },
   {
@@ -34,7 +45,19 @@
     "description": {
       "es": "Soul profundamente humano convertido en una obra continua.",
       "en": "Deeply human soul transformed into one continuous work.",
-      "fr": "Une soul profondément humaine transformée en œuvre continue."
+      "fr": "Une soul profondément humaine qui se déploie comme une œuvre continue."
+    },
+    "recognition": {
+      "type": "ranking",
+      "rank": 1,
+      "title": {
+        "es": "Los 500 mejores álbumes de todos los tiempos",
+        "en": "The 500 Greatest Albums of All Time",
+        "fr": "Les 500 plus grands albums de tous les temps"
+      },
+      "source": "Rolling Stone",
+      "year": 2023,
+      "url": "https://www.rollingstone.com/music/music-lists/best-albums-of-all-time-1062063/"
     }
   },
   {
@@ -54,6 +77,18 @@
       "es": "El sonido moderno imaginado mediante trenes, máquinas y precisión.",
       "en": "Modern sound imagined through trains, machines and precision.",
       "fr": "Le son moderne imaginé à travers les trains, les machines et la précision."
+    },
+    "recognition": {
+      "type": "ranking",
+      "rank": 238,
+      "title": {
+        "es": "Los 500 mejores álbumes de todos los tiempos",
+        "en": "The 500 Greatest Albums of All Time",
+        "fr": "Les 500 plus grands albums de tous les temps"
+      },
+      "source": "Rolling Stone",
+      "year": 2023,
+      "url": "https://www.rollingstone.com/music/music-lists/best-albums-of-all-time-1062063/"
     }
   },
   {
@@ -72,7 +107,19 @@
     "description": {
       "es": "Punk abierto al reggae, el soul y una ciudad al borde del colapso.",
       "en": "Punk opened up to reggae, soul and a city on the edge.",
-      "fr": "Un punk ouvert au reggae, à la soul et à une ville au bord du gouffre."
+      "fr": "Un album punk ouvert au reggae, à la soul et à une ville au bord du gouffre."
+    },
+    "recognition": {
+      "type": "ranking",
+      "rank": 16,
+      "title": {
+        "es": "Los 500 mejores álbumes de todos los tiempos",
+        "en": "The 500 Greatest Albums of All Time",
+        "fr": "Les 500 plus grands albums de tous les temps"
+      },
+      "source": "Rolling Stone",
+      "year": 2023,
+      "url": "https://www.rollingstone.com/music/music-lists/best-albums-of-all-time-1062063/"
     }
   },
   {
@@ -92,6 +139,18 @@
       "es": "Canciones confesionales con una claridad emocional extraordinaria.",
       "en": "Confessional songs with extraordinary emotional clarity.",
       "fr": "Des chansons confessionnelles d’une clarté émotionnelle extraordinaire."
+    },
+    "recognition": {
+      "type": "ranking",
+      "rank": 3,
+      "title": {
+        "es": "Los 500 mejores álbumes de todos los tiempos",
+        "en": "The 500 Greatest Albums of All Time",
+        "fr": "Les 500 plus grands albums de tous les temps"
+      },
+      "source": "Rolling Stone",
+      "year": 2023,
+      "url": "https://www.rollingstone.com/music/music-lists/best-albums-of-all-time-1062063/"
     }
   },
   {
@@ -111,6 +170,18 @@
       "es": "Guitarras convertidas en niebla, textura y melodía.",
       "en": "Guitars transformed into haze, texture and melody.",
       "fr": "Des guitares transformées en brume, en texture et en mélodie."
+    },
+    "recognition": {
+      "type": "ranking",
+      "rank": 1,
+      "title": {
+        "es": "Los 150 mejores álbumes de los noventa",
+        "en": "The 150 Best Albums of the 1990s",
+        "fr": "Les 150 meilleurs albums des années 1990"
+      },
+      "source": "Pitchfork",
+      "year": 2022,
+      "url": "https://pitchfork.com/features/lists-and-guides/the-best-albums-of-the-1990s/"
     }
   },
   {
@@ -129,7 +200,19 @@
     "description": {
       "es": "Una celebración futurista del pop, el disco y los recuerdos.",
       "en": "A futuristic celebration of pop, disco and memory.",
-      "fr": "Une célébration futuriste de la pop, du disco et de la mémoire."
+      "fr": "Une célébration futuriste de la pop, du disco et des souvenirs."
+    },
+    "recognition": {
+      "type": "ranking",
+      "rank": 236,
+      "title": {
+        "es": "Los 500 mejores álbumes de todos los tiempos",
+        "en": "The 500 Greatest Albums of All Time",
+        "fr": "Les 500 plus grands albums de tous les temps"
+      },
+      "source": "Rolling Stone",
+      "year": 2023,
+      "url": "https://www.rollingstone.com/music/music-lists/best-albums-of-all-time-1062063/"
     }
   },
   {
@@ -149,6 +232,17 @@
       "es": "Pop elegante y preciso en el que cada canción parece inevitable.",
       "en": "Elegant, precise pop where every song feels inevitable.",
       "fr": "Une pop élégante et précise où chaque chanson semble inévitable."
+    },
+    "recognition": {
+      "type": "award",
+      "title": {
+        "es": "Mejor álbum de música alternativa",
+        "en": "Best Alternative Music Album",
+        "fr": "Meilleur album de musique alternative"
+      },
+      "source": "Grammy Awards",
+      "year": 2010,
+      "url": "https://www.grammy.com/artists/phoenix/17695/"
     }
   },
   {
@@ -167,7 +261,18 @@
     "description": {
       "es": "Hip-hop, jazz y funk reunidos en una obra política y personal.",
       "en": "Hip-hop, jazz and funk united in a political and personal work.",
-      "fr": "Hip-hop, jazz et funk réunis dans une œuvre politique et personnelle."
+      "fr": "Le hip-hop, le jazz et le funk réunis dans une œuvre politique et personnelle."
+    },
+    "recognition": {
+      "type": "award",
+      "title": {
+        "es": "Mejor álbum de rap",
+        "en": "Best Rap Album",
+        "fr": "Meilleur album de rap"
+      },
+      "source": "Grammy Awards",
+      "year": 2016,
+      "url": "https://www.grammy.com/video/kendrick-lamar-to-pimp-a-butterfly-best-rap-album-win-speech-grammy-rewind/"
     }
   },
   {
@@ -186,7 +291,18 @@
     "description": {
       "es": "Tradición latinoamericana y composición contemporánea en equilibrio.",
       "en": "Latin American tradition and contemporary songwriting in balance.",
-      "fr": "La tradition latino-américaine et l’écriture contemporaine en équilibre."
+      "fr": "Un équilibre entre tradition latino-américaine et écriture contemporaine."
+    },
+    "recognition": {
+      "type": "award",
+      "title": {
+        "es": "Mejor álbum latino de rock, urbano o alternativo",
+        "en": "Best Latin Rock, Urban or Alternative Album",
+        "fr": "Meilleur album de rock, musique urbaine ou alternative latino"
+      },
+      "source": "Grammy Awards",
+      "year": 2016,
+      "url": "https://www.grammy.com/video/natalia-lafourcades-hasta-la-raiz-record/"
     }
   }
 ]

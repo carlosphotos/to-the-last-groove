@@ -2,6 +2,13 @@ window.TLG_TRANSLATIONS = {
   es: {
     code: "ES",
     locale: "es-MX",
+    metaDescription: "Descubre álbumes y canciones imprescindibles, una escucha a la vez.",
+
+    accessibility: {
+      mainNavigation: "Navegación principal",
+      recommendationType: "Tipo de recomendación",
+      recognitionSource: "Abrir la fuente del reconocimiento"
+    },
 
     nav: {
       discover: "Descubrir",
@@ -36,20 +43,39 @@ window.TLG_TRANSLATIONS = {
 
     recommendation: {
       essential: "★ Selección esencial",
-      listen: "▶ Escuchar",
+      listenOn: "Escuchar en",
       heard: "Ya lo escuché",
       saved: "Guardado",
-      another: "Dame otro"
+      another: "Dame otro",
+      recognitionEyebrow: "Por qué es imprescindible",
+      ranking: "N.º {rank} en {title}",
+      chart: "N.º {rank} en {title}",
+      award: "Premio: {title}",
+      selection: "Incluido en {title}"
     },
 
     collection: {
       eyebrow: "Tu historial musical",
       title: "Mi colección",
       empty: "Los discos que escuches aparecerán aquí.",
-      stamp: "Escuchado"
+      stamp: "Escuchado",
+      albumFormat: "Álbum",
+      singleFormat: "Single",
+      closeLabel: "Cerrar colección"
+    },
+
+    about: {
+      eyebrow: "Detrás de la colección",
+      title: "Una escucha puede llevarte a otra",
+      intro: "To the Last Groove nace de una idea sencilla: cuando toda la música está disponible, a veces solo hace falta una buena recomendación.",
+      body: "Elige entre álbumes y sencillos, filtra por década o género, o deja que el azar decida. Marca lo que escuchaste y cada elección pasará a formar parte de Mi colección.",
+      method: "Cada recomendación se apoya en listas editoriales, premios o archivos culturales. El reconocimiento mostrado incluye su fuente y edición.",
+      note: "Las portadas proceden de Cover Art Archive. Los botones de escucha abren búsquedas en Spotify, Apple Music y YouTube Music; este proyecto no está afiliado a esas plataformas.",
+      closeLabel: "Cerrar acerca de"
     },
 
     footer: {
+      about: "Acerca de",
       phrase: "Escucha hasta el último surco."
     }
   },
@@ -57,6 +83,13 @@ window.TLG_TRANSLATIONS = {
   en: {
     code: "EN",
     locale: "en-US",
+    metaDescription: "Discover essential albums and songs, one listen at a time.",
+
+    accessibility: {
+      mainNavigation: "Main navigation",
+      recommendationType: "Recommendation type",
+      recognitionSource: "Open the recognition source"
+    },
 
     nav: {
       discover: "Discover",
@@ -91,20 +124,39 @@ window.TLG_TRANSLATIONS = {
 
     recommendation: {
       essential: "★ Essential pick",
-      listen: "▶ Listen",
+      listenOn: "Listen on",
       heard: "I’ve heard it",
       saved: "Saved",
-      another: "Give me another"
+      another: "Give me another",
+      recognitionEyebrow: "Why it’s essential",
+      ranking: "No. {rank} in {title}",
+      chart: "No. {rank} on {title}",
+      award: "Winner: {title}",
+      selection: "Included in {title}"
     },
 
     collection: {
       eyebrow: "Your listening history",
       title: "My Crate",
       empty: "The records you hear will appear here.",
-      stamp: "Played"
+      stamp: "Played",
+      albumFormat: "Album",
+      singleFormat: "Single",
+      closeLabel: "Close collection"
+    },
+
+    about: {
+      eyebrow: "Behind the collection",
+      title: "One listen can lead to another",
+      intro: "To the Last Groove began with a simple idea: when all music is available, sometimes all you need is one good recommendation.",
+      body: "Choose between albums and singles, filter by decade or genre, or let chance decide. Mark what you have heard and each selection will become part of My Crate.",
+      method: "Every recommendation is supported by editorial lists, awards or cultural archives. The recognition shown includes its source and edition.",
+      note: "Cover artwork comes from Cover Art Archive. The listening buttons open searches on Spotify, Apple Music and YouTube Music; this project is not affiliated with those platforms.",
+      closeLabel: "Close about"
     },
 
     footer: {
+      about: "About",
       phrase: "Listen to the last groove."
     }
   },
@@ -112,6 +164,13 @@ window.TLG_TRANSLATIONS = {
   fr: {
     code: "FR",
     locale: "fr-FR",
+    metaDescription: "Découvrez les albums et morceaux incontournables, une écoute à la fois.",
+
+    accessibility: {
+      mainNavigation: "Navigation principale",
+      recommendationType: "Type de recommandation",
+      recognitionSource: "Ouvrir la source de cette distinction"
+    },
 
     nav: {
       discover: "Découvrir",
@@ -120,16 +179,16 @@ window.TLG_TRANSLATIONS = {
     },
 
     discovery: {
-      eyebrow: "La musique essentielle, une écoute à la fois",
-      question: "Que voulez-vous écouter ?",
+      eyebrow: "Les incontournables de la musique, une écoute à la fois",
+      question: "Qu’avez-vous envie d’écouter ?",
       album: "Album",
-      song: "Chanson",
+      song: "Morceau",
       surprise: "Surprenez-moi",
       decade: "Décennie",
       allDecades: "Toutes les décennies",
       genre: "Genre",
       allGenres: "Tous les genres",
-      button: "Chercher parmi les disques",
+      button: "Piocher parmi les disques",
       noResults: "Aucun résultat ne correspond à ces filtres."
     },
 
@@ -145,21 +204,40 @@ window.TLG_TRANSLATIONS = {
     },
 
     recommendation: {
-      essential: "★ Sélection essentielle",
-      listen: "▶ Écouter",
+      essential: "★ Sélection incontournable",
+      listenOn: "Écouter sur",
       heard: "Je l’ai écouté",
-      saved: "Enregistré",
-      another: "Un autre"
+      saved: "Ajouté à la collection",
+      another: "Une autre recommandation",
+      recognitionEyebrow: "Pourquoi c’est incontournable",
+      ranking: "N° {rank} dans {title}",
+      chart: "N° {rank} du {title}",
+      award: "Prix : {title}",
+      selection: "Sélection de {title}"
     },
 
     collection: {
       eyebrow: "Votre historique d’écoute",
       title: "Ma collection",
-      empty: "Les disques écoutés apparaîtront ici.",
-      stamp: "Écouté"
+      empty: "Les albums et les singles que vous aurez écoutés apparaîtront ici.",
+      stamp: "Écouté",
+      albumFormat: "Album",
+      singleFormat: "Single",
+      closeLabel: "Fermer la collection"
+    },
+
+    about: {
+      eyebrow: "Dans les coulisses de la collection",
+      title: "Une écoute peut en entraîner une autre",
+      intro: "To the Last Groove est né d’une idée simple : quand toute la musique est à portée de main, il suffit parfois d’une bonne recommandation.",
+      body: "Choisissez entre albums et singles, filtrez par décennie ou par genre, ou laissez faire le hasard. Indiquez ce que vous avez écouté : chaque sélection rejoindra votre collection.",
+      method: "Chaque recommandation s’appuie sur des classements éditoriaux, des prix ou des archives culturelles. La distinction affichée indique sa source et son édition.",
+      note: "Les pochettes proviennent de Cover Art Archive. Les boutons d’écoute ouvrent des recherches sur Spotify, Apple Music et YouTube Music ; ce projet n’est affilié à aucune de ces plateformes.",
+      closeLabel: "Fermer la section À propos"
     },
 
     footer: {
+      about: "À propos",
       phrase: "Écoutez jusqu’au dernier sillon."
     }
   }

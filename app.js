@@ -14,17 +14,26 @@ const state = {
   format: "album",
   records: [],
   current: null,
+  recommendationQueue: [],
   collection: getSavedCollection()
 };
 
+const coverPreloadImages = new Map();
+const maxPreloadedCovers = 50;
+const recommendationQueueSize = 3;
+let fixedStackScheduled = false;
+
 const elements = {
+  metaDescription: document.querySelector('meta[name="description"]'),
+  mainNav: document.querySelector(".main-nav"),
   navLinks: [...document.querySelectorAll(".nav-link")],
   languageOptions: [
-  ...document.querySelectorAll(".language-option")
-],
+    ...document.querySelectorAll(".language-option")
+  ],
 
   eyebrow: document.querySelector(".discovery-controls .eyebrow"),
   question: document.querySelector(".discovery-controls h1"),
+  formatSelector: document.querySelector(".format-selector"),
   formatButtons: [...document.querySelectorAll(".format-button")],
 
   filterLabels: [...document.querySelectorAll(".filter-field > span")],
@@ -49,8 +58,16 @@ const elements = {
   recommendationDescription: document.querySelector(
     "#recommendationDescription"
   ),
+  recognitionBlock: document.querySelector("#recognitionBlock"),
+  recognitionEyebrow: document.querySelector("#recognitionEyebrow"),
+  recognitionLink: document.querySelector("#recognitionLink"),
+  recognitionText: document.querySelector("#recognitionText"),
+  recognitionSource: document.querySelector("#recognitionSource"),
 
-  listenButton: document.querySelector("#listenButton"),
+  platformLabel: document.querySelector("#platformLabel"),
+  spotifyLink: document.querySelector("#spotifyLink"),
+  appleMusicLink: document.querySelector("#appleMusicLink"),
+  youtubeMusicLink: document.querySelector("#youtubeMusicLink"),
   heardButton: document.querySelector("#heardButton"),
   anotherButton: document.querySelector("#anotherButton"),
 
@@ -62,6 +79,18 @@ const elements = {
   collectionEyebrow: document.querySelector(".collection-header .eyebrow"),
   collectionTitle: document.querySelector(".collection-header h2"),
 
+  openAbout: document.querySelector("#openAbout"),
+  openAboutFooter: document.querySelector("#openAboutFooter"),
+  closeAbout: document.querySelector("#closeAbout"),
+  aboutDialog: document.querySelector("#aboutDialog"),
+  aboutEyebrow: document.querySelector("#aboutEyebrow"),
+  aboutTitle: document.querySelector("#aboutTitle"),
+  aboutIntro: document.querySelector("#aboutIntro"),
+  aboutBody: document.querySelector("#aboutBody"),
+  aboutMethod: document.querySelector("#aboutMethod"),
+  aboutNote: document.querySelector("#aboutNote"),
+
+  footerAbout: document.querySelector("#openAboutFooter"),
   footerPhrase: document.querySelector(".site-footer p:last-child")
 };
 
@@ -105,21 +134,30 @@ function applyTranslations() {
 
   document.documentElement.lang = state.language;
   document.title = "To the Last Groove";
+  elements.metaDescription.content = text.metaDescription;
+  elements.mainNav.setAttribute(
+    "aria-label",
+    text.accessibility.mainNavigation
+  );
+  elements.formatSelector.setAttribute(
+    "aria-label",
+    text.accessibility.recommendationType
+  );
 
   replaceDirectText(elements.navLinks[0], text.nav.discover);
   replaceDirectText(elements.navLinks[1], text.nav.collection);
   replaceDirectText(elements.navLinks[2], text.nav.about);
 
-elements.languageOptions.forEach((button) => {
-  const isActive =
-    button.dataset.language === state.language;
+  elements.languageOptions.forEach((button) => {
+    const isActive =
+      button.dataset.language === state.language;
 
-  button.classList.toggle("active", isActive);
-  button.setAttribute(
-    "aria-pressed",
-    String(isActive)
-  );
-});
+    button.classList.toggle("active", isActive);
+    button.setAttribute(
+      "aria-pressed",
+      String(isActive)
+    );
+  });
 
   elements.eyebrow.textContent = text.discovery.eyebrow;
   elements.question.textContent = text.discovery.question;
@@ -164,8 +202,8 @@ elements.languageOptions.forEach((button) => {
   elements.staffPick.textContent =
     text.recommendation.essential;
 
-  elements.listenButton.textContent =
-    text.recommendation.listen;
+  elements.platformLabel.textContent =
+    text.recommendation.listenOn;
 
   elements.anotherButton.textContent =
     text.recommendation.another;
@@ -175,6 +213,37 @@ elements.languageOptions.forEach((button) => {
 
   elements.collectionTitle.textContent =
     text.collection.title;
+
+  elements.closeCollection.setAttribute(
+    "aria-label",
+    text.collection.closeLabel
+  );
+
+  elements.aboutEyebrow.textContent =
+    text.about.eyebrow;
+
+  elements.aboutTitle.textContent =
+    text.about.title;
+
+  elements.aboutIntro.textContent =
+    text.about.intro;
+
+  elements.aboutBody.textContent =
+    text.about.body;
+
+  elements.aboutMethod.textContent =
+    text.about.method;
+
+  elements.aboutNote.textContent =
+    text.about.note;
+
+  elements.closeAbout.setAttribute(
+    "aria-label",
+    text.about.closeLabel
+  );
+
+  elements.footerAbout.textContent =
+    text.footer.about;
 
   elements.footerPhrase.textContent =
     text.footer.phrase;
@@ -198,6 +267,8 @@ async function loadCatalog() {
     const songs = await songResponse.json();
 
     state.records = [...albums, ...songs];
+
+    syncCollectionWithCatalog();
 
     chooseRecord(false);
   } catch (error) {
@@ -259,11 +330,15 @@ function chooseRecord(animate = true) {
     candidates = availableRecords;
   }
 
-  const randomIndex = Math.floor(
-    Math.random() * candidates.length
+  const queuedIndex = state.recommendationQueue.findIndex(
+    (queuedRecord) => candidates.some(
+      (candidate) => candidate.id === queuedRecord.id
+    )
   );
 
-  const selectedRecord = candidates[randomIndex];
+  const selectedRecord = queuedIndex >= 0
+    ? state.recommendationQueue.splice(queuedIndex, 1)[0]
+    : candidates[Math.floor(Math.random() * candidates.length)];
 
   if (animate && state.current) {
     elements.featuredRecord.classList.add("is-changing");
@@ -309,7 +384,7 @@ function renderRecommendation() {
   );
 
   renderCoverImage(record);
-  renderStackCovers(record);
+  renderRecognition(record);
 
   elements.recommendationTitle.textContent =
     record.title;
@@ -324,12 +399,71 @@ function renderRecommendation() {
     record.description[state.language] ||
     record.description.es;
 
-  elements.listenButton.href =
-    `https://music.youtube.com/search?q=${encodeURIComponent(
-      record.searchQuery
-    )}`;
+  const platformQuery = `${record.artist} ${record.title}`;
+  const encodedSearch = encodeURIComponent(platformQuery);
+  const accessibleTitle = `${record.title} — ${record.artist}`;
+
+  elements.spotifyLink.href =
+    `https://open.spotify.com/search/${encodedSearch}`;
+
+  elements.appleMusicLink.href =
+    `https://music.apple.com/search?term=${encodedSearch}`;
+
+  elements.youtubeMusicLink.href =
+    `https://music.youtube.com/search?q=${encodedSearch}`;
+
+  elements.spotifyLink.setAttribute(
+    "aria-label",
+    `${text.recommendation.listenOn} Spotify: ${accessibleTitle}`
+  );
+
+  elements.appleMusicLink.setAttribute(
+    "aria-label",
+    `${text.recommendation.listenOn} Apple Music: ${accessibleTitle}`
+  );
+
+  elements.youtubeMusicLink.setAttribute(
+    "aria-label",
+    `${text.recommendation.listenOn} YouTube Music: ${accessibleTitle}`
+  );
 
   updateHeardButton();
+}
+
+function renderRecognition(record) {
+  const recognition = record.recognition;
+  const text = getText();
+
+  if (!recognition?.url) {
+    elements.recognitionBlock.hidden = true;
+    return;
+  }
+
+  const localizedTitle =
+    recognition.title?.[state.language] ||
+    recognition.title?.es ||
+    recognition.title ||
+    "";
+
+  const template =
+    text.recommendation[recognition.type] ||
+    text.recommendation.selection;
+
+  const recognitionText = template
+    .replace("{rank}", recognition.rank ?? "")
+    .replace("{title}", localizedTitle);
+
+  elements.recognitionEyebrow.textContent =
+    text.recommendation.recognitionEyebrow;
+  elements.recognitionText.textContent = recognitionText;
+  elements.recognitionSource.textContent =
+    `${recognition.source} · ${recognition.year} ↗`;
+  elements.recognitionLink.href = recognition.url;
+  elements.recognitionLink.setAttribute(
+    "aria-label",
+    `${text.accessibility.recognitionSource}: ${recognitionText}, ${recognition.source}, ${recognition.year}`
+  );
+  elements.recognitionBlock.hidden = false;
 }
 
 function renderCoverImage(record) {
@@ -339,57 +473,163 @@ function renderCoverImage(record) {
   elements.coverImage.removeAttribute("src");
 
   if (!record.coverUrl) {
+    scheduleFixedStackCovers();
+    prepareRecommendationQueue();
     return;
   }
 
   const expectedUrl = record.coverUrl;
 
-  elements.coverImage.onload = () => {
-    if (elements.coverImage.src !== expectedUrl) {
-      return;
-    }
+  elements.coverArt.classList.add("is-loading");
 
-    elements.coverImage.alt = `${record.title} — ${record.artist}`;
-    elements.coverArt.classList.add("has-real-cover");
+  elements.coverImage.onload = () => {
+    const revealCover = () => {
+      if (elements.coverImage.src !== expectedUrl) {
+        return;
+      }
+
+      elements.coverImage.alt = `${record.title} — ${record.artist}`;
+      elements.coverArt.classList.remove("is-loading");
+      elements.coverArt.classList.add("has-real-cover");
+      scheduleFixedStackCovers();
+      prepareRecommendationQueue();
+    };
+
+    if (typeof elements.coverImage.decode === "function") {
+      elements.coverImage.decode()
+        .catch(() => {})
+        .finally(revealCover);
+    } else {
+      revealCover();
+    }
   };
 
   elements.coverImage.onerror = () => {
+    elements.coverArt.classList.remove("is-loading");
     elements.coverArt.classList.remove("has-real-cover");
     elements.coverImage.alt = "";
+    scheduleFixedStackCovers();
+    prepareRecommendationQueue();
   };
 
   elements.coverImage.src = record.coverUrl;
 }
 
-function renderStackCovers(currentRecord) {
-  const uniqueRecords = [...new Map(
-    state.records
-      .filter((record) =>
-        record.id !== currentRecord.id && record.coverUrl
-      )
-      .map((record) => [record.coverUrl, record])
-  ).values()];
+function hasDataSavingConnection() {
+  const connection =
+    navigator.connection ||
+    navigator.mozConnection ||
+    navigator.webkitConnection;
 
-  const shuffledRecords = uniqueRecords
-    .sort(() => Math.random() - 0.5)
-    .slice(0, elements.stackCovers.length);
+  return Boolean(
+    connection?.saveData ||
+    ["slow-2g", "2g"].includes(connection?.effectiveType)
+  );
+}
 
-  elements.stackCovers.forEach((image, index) => {
-    const stackRecord = shuffledRecords[index];
+function getCoverThumbnailUrl(coverUrl, size = 250) {
+  if (!coverUrl) {
+    return "";
+  }
+
+  return coverUrl.replace(
+    /\/front-(250|500|1200)(?=$|[?#])/,
+    `/front-${size}`
+  );
+}
+
+function scheduleIdleTask(callback, timeout = 1200) {
+  if ("requestIdleCallback" in window) {
+    window.requestIdleCallback(callback, { timeout });
+  } else {
+    window.setTimeout(callback, Math.min(timeout, 600));
+  }
+}
+
+function preloadCover(coverUrl) {
+  if (
+    !coverUrl ||
+    coverPreloadImages.has(coverUrl) ||
+    hasDataSavingConnection()
+  ) {
+    return;
+  }
+
+  const image = new Image();
+  image.decoding = "async";
+  image.fetchPriority = "low";
+  image.src = coverUrl;
+  coverPreloadImages.set(coverUrl, image);
+
+  if (coverPreloadImages.size > maxPreloadedCovers) {
+    const oldestUrl = coverPreloadImages.keys().next().value;
+    coverPreloadImages.delete(oldestUrl);
+  }
+}
+
+function prepareRecommendationQueue() {
+  if (!state.current || hasDataSavingConnection()) {
+    return;
+  }
+
+  const candidates = getFilteredRecords().filter(
+    (record) => record.id !== state.current.id
+  );
+  const candidateIds = new Set(
+    candidates.map((record) => record.id)
+  );
+
+  state.recommendationQueue = state.recommendationQueue.filter(
+    (record) => candidateIds.has(record.id)
+  );
+
+  const queuedIds = new Set(
+    state.recommendationQueue.map((record) => record.id)
+  );
+  const remainingCandidates = candidates.filter(
+    (record) => !queuedIds.has(record.id)
+  );
+
+  while (
+    state.recommendationQueue.length < recommendationQueueSize &&
+    remainingCandidates.length > 0
+  ) {
+    const randomIndex = Math.floor(
+      Math.random() * remainingCandidates.length
+    );
+    const [nextRecord] = remainingCandidates.splice(randomIndex, 1);
+
+    state.recommendationQueue.push(nextRecord);
+  }
+
+  state.recommendationQueue.forEach((record) => {
+    preloadCover(record.coverUrl);
+  });
+}
+
+function scheduleFixedStackCovers() {
+  if (fixedStackScheduled || state.records.length === 0) {
+    return;
+  }
+
+  fixedStackScheduled = true;
+  scheduleIdleTask(renderFixedStackCovers, 1600);
+}
+
+function renderFixedStackCovers() {
+  elements.stackCovers.forEach((image) => {
+    const stackRecord = state.records.find(
+      (record) => record.id === image.dataset.recordId
+    );
     const sleeve = image.parentElement;
 
-    image.hidden = true;
-    sleeve.classList.remove("has-real-cover");
-    image.onload = null;
-    image.onerror = null;
-    image.removeAttribute("src");
-
-    if (!stackRecord) {
+    if (!stackRecord?.coverUrl || image.dataset.loaded === "true") {
       return;
     }
 
     image.onload = () => {
       image.hidden = false;
+      image.dataset.loaded = "true";
       sleeve.classList.add("has-real-cover");
     };
 
@@ -398,7 +638,7 @@ function renderStackCovers(currentRecord) {
       sleeve.classList.remove("has-real-cover");
     };
 
-    image.src = stackRecord.coverUrl;
+    image.src = getCoverThumbnailUrl(stackRecord.coverUrl, 250);
   });
 }
 
@@ -450,6 +690,28 @@ function saveCurrentRecord() {
   renderCollection();
 }
 
+function syncCollectionWithCatalog() {
+  state.collection = state.collection.map((savedRecord) => {
+    const currentRecord = state.records.find(
+      (record) => record.id === savedRecord.id
+    );
+
+    return currentRecord
+      ? {
+          ...currentRecord,
+          listenedAt: savedRecord.listenedAt
+        }
+      : savedRecord;
+  });
+
+  localStorage.setItem(
+    "tlg-collection",
+    JSON.stringify(state.collection)
+  );
+
+  renderCollection();
+}
+
 function renderCollection() {
   const text = getText();
 
@@ -483,6 +745,9 @@ function renderCollection() {
 
     const localizedGenre =
       text.genres[record.genre] || record.genre;
+    const formatLabel = record.type === "album"
+      ? text.collection.albumFormat
+      : text.collection.singleFormat;
 
     item.className = "collection-item";
 
@@ -492,18 +757,60 @@ function renderCollection() {
         style="background-color:
           ${coverColors[record.coverClass] || "#2946a8"}"
       >
+        ${record.coverUrl ? `
+          <img
+            class="collection-cover-image"
+            src="${getCoverThumbnailUrl(record.coverUrl, 250)}"
+            alt=""
+            loading="lazy"
+            decoding="async"
+          >
+        ` : ""}
+
         <span class="played-stamp">
           ${text.collection.stamp} · ${formattedDate}
         </span>
 
-        <strong>${record.title}</strong>
+        <strong class="collection-cover-fallback">
+          ${record.title}
+        </strong>
       </div>
 
-      <p class="collection-meta">
-        <strong>${record.artist}</strong><br>
-        ${record.year} · ${localizedGenre}
-      </p>
+      <div class="collection-meta">
+        <span class="collection-format">${formatLabel}</span>
+        <strong class="collection-item-title">${record.title}</strong>
+        <span>${record.artist}</span>
+        <span>${record.year} · ${localizedGenre}</span>
+      </div>
     `;
+
+    const collectionCover = item.querySelector(
+      ".collection-cover"
+    );
+    const coverImage = item.querySelector(
+      ".collection-cover-image"
+    );
+
+    if (coverImage) {
+      const showRealCover = () => {
+        collectionCover.classList.add("has-real-cover");
+      };
+
+      const showFallbackCover = () => {
+        collectionCover.classList.remove("has-real-cover");
+      };
+
+      coverImage.addEventListener("load", showRealCover);
+      coverImage.addEventListener("error", showFallbackCover);
+
+      if (coverImage.complete) {
+        if (coverImage.naturalWidth > 0) {
+          showRealCover();
+        } else {
+          showFallbackCover();
+        }
+      }
+    }
 
     elements.collectionGrid.appendChild(item);
   });
@@ -577,6 +884,25 @@ elements.collectionDialog.addEventListener(
     }
   }
 );
+
+function openAboutDialog() {
+  if (!elements.aboutDialog.open) {
+    elements.aboutDialog.showModal();
+  }
+}
+
+elements.openAbout.addEventListener("click", openAboutDialog);
+elements.openAboutFooter.addEventListener("click", openAboutDialog);
+
+elements.closeAbout.addEventListener("click", () => {
+  elements.aboutDialog.close();
+});
+
+elements.aboutDialog.addEventListener("click", (event) => {
+  if (event.target === elements.aboutDialog) {
+    elements.aboutDialog.close();
+  }
+});
 
 elements.decadeFilter.addEventListener("change", () => {
   elements.filterMessage.textContent = "";

@@ -11,8 +11,11 @@
 
   <title>To the Last Groove</title>
 
+  <link rel="icon" href="favicon-vinyl.png?v=2" type="image/png" sizes="64x64">
+
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="preconnect" href="https://coverartarchive.org">
 
   <link
     href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700;800&family=Inter:wght@400;500;600;700&display=swap"
@@ -46,7 +49,7 @@
         <span class="collection-count" id="collectionCount">0</span>
       </button>
 
-      <button class="nav-link" type="button">
+      <button class="nav-link" id="openAbout" type="button">
         Acerca de
       </button>
     </nav>
@@ -166,19 +169,19 @@
         <div class="record-stage" id="recordStage">
           <div class="sleeve-stack" aria-hidden="true">
             <div class="back-sleeve sleeve-one">
-              <img class="stack-cover" alt="" decoding="async" hidden>
+              <img class="stack-cover" data-record-id="album-006" alt="" decoding="async" fetchpriority="low" hidden>
             </div>
             <div class="back-sleeve sleeve-two">
-              <img class="stack-cover" alt="" decoding="async" hidden>
+              <img class="stack-cover" data-record-id="album-005" alt="" decoding="async" fetchpriority="low" hidden>
             </div>
             <div class="back-sleeve sleeve-three">
-              <img class="stack-cover" alt="" decoding="async" hidden>
+              <img class="stack-cover" data-record-id="album-004" alt="" decoding="async" fetchpriority="low" hidden>
             </div>
             <div class="back-sleeve sleeve-four">
-              <img class="stack-cover" alt="" decoding="async" hidden>
+              <img class="stack-cover" data-record-id="album-008" alt="" decoding="async" fetchpriority="low" hidden>
             </div>
             <div class="back-sleeve sleeve-five">
-              <img class="stack-cover" alt="" decoding="async" hidden>
+              <img class="stack-cover" data-record-id="album-007" alt="" decoding="async" fetchpriority="low" hidden>
             </div>
           </div>
 
@@ -194,6 +197,7 @@
                   id="coverImage"
                   alt=""
                   decoding="async"
+                  fetchpriority="high"
                 >
                 <div class="cover-shape cover-shape-large"></div>
                 <div class="cover-shape cover-shape-small"></div>
@@ -230,17 +234,58 @@
             Una escucha íntima, delicada y esencial.
           </p>
 
-          <div class="recommendation-actions">
+          <div class="recognition-block" id="recognitionBlock" hidden>
+            <p class="recognition-eyebrow" id="recognitionEyebrow">
+              Por qué es imprescindible
+            </p>
+
             <a
-              class="listen-button"
-              id="listenButton"
-              href="https://music.youtube.com/search?q=Chet+Baker+The+Touch+of+Your+Lips"
+              class="recognition-link"
+              id="recognitionLink"
+              href="#"
               target="_blank"
               rel="noopener noreferrer"
             >
-              ▶ Escuchar
+              <strong id="recognitionText"></strong>
+              <span id="recognitionSource"></span>
+            </a>
+          </div>
+
+          <p class="platform-label" id="platformLabel">Escuchar en</p>
+
+          <div class="platform-links" aria-labelledby="platformLabel">
+            <a
+              class="platform-link"
+              id="spotifyLink"
+              href="https://open.spotify.com/search/Chet%20Baker%20The%20Touch%20of%20Your%20Lips"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              ● Spotify
             </a>
 
+            <a
+              class="platform-link"
+              id="appleMusicLink"
+              href="https://music.apple.com/search?term=Chet%20Baker%20The%20Touch%20of%20Your%20Lips"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              ♪ Apple Music
+            </a>
+
+            <a
+              class="platform-link"
+              id="youtubeMusicLink"
+              href="https://music.youtube.com/search?q=Chet%20Baker%20The%20Touch%20of%20Your%20Lips"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              ▶ YouTube Music
+            </a>
+          </div>
+
+          <div class="recommendation-actions">
             <button class="secondary-button" id="heardButton" type="button">
               Ya lo escuché
             </button>
@@ -278,8 +323,53 @@
     </div>
   </dialog>
 
+  <dialog class="about-dialog" id="aboutDialog">
+    <div class="about-header">
+      <div>
+        <p class="eyebrow" id="aboutEyebrow">Detrás de la colección</p>
+        <h2 id="aboutTitle">Una escucha puede llevarte a otra</h2>
+      </div>
+
+      <button
+        class="close-dialog"
+        id="closeAbout"
+        type="button"
+        aria-label="Cerrar acerca de"
+      >
+        ×
+      </button>
+    </div>
+
+    <div class="about-content">
+      <p class="about-lead" id="aboutIntro">
+        To the Last Groove nace de una idea sencilla: cuando toda la música
+        está disponible, a veces solo hace falta una buena recomendación.
+      </p>
+
+      <p id="aboutBody">
+        Elige entre álbumes y sencillos, filtra por década o género, o deja
+        que el azar decida. Marca lo que escuchaste y cada elección pasará a
+        formar parte de Mi colección.
+      </p>
+
+      <p id="aboutMethod">
+        Cada recomendación se apoya en listas editoriales, premios o archivos
+        culturales. El reconocimiento mostrado incluye su fuente y edición.
+      </p>
+
+      <p class="about-note" id="aboutNote">
+        Las portadas proceden de Cover Art Archive. Los botones de escucha
+        abren búsquedas en Spotify, Apple Music y YouTube Music; este proyecto
+        no está afiliado con esas plataformas.
+      </p>
+    </div>
+  </dialog>
+
   <footer class="site-footer">
     <p>To the Last Groove</p>
+    <button class="footer-about" id="openAboutFooter" type="button">
+      Acerca de
+    </button>
     <p>Escucha hasta el último surco.</p>
   </footer>
 

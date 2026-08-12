@@ -608,7 +608,7 @@ main {
   height: 100%;
   object-fit: cover;
   opacity: 0;
-  transition: opacity 220ms ease;
+  transition: opacity 320ms ease;
 }
 
 .cover-art.has-real-cover .cover-image {
@@ -820,22 +820,115 @@ main {
 }
 
 .recommendation-description {
-  margin: 16px 0 21px;
+  margin: 16px 0 0;
   font-family: Georgia, serif;
   font-size: 0.95rem;
   line-height: 1.5;
 }
 
+.recognition-block {
+  margin-top: 14px;
+  padding: 10px 12px 11px;
+  border-left: 3px solid var(--blue);
+  background: rgba(41, 70, 168, 0.06);
+}
+
+.recognition-block[hidden] {
+  display: none;
+}
+
+.recognition-eyebrow {
+  margin: 0 0 4px;
+  color: var(--blue);
+  font-family: var(--condensed);
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.recognition-link {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 2px;
+  color: inherit;
+  text-decoration: none;
+}
+
+.recognition-link strong {
+  font-family: var(--condensed);
+  font-size: 0.92rem;
+  line-height: 1.15;
+}
+
+.recognition-link span {
+  color: var(--muted);
+  font-size: 0.66rem;
+  line-height: 1.3;
+}
+
+.recognition-link:hover strong,
+.recognition-link:hover span {
+  color: var(--red);
+}
+
+.platform-label {
+  margin: 17px 0 7px;
+  color: var(--muted);
+  font-family: var(--condensed);
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+.platform-links {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 7px;
+}
+
+.platform-link {
+  min-height: 42px;
+  padding: 8px 5px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid var(--line);
+  color: var(--charcoal);
+  background: rgba(248, 245, 238, 0.72);
+  font-family: var(--condensed);
+  font-size: 0.82rem;
+  font-weight: 700;
+  line-height: 1;
+  text-align: center;
+  text-decoration: none;
+  white-space: nowrap;
+  transition:
+    color 160ms ease,
+    background 160ms ease,
+    border-color 160ms ease,
+    transform 160ms ease;
+}
+
+.platform-link:hover {
+  color: white;
+  background: var(--charcoal);
+  border-color: var(--charcoal);
+  transform: translateY(-1px);
+}
+
 .recommendation-actions {
+  margin-top: 14px;
   padding-top: 15px;
   display: grid;
-  grid-template-columns: auto auto auto;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
   align-items: center;
   gap: 12px;
   border-top: 1px solid var(--line);
 }
 
-.listen-button,
 .secondary-button,
 .text-button {
   min-height: 46px;
@@ -849,16 +942,6 @@ main {
   text-transform: uppercase;
   text-decoration: none;
   white-space: nowrap;
-}
-
-.listen-button {
-  padding: 10px 18px;
-  color: white;
-  background: var(--blue);
-}
-
-.listen-button:hover {
-  background: #1e3481;
 }
 
 .secondary-button,
@@ -969,21 +1052,68 @@ main {
   border: 14px solid currentColor;
   border-radius: 50%;
   opacity: 0.18;
+  transition: opacity 180ms ease;
 }
 
-.collection-cover strong {
+.collection-cover-image {
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  opacity: 0;
+  transition: opacity 180ms ease;
+}
+
+.collection-cover.has-real-cover::before {
+  opacity: 0;
+}
+
+.collection-cover.has-real-cover .collection-cover-image {
+  opacity: 1;
+}
+
+.collection-cover-fallback {
   position: relative;
   z-index: 2;
   font-family: var(--condensed);
   font-size: 1.4rem;
   line-height: 0.9;
   text-transform: uppercase;
+  transition: opacity 180ms ease;
+}
+
+.collection-cover.has-real-cover .collection-cover-fallback {
+  opacity: 0;
 }
 
 .collection-meta {
   margin: 10px 0 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 2px;
   font-size: 0.75rem;
   line-height: 1.45;
+}
+
+.collection-format {
+  margin-bottom: 3px;
+  padding: 2px 5px;
+  color: white;
+  background: var(--blue);
+  font-family: var(--condensed);
+  font-size: 0.65rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.collection-item-title {
+  font-family: var(--condensed);
+  font-size: 1rem;
+  line-height: 1.05;
 }
 
 .played-stamp {
@@ -1003,6 +1133,73 @@ main {
   transform: rotate(5deg);
 }
 
+/* Acerca de */
+
+.about-dialog {
+  width: min(720px, calc(100% - 40px));
+  max-height: 82vh;
+  padding: 0;
+  border: 1px solid var(--charcoal);
+  color: var(--charcoal);
+  background: var(--ivory);
+  box-shadow: 0 30px 80px rgba(0, 0, 0, 0.35);
+}
+
+.about-dialog::backdrop {
+  background: rgba(10, 10, 10, 0.68);
+  backdrop-filter: blur(4px);
+}
+
+.about-header {
+  padding: 28px 30px 24px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 28px;
+  border-bottom: 1px solid var(--line);
+}
+
+.about-header .eyebrow {
+  margin-bottom: 8px;
+}
+
+.about-header h2 {
+  max-width: 540px;
+  margin: 0;
+  font-family: var(--condensed);
+  font-size: clamp(2.7rem, 6vw, 4.35rem);
+  line-height: 0.92;
+  text-transform: none;
+}
+
+.about-content {
+  padding: 30px;
+}
+
+.about-content p {
+  max-width: 610px;
+  margin: 0;
+  line-height: 1.65;
+}
+
+.about-content p + p {
+  margin-top: 20px;
+}
+
+.about-lead {
+  padding-left: 18px;
+  border-left: 4px solid var(--red);
+  font-family: Georgia, serif;
+  font-size: 1.13rem;
+}
+
+.about-note {
+  padding-top: 18px;
+  border-top: 1px solid var(--line);
+  color: var(--muted);
+  font-size: 0.8rem;
+}
+
 /* Pie */
 
 .site-footer {
@@ -1018,6 +1215,26 @@ main {
   font-weight: 600;
   letter-spacing: 0.05em;
   text-transform: uppercase;
+}
+
+.site-footer p {
+  margin: 0;
+}
+
+.footer-about {
+  padding: 0;
+  border: 0;
+  border-bottom: 1px solid transparent;
+  color: inherit;
+  background: transparent;
+  font-family: inherit;
+  font-weight: inherit;
+  letter-spacing: inherit;
+}
+
+.footer-about:hover {
+  color: var(--red);
+  border-bottom-color: var(--red);
 }
 
 /* Adaptación */
@@ -1241,7 +1458,7 @@ main {
     grid-template-columns: 1fr;
   }
 
-  .listen-button,
+  .platform-link,
   .secondary-button,
   .text-button {
     width: 100%;
@@ -1249,6 +1466,24 @@ main {
 
   .site-footer {
     flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .about-dialog {
+    width: calc(100% - 26px);
+  }
+
+  .about-header {
+    padding: 23px 20px 20px;
+    gap: 16px;
+  }
+
+  .about-header h2 {
+    font-size: 2.65rem;
+  }
+
+  .about-content {
+    padding: 24px 20px;
   }
 }/* Corrección óptica de las dos O del logotipo */
 
@@ -1264,7 +1499,7 @@ main {
 .recommendation-card h2,
 .recommendation-artist,
 .recommendation-details,
-.listen-button,
+.platform-link,
 .secondary-button,
 .text-button,
 .collection-header h2,
