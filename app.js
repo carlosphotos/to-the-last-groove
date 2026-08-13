@@ -297,19 +297,35 @@ function applyTranslations() {
 
 async function loadCatalog() {
   try {
-    const [albumResponse, songResponse] = await Promise.all([
+    const [
+      albumResponse,
+      songResponse,
+      editorialResponse
+    ] = await Promise.all([
       fetch("data/albums.json"),
-      fetch("data/songs.json")
+      fetch("data/songs.json"),
+      fetch("data/editorial-notes.json")
     ]);
 
-    if (!albumResponse.ok || !songResponse.ok) {
+    if (
+      !albumResponse.ok ||
+      !songResponse.ok ||
+      !editorialResponse.ok
+    ) {
       throw new Error("No se pudieron cargar los archivos JSON.");
     }
 
     const albums = await albumResponse.json();
     const songs = await songResponse.json();
+    const editorialNotes = await editorialResponse.json();
+    const editorialById = new Map(
+      editorialNotes.map((note) => [note.id, note.editorial])
+    );
 
-    state.records = [...albums, ...songs];
+    state.records = [...albums, ...songs].map((record) => ({
+      ...record,
+      editorial: record.editorial || editorialById.get(record.id)
+    }));
 
     syncCollectionWithCatalog();
 
@@ -567,7 +583,9 @@ function renderListeningNote() {
   elements.listeningNoteListenForTitle.textContent =
     text.editorial.listenFor;
   elements.listeningNoteEntryTitle.textContent =
-    text.editorial.entryPoint;
+    state.current.type === "song"
+      ? text.editorial.keyMoment
+      : text.editorial.entryPoint;
   elements.listeningNoteSourcesTitle.textContent =
     text.editorial.sources;
 
@@ -594,10 +612,15 @@ function renderListeningNote() {
   });
 
   const entryTitle = content.entryPoint?.title || "";
+  const streamingTitle =
+    state.current.type === "song"
+      ? state.current.title
+      : entryTitle;
   const entryQuery = encodeURIComponent(
-    `${state.current.artist} ${entryTitle}`
+    `${state.current.artist} ${streamingTitle}`
   );
-  const entryDescription = `${entryTitle} — ${state.current.artist}`;
+  const entryDescription =
+    `${streamingTitle} — ${state.current.artist}`;
 
   elements.listeningNoteEntryTrack.textContent = entryTitle;
   elements.listeningNoteEntryReason.textContent =
