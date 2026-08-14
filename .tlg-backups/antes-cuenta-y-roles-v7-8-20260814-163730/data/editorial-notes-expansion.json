@@ -1,0 +1,462 @@
+[
+  {
+    "id": "album-011",
+    "editorial": {
+      "readTime": 1,
+      "headerPosition": "center",
+      "trackMentions": ["So What", "Blue in Green", "Flamenco Sketches"],
+      "es": {
+        "review": ["Kind of Blue hace que una transformación profunda parezca natural. En lugar de llenar cada compás con cambios armónicos, el grupo trabaja sobre espacios amplios: la trompeta de Miles Davis sugiere, los saxofones responden y la sección rítmica mantiene abierta la conversación. So What avanza con seguridad; Blue in Green y Flamenco Sketches muestran cuánto puede decir una frase cuando no tiene prisa."],
+        "listenFor": ["El intercambio entre la llamada del bajo y la respuesta de los instrumentos en So What.", "La diferencia de carácter entre los solos sin que el conjunto pierda unidad."],
+        "entryPoint": {"title": "So What", "reason": "Presenta el espacio modal, el pulso relajado y la conversación entre solistas que sostienen todo el álbum."}
+      },
+      "en": {
+        "review": ["Kind of Blue makes a profound transformation feel natural. Rather than filling every bar with harmonic changes, the group works across wide spaces: Miles Davis's trumpet suggests, the saxophones answer and the rhythm section keeps the conversation open. So What moves with assurance; Blue in Green and Flamenco Sketches reveal how much a phrase can say when it is in no hurry."],
+        "listenFor": ["The exchange between the bass call and the ensemble's response on So What.", "The distinct character of each solo without the group losing unity."],
+        "entryPoint": {"title": "So What", "reason": "It introduces the modal space, relaxed pulse and conversation among soloists that sustain the album."}
+      },
+      "fr": {
+        "review": ["Kind of Blue donne à une transformation profonde l'apparence de l'évidence. Au lieu de remplir chaque mesure de changements harmoniques, le groupe travaille dans de vastes espaces : la trompette de Miles Davis suggère, les saxophones répondent et la section rythmique maintient le dialogue ouvert. So What avance avec assurance ; Blue in Green et Flamenco Sketches révèlent tout ce qu'une phrase peut dire sans se presser."],
+        "listenFor": ["L'échange entre l'appel de la basse et la réponse de l'ensemble dans So What.", "Le caractère propre de chaque solo sans que le groupe perde son unité."],
+        "entryPoint": {"title": "So What", "reason": "Le morceau présente l'espace modal, le rythme détendu et le dialogue entre solistes qui portent l'album."}
+      }
+    }
+  },
+  {
+    "id": "album-012",
+    "editorial": {
+      "readTime": 1,
+      "headerPosition": "center",
+      "trackMentions": ["Acknowledgement", "Resolution", "Pursuance", "Psalm"],
+      "es": {
+        "review": ["A Love Supreme convierte una búsqueda espiritual en una suite de cuatro movimientos. El motivo de cuatro notas de Acknowledgement funciona como afirmación y punto de regreso; Resolution le da dirección, Pursuance libera la energía rítmica y Psalm termina como una oración interpretada sin palabras. La intensidad de John Coltrane no es exhibición: cada ascenso parece responder a una necesidad."],
+        "listenFor": ["Las distintas formas en que reaparece el motivo de cuatro notas.", "Cómo Elvin Jones aumenta la intensidad sin volver rígido el pulso."],
+        "entryPoint": {"title": "Acknowledgement", "reason": "Introduce el motivo central y permite escuchar cómo una idea sencilla adquiere dimensión colectiva y espiritual."}
+      },
+      "en": {
+        "review": ["A Love Supreme turns a spiritual search into a four-part suite. The four-note motif in Acknowledgement works as affirmation and point of return; Resolution gives it direction, Pursuance releases rhythmic energy and Psalm closes like a prayer performed without words. John Coltrane's intensity is not display: every ascent seems to answer a need."],
+        "listenFor": ["The different forms taken by the recurring four-note motif.", "How Elvin Jones increases intensity without making the pulse rigid."],
+        "entryPoint": {"title": "Acknowledgement", "reason": "It introduces the central motif and shows how a simple idea gains collective and spiritual dimension."}
+      },
+      "fr": {
+        "review": ["A Love Supreme transforme une quête spirituelle en suite de quatre mouvements. Le motif de quatre notes d'Acknowledgement agit comme affirmation et point de retour ; Resolution lui donne une direction, Pursuance libère l'énergie rythmique et Psalm s'achève comme une prière sans paroles. L'intensité de John Coltrane n'est pas une démonstration : chaque élévation semble répondre à une nécessité."],
+        "listenFor": ["Les différentes formes prises par le motif récurrent de quatre notes.", "La manière dont Elvin Jones intensifie le jeu sans rigidifier la pulsation."],
+        "entryPoint": {"title": "Acknowledgement", "reason": "Le morceau introduit le motif central et montre comment une idée simple acquiert une dimension collective et spirituelle."}
+      }
+    }
+  },
+  {
+    "id": "album-013",
+    "editorial": {
+      "readTime": 1,
+      "headerPosition": "center",
+      "trackMentions": ["Taxman", "Eleanor Rigby", "I'm Only Sleeping", "Tomorrow Never Knows"],
+      "es": {
+        "review": ["Revolver es el momento en que The Beatles dejan de tratar el estudio como un lugar que documenta canciones y empiezan a usarlo para inventarlas. Taxman abre con sequedad, Eleanor Rigby sustituye a la banda por cuerdas e I'm Only Sleeping altera la percepción del tiempo. Tomorrow Never Knows lleva esa lógica al extremo: repetición, cinta y voz crean un paisaje que todavía resulta extraño."],
+        "listenFor": ["Cómo cada canción propone un mundo sonoro distinto sin romper la secuencia.", "Los sonidos invertidos y las capas que entran y desaparecen en Tomorrow Never Knows."],
+        "entryPoint": {"title": "Tomorrow Never Knows", "reason": "Resume la ambición del disco: una canción sencilla transformada radicalmente por las posibilidades del estudio."}
+      },
+      "en": {
+        "review": ["Revolver is the moment when The Beatles stop treating the studio as a place that documents songs and begin using it to invent them. Taxman opens with dryness, Eleanor Rigby replaces the band with strings and I'm Only Sleeping alters the perception of time. Tomorrow Never Knows takes that logic furthest: repetition, tape and voice create a landscape that still sounds strange."],
+        "listenFor": ["How each song proposes a different sonic world without breaking the sequence.", "The reversed sounds and layers entering and disappearing on Tomorrow Never Knows."],
+        "entryPoint": {"title": "Tomorrow Never Knows", "reason": "It condenses the album's ambition: a simple song radically transformed by the possibilities of the studio."}
+      },
+      "fr": {
+        "review": ["Revolver marque le moment où The Beatles cessent de considérer le studio comme un lieu qui documente les chansons et commencent à s'en servir pour les inventer. Taxman s'ouvre avec sécheresse, Eleanor Rigby remplace le groupe par des cordes et I'm Only Sleeping modifie la perception du temps. Tomorrow Never Knows pousse cette logique au plus loin : répétition, bandes et voix créent un paysage toujours étrange."],
+        "listenFor": ["La manière dont chaque chanson propose un univers sonore différent sans rompre la séquence.", "Les sons inversés et les couches qui apparaissent puis disparaissent dans Tomorrow Never Knows."],
+        "entryPoint": {"title": "Tomorrow Never Knows", "reason": "Le morceau condense l'ambition de l'album : une chanson simple radicalement transformée par les possibilités du studio."}
+      }
+    }
+  },
+  {
+    "id": "album-014",
+    "editorial": {
+      "readTime": 1,
+      "headerPosition": "center",
+      "trackMentions": ["Gracias a la vida", "Volver a los 17", "Run Run se fue pa'l norte"],
+      "es": {
+        "review": ["Las últimas composiciones contiene canciones que parecen sencillas hasta que una frase cambia su significado. Violeta Parra observa el amor, la ausencia y la gratitud sin separar belleza de dolor. Gracias a la vida enumera dones mientras deja abierta la despedida; Volver a los 17 devuelve asombro al enamoramiento y Run Run se fue pa'l norte convierte la distancia en paisaje."],
+        "listenFor": ["La flexibilidad con que la voz se adelanta o se retrasa respecto del acompañamiento.", "Cómo las imágenes cotidianas adquieren peso emocional sin necesidad de explicaciones."],
+        "entryPoint": {"title": "Volver a los 17", "reason": "Su melodía circular y sus imágenes muestran la capacidad de Parra para volver universal una experiencia íntima."}
+      },
+      "en": {
+        "review": ["Las últimas composiciones contains songs that appear simple until a phrase changes their meaning. Violeta Parra observes love, absence and gratitude without separating beauty from pain. Gracias a la vida lists gifts while leaving farewell unresolved; Volver a los 17 restores wonder to love, and Run Run se fue pa'l norte turns distance into landscape."],
+        "listenFor": ["The flexibility with which the voice moves ahead of or behind the accompaniment.", "How everyday images gain emotional weight without requiring explanation."],
+        "entryPoint": {"title": "Volver a los 17", "reason": "Its circular melody and imagery show Parra's ability to make an intimate experience universal."}
+      },
+      "fr": {
+        "review": ["Las últimas composiciones réunit des chansons qui semblent simples jusqu'à ce qu'une phrase en modifie le sens. Violeta Parra observe l'amour, l'absence et la gratitude sans séparer la beauté de la douleur. Gracias a la vida énumère des dons tout en laissant l'adieu ouvert ; Volver a los 17 rend son émerveillement à l'amour et Run Run se fue pa'l norte transforme la distance en paysage."],
+        "listenFor": ["La souplesse avec laquelle la voix prend de l'avance ou du retard sur l'accompagnement.", "La manière dont les images quotidiennes acquièrent un poids émotionnel sans explication."],
+        "entryPoint": {"title": "Volver a los 17", "reason": "Sa mélodie circulaire et ses images montrent comment Parra rend universelle une expérience intime."}
+      }
+    }
+  },
+  {
+    "id": "album-015",
+    "editorial": {
+      "readTime": 1,
+      "headerPosition": "center",
+      "trackMentions": ["Respect", "I Never Loved a Man (The Way I Love You)", "Do Right Woman, Do Right Man", "Dr. Feelgood"],
+      "es": {
+        "review": ["I Never Loved a Man the Way I Love You encuentra el espacio exacto para Aretha Franklin: arreglos firmes que nunca compiten con su voz. Respect transforma el punto de vista de la canción original; I Never Loved a Man (The Way I Love You) y Dr. Feelgood dejan que el góspel, el deseo y la duda convivan. Do Right Woman, Do Right Man convierte la vulnerabilidad en una exigencia de igualdad."],
+        "listenFor": ["La relación entre el piano de Franklin y las respuestas de la banda.", "Cómo los coros amplían una frase sin restar autoridad a la voz principal."],
+        "entryPoint": {"title": "I Never Loved a Man (The Way I Love You)", "reason": "Muestra su dominio del tiempo: puede retrasar una frase y aumentar la tensión sin levantar la voz."}
+      },
+      "en": {
+        "review": ["I Never Loved a Man the Way I Love You finds the exact space for Aretha Franklin: firm arrangements that never compete with her voice. Respect shifts the original song's point of view; I Never Loved a Man (The Way I Love You) and Dr. Feelgood allow gospel, desire and doubt to coexist. Do Right Woman, Do Right Man turns vulnerability into a demand for equality."],
+        "listenFor": ["The relationship between Franklin's piano and the band's responses.", "How the backing voices expand a phrase without reducing the lead's authority."],
+        "entryPoint": {"title": "I Never Loved a Man (The Way I Love You)", "reason": "It shows her command of time: she can delay a phrase and increase tension without raising her voice."}
+      },
+      "fr": {
+        "review": ["I Never Loved a Man the Way I Love You offre à Aretha Franklin l'espace exact : des arrangements fermes qui ne rivalisent jamais avec sa voix. Respect déplace le point de vue de la chanson originale ; I Never Loved a Man (The Way I Love You) et Dr. Feelgood font coexister gospel, désir et doute. Do Right Woman, Do Right Man transforme la vulnérabilité en exigence d'égalité."],
+        "listenFor": ["La relation entre le piano de Franklin et les réponses du groupe.", "La façon dont les chœurs élargissent une phrase sans diminuer l'autorité de la voix principale."],
+        "entryPoint": {"title": "I Never Loved a Man (The Way I Love You)", "reason": "Le morceau révèle sa maîtrise du temps : elle retarde une phrase et augmente la tension sans hausser la voix."}
+      }
+    }
+  },
+  {
+    "id": "album-016",
+    "editorial": {
+      "readTime": 1,
+      "headerPosition": "center",
+      "trackMentions": ["Sunday Morning", "Venus in Furs", "All Tomorrow's Parties", "Heroin"],
+      "es": {
+        "review": ["The Velvet Underground & Nico coloca belleza y fricción dentro del mismo espacio. Sunday Morning parece delicada, pero Venus in Furs introduce repetición y amenaza; All Tomorrow's Parties convierte la distancia de Nico en parte del arreglo, y Heroin acelera y se desarma siguiendo la experiencia que narra. El disco no busca personajes ejemplares: observa deseo, aburrimiento y riesgo sin corregirlos."],
+        "listenFor": ["La viola y el pulso repetitivo que vuelven física a Venus in Furs.", "Los cambios de velocidad y volumen que organizan Heroin."],
+        "entryPoint": {"title": "Venus in Furs", "reason": "Presenta la mezcla decisiva de melodía, repetición, ruido y distancia emocional."}
+      },
+      "en": {
+        "review": ["The Velvet Underground & Nico places beauty and friction in the same space. Sunday Morning sounds delicate, but Venus in Furs introduces repetition and threat; All Tomorrow's Parties makes Nico's distance part of the arrangement, while Heroin accelerates and falls apart with the experience it describes. The album seeks no exemplary characters: it observes desire, boredom and risk without correcting them."],
+        "listenFor": ["The viola and repeating pulse that make Venus in Furs feel physical.", "The changes in speed and volume that organise Heroin."],
+        "entryPoint": {"title": "Venus in Furs", "reason": "It presents the defining mixture of melody, repetition, noise and emotional distance."}
+      },
+      "fr": {
+        "review": ["The Velvet Underground & Nico place beauté et friction dans un même espace. Sunday Morning paraît délicate, mais Venus in Furs introduit répétition et menace ; All Tomorrow's Parties fait de la distance de Nico une partie de l'arrangement, tandis que Heroin accélère et se désagrège au rythme de l'expérience racontée. L'album ne cherche aucun personnage exemplaire : il observe désir, ennui et risque sans les corriger."],
+        "listenFor": ["L'alto et la pulsation répétitive qui donnent une dimension physique à Venus in Furs.", "Les changements de vitesse et de volume qui structurent Heroin."],
+        "entryPoint": {"title": "Venus in Furs", "reason": "Le morceau présente le mélange essentiel de mélodie, répétition, bruit et distance émotionnelle."}
+      }
+    }
+  },
+  {
+    "id": "album-017",
+    "editorial": {
+      "readTime": 1,
+      "headerPosition": "center",
+      "trackMentions": ["Panis et Circencis", "A Minha Menina", "Bat Macumba"],
+      "es": {
+        "review": ["Os Mutantes trata la psicodelia como un laboratorio doméstico y una broma seria. Panis et Circencis cambia de escala, interrumpe su propio espectáculo y vuelve a empezar; A Minha Menina conserva un centro melódico entre guitarras ásperas, y Bat Macumba reduce el lenguaje hasta volverlo ritmo. La invención no borra la canción: la hace imprevisible."],
+        "listenFor": ["Los cortes y cambios de perspectiva dentro de Panis et Circencis.", "Cómo efectos, voces y percusión parecen objetos encontrados, pero forman un arreglo preciso."],
+        "entryPoint": {"title": "Panis et Circencis", "reason": "En pocos minutos reúne humor, melodía, montaje y una libertad sonora que define al grupo."}
+      },
+      "en": {
+        "review": ["Os Mutantes treats psychedelia as both a homemade laboratory and a serious joke. Panis et Circencis changes scale, interrupts its own spectacle and begins again; A Minha Menina keeps a melodic centre amid rough guitars, while Bat Macumba reduces language until it becomes rhythm. Invention does not erase the song: it makes it unpredictable."],
+        "listenFor": ["The cuts and shifts in perspective inside Panis et Circencis.", "How effects, voices and percussion resemble found objects yet form a precise arrangement."],
+        "entryPoint": {"title": "Panis et Circencis", "reason": "In a few minutes it combines humour, melody, montage and the sonic freedom that defines the group."}
+      },
+      "fr": {
+        "review": ["Os Mutantes traite la psychédélie comme un laboratoire domestique et une plaisanterie sérieuse. Panis et Circencis change d'échelle, interrompt son propre spectacle puis recommence ; A Minha Menina conserve un centre mélodique parmi les guitares rugueuses, tandis que Bat Macumba réduit le langage jusqu'à en faire un rythme. L'invention n'efface pas la chanson : elle la rend imprévisible."],
+        "listenFor": ["Les coupures et changements de perspective dans Panis et Circencis.", "La façon dont effets, voix et percussions ressemblent à des objets trouvés tout en formant un arrangement précis."],
+        "entryPoint": {"title": "Panis et Circencis", "reason": "En quelques minutes, le morceau réunit humour, mélodie, montage et la liberté sonore qui définit le groupe."}
+      }
+    }
+  },
+  {
+    "id": "album-018",
+    "editorial": {
+      "readTime": 1,
+      "headerPosition": "center",
+      "trackMentions": ["Chega de Saudade", "Desafinado", "Bim Bom"],
+      "es": {
+        "review": ["Chega de Saudade cambia la música brasileña reduciendo el gesto. João Gilberto canta cerca, sin dramatizar, mientras la guitarra distribuye ritmo y armonía con una precisión flexible. Chega de Saudade deja que la síncopa mueva una melodía serena; Desafinado convierte una aparente imperfección en identidad y Bim Bom demuestra que unas pocas sílabas bastan cuando el pulso ya cuenta la historia."],
+        "listenFor": ["La independencia entre la línea vocal y el patrón de guitarra.", "Los pequeños cambios de acento que impiden que la repetición se vuelva mecánica."],
+        "entryPoint": {"title": "Chega de Saudade", "reason": "Permite escuchar de inmediato cómo la guitarra crea movimiento mientras la voz conserva intimidad."}
+      },
+      "en": {
+        "review": ["Chega de Saudade changes Brazilian music by reducing the gesture. João Gilberto sings closely and without drama while the guitar distributes rhythm and harmony with flexible precision. Chega de Saudade lets syncopation move a serene melody; Desafinado turns apparent imperfection into identity, and Bim Bom proves that a few syllables are enough when the pulse already tells the story."],
+        "listenFor": ["The independence between the vocal line and the guitar pattern.", "The subtle changes of accent that keep repetition from becoming mechanical."],
+        "entryPoint": {"title": "Chega de Saudade", "reason": "It immediately reveals how the guitar creates movement while the voice preserves intimacy."}
+      },
+      "fr": {
+        "review": ["Chega de Saudade change la musique brésilienne en réduisant le geste. João Gilberto chante au plus près, sans dramatiser, tandis que la guitare répartit rythme et harmonie avec une précision souple. Chega de Saudade laisse la syncope déplacer une mélodie sereine ; Desafinado transforme l'imperfection apparente en identité et Bim Bom prouve que quelques syllabes suffisent lorsque la pulsation raconte déjà l'histoire."],
+        "listenFor": ["L'indépendance entre la ligne vocale et le motif de guitare.", "Les légers déplacements d'accent qui empêchent la répétition de devenir mécanique."],
+        "entryPoint": {"title": "Chega de Saudade", "reason": "Le morceau révèle immédiatement comment la guitare crée le mouvement tandis que la voix préserve l'intimité."}
+      }
+    }
+  },
+  {
+    "id": "album-019",
+    "editorial": {
+      "readTime": 1,
+      "headerPosition": "center",
+      "trackMentions": ["Tudo Que Você Podia Ser", "Cais", "O Trem Azul", "Clube da Esquina Nº 2"],
+      "es": {
+        "review": ["Clube da Esquina suena como una comunidad antes que como el proyecto de una sola figura. Milton Nascimento, Lô Borges y sus colaboradores cruzan armonía brasileña, rock, folk y jazz sin señalar las fronteras. Tudo Que Você Podia Ser abre el viaje; Cais parece surgir de la niebla, O Trem Azul lo pone en movimiento y Clube da Esquina Nº 2 convierte la memoria compartida en paisaje."],
+        "listenFor": ["La variedad de voces y cómo cada una modifica el color del conjunto.", "Las transiciones entre canciones íntimas y arreglos de gran amplitud."],
+        "entryPoint": {"title": "Tudo Que Você Podia Ser", "reason": "Su impulso, sus armonías y su sensación comunitaria presentan el mundo del álbum sin explicarlo."}
+      },
+      "en": {
+        "review": ["Clube da Esquina sounds like a community before it sounds like a single figure's project. Milton Nascimento, Lô Borges and their collaborators cross Brazilian harmony, rock, folk and jazz without marking the borders. Tudo Que Você Podia Ser begins the journey; Cais seems to emerge from mist, O Trem Azul sets it in motion and Clube da Esquina Nº 2 turns shared memory into landscape."],
+        "listenFor": ["The variety of voices and the way each changes the ensemble's colour.", "The transitions between intimate songs and arrangements of great breadth."],
+        "entryPoint": {"title": "Tudo Que Você Podia Ser", "reason": "Its momentum, harmonies and communal feeling introduce the album's world without explaining it."}
+      },
+      "fr": {
+        "review": ["Clube da Esquina sonne comme une communauté avant de ressembler au projet d'une seule figure. Milton Nascimento, Lô Borges et leurs collaborateurs croisent harmonie brésilienne, rock, folk et jazz sans en marquer les frontières. Tudo Que Você Podia Ser ouvre le voyage ; Cais semble surgir de la brume, O Trem Azul le met en mouvement et Clube da Esquina Nº 2 transforme la mémoire partagée en paysage."],
+        "listenFor": ["La diversité des voix et la manière dont chacune modifie la couleur de l'ensemble.", "Les transitions entre chansons intimes et arrangements de grande ampleur."],
+        "entryPoint": {"title": "Tudo Que Você Podia Ser", "reason": "Son élan, ses harmonies et son sentiment collectif présentent le monde de l'album sans l'expliquer."}
+      }
+    }
+  },
+  {
+    "id": "album-020",
+    "editorial": {
+      "readTime": 1,
+      "headerPosition": "center",
+      "trackMentions": ["Too High", "Living for the City", "Higher Ground", "All in Love Is Fair"],
+      "es": {
+        "review": ["Innervisions observa una sociedad desigual sin abandonar el placer del ritmo. Stevie Wonder controla voces, teclados y sintetizadores como partes de una misma narración. Too High es ligera y alarmante a la vez; Living for the City lleva una historia individual hacia una estructura social, Higher Ground convierte insistencia en impulso y All in Love Is Fair deja que la melodía cargue con la pérdida."],
+        "listenFor": ["Los bajos de sintetizador y la manera en que dirigen cada canción.", "Cómo Wonder cambia de personaje mediante timbre, registro y ritmo vocal."],
+        "entryPoint": {"title": "Living for the City", "reason": "Reúne relato, diseño sonoro y conciencia social sin separar la historia del groove."}
+      },
+      "en": {
+        "review": ["Innervisions observes an unequal society without abandoning rhythmic pleasure. Stevie Wonder controls voices, keyboards and synthesizers as parts of a single narrative. Too High is light and alarming at once; Living for the City moves an individual story toward a social structure, Higher Ground turns insistence into momentum and All in Love Is Fair lets melody carry loss."],
+        "listenFor": ["The synthesizer bass lines and how they direct each song.", "How Wonder changes character through timbre, register and vocal rhythm."],
+        "entryPoint": {"title": "Living for the City", "reason": "It joins storytelling, sound design and social awareness without separating the story from the groove."}
+      },
+      "fr": {
+        "review": ["Innervisions observe une société inégale sans abandonner le plaisir du rythme. Stevie Wonder contrôle voix, claviers et synthétiseurs comme les éléments d'un même récit. Too High est à la fois légère et alarmante ; Living for the City mène une histoire individuelle vers une structure sociale, Higher Ground transforme l'insistance en élan et All in Love Is Fair laisse la mélodie porter la perte."],
+        "listenFor": ["Les lignes de basse au synthétiseur et la manière dont elles dirigent chaque chanson.", "La façon dont Wonder change de personnage par le timbre, le registre et le rythme vocal."],
+        "entryPoint": {"title": "Living for the City", "reason": "Le morceau réunit récit, design sonore et conscience sociale sans séparer l'histoire du groove."}
+      }
+    }
+  },
+  {
+    "id": "album-021",
+    "editorial": {
+      "readTime": 1,
+      "headerPosition": "center",
+      "trackMentions": ["Deus lhe pague", "Cotidiano", "Construção"],
+      "es": {
+        "review": ["Construção utiliza estructura y repetición para revelar la violencia escondida en lo cotidiano. Chico Buarque reorganiza frases semejantes hasta cambiar el destino de un trabajador; los arreglos crecen como una ciudad que continúa alrededor de él. Deus lhe pague instala la tensión, Cotidiano encierra la vida en una rutina circular y Construção convierte la precisión verbal en impacto físico."],
+        "listenFor": ["Las palabras finales de cada verso y cómo alteran el sentido al intercambiarse.", "El crecimiento del arreglo orquestal hasta casi cubrir al narrador."],
+        "entryPoint": {"title": "Construção", "reason": "Su forma permite escuchar cómo gramática, ritmo y arreglo producen juntos la crítica social."}
+      },
+      "en": {
+        "review": ["Construção uses structure and repetition to reveal the violence hidden in daily life. Chico Buarque reorganises similar phrases until they change a worker's fate; the arrangements grow like a city continuing around him. Deus lhe pague establishes tension, Cotidiano traps life in a circular routine and Construção turns verbal precision into physical impact."],
+        "listenFor": ["The final words of each line and how exchanging them alters the meaning.", "The orchestral arrangement growing until it almost covers the narrator."],
+        "entryPoint": {"title": "Construção", "reason": "Its form reveals how grammar, rhythm and arrangement produce social criticism together."}
+      },
+      "fr": {
+        "review": ["Construção utilise structure et répétition pour révéler la violence cachée dans le quotidien. Chico Buarque réorganise des phrases semblables jusqu'à modifier le destin d'un travailleur ; les arrangements grandissent comme une ville qui poursuit sa course autour de lui. Deus lhe pague installe la tension, Cotidiano enferme la vie dans une routine circulaire et Construção transforme la précision verbale en impact physique."],
+        "listenFor": ["Les derniers mots de chaque vers et la façon dont leur permutation modifie le sens.", "La croissance de l'arrangement orchestral jusqu'à presque recouvrir le narrateur."],
+        "entryPoint": {"title": "Construção", "reason": "Sa forme montre comment grammaire, rythme et arrangement produisent ensemble la critique sociale."}
+      }
+    }
+  },
+  {
+    "id": "album-022",
+    "editorial": {
+      "readTime": 1,
+      "headerPosition": "center",
+      "trackMentions": ["Gloria", "Redondo Beach", "Birdland", "Land"],
+      "es": {
+        "review": ["Horses comienza apropiándose de una frase conocida y termina construyendo un lenguaje propio. En Gloria, Patti Smith transforma una canción de rock en manifiesto; Redondo Beach cruza ligereza rítmica y una historia oscura, Birdland deja que la recitación se convierta en visión y Land atraviesa varias formas sin perder tensión. La banda es austera para que las palabras puedan cambiar de dirección."],
+        "listenFor": ["El momento en que Gloria pasa de recitación a impulso de banda.", "Cómo la voz decide la duración y la intensidad de las secciones."],
+        "entryPoint": {"title": "Gloria", "reason": "La apertura muestra cómo Smith toma una forma heredada y la vuelve presencia, poesía y desafío."}
+      },
+      "en": {
+        "review": ["Horses begins by claiming a familiar phrase and ends by building a language of its own. On Gloria, Patti Smith turns a rock song into a manifesto; Redondo Beach crosses rhythmic lightness with a dark story, Birdland lets recitation become vision and Land passes through several forms without losing tension. The band stays spare so the words can change direction."],
+        "listenFor": ["The moment Gloria moves from recitation into the band's momentum.", "How the voice determines the length and intensity of each section."],
+        "entryPoint": {"title": "Gloria", "reason": "The opening shows Smith taking an inherited form and turning it into presence, poetry and defiance."}
+      },
+      "fr": {
+        "review": ["Horses commence par s'emparer d'une phrase connue et finit par construire son propre langage. Dans Gloria, Patti Smith transforme une chanson rock en manifeste ; Redondo Beach croise légèreté rythmique et récit sombre, Birdland laisse la récitation devenir vision et Land traverse plusieurs formes sans perdre sa tension. Le groupe reste dépouillé pour que les mots puissent changer de direction."],
+        "listenFor": ["Le moment où Gloria passe de la récitation à l'élan du groupe.", "La manière dont la voix détermine la durée et l'intensité des sections."],
+        "entryPoint": {"title": "Gloria", "reason": "L'ouverture montre comment Smith reprend une forme héritée et la transforme en présence, poésie et défi."}
+      }
+    }
+  },
+  {
+    "id": "album-023",
+    "editorial": {
+      "readTime": 1,
+      "headerPosition": "center",
+      "trackMentions": ["P. Funk (Wants to Get Funked Up)", "Mothership Connection (Star Child)", "Unfunky UFO", "Give Up the Funk (Tear the Roof off the Sucker)"],
+      "es": {
+        "review": ["Mothership Connection imagina que el funk llega desde otro planeta, pero su universo también habla de liberación aquí y ahora. P. Funk (Wants to Get Funked Up) abre la transmisión; Mothership Connection (Star Child) presenta su mitología, Unfunky UFO convierte la rareza en pertenencia y Give Up the Funk (Tear the Roof off the Sucker) hace del coro una experiencia colectiva."],
+        "listenFor": ["Las capas de bajo, guitarra, teclados y voces ocupando funciones rítmicas distintas.", "Cómo los coros convierten al oyente en participante del espectáculo."],
+        "entryPoint": {"title": "Mothership Connection (Star Child)", "reason": "Reúne relato cósmico, humor y un groove que avanza aun cuando el arreglo parece flotar."}
+      },
+      "en": {
+        "review": ["Mothership Connection imagines funk arriving from another planet, yet its universe also speaks about liberation here and now. P. Funk (Wants to Get Funked Up) opens the transmission; Mothership Connection (Star Child) presents its mythology, Unfunky UFO turns strangeness into belonging and Give Up the Funk (Tear the Roof off the Sucker) makes the chorus a collective experience."],
+        "listenFor": ["The layers of bass, guitar, keyboards and voices serving different rhythmic functions.", "How the choruses turn the listener into a participant in the spectacle."],
+        "entryPoint": {"title": "Mothership Connection (Star Child)", "reason": "It joins cosmic storytelling, humour and a groove that keeps moving even as the arrangement seems to float."}
+      },
+      "fr": {
+        "review": ["Mothership Connection imagine que le funk arrive d'une autre planète, mais son univers parle aussi de libération ici et maintenant. P. Funk (Wants to Get Funked Up) ouvre la transmission ; Mothership Connection (Star Child) présente sa mythologie, Unfunky UFO transforme l'étrangeté en appartenance et Give Up the Funk (Tear the Roof off the Sucker) fait du refrain une expérience collective."],
+        "listenFor": ["Les couches de basse, guitare, claviers et voix qui remplissent des fonctions rythmiques différentes.", "La manière dont les refrains font de l'auditeur un participant au spectacle."],
+        "entryPoint": {"title": "Mothership Connection (Star Child)", "reason": "Le morceau réunit récit cosmique, humour et groove qui avance même lorsque l'arrangement semble flotter."}
+      }
+    }
+  },
+  {
+    "id": "album-024",
+    "editorial": {
+      "readTime": 1,
+      "headerPosition": "center",
+      "trackMentions": ["Second Hand News", "Dreams", "Go Your Own Way", "The Chain"],
+      "es": {
+        "review": ["Rumours convierte relaciones fracturadas en una secuencia de canciones donde cada integrante sostiene su propia versión. Second Hand News usa ligereza para ocultar resentimiento; Dreams responde con distancia, Go Your Own Way vuelve el conflicto impulso físico y The Chain reúne por unos minutos a una banda emocionalmente separada. La precisión del sonido no borra la incomodidad: la vuelve más clara."],
+        "listenFor": ["Las armonías vocales diciendo unidad mientras las letras describen separación.", "La entrada del bajo en la segunda parte de The Chain y el cambio de tensión."],
+        "entryPoint": {"title": "The Chain", "reason": "Resume la paradoja del disco: cinco músicos divididos capaces de sonar como una sola fuerza."}
+      },
+      "en": {
+        "review": ["Rumours turns fractured relationships into a sequence of songs in which each member holds a different version. Second Hand News uses lightness to hide resentment; Dreams answers with distance, Go Your Own Way makes conflict physical momentum and The Chain briefly reunites an emotionally divided band. The precision of the sound does not erase discomfort: it makes it clearer."],
+        "listenFor": ["Vocal harmonies expressing unity while the lyrics describe separation.", "The bass entrance in the second half of The Chain and the shift in tension."],
+        "entryPoint": {"title": "The Chain", "reason": "It condenses the album's paradox: five divided musicians capable of sounding like a single force."}
+      },
+      "fr": {
+        "review": ["Rumours transforme des relations brisées en une suite de chansons où chaque membre défend sa propre version. Second Hand News utilise la légèreté pour cacher le ressentiment ; Dreams répond avec distance, Go Your Own Way fait du conflit un élan physique et The Chain réunit brièvement un groupe émotionnellement séparé. La précision du son n'efface pas le malaise : elle le rend plus clair."],
+        "listenFor": ["Les harmonies vocales qui expriment l'unité tandis que les paroles décrivent la séparation.", "L'entrée de la basse dans la seconde partie de The Chain et le changement de tension."],
+        "entryPoint": {"title": "The Chain", "reason": "Le morceau condense le paradoxe de l'album : cinq musiciens divisés capables de sonner comme une seule force."}
+      }
+    }
+  },
+  {
+    "id": "album-025",
+    "editorial": {
+      "readTime": 1,
+      "headerPosition": "center",
+      "trackMentions": ["Plástico", "Pedro Navaja", "Buscando Guayaba", "Siembra"],
+      "es": {
+        "review": ["Siembra amplía la salsa sin apartarla del baile. Willie Colón construye arreglos de trombones, piano y percusión capaces de sostener las historias de Rubén Blades. Plástico pasa de la apariencia a una idea de comunidad latinoamericana; Pedro Navaja administra el suspenso como cine, Buscando Guayaba encuentra humor en el estudio y Siembra cierra mirando hacia el futuro."],
+        "listenFor": ["Cómo los arreglos cambian de densidad para dejar espacio a la narración.", "La relación entre pregón, coro y respuesta instrumental."],
+        "entryPoint": {"title": "Plástico", "reason": "Su transformación musical y narrativa presenta la ambición social del álbum sin perder el impulso bailable."}
+      },
+      "en": {
+        "review": ["Siembra expands salsa without moving it away from dance. Willie Colón builds arrangements of trombones, piano and percussion able to sustain Rubén Blades's stories. Plástico moves from appearances toward an idea of Latin American community; Pedro Navaja manages suspense like cinema, Buscando Guayaba finds humour in the studio and Siembra closes by looking toward the future."],
+        "listenFor": ["How the arrangements change density to leave room for storytelling.", "The relationship among lead call, chorus and instrumental response."],
+        "entryPoint": {"title": "Plástico", "reason": "Its musical and narrative transformation presents the album's social ambition without losing dance momentum."}
+      },
+      "fr": {
+        "review": ["Siembra élargit la salsa sans l'éloigner de la danse. Willie Colón construit des arrangements de trombones, piano et percussions capables de porter les récits de Rubén Blades. Plástico passe des apparences à une idée de communauté latino-américaine ; Pedro Navaja gère le suspense comme au cinéma, Buscando Guayaba trouve l'humour dans le studio et Siembra s'achève en regardant vers l'avenir."],
+        "listenFor": ["La manière dont les arrangements changent de densité pour laisser place au récit.", "La relation entre appel du soliste, chœur et réponse instrumentale."],
+        "entryPoint": {"title": "Plástico", "reason": "Sa transformation musicale et narrative présente l'ambition sociale de l'album sans perdre l'élan dansant."}
+      }
+    }
+  },
+  {
+    "id": "album-026",
+    "editorial": {
+      "readTime": 1,
+      "headerPosition": "center",
+      "trackMentions": ["Hanging on the Telephone", "One Way or Another", "Picture This", "Heart of Glass"],
+      "es": {
+        "review": ["Parallel Lines demuestra que abrirse al pop no exige borrar la personalidad de una banda. Hanging on the Telephone conserva urgencia de club, One Way or Another convierte la obsesión en juego rítmico, Picture This encuentra espacio para la ternura y Heart of Glass lleva el desencanto hacia la pista de baile. Debbie Harry cambia de distancia y actitud sin perder el centro de cada canción."],
+        "listenFor": ["La economía de las guitarras y su relación con el pulso de batería.", "Los cambios de registro vocal, desde la ironía hasta la vulnerabilidad."],
+        "entryPoint": {"title": "Hanging on the Telephone", "reason": "Su entrada inmediata muestra la precisión, velocidad y claridad pop que organizan el disco."}
+      },
+      "en": {
+        "review": ["Parallel Lines proves that opening toward pop does not require erasing a band's personality. Hanging on the Telephone preserves club urgency, One Way or Another turns obsession into rhythmic play, Picture This leaves room for tenderness and Heart of Glass carries disillusionment to the dance floor. Debbie Harry changes distance and attitude without losing the centre of each song."],
+        "listenFor": ["The economy of the guitars and their relationship to the drum pulse.", "The changes of vocal register, from irony to vulnerability."],
+        "entryPoint": {"title": "Hanging on the Telephone", "reason": "Its immediate entrance shows the precision, speed and pop clarity organising the record."}
+      },
+      "fr": {
+        "review": ["Parallel Lines prouve que s'ouvrir à la pop n'oblige pas un groupe à effacer sa personnalité. Hanging on the Telephone conserve l'urgence du club, One Way or Another transforme l'obsession en jeu rythmique, Picture This laisse place à la tendresse et Heart of Glass conduit le désenchantement vers la piste de danse. Debbie Harry change de distance et d'attitude sans perdre le centre de chaque chanson."],
+        "listenFor": ["L'économie des guitares et leur relation avec la pulsation de la batterie.", "Les changements de registre vocal, de l'ironie à la vulnérabilité."],
+        "entryPoint": {"title": "Hanging on the Telephone", "reason": "Son entrée immédiate révèle la précision, la vitesse et la clarté pop qui organisent le disque."}
+      }
+    }
+  },
+  {
+    "id": "album-027",
+    "editorial": {
+      "readTime": 1,
+      "headerPosition": "center",
+      "trackMentions": ["Born Under Punches (The Heat Goes On)", "Crosseyed and Painless", "The Great Curve", "Once in a Lifetime"],
+      "es": {
+        "review": ["Remain in Light construye canciones como redes de patrones, no como una sucesión fija de acordes. Born Under Punches (The Heat Goes On) coloca la voz dentro del ritmo; Crosseyed and Painless convierte la información en ansiedad, The Great Curve acumula movimiento y Once in a Lifetime encuentra una pregunta existencial dentro de una frase repetida. El grupo funciona como un sistema de partes interdependientes."],
+        "listenFor": ["Las guitarras, voces y percusiones que entran como capas rítmicas equivalentes.", "Los pequeños desplazamientos que cambian un patrón sin detenerlo."],
+        "entryPoint": {"title": "Born Under Punches (The Heat Goes On)", "reason": "Desde el primer compás presenta la lógica colectiva y acumulativa que define al álbum."}
+      },
+      "en": {
+        "review": ["Remain in Light builds songs as networks of patterns rather than fixed chord sequences. Born Under Punches (The Heat Goes On) places the voice inside the rhythm; Crosseyed and Painless turns information into anxiety, The Great Curve accumulates motion and Once in a Lifetime finds an existential question inside a repeated phrase. The group works like a system of interdependent parts."],
+        "listenFor": ["Guitars, voices and percussion entering as equivalent rhythmic layers.", "The subtle displacements that change a pattern without stopping it."],
+        "entryPoint": {"title": "Born Under Punches (The Heat Goes On)", "reason": "From the opening bar it introduces the collective, accumulative logic defining the album."}
+      },
+      "fr": {
+        "review": ["Remain in Light construit les chansons comme des réseaux de motifs plutôt que comme des suites fixes d'accords. Born Under Punches (The Heat Goes On) place la voix dans le rythme ; Crosseyed and Painless transforme l'information en anxiété, The Great Curve accumule le mouvement et Once in a Lifetime trouve une question existentielle dans une phrase répétée. Le groupe fonctionne comme un système de parties interdépendantes."],
+        "listenFor": ["Les guitares, voix et percussions qui apparaissent comme des couches rythmiques équivalentes.", "Les légers déplacements qui modifient un motif sans l'arrêter."],
+        "entryPoint": {"title": "Born Under Punches (The Heat Goes On)", "reason": "Dès la première mesure, le morceau présente la logique collective et cumulative qui définit l'album."}
+      }
+    }
+  },
+  {
+    "id": "album-028",
+    "editorial": {
+      "readTime": 1,
+      "headerPosition": "center",
+      "trackMentions": ["Nos siguen pegando abajo", "No soy un extraño", "Los dinosaurios", "Ojos de video tape"],
+      "es": {
+        "review": ["Clics modernos observa la Argentina de la posdictadura mediante tecnología, ironía y melodías que evitan el discurso solemne. Nos siguen pegando abajo convierte violencia y ritmo en una contradicción incómoda; No soy un extraño mira la ciudad desde el desplazamiento, Los dinosaurios nombra la ausencia sin explicarla y Ojos de video tape termina con una intimidad que también pertenece a su época."],
+        "listenFor": ["Las cajas de ritmos y teclados dialogando con una escritura muy humana.", "Los cambios de tono con que Charly García pasa de la sátira a la vulnerabilidad."],
+        "entryPoint": {"title": "Nos siguen pegando abajo", "reason": "Su energía inmediata contiene ya la tensión política, el sonido moderno y la ironía del álbum."}
+      },
+      "en": {
+        "review": ["Clics modernos observes post-dictatorship Argentina through technology, irony and melodies that avoid solemn discourse. Nos siguen pegando abajo turns violence and rhythm into an uneasy contradiction; No soy un extraño views the city through displacement, Los dinosaurios names absence without explaining it and Ojos de video tape closes with an intimacy that also belongs to its time."],
+        "listenFor": ["Drum machines and keyboards in dialogue with deeply human writing.", "Charly García's changes of tone from satire to vulnerability."],
+        "entryPoint": {"title": "Nos siguen pegando abajo", "reason": "Its immediate energy already contains the album's political tension, modern sound and irony."}
+      },
+      "fr": {
+        "review": ["Clics modernos observe l'Argentine de l'après-dictature par la technologie, l'ironie et des mélodies qui évitent le discours solennel. Nos siguen pegando abajo transforme violence et rythme en contradiction inconfortable ; No soy un extraño regarde la ville depuis le déplacement, Los dinosaurios nomme l'absence sans l'expliquer et Ojos de video tape s'achève sur une intimité qui appartient aussi à son époque."],
+        "listenFor": ["Les boîtes à rythmes et claviers en dialogue avec une écriture profondément humaine.", "Les changements de ton par lesquels Charly García passe de la satire à la vulnérabilité."],
+        "entryPoint": {"title": "Nos siguen pegando abajo", "reason": "Son énergie immédiate contient déjà la tension politique, le son moderne et l'ironie de l'album."}
+      }
+    }
+  },
+  {
+    "id": "album-029",
+    "editorial": {
+      "readTime": 1,
+      "headerPosition": "center",
+      "trackMentions": ["Running Up That Hill (A Deal with God)", "Hounds of Love", "Cloudbusting", "Jig of Life"],
+      "es": {
+        "review": ["Hounds of Love equilibra dos modos de imaginar el pop. Running Up That Hill (A Deal with God), Hounds of Love y Cloudbusting convierten ideas extrañas en canciones inmediatas; la segunda mitad abandona el formato de sencillos y entra en una narración nocturna de miedo, agua y transformación. Jig of Life muestra cómo Kate Bush une percusión, tradición y tecnología sin establecer jerarquías."],
+        "listenFor": ["Las percusiones que dan peso físico a arreglos llenos de espacio.", "El paso de la primera mitad autónoma al flujo narrativo de la segunda."],
+        "entryPoint": {"title": "Cloudbusting", "reason": "Combina memoria, cuerdas, invención narrativa y un crecimiento emocional que nunca depende del exceso."}
+      },
+      "en": {
+        "review": ["Hounds of Love balances two ways of imagining pop. Running Up That Hill (A Deal with God), Hounds of Love and Cloudbusting turn unusual ideas into immediate songs; the second half abandons the singles format and enters a nocturnal narrative of fear, water and transformation. Jig of Life shows Kate Bush joining percussion, tradition and technology without placing them in a hierarchy."],
+        "listenFor": ["The percussion giving physical weight to arrangements full of space.", "The move from the self-contained first half into the narrative flow of the second."],
+        "entryPoint": {"title": "Cloudbusting", "reason": "It combines memory, strings, narrative invention and emotional growth that never relies on excess."}
+      },
+      "fr": {
+        "review": ["Hounds of Love équilibre deux manières d'imaginer la pop. Running Up That Hill (A Deal with God), Hounds of Love et Cloudbusting transforment des idées singulières en chansons immédiates ; la seconde moitié abandonne le format du single et entre dans un récit nocturne de peur, d'eau et de métamorphose. Jig of Life montre comment Kate Bush unit percussions, tradition et technologie sans les hiérarchiser."],
+        "listenFor": ["Les percussions qui donnent un poids physique à des arrangements pleins d'espace.", "Le passage de la première moitié autonome au flux narratif de la seconde."],
+        "entryPoint": {"title": "Cloudbusting", "reason": "Le morceau réunit mémoire, cordes, invention narrative et progression émotionnelle sans jamais dépendre de l'excès."}
+      }
+    }
+  },
+  {
+    "id": "album-030",
+    "editorial": {
+      "readTime": 1,
+      "headerPosition": "center",
+      "trackMentions": ["Sign o' the Times", "Housequake", "The Ballad of Dorothy Parker", "If I Was Your Girlfriend", "Adore"],
+      "es": {
+        "review": ["Sign o' the Times no intenta ordenar las posibilidades de Prince: deja que convivan. La canción titular observa crisis social con un arreglo casi vacío; Housequake responde con funk exuberante, The Ballad of Dorothy Parker vuelve extraña una escena cotidiana, If I Was Your Girlfriend cuestiona los límites de la intimidad y Adore cierra con entrega vocal. Su variedad no es dispersión, sino método."],
+        "listenFor": ["La cantidad de personajes que Prince construye mediante cambios de voz.", "El contraste entre arreglos mínimos y canciones llenas de capas."],
+        "entryPoint": {"title": "Sign o' the Times", "reason": "Con muy pocos elementos establece la claridad rítmica, la observación social y la libertad formal del disco."}
+      },
+      "en": {
+        "review": ["Sign o' the Times does not try to organise Prince's possibilities: it lets them coexist. The title track observes social crisis through an almost empty arrangement; Housequake answers with exuberant funk, The Ballad of Dorothy Parker makes an everyday scene strange, If I Was Your Girlfriend questions the limits of intimacy and Adore closes with vocal surrender. Its variety is not dispersion but method."],
+        "listenFor": ["The number of characters Prince constructs through changes of voice.", "The contrast between minimal arrangements and songs filled with layers."],
+        "entryPoint": {"title": "Sign o' the Times", "reason": "With very few elements it establishes the record's rhythmic clarity, social observation and formal freedom."}
+      },
+      "fr": {
+        "review": ["Sign o' the Times ne cherche pas à ordonner les possibilités de Prince : il les laisse coexister. Le morceau-titre observe la crise sociale dans un arrangement presque vide ; Housequake répond par un funk exubérant, The Ballad of Dorothy Parker rend étrange une scène quotidienne, If I Was Your Girlfriend interroge les limites de l'intimité et Adore s'achève dans l'abandon vocal. Sa variété n'est pas dispersion, mais méthode."],
+        "listenFor": ["Le nombre de personnages que Prince construit par ses changements de voix.", "Le contraste entre arrangements minimaux et chansons remplies de couches."],
+        "entryPoint": {"title": "Sign o' the Times", "reason": "Avec très peu d'éléments, le morceau établit la clarté rythmique, l'observation sociale et la liberté formelle du disque."}
+      }
+    }
+  }
+]

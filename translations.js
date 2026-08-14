@@ -30,26 +30,48 @@ window.TLG_TRANSLATIONS = {
       button: "Buscar entre los discos",
       songButton: "Buscar entre las canciones",
       surpriseButton: "Sorpréndeme",
-      noResults: "No encontramos opciones con esos filtros."
+      noResults: "Ya escuchaste todas las recomendaciones de esta combinación. Prueba otros filtros."
     },
 
     genres: {
       rock: "Rock",
       pop: "Pop",
       jazz: "Jazz",
+      blues: "Blues",
       soul: "Soul y R&B",
       "hip-hop": "Hip-hop",
       electronic: "Electrónica",
       folk: "Folk y country",
-      latin: "Música latina"
+      latin: "Música latina",
+      global: "Música global"
     },
 
     recommendation: {
       essential: "★ Selección esencial",
+      essentialShort: "★ Esencial",
+      roles: {
+        anchor: "◆ Obra de referencia",
+        rotation: "↻ En rotación",
+        focus: "● Foco del mes"
+      },
+      rolesShort: {
+        anchor: "◆ Referencia",
+        rotation: "↻ Rotación",
+        focus: "● Foco"
+      },
       listenOn: "Escuchar en",
       heard: "Ya lo escuché",
+      heardShort: "○ Escuché",
       saved: "Guardado",
+      savedShort: "✓ Guardado",
       another: "Dame otro",
+      anotherShort: "↻ Otro",
+      restart: "↻ Nueva vuelta",
+      restartShort: "↻ Vuelta",
+      cycleLabel: "Vuelta de escucha",
+      cycleCompleteLabel: "Vuelta completa",
+      cycleProgress: "{current} de {total} recomendaciones",
+      cycleComplete: "Sin repeticiones. Cambia los filtros o empieza otra vuelta.",
       recognitionEyebrow: "Por qué es imprescindible",
       ranking: "N.º {rank} en {title}",
       chart: "N.º {rank} en {title}",
@@ -62,6 +84,12 @@ window.TLG_TRANSLATIONS = {
     editorial: {
       eyebrow: "Nota de escucha",
       readTime: "{minutes} min de lectura",
+      selectionRole: "Lugar en la selección",
+      roleDescriptions: {
+        anchor: "Forma parte del núcleo estable de la selección y ayuda a situar una escena, un lenguaje musical o una época.",
+        rotation: "Alterna entre ediciones para ampliar el recorrido más allá del núcleo fijo y mantener abiertas nuevas rutas de escucha.",
+        focus: "Recibe especial atención este mes para abrir una ruta por una escena, un lugar o un momento concreto."
+      },
       listenFor: "Escucha con atención",
       entryPoint: "Punto de entrada",
       listenNow: "Escuchar ahora",
@@ -76,6 +104,21 @@ window.TLG_TRANSLATIONS = {
       albumFormat: "Álbum",
       singleFormat: "Single",
       closeLabel: "Cerrar colección"
+    },
+
+    account: {
+      eyebrow: "Progreso en la nube",
+      headerSignIn: "Entrar",
+      headerAccount: "Cuenta",
+      signedOutTitle: "Guarda tu recorrido",
+      signedOutDescription: "Inicia sesión para conservar tu colección y continuar en cualquier dispositivo.",
+      signIn: "Continuar con Google",
+      connecting: "Conectando…",
+      signedInTitle: "Colección sincronizada",
+      signedInDescription: "Conectado como {name}. Tu avance se guarda automáticamente.",
+      synced: "Progreso sincronizado · {count}",
+      signOut: "Cerrar sesión",
+      error: "No pudimos sincronizar tu colección. Tu progreso sigue guardado en este dispositivo."
     },
 
     about: {
@@ -125,26 +168,48 @@ window.TLG_TRANSLATIONS = {
       button: "Dig through the records",
       songButton: "Dig through the songs",
       surpriseButton: "Surprise me",
-      noResults: "We couldn’t find anything with those filters."
+      noResults: "You’ve heard every recommendation in this combination. Try different filters."
     },
 
     genres: {
       rock: "Rock",
       pop: "Pop",
       jazz: "Jazz",
+      blues: "Blues",
       soul: "Soul & R&B",
       "hip-hop": "Hip-hop",
       electronic: "Electronic",
       folk: "Folk & country",
-      latin: "Latin music"
+      latin: "Latin music",
+      global: "Global music"
     },
 
     recommendation: {
       essential: "★ Essential pick",
+      essentialShort: "★ Essential",
+      roles: {
+        anchor: "◆ Reference work",
+        rotation: "↻ In rotation",
+        focus: "● Monthly focus"
+      },
+      rolesShort: {
+        anchor: "◆ Reference",
+        rotation: "↻ Rotation",
+        focus: "● Focus"
+      },
       listenOn: "Listen on",
       heard: "I’ve heard it",
+      heardShort: "○ Heard",
       saved: "Saved",
+      savedShort: "✓ Saved",
       another: "Give me another",
+      anotherShort: "↻ Another",
+      restart: "↻ New round",
+      restartShort: "↻ Round",
+      cycleLabel: "Listening round",
+      cycleCompleteLabel: "Round complete",
+      cycleProgress: "{current} of {total} recommendations",
+      cycleComplete: "No repeats. Change the filters or start a new round.",
       recognitionEyebrow: "Why it’s essential",
       ranking: "No. {rank} in {title}",
       chart: "No. {rank} on {title}",
@@ -157,6 +222,12 @@ window.TLG_TRANSLATIONS = {
     editorial: {
       eyebrow: "Listening notes",
       readTime: "{minutes} min read",
+      selectionRole: "Place in the selection",
+      roleDescriptions: {
+        anchor: "Part of the selection’s stable core, helping frame a scene, a musical language or a period.",
+        rotation: "Moves in and out between editions to widen the route beyond the fixed core and keep new listening paths open.",
+        focus: "Receives extra attention this month to open a route through a particular scene, place or moment."
+      },
       listenFor: "Listen for",
       entryPoint: "Entry point",
       listenNow: "Listen now",
@@ -171,6 +242,21 @@ window.TLG_TRANSLATIONS = {
       albumFormat: "Album",
       singleFormat: "Single",
       closeLabel: "Close collection"
+    },
+
+    account: {
+      eyebrow: "Cloud progress",
+      headerSignIn: "Sign in",
+      headerAccount: "Account",
+      signedOutTitle: "Save your listening trail",
+      signedOutDescription: "Sign in to keep your collection and continue on any device.",
+      signIn: "Continue with Google",
+      connecting: "Connecting…",
+      signedInTitle: "Collection synced",
+      signedInDescription: "Connected as {name}. Your progress is saved automatically.",
+      synced: "Progress synced · {count}",
+      signOut: "Sign out",
+      error: "We couldn’t sync your collection. Your progress is still saved on this device."
     },
 
     about: {
@@ -220,26 +306,48 @@ window.TLG_TRANSLATIONS = {
       button: "Piocher parmi les disques",
       songButton: "Piocher parmi les morceaux",
       surpriseButton: "Surprenez-moi",
-      noResults: "Aucun résultat ne correspond à ces filtres."
+      noResults: "Vous avez déjà écouté toutes les recommandations de cette combinaison. Modifiez les filtres."
     },
 
     genres: {
       rock: "Rock",
       pop: "Pop",
       jazz: "Jazz",
+      blues: "Blues",
       soul: "Soul et R&B",
       "hip-hop": "Hip-hop",
       electronic: "Musique électronique",
       folk: "Folk et country",
-      latin: "Musique latine"
+      latin: "Musique latine",
+      global: "Musiques du monde"
     },
 
     recommendation: {
       essential: "★ Sélection incontournable",
+      essentialShort: "★ Essentiel",
+      roles: {
+        anchor: "◆ Œuvre de référence",
+        rotation: "↻ En rotation",
+        focus: "● Focus du mois"
+      },
+      rolesShort: {
+        anchor: "◆ Référence",
+        rotation: "↻ Rotation",
+        focus: "● Focus"
+      },
       listenOn: "Écouter sur",
       heard: "Je l’ai écouté",
+      heardShort: "○ Écouté",
       saved: "Ajouté à la collection",
+      savedShort: "✓ Ajouté",
       another: "Une autre recommandation",
+      anotherShort: "↻ Autre",
+      restart: "↻ Nouveau cycle",
+      restartShort: "↻ Cycle",
+      cycleLabel: "Cycle d’écoute",
+      cycleCompleteLabel: "Cycle terminé",
+      cycleProgress: "{current} recommandations sur {total}",
+      cycleComplete: "Aucune répétition. Modifiez les filtres ou commencez un nouveau cycle.",
       recognitionEyebrow: "Pourquoi c’est incontournable",
       ranking: "N° {rank} dans {title}",
       chart: "N° {rank} du {title}",
@@ -252,6 +360,12 @@ window.TLG_TRANSLATIONS = {
     editorial: {
       eyebrow: "Note d’écoute",
       readTime: "{minutes} min de lecture",
+      selectionRole: "Place dans la sélection",
+      roleDescriptions: {
+        anchor: "Fait partie du noyau stable de la sélection et permet de situer une scène, un langage musical ou une époque.",
+        rotation: "Entre et sort au fil des éditions afin d’élargir le parcours au-delà du noyau fixe et d’ouvrir de nouvelles pistes d’écoute.",
+        focus: "Bénéficie d’une attention particulière ce mois-ci afin d’ouvrir un parcours à travers une scène, un lieu ou un moment précis."
+      },
       listenFor: "À écouter attentivement",
       entryPoint: "Point de départ",
       listenNow: "Écouter maintenant",
@@ -266,6 +380,21 @@ window.TLG_TRANSLATIONS = {
       albumFormat: "Album",
       singleFormat: "Single",
       closeLabel: "Fermer la collection"
+    },
+
+    account: {
+      eyebrow: "Progression dans le cloud",
+      headerSignIn: "Connexion",
+      headerAccount: "Compte",
+      signedOutTitle: "Conservez votre parcours",
+      signedOutDescription: "Connectez-vous pour retrouver votre collection sur tous vos appareils.",
+      signIn: "Continuer avec Google",
+      connecting: "Connexion…",
+      signedInTitle: "Collection synchronisée",
+      signedInDescription: "Connecté en tant que {name}. Votre progression est enregistrée automatiquement.",
+      synced: "Progression synchronisée · {count}",
+      signOut: "Se déconnecter",
+      error: "La synchronisation a échoué. Votre progression reste enregistrée sur cet appareil."
     },
 
     about: {

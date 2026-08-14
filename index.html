@@ -11,10 +11,10 @@
 
   <title>To the Last Groove</title>
 
-  <link rel="icon" href="favicon.svg?v=7.3" type="image/svg+xml">
-  <link rel="alternate icon" href="favicon-vinyl.png?v=7.3" type="image/png" sizes="64x64">
-  <link rel="shortcut icon" href="favicon.ico?v=7.3" type="image/x-icon">
-  <link rel="apple-touch-icon" href="favicon-vinyl.png?v=7.3">
+  <link rel="icon" href="favicon.svg?v=7.8" type="image/svg+xml">
+  <link rel="alternate icon" href="favicon-vinyl.png?v=7.8" type="image/png" sizes="64x64">
+  <link rel="shortcut icon" href="favicon.ico?v=7.8" type="image/x-icon">
+  <link rel="apple-touch-icon" href="favicon-vinyl.png?v=7.8">
 
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -25,7 +25,7 @@
     rel="stylesheet"
   >
 
-  <link rel="stylesheet" href="styles.css?v=7.3">
+  <link rel="stylesheet" href="styles.css?v=7.8">
 </head>
 
 <body>
@@ -35,7 +35,10 @@
       href="#"
       aria-label="To the Last Groove"
     >
-      <span class="logo-prefix">TO THE LAST</span>
+      <span class="logo-prefix-stack">
+        <span class="logo-kicker">Curated listening · Est. 2026</span>
+        <span class="logo-prefix">TO THE LAST</span>
+      </span>
 
       <span class="logo-groove" aria-hidden="true">
         GR<span class="logo-record logo-record-solid">O</span><span class="logo-record logo-record-rings">O</span>VE
@@ -57,38 +60,52 @@
       </button>
     </nav>
 
-    <div
-  class="language-switcher"
-  role="group"
-  aria-label="Idioma / Language / Langue"
->
-  <button
-    class="language-option active"
-    type="button"
-    data-language="es"
-    aria-pressed="true"
-  >
-    ES
-  </button>
+    <div class="header-tools">
+      <button
+        class="header-account"
+        id="headerAccount"
+        type="button"
+        aria-label="Entrar"
+        hidden
+      >
+        <span class="header-account-mark" aria-hidden="true"></span>
+        <img class="header-account-avatar" id="headerAccountAvatar" alt="" hidden>
+        <span id="headerAccountLabel">Entrar</span>
+      </button>
 
-  <button
-    class="language-option"
-    type="button"
-    data-language="en"
-    aria-pressed="false"
-  >
-    EN
-  </button>
+      <div
+        class="language-switcher"
+        role="group"
+        aria-label="Idioma / Language / Langue"
+      >
+        <button
+          class="language-option active"
+          type="button"
+          data-language="es"
+          aria-pressed="true"
+        >
+          ES
+        </button>
 
-  <button
-    class="language-option"
-    type="button"
-    data-language="fr"
-    aria-pressed="false"
-  >
-    FR
-  </button>
-</div>
+        <button
+          class="language-option"
+          type="button"
+          data-language="en"
+          aria-pressed="false"
+        >
+          EN
+        </button>
+
+        <button
+          class="language-option"
+          type="button"
+          data-language="fr"
+          aria-pressed="false"
+        >
+          FR
+        </button>
+      </div>
+    </div>
   </header>
 
   <main>
@@ -154,11 +171,13 @@
               <option value="rock">Rock</option>
               <option value="pop">Pop</option>
               <option value="jazz">Jazz</option>
+              <option value="blues">Blues</option>
               <option value="soul">Soul y R&amp;B</option>
               <option value="hip-hop">Hip-hop</option>
               <option value="electronic">Electrónica</option>
               <option value="folk">Folk y country</option>
               <option value="latin">Música latina</option>
+              <option value="global">Música global</option>
             </select>
           </label>
         </div>
@@ -225,17 +244,42 @@
 
         <article class="recommendation-card">
           <div class="recommendation-card-topline">
-            <p class="staff-pick">★ Selección esencial</p>
+            <p class="staff-pick role-anchor" data-short-label="◆ Referencia">◆ Obra de referencia</p>
 
             <div class="recommendation-card-top-actions">
-              <button class="secondary-button" id="heardButton" type="button">
+              <button class="secondary-button" id="heardButton" type="button" data-short-label="○ Escuché">
                 ○ Ya lo escuché
               </button>
 
-              <button class="text-button" id="anotherButton" type="button">
+              <button class="text-button" id="anotherButton" type="button" data-short-label="↻ Otro">
                 Dame otro
               </button>
             </div>
+          </div>
+
+          <div
+            class="recommendation-cycle"
+            id="recommendationCycle"
+            aria-live="polite"
+            hidden
+          >
+            <div class="recommendation-cycle-heading">
+              <span id="recommendationCycleLabel">Vuelta de escucha</span>
+              <strong id="recommendationCycleCount">1/1</strong>
+            </div>
+
+            <div
+              class="recommendation-cycle-track"
+              id="recommendationCycleTrack"
+              role="progressbar"
+              aria-valuemin="0"
+              aria-valuemax="1"
+              aria-valuenow="1"
+            >
+              <span id="recommendationCycleProgress"></span>
+            </div>
+
+            <p id="recommendationCycleMessage" hidden></p>
           </div>
 
           <h2 id="recommendationTitle">The Touch of Your Lips</h2>
@@ -327,6 +371,33 @@
       </button>
     </div>
 
+    <section class="collection-sync" id="collectionSync" hidden>
+      <div class="collection-sync-identity">
+        <div class="collection-sync-mark" aria-hidden="true"></div>
+        <img class="collection-sync-avatar" id="collectionSyncAvatar" alt="" hidden>
+
+        <div>
+          <p class="collection-sync-eyebrow" id="collectionSyncEyebrow">
+            Progreso en la nube
+          </p>
+          <strong id="collectionSyncTitle">Guarda tu recorrido</strong>
+          <p id="collectionSyncDescription">
+            Conserva tu colección y continúa en cualquier dispositivo.
+          </p>
+        </div>
+      </div>
+
+      <div class="collection-sync-actions">
+        <button class="collection-sync-button" id="collectionSignIn" type="button">
+          Continuar con Google
+        </button>
+        <button class="collection-sync-signout" id="collectionSignOut" type="button" hidden>
+          Cerrar sesión
+        </button>
+        <p class="collection-sync-status" id="collectionSyncStatus" role="status" aria-live="polite"></p>
+      </div>
+    </section>
+
     <div class="collection-grid" id="collectionGrid">
       <p class="empty-collection">
         Los discos que escuches aparecerán aquí.
@@ -373,6 +444,18 @@
       <div class="listening-note-review" id="listeningNoteReview"></div>
 
       <aside class="listening-note-sidebar">
+        <section
+          class="listening-note-section listening-note-role role-anchor"
+          id="listeningNoteRoleSection"
+        >
+          <h3 id="listeningNoteRoleTitle">Lugar en la selección</h3>
+          <strong id="listeningNoteRoleLabel">◆ Obra de referencia</strong>
+          <p id="listeningNoteRoleDescription">
+            Forma parte del núcleo estable de la selección y ayuda a situar
+            una escena, un lenguaje musical o una época.
+          </p>
+        </section>
+
         <section class="listening-note-section">
           <h3 id="listeningNoteListenForTitle">Escucha con atención</h3>
           <ul id="listeningNoteListenFor"></ul>
@@ -468,7 +551,9 @@
     <p>Escucha hasta el último surco.</p>
   </footer>
 
-  <script src="translations.js?v=7.3"></script>
-  <script src="app.js?v=7.3"></script>
+  <script src="translations.js?v=7.8"></script>
+  <script src="firebase-config.js?v=7.8"></script>
+  <script src="app.js?v=7.8"></script>
+  <script type="module" src="account.js?v=7.8"></script>
 </body>
 </html>

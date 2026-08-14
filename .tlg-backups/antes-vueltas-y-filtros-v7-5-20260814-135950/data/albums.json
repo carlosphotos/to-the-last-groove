@@ -1,0 +1,4702 @@
+[
+  {
+    "id": "album-051",
+    "type": "album",
+    "artist": "Billie Holiday",
+    "title": "Lady in Satin",
+    "year": 1958,
+    "decade": "1950",
+    "genre": "jazz",
+    "genreDetail": "Jazz vocal",
+    "country": "Estados Unidos",
+    "duration": "167 min",
+    "catalogue": "TLG–A–0051",
+    "coverClass": "cover-blue",
+    "coverUrl": "assets/covers-master/album-051.webp",
+    "thumbnailUrl": "assets/covers-master/album-051.webp",
+    "description": {
+      "es": "Una despedida amorosa cantada desde el punto en que la elegancia ya no puede ocultar el dolor.",
+      "en": "A farewell to love sung from the point where elegance can no longer conceal pain.",
+      "fr": "Un adieu à l’amour chanté depuis l’endroit où l’élégance ne peut plus dissimuler la douleur."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Pitchfork — listas por década y año",
+        "en": "Pitchfork — lists by decade and year",
+        "fr": "Pitchfork — sélections par décennie et par année"
+      },
+      "source": "Pitchfork",
+      "url": "https://pitchfork.com/features/lists-and-guides/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/album/5kk2i89mjtyibhPNCKHcfu"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/lady-in-satin-the-centennial-edition/979144620"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/browse/MPREb_ah5uV3xNt3V"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "album-052",
+    "type": "album",
+    "artist": "Charles Mingus",
+    "title": "Mingus Ah Um",
+    "year": 1959,
+    "decade": "1950",
+    "genre": "jazz",
+    "genreDetail": "Jazz",
+    "country": "Estados Unidos",
+    "duration": "73 min",
+    "catalogue": "TLG–A–0052",
+    "coverClass": "cover-red",
+    "coverUrl": "assets/covers-master/album-052.webp",
+    "thumbnailUrl": "assets/covers-master/album-052.webp",
+    "description": {
+      "es": "Una banda llena de personalidades convierte la historia del jazz en una discusión todavía viva.",
+      "en": "A band of vivid personalities turns jazz history into an argument that is still alive.",
+      "fr": "Un groupe aux personnalités fortes transforme l’histoire du jazz en débat toujours vivant."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Jazzwise — 100 discos que transformaron el jazz",
+        "en": "Jazzwise — 100 Jazz Albums That Shook the World",
+        "fr": "Jazzwise — 100 albums qui ont transformé le jazz"
+      },
+      "source": "Jazzwise",
+      "url": "https://www.jazzwise.com/features/article/the-100-jazz-albums-that-shook-the-world"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/album/7pojWP7x9uEFSJgw765khA"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/mingus-ah-um-bonus-track-version/282907091"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/browse/MPREb_IeCi4HMV1Kb"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Rotación"
+  },
+  {
+    "id": "album-018",
+    "type": "album",
+    "artist": "João Gilberto",
+    "title": "Chega de Saudade",
+    "year": 1959,
+    "decade": "1950",
+    "genre": "latin",
+    "genreDetail": "Bossa nova",
+    "country": "Brasil",
+    "duration": "23 min",
+    "catalogue": "TLG–A–0018",
+    "coverClass": "cover-yellow",
+    "coverUrl": "assets/covers-master/album-018.webp",
+    "thumbnailUrl": "assets/covers-master/album-018.webp",
+    "description": {
+      "es": "El momento en que una nueva manera de respirar volvió más ligera toda la canción brasileña.",
+      "en": "The moment a new way of breathing made the whole of Brazilian song feel lighter.",
+      "fr": "Le moment où une nouvelle manière de respirer a allégé toute la chanson brésilienne."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Los 600 Discos de Latinoamérica",
+        "en": "The 600 Albums of Latin America",
+        "fr": "Les 600 albums d’Amérique latine"
+      },
+      "source": "Los 600 Discos de Latinoamérica",
+      "url": "https://www.600discoslatam.com/indice-general-de-los-600-discos-de-latinoamerica/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/album/4OxTjyLbMo30jdfpOkwBoS"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/chega-de-saudade-2021-remastered-edition/1620069224"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/browse/MPREb_Q9UXKZnedKB"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "album-011",
+    "type": "album",
+    "artist": "Miles Davis",
+    "title": "Kind of Blue",
+    "year": 1959,
+    "decade": "1950",
+    "genre": "jazz",
+    "genreDetail": "Jazz",
+    "country": "Estados Unidos",
+    "duration": "45 min",
+    "catalogue": "TLG–A–0011",
+    "coverClass": "cover-green",
+    "coverUrl": "assets/covers-master/album-011.webp",
+    "thumbnailUrl": "assets/covers-master/album-011.webp",
+    "description": {
+      "es": "Cinco músicos encuentran una serenidad que depende de escuchar antes de responder.",
+      "en": "Five musicians find a serenity built on listening before answering.",
+      "fr": "Cinq musiciens trouvent une sérénité fondée sur l’écoute avant la réponse."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Apple Music — 100 mejores álbumes",
+        "en": "Apple Music — 100 Best Albums",
+        "fr": "Apple Music — 100 meilleurs albums"
+      },
+      "source": "Apple Music",
+      "url": "https://www.apple.com/newsroom/2024/05/apple-music-celebrates-the-launch-of-inaugural-100-best-albums-list/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/album/1weenld61qoidwYuZ1GESA"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/kind-of-blue/268443092"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/browse/MPREb_iNbKdKjDqyr"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "album-053",
+    "type": "album",
+    "artist": "Ornette Coleman",
+    "title": "The Shape of Jazz to Come",
+    "year": 1959,
+    "decade": "1950",
+    "genre": "jazz",
+    "genreDetail": "Jazz",
+    "country": "Estados Unidos",
+    "duration": "38 min",
+    "catalogue": "TLG–A–0053",
+    "coverClass": "cover-blue",
+    "coverUrl": "assets/covers-master/album-053.webp",
+    "thumbnailUrl": "assets/covers-master/album-053.webp",
+    "description": {
+      "es": "Una puerta hacia la libertad que conserva melodía, humor y una intensa atención al otro.",
+      "en": "A doorway to freedom that retains melody, humour and intense attention to others.",
+      "fr": "Une porte vers la liberté qui conserve mélodie, humour et attention aiguë aux autres."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Pitchfork — listas por década y año",
+        "en": "Pitchfork — lists by decade and year",
+        "fr": "Pitchfork — sélections par décennie et par année"
+      },
+      "source": "Pitchfork",
+      "url": "https://pitchfork.com/features/lists-and-guides/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/album/2iPH3iUmpa9ufIpwY76keF"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/the-shape-of-jazz-to-come-2005-remaster/50234787"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/browse/MPREb_J5xM5Glfdfx"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Rotación"
+  },
+  {
+    "id": "album-054",
+    "type": "album",
+    "artist": "James Brown",
+    "title": "Live at the Apollo",
+    "year": 1963,
+    "decade": "1960",
+    "genre": "soul",
+    "genreDetail": "Soul",
+    "country": "Estados Unidos",
+    "duration": "32 min",
+    "catalogue": "TLG–A–0054",
+    "coverClass": "cover-red",
+    "coverUrl": "assets/covers-master/album-054.webp",
+    "thumbnailUrl": "assets/covers-master/album-054.webp",
+    "description": {
+      "es": "La electricidad de una noche en la que escenario y público terminan respirando juntos.",
+      "en": "The electricity of a night when stage and audience end up breathing together.",
+      "fr": "L’électricité d’une nuit où la scène et le public finissent par respirer ensemble."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Rolling Stone — 500 mejores álbumes",
+        "en": "Rolling Stone — 500 Greatest Albums",
+        "fr": "Rolling Stone — 500 meilleurs albums"
+      },
+      "source": "Rolling Stone",
+      "url": "https://www.rollingstone.com/music/music-lists/best-albums-of-all-time-1062063/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/album/2cBfHBgA6ask1jpMz2XASH"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/live-at-the-apollo-1962/1445669062"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/browse/MPREb_GtxDKZQTlEe"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Rotación"
+  },
+  {
+    "id": "album-012",
+    "type": "album",
+    "artist": "John Coltrane",
+    "title": "A Love Supreme",
+    "year": 1965,
+    "decade": "1960",
+    "genre": "jazz",
+    "genreDetail": "Jazz",
+    "country": "Estados Unidos",
+    "duration": "33 min",
+    "catalogue": "TLG–A–0012",
+    "coverClass": "cover-yellow",
+    "coverUrl": "assets/covers-master/album-012.webp",
+    "thumbnailUrl": "assets/covers-master/album-012.webp",
+    "description": {
+      "es": "Una búsqueda espiritual que avanza con la concentración de una ceremonia compartida.",
+      "en": "A spiritual search moving with the concentration of a shared ceremony.",
+      "fr": "Une quête spirituelle portée par la concentration d’une cérémonie partagée."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Jazzwise — 100 discos que transformaron el jazz",
+        "en": "Jazzwise — 100 Jazz Albums That Shook the World",
+        "fr": "Jazzwise — 100 albums qui ont transformé le jazz"
+      },
+      "source": "Jazzwise",
+      "url": "https://www.jazzwise.com/features/article/the-100-jazz-albums-that-shook-the-world"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/album/7Eoz7hJvaX1eFkbpQxC5PA"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/a-love-supreme/1440713018"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/browse/MPREb_d0lggJKktFo"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "album-055",
+    "type": "album",
+    "artist": "Nina Simone",
+    "title": "Pastel Blues",
+    "year": 1965,
+    "decade": "1960",
+    "genre": "jazz",
+    "genreDetail": "Jazz y soul",
+    "country": "Estados Unidos",
+    "duration": "36 min",
+    "catalogue": "TLG–A–0055",
+    "coverClass": "cover-green",
+    "coverUrl": "assets/covers-master/album-055.webp",
+    "thumbnailUrl": "assets/covers-master/album-055.webp",
+    "description": {
+      "es": "Una intérprete capaz de convertir deseo, rabia y trance en partes de una misma verdad.",
+      "en": "A performer able to turn desire, anger and trance into parts of the same truth.",
+      "fr": "Une interprète capable de faire du désir, de la colère et de la transe les faces d’une même vérité."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Pitchfork — listas por década y año",
+        "en": "Pitchfork — lists by decade and year",
+        "fr": "Pitchfork — sélections par décennie et par année"
+      },
+      "source": "Pitchfork",
+      "url": "https://pitchfork.com/features/lists-and-guides/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/album/31pd81sWDaK2pP3ok5892z"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/pastel-blues/1445668394"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/browse/MPREb_TkytzCEKQT7"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "album-056",
+    "type": "album",
+    "artist": "The Beach Boys",
+    "title": "Pet Sounds",
+    "year": 1966,
+    "decade": "1960",
+    "genre": "pop",
+    "genreDetail": "Pop",
+    "country": "Estados Unidos",
+    "duration": "38 min",
+    "catalogue": "TLG–A–0056",
+    "coverClass": "cover-blue",
+    "coverUrl": "assets/covers-master/album-056.webp",
+    "thumbnailUrl": "assets/covers-master/album-056.webp",
+    "description": {
+      "es": "La soledad adolescente recibe aquí una arquitectura tan compleja como sus propias emociones.",
+      "en": "Adolescent loneliness is given an architecture as complex as its own emotions.",
+      "fr": "La solitude adolescente trouve ici une architecture aussi complexe que ses émotions."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Rolling Stone — 500 mejores álbumes",
+        "en": "Rolling Stone — 500 Greatest Albums",
+        "fr": "Rolling Stone — 500 meilleurs albums"
+      },
+      "source": "Rolling Stone",
+      "url": "https://www.rollingstone.com/music/music-lists/best-albums-of-all-time-1062063/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/album/2CNEkSE8TADXRT2AzcEt1b"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/pet-sounds/1440841241"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/browse/MPREb_5dJ4JcE3Fah"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "album-013",
+    "type": "album",
+    "artist": "The Beatles",
+    "title": "Revolver",
+    "year": 1966,
+    "decade": "1960",
+    "genre": "rock",
+    "genreDetail": "Rock y pop",
+    "country": "Reino Unido",
+    "duration": "35 min",
+    "catalogue": "TLG–A–0013",
+    "coverClass": "cover-red",
+    "coverUrl": "assets/covers-master/album-013.webp",
+    "thumbnailUrl": "assets/covers-master/album-013.webp",
+    "description": {
+      "es": "Un grupo deja atrás sus límites físicos y descubre que el estudio también puede imaginar.",
+      "en": "A band leaves its physical limits behind and discovers that the studio can imagine too.",
+      "fr": "Un groupe dépasse ses limites physiques et découvre que le studio peut lui aussi imaginer."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Apple Music — 100 mejores álbumes",
+        "en": "Apple Music — 100 Best Albums",
+        "fr": "Apple Music — 100 meilleurs albums"
+      },
+      "source": "Apple Music",
+      "url": "https://www.apple.com/newsroom/2024/05/apple-music-celebrates-the-launch-of-inaugural-100-best-albums-list/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/album/3PRoXYsngSwjEQWR5PsHWR"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/revolver-2022-mix/1642995371"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/browse/MPREb_eHEOTy3DS94"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "album-014",
+    "type": "album",
+    "artist": "Violeta Parra",
+    "title": "Las últimas composiciones",
+    "year": 1966,
+    "decade": "1960",
+    "genre": "folk",
+    "genreDetail": "Nueva canción",
+    "country": "Chile",
+    "duration": "40 min",
+    "catalogue": "TLG–A–0014",
+    "coverClass": "cover-yellow",
+    "coverUrl": "assets/covers-master/album-014.webp",
+    "thumbnailUrl": "assets/covers-master/album-014.webp",
+    "description": {
+      "es": "Canciones que miran el amor, la tierra y la muerte con una lucidez difícil de separar de la ternura.",
+      "en": "Songs that regard love, land and death with a lucidity inseparable from tenderness.",
+      "fr": "Des chansons qui regardent l’amour, la terre et la mort avec une lucidité indissociable de la tendresse."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Los 600 Discos de Latinoamérica",
+        "en": "The 600 Albums of Latin America",
+        "fr": "Les 600 albums d’Amérique latine"
+      },
+      "source": "Los 600 Discos de Latinoamérica",
+      "url": "https://www.600discoslatam.com/indice-general-de-los-600-discos-de-latinoamerica/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/album/6DnOg6BxFgB8ux7034CmWM"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/las-%C3%BAltimas-composiciones/1717666322"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/browse/MPREb_GOrZYBdWxwk"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "album-015",
+    "type": "album",
+    "artist": "Aretha Franklin",
+    "title": "I Never Loved a Man the Way I Love You",
+    "year": 1967,
+    "decade": "1960",
+    "genre": "soul",
+    "genreDetail": "Soul",
+    "country": "Estados Unidos",
+    "duration": "33 min",
+    "catalogue": "TLG–A–0015",
+    "coverClass": "cover-green",
+    "coverUrl": "assets/covers-master/album-015.webp",
+    "thumbnailUrl": "assets/covers-master/album-015.webp",
+    "description": {
+      "es": "La voz de una mujer transforma experiencias privadas en una autoridad que cualquiera puede reconocer.",
+      "en": "A woman’s voice turns private experience into an authority anyone can recognize.",
+      "fr": "La voix d’une femme transforme l’expérience intime en une autorité que chacun peut reconnaître."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Apple Music — 100 mejores álbumes",
+        "en": "Apple Music — 100 Best Albums",
+        "fr": "Apple Music — 100 meilleurs albums"
+      },
+      "source": "Apple Music",
+      "url": "https://www.apple.com/newsroom/2024/05/apple-music-celebrates-the-launch-of-inaugural-100-best-albums-list/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/i-never-loved-a-man-the-way-i-love-you-mono/878000342"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/browse/MPREb_38mw3TZO9yt"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "album-016",
+    "type": "album",
+    "artist": "The Velvet Underground & Nico",
+    "title": "The Velvet Underground & Nico",
+    "year": 1967,
+    "decade": "1960",
+    "genre": "rock",
+    "genreDetail": "Rock experimental",
+    "country": "Estados Unidos",
+    "duration": "49 min",
+    "catalogue": "TLG–A–0016",
+    "coverClass": "cover-blue",
+    "coverUrl": "assets/covers-master/album-016.webp",
+    "thumbnailUrl": "assets/covers-master/album-016.webp",
+    "description": {
+      "es": "Un debut que todavía conserva el peligro de abrir una puerta sin saber qué habrá del otro lado.",
+      "en": "A debut that still carries the danger of opening a door without knowing what waits beyond it.",
+      "fr": "Un premier album qui garde encore le danger d’une porte ouverte sans savoir ce qui attend derrière."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Rolling Stone — 500 mejores álbumes",
+        "en": "Rolling Stone — 500 Greatest Albums",
+        "fr": "Rolling Stone — 500 meilleurs albums"
+      },
+      "source": "Rolling Stone",
+      "url": "https://www.rollingstone.com/music/music-lists/best-albums-of-all-time-1062063/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/album/2QkDDVLuh025znjaxvTfAY"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/the-velvet-underground-nico-45th-anniversary-edition/1440851613"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/browse/MPREb_xUQzHavBxlt"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "album-057",
+    "type": "album",
+    "artist": "Jimi Hendrix Experience",
+    "title": "Electric Ladyland",
+    "year": 1968,
+    "decade": "1960",
+    "genre": "rock",
+    "genreDetail": "Rock psicodélico",
+    "country": "Estados Unidos",
+    "duration": "88 min",
+    "catalogue": "TLG–A–0057",
+    "coverClass": "cover-red",
+    "coverUrl": "assets/covers-master/album-057.webp",
+    "thumbnailUrl": "assets/covers-master/album-057.webp",
+    "description": {
+      "es": "Una imaginación sin bordes convierte el blues, el ruido y el espacio en materia maleable.",
+      "en": "A boundless imagination turns blues, noise and space into malleable material.",
+      "fr": "Une imagination sans frontières transforme blues, bruit et espace en matière malléable."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Apple Music — 100 mejores álbumes",
+        "en": "Apple Music — 100 Best Albums",
+        "fr": "Apple Music — 100 meilleurs albums"
+      },
+      "source": "Apple Music",
+      "url": "https://www.apple.com/newsroom/2024/05/apple-music-celebrates-the-launch-of-inaugural-100-best-albums-list/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/electric-ladyland/359528125"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/browse/MPREb_xl4MnHmyujn"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "album-017",
+    "type": "album",
+    "artist": "Os Mutantes",
+    "title": "Os Mutantes",
+    "year": 1968,
+    "decade": "1960",
+    "genre": "latin",
+    "genreDetail": "Tropicália",
+    "country": "Brasil",
+    "duration": "36 min",
+    "catalogue": "TLG–A–0017",
+    "coverClass": "cover-yellow",
+    "coverUrl": "assets/covers-master/album-017.webp",
+    "thumbnailUrl": "assets/covers-master/album-017.webp",
+    "description": {
+      "es": "La tradición brasileña entra en contacto con una juventud dispuesta a desmontarlo todo jugando.",
+      "en": "Brazilian tradition meets a generation ready to take everything apart through play.",
+      "fr": "La tradition brésilienne rencontre une jeunesse prête à tout démonter en jouant."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Rolling Stone Brasil — discos y canciones",
+        "en": "Rolling Stone Brasil — albums and songs",
+        "fr": "Rolling Stone Brasil — albums et chansons"
+      },
+      "source": "Rolling Stone Brasil",
+      "url": "https://rollingstone.com.br/artigo/os-100-maiores-discos-da-musica-brasileira/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/album/0RBkIFbQy91qv8Tqja20og"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/os-mutantes/1443152697"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/browse/MPREb_1pgLcqvFxOk"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "album-058",
+    "type": "album",
+    "artist": "Van Morrison",
+    "title": "Astral Weeks",
+    "year": 1968,
+    "decade": "1960",
+    "genre": "soul",
+    "genreDetail": "Folk soul",
+    "country": "Irlanda del Norte",
+    "duration": "47 min",
+    "catalogue": "TLG–A–0058",
+    "coverClass": "cover-green",
+    "coverUrl": "assets/covers-master/album-058.webp",
+    "thumbnailUrl": "assets/covers-master/album-058.webp",
+    "description": {
+      "es": "Ocho canciones se mueven como recuerdos que cambian cada vez que intentamos alcanzarlos.",
+      "en": "Eight songs move like memories that change each time we try to reach them.",
+      "fr": "Huit chansons avancent comme des souvenirs qui changent chaque fois qu’on tente de les rejoindre."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Pitchfork — listas por década y año",
+        "en": "Pitchfork — lists by decade and year",
+        "fr": "Pitchfork — sélections par décennie et par année"
+      },
+      "source": "Pitchfork",
+      "url": "https://pitchfork.com/features/lists-and-guides/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/album/4pG3bKkbmReDt5QTDn3JDz"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/astral-weeks/1031002336"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/browse/MPREb_5kagWL5l7Fb"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "album-059",
+    "type": "album",
+    "artist": "Varios artistas",
+    "title": "Tropicália ou Panis et Circencis",
+    "year": 1968,
+    "decade": "1960",
+    "genre": "latin",
+    "genreDetail": "Tropicália",
+    "country": "Brasil",
+    "duration": "39 min",
+    "catalogue": "TLG–A–0059",
+    "coverClass": "cover-blue",
+    "coverUrl": "assets/covers-master/album-059.webp",
+    "thumbnailUrl": "assets/covers-master/album-059.webp",
+    "description": {
+      "es": "Un manifiesto colectivo que responde a un país contradictorio con irreverencia, belleza y montaje.",
+      "en": "A collective manifesto answering a contradictory country with irreverence, beauty and montage.",
+      "fr": "Un manifeste collectif qui répond à un pays contradictoire par l’irrévérence, la beauté et le montage."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Rolling Stone Brasil — discos y canciones",
+        "en": "Rolling Stone Brasil — albums and songs",
+        "fr": "Rolling Stone Brasil — albums et chansons"
+      },
+      "source": "Rolling Stone Brasil",
+      "url": "https://rollingstone.com.br/artigo/os-100-maiores-discos-da-musica-brasileira/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/album/0samM57T0WsA9JhEmWkKEM"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/tropic%C3%A1lia-ou-panis-et-circensis/1549688567"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/browse/MPREb_nWvtIdqLHGF"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "album-060",
+    "type": "album",
+    "artist": "Nick Drake",
+    "title": "Five Leaves Left",
+    "year": 1969,
+    "decade": "1960",
+    "genre": "folk",
+    "genreDetail": "Folk",
+    "country": "Reino Unido",
+    "duration": "41 min",
+    "catalogue": "TLG–A–0060",
+    "coverClass": "cover-red",
+    "coverUrl": "assets/covers-master/album-060.webp",
+    "thumbnailUrl": "assets/covers-master/album-060.webp",
+    "description": {
+      "es": "Una intimidad reservada que nunca confunde hablar bajo con tener poco que decir.",
+      "en": "A guarded intimacy that never mistakes speaking softly for having little to say.",
+      "fr": "Une intimité réservée qui ne confond jamais parler doucement et avoir peu à dire."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Pitchfork — listas por década y año",
+        "en": "Pitchfork — lists by decade and year",
+        "fr": "Pitchfork — sélections par décennie et par année"
+      },
+      "source": "Pitchfork",
+      "url": "https://pitchfork.com/features/lists-and-guides/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/album/7IpcJbVxLLEfW0KXB7ndE2"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/five-leaves-left-remastered/1440656068"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/browse/MPREb_lhT6zoo6CGC"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Rotación"
+  },
+  {
+    "id": "album-061",
+    "type": "album",
+    "artist": "Pharoah Sanders",
+    "title": "Karma",
+    "year": 1969,
+    "decade": "1960",
+    "genre": "jazz",
+    "genreDetail": "Spiritual jazz",
+    "country": "Estados Unidos",
+    "duration": "38 min",
+    "catalogue": "TLG–A–0061",
+    "coverClass": "cover-yellow",
+    "coverUrl": "assets/covers-master/album-061.webp",
+    "thumbnailUrl": "assets/covers-master/album-061.webp",
+    "description": {
+      "es": "La paciencia abre un camino desde la meditación hasta un éxtasis que sigue siendo colectivo.",
+      "en": "Patience opens a path from meditation to an ecstasy that remains collective.",
+      "fr": "La patience ouvre un chemin de la méditation vers une extase qui reste collective."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Pitchfork — listas por década y año",
+        "en": "Pitchfork — lists by decade and year",
+        "fr": "Pitchfork — sélections par décennie et par année"
+      },
+      "source": "Pitchfork",
+      "url": "https://pitchfork.com/features/lists-and-guides/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/album/04sSPjO9MQFQ6fG4lpBI3G"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/karma/1443785100"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/browse/MPREb_mzPbdBT9qhW"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Foco mensual"
+  },
+  {
+    "id": "album-062",
+    "type": "album",
+    "artist": "Black Sabbath",
+    "title": "Paranoid",
+    "year": 1970,
+    "decade": "1970",
+    "genre": "rock",
+    "genreDetail": "Heavy metal",
+    "country": "Reino Unido",
+    "duration": "42 min",
+    "catalogue": "TLG–A–0062",
+    "coverClass": "cover-green",
+    "coverUrl": "assets/covers-master/album-062.webp",
+    "thumbnailUrl": "assets/covers-master/album-062.webp",
+    "description": {
+      "es": "El miedo moderno encuentra una forma pesada, directa y mucho más variada de lo que su leyenda sugiere.",
+      "en": "Modern fear finds a heavy, direct form far more varied than its legend suggests.",
+      "fr": "La peur moderne trouve une forme lourde et directe, bien plus variée que ne le laisse croire sa légende."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Rolling Stone — 500 mejores álbumes",
+        "en": "Rolling Stone — 500 Greatest Albums",
+        "fr": "Rolling Stone — 500 meilleurs albums"
+      },
+      "source": "Rolling Stone",
+      "url": "https://www.rollingstone.com/music/music-lists/best-albums-of-all-time-1062063/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/album/714ndVxSx8lIWhQxdbcXIs"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/paranoid/1533659667"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/browse/MPREb_Nav8bphwijs"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "album-063",
+    "type": "album",
+    "artist": "Alice Coltrane",
+    "title": "Journey in Satchidananda",
+    "year": 1971,
+    "decade": "1970",
+    "genre": "jazz",
+    "genreDetail": "Spiritual jazz",
+    "country": "Estados Unidos",
+    "duration": "37 min",
+    "catalogue": "TLG–A–0063",
+    "coverClass": "cover-blue",
+    "coverUrl": "assets/covers-master/album-063.webp",
+    "thumbnailUrl": "assets/covers-master/album-063.webp",
+    "description": {
+      "es": "Una música suspendida entre la tierra y algo que parece continuar mucho más allá de ella.",
+      "en": "Music suspended between the earth and something that seems to continue far beyond it.",
+      "fr": "Une musique suspendue entre la terre et quelque chose qui semble se poursuivre bien au-delà."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Pitchfork — listas por década y año",
+        "en": "Pitchfork — lists by decade and year",
+        "fr": "Pitchfork — sélections par décennie et par année"
+      },
+      "source": "Pitchfork",
+      "url": "https://pitchfork.com/features/lists-and-guides/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/album/6zV55F6W8kh1qe8LHhqRbz"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/journey-in-satchidananda/1440719294"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/browse/MPREb_IscF9sn6VeT"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Rotación"
+  },
+  {
+    "id": "album-064",
+    "type": "album",
+    "artist": "Can",
+    "title": "Tago Mago",
+    "year": 1971,
+    "decade": "1970",
+    "genre": "rock",
+    "genreDetail": "Krautrock",
+    "country": "Alemania",
+    "duration": "74 min",
+    "catalogue": "TLG–A–0064",
+    "coverClass": "cover-red",
+    "coverUrl": "assets/covers-master/album-064.webp",
+    "thumbnailUrl": "assets/covers-master/album-064.webp",
+    "description": {
+      "es": "Una banda convierte la resistencia física y el accidente en una aventura de larga duración.",
+      "en": "A band turns physical endurance and accident into a long-form adventure.",
+      "fr": "Un groupe transforme l’endurance physique et l’accident en aventure au long cours."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Pitchfork — listas por década y año",
+        "en": "Pitchfork — lists by decade and year",
+        "fr": "Pitchfork — sélections par décennie et par année"
+      },
+      "source": "Pitchfork",
+      "url": "https://pitchfork.com/features/lists-and-guides/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/album/5uvUlYLQpa3ErZ40kuoQ5K"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/tago-mago-remastered/711465663"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/browse/MPREb_VkL4hI2ib5X"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Rotación"
+  },
+  {
+    "id": "album-021",
+    "type": "album",
+    "artist": "Chico Buarque",
+    "title": "Construção",
+    "year": 1971,
+    "decade": "1970",
+    "genre": "latin",
+    "genreDetail": "MPB",
+    "country": "Brasil",
+    "duration": "31 min",
+    "catalogue": "TLG–A–0021",
+    "coverClass": "cover-yellow",
+    "coverUrl": "assets/covers-master/album-021.webp",
+    "thumbnailUrl": "assets/covers-master/album-021.webp",
+    "description": {
+      "es": "Una obra donde la precisión del lenguaje vuelve imposible mirar hacia otro lado.",
+      "en": "A work in which precision of language makes looking away impossible.",
+      "fr": "Une œuvre où la précision du langage rend impossible tout détournement du regard."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Rolling Stone Brasil — discos y canciones",
+        "en": "Rolling Stone Brasil — albums and songs",
+        "fr": "Rolling Stone Brasil — albums et chansons"
+      },
+      "source": "Rolling Stone Brasil",
+      "url": "https://rollingstone.com.br/artigo/os-100-maiores-discos-da-musica-brasileira/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/album/5YARZzYbonX4CbZ5hucHPc"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/constru%C3%A7%C3%A3o/1442845496"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/browse/MPREb_rj4oXRsnF96"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "album-065",
+    "type": "album",
+    "artist": "David Bowie",
+    "title": "Hunky Dory",
+    "year": 1971,
+    "decade": "1970",
+    "genre": "rock",
+    "genreDetail": "Art rock",
+    "country": "Reino Unido",
+    "duration": "42 min",
+    "catalogue": "TLG–A–0065",
+    "coverClass": "cover-green",
+    "coverUrl": "assets/covers-master/album-065.webp",
+    "thumbnailUrl": "assets/covers-master/album-065.webp",
+    "description": {
+      "es": "Un compositor prueba distintas identidades sin apresurarse a elegir una definitiva.",
+      "en": "A songwriter tries on different identities without rushing to choose a final one.",
+      "fr": "Un auteur essaie plusieurs identités sans se presser d’en choisir une définitive."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Apple Music — 100 mejores álbumes",
+        "en": "Apple Music — 100 Best Albums",
+        "fr": "Apple Music — 100 meilleurs albums"
+      },
+      "source": "Apple Music",
+      "url": "https://www.apple.com/newsroom/2024/05/apple-music-celebrates-the-launch-of-inaugural-100-best-albums-list/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/album/0vypdDHTQsoVmVu8OgXEly"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/hunky-dory-2015-remaster/1039798000"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/browse/MPREb_e6Raab8DZaH"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "album-066",
+    "type": "album",
+    "artist": "Françoise Hardy",
+    "title": "La question",
+    "year": 1971,
+    "decade": "1970",
+    "genre": "folk",
+    "genreDetail": "Chanson y folk",
+    "country": "Francia",
+    "duration": "33 min",
+    "catalogue": "TLG–A–0066",
+    "coverClass": "cover-blue",
+    "coverUrl": "assets/covers-master/album-066.webp",
+    "thumbnailUrl": "assets/covers-master/album-066.webp",
+    "description": {
+      "es": "El deseo y la duda permanecen tan cerca que cualquier movimiento podría romper el equilibrio.",
+      "en": "Desire and doubt remain so close that any movement could break the balance.",
+      "fr": "Le désir et le doute restent si proches que le moindre mouvement pourrait rompre l’équilibre."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Les Inrockuptibles — listas francesas",
+        "en": "Les Inrockuptibles — French lists",
+        "fr": "Les Inrockuptibles — sélections françaises"
+      },
+      "source": "Les Inrockuptibles",
+      "url": "https://www.lesinrocks.com/musique/les-100-meilleurs-albums-francais-de-tous-les-temps-125490-25-08-2017/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/album/42FkWEwDRihRWbsOdZmLSn"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/la-question/1490263490"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/browse/MPREb_Jl0O98LtYxV"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Rotación"
+  },
+  {
+    "id": "album-049",
+    "type": "album",
+    "artist": "Funkadelic",
+    "title": "Maggot Brain",
+    "year": 1971,
+    "decade": "1970",
+    "genre": "soul",
+    "genreDetail": "Funk rock",
+    "country": "Estados Unidos",
+    "duration": "37 min",
+    "catalogue": "TLG–A–0049",
+    "coverClass": "cover-red",
+    "coverUrl": "assets/covers-master/album-049.webp",
+    "thumbnailUrl": "assets/covers-master/album-049.webp",
+    "description": {
+      "es": "Un viaje desde el vacío más doloroso hasta el exceso más alegre sin perder identidad en el trayecto.",
+      "en": "A journey from the deepest emptiness to the most joyful excess without losing identity along the way.",
+      "fr": "Un voyage du vide le plus douloureux à l’excès le plus joyeux sans perdre son identité en chemin."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Pitchfork — listas por década y año",
+        "en": "Pitchfork — lists by decade and year",
+        "fr": "Pitchfork — sélections par décennie et par année"
+      },
+      "source": "Pitchfork",
+      "url": "https://pitchfork.com/features/lists-and-guides/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/album/3ywVzrwMQ3Kq43N9zBdBQm"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/maggot-brain-2026-remastered/6772320574"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/browse/MPREb_OlDsQnYS8Vu"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "album-067",
+    "type": "album",
+    "artist": "Happy End",
+    "title": "Kazemachi Roman",
+    "year": 1971,
+    "decade": "1970",
+    "genre": "folk",
+    "genreDetail": "Folk rock",
+    "country": "Japón",
+    "duration": "36 min",
+    "catalogue": "TLG–A–0067",
+    "coverClass": "cover-yellow",
+    "coverUrl": "assets/covers-master/album-067.webp",
+    "thumbnailUrl": "assets/covers-master/album-067.webp",
+    "description": {
+      "es": "La modernidad de Tokio aparece en canciones que avanzan con la calma de quien observa desde una ventana.",
+      "en": "Modern Tokyo appears in songs moving with the calm of someone watching from a window.",
+      "fr": "La modernité de Tokyo apparaît dans des chansons qui avancent avec le calme d’un regard posé depuis une fenêtre."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Beehype — mejores álbumes japoneses",
+        "en": "Beehype — best Japanese albums",
+        "fr": "Beehype — meilleurs albums japonais"
+      },
+      "source": "Beehype",
+      "url": "https://beehy.pe/special/best-japanese-albums/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/album/3N3NdhXkyIKauv6xkoUpwE"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/us/album/%E9%A2%A8%E8%A1%97%E3%82%8D%E3%81%BE%E3%82%93/1675259114"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/browse/MPREb_DtiEtdF30C4"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Foco mensual"
+  },
+  {
+    "id": "album-005",
+    "type": "album",
+    "artist": "Joni Mitchell",
+    "title": "Blue",
+    "year": 1971,
+    "decade": "1970",
+    "genre": "folk",
+    "genreDetail": "Folk y canción de autor",
+    "country": "Canadá",
+    "duration": "36 min",
+    "catalogue": "TLG–A–0005",
+    "coverClass": "cover-green",
+    "coverUrl": "assets/covers-master/album-005.webp",
+    "thumbnailUrl": "assets/covers-master/album-005.webp",
+    "description": {
+      "es": "Una confesión adulta que entiende que mostrarse vulnerable también exige una forma rigurosa.",
+      "en": "An adult confession that understands vulnerability also requires rigorous form.",
+      "fr": "Une confession adulte qui comprend que la vulnérabilité exige elle aussi une forme rigoureuse."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Apple Music — 100 mejores álbumes",
+        "en": "Apple Music — 100 Best Albums",
+        "fr": "Apple Music — 100 meilleurs albums"
+      },
+      "source": "Apple Music",
+      "url": "https://www.apple.com/newsroom/2024/05/apple-music-celebrates-the-launch-of-inaugural-100-best-albums-list/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/album/1vz94WpXDVYIEGja8cjFNa"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/blue/1492263092"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/browse/MPREb_dhgE6kiAvRR"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "album-002",
+    "type": "album",
+    "artist": "Marvin Gaye",
+    "title": "What's Going On",
+    "year": 1971,
+    "decade": "1970",
+    "genre": "soul",
+    "genreDetail": "Soul",
+    "country": "Estados Unidos",
+    "duration": "36 min",
+    "catalogue": "TLG–A–0002",
+    "coverClass": "cover-blue",
+    "coverUrl": "assets/covers-master/album-002.webp",
+    "thumbnailUrl": "assets/covers-master/album-002.webp",
+    "description": {
+      "es": "Una crisis social completa narrada con la cercanía de una conversación entre vecinos.",
+      "en": "A complete social crisis told with the closeness of a conversation among neighbours.",
+      "fr": "Une crise sociale entière racontée avec la proximité d’une conversation entre voisins."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Rolling Stone — 500 mejores álbumes",
+        "en": "Rolling Stone — 500 Greatest Albums",
+        "fr": "Rolling Stone — 500 meilleurs albums"
+      },
+      "source": "Rolling Stone",
+      "url": "https://www.rollingstone.com/music/music-lists/best-albums-of-all-time-1062063/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/whats-going-on/1538081586"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/browse/MPREb_CtQnSJqssib"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "album-068",
+    "type": "album",
+    "artist": "Serge Gainsbourg",
+    "title": "Histoire de Melody Nelson",
+    "year": 1971,
+    "decade": "1970",
+    "genre": "pop",
+    "genreDetail": "Pop orquestal",
+    "country": "Francia",
+    "duration": "28 min",
+    "catalogue": "TLG–A–0068",
+    "coverClass": "cover-red",
+    "coverUrl": "assets/covers-master/album-068.webp",
+    "thumbnailUrl": "assets/covers-master/album-068.webp",
+    "description": {
+      "es": "Una fantasía breve y turbia cuya belleza nunca permite olvidar quién controla el relato.",
+      "en": "A brief, murky fantasy whose beauty never lets us forget who controls the story.",
+      "fr": "Une fantaisie brève et trouble dont la beauté ne laisse jamais oublier qui contrôle le récit."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Pitchfork — listas por década y año",
+        "en": "Pitchfork — lists by decade and year",
+        "fr": "Pitchfork — sélections par décennie et par année"
+      },
+      "source": "Pitchfork",
+      "url": "https://pitchfork.com/features/lists-and-guides/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/album/2EkzFOETimu1RgCSRzwIrU"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/histoire-de-melody-nelson/1443118514"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/browse/MPREb_GXKcP94m4I0"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "album-069",
+    "type": "album",
+    "artist": "Arthur Verocai",
+    "title": "Arthur Verocai",
+    "year": 1972,
+    "decade": "1970",
+    "genre": "jazz",
+    "genreDetail": "MPB y jazz",
+    "country": "Brasil",
+    "duration": "29 min",
+    "catalogue": "TLG–A–0069",
+    "coverClass": "cover-yellow",
+    "coverUrl": "assets/covers-master/album-069.webp",
+    "thumbnailUrl": "assets/covers-master/album-069.webp",
+    "description": {
+      "es": "Cada giro revela otra habitación dentro de una obra que parecía imposible de contener en un solo disco.",
+      "en": "Every turn reveals another room inside a work that seemed impossible to contain on one record.",
+      "fr": "Chaque détour révèle une nouvelle pièce dans une œuvre qui semblait impossible à contenir sur un seul disque."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Rolling Stone Brasil — discos y canciones",
+        "en": "Rolling Stone Brasil — albums and songs",
+        "fr": "Rolling Stone Brasil — albums et chansons"
+      },
+      "source": "Rolling Stone Brasil",
+      "url": "https://rollingstone.com.br/artigo/os-100-maiores-discos-da-musica-brasileira/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/album/4yv17Q486G8QoqM001kFKO"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/arthur-verocai/495578530"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/browse/MPREb_u0gBehbTD1s"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Foco mensual"
+  },
+  {
+    "id": "album-019",
+    "type": "album",
+    "artist": "Milton Nascimento & Lô Borges",
+    "title": "Clube da Esquina",
+    "year": 1972,
+    "decade": "1970",
+    "genre": "latin",
+    "genreDetail": "MPB",
+    "country": "Brasil",
+    "duration": "64 min",
+    "catalogue": "TLG–A–0019",
+    "coverClass": "cover-green",
+    "coverUrl": "assets/covers-master/album-019.webp",
+    "thumbnailUrl": "assets/covers-master/album-019.webp",
+    "description": {
+      "es": "Una comunidad inventada entre montañas, trenes, amistad y la posibilidad de otro Brasil.",
+      "en": "An imagined community of mountains, trains, friendship and the possibility of another Brazil.",
+      "fr": "Une communauté imaginée entre montagnes, trains, amitié et possibilité d’un autre Brésil."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Rolling Stone Brasil — discos y canciones",
+        "en": "Rolling Stone Brasil — albums and songs",
+        "fr": "Rolling Stone Brasil — albums et chansons"
+      },
+      "source": "Rolling Stone Brasil",
+      "url": "https://rollingstone.com.br/artigo/os-100-maiores-discos-da-musica-brasileira/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/album/5risYG7klZCSLMNxB9dZhf"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/clube-da-esquina/1473446573"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/browse/MPREb_ssu6fPzQdWm"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "album-070",
+    "type": "album",
+    "artist": "Novos Baianos",
+    "title": "Acabou Chorare",
+    "year": 1972,
+    "decade": "1970",
+    "genre": "latin",
+    "genreDetail": "MPB y samba",
+    "country": "Brasil",
+    "duration": "39 min",
+    "catalogue": "TLG–A–0070",
+    "coverClass": "cover-blue",
+    "coverUrl": "assets/covers-master/album-070.webp",
+    "thumbnailUrl": "assets/covers-master/album-070.webp",
+    "description": {
+      "es": "La alegría de vivir, tocar y discutir bajo el mismo techo convertida en método de trabajo.",
+      "en": "The joy of living, playing and arguing under one roof turned into a working method.",
+      "fr": "La joie de vivre, jouer et discuter sous le même toit devenue méthode de travail."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Los 600 Discos de Latinoamérica",
+        "en": "The 600 Albums of Latin America",
+        "fr": "Les 600 albums d’Amérique latine"
+      },
+      "source": "Los 600 Discos de Latinoamérica",
+      "url": "https://www.600discoslatam.com/indice-general-de-los-600-discos-de-latinoamerica/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/album/76iTNsPU1yhKWcQrTc2qdA"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/acabou-chorare/1831607320"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/browse/MPREb_3SD75IDuBzE"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "album-071",
+    "type": "album",
+    "artist": "Pescado Rabioso",
+    "title": "Artaud",
+    "year": 1973,
+    "decade": "1970",
+    "genre": "rock",
+    "genreDetail": "Rock argentino",
+    "country": "Argentina",
+    "duration": "36 min",
+    "catalogue": "TLG–A–0071",
+    "coverClass": "cover-red",
+    "coverUrl": "assets/covers-master/album-071.webp",
+    "thumbnailUrl": "assets/covers-master/album-071.webp",
+    "description": {
+      "es": "Una obra frágil y desafiante que protege su misterio sin cerrarle la puerta al oyente.",
+      "en": "A fragile, defiant work that protects its mystery without closing the door on the listener.",
+      "fr": "Une œuvre fragile et insoumise qui protège son mystère sans fermer la porte à l’auditeur."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Indie Hoy — listas argentinas y por década",
+        "en": "Indie Hoy — Argentine and decade lists",
+        "fr": "Indie Hoy — sélections argentines et par décennie"
+      },
+      "source": "Indie Hoy",
+      "url": "https://indiehoy.com/listas/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/album/5MJR9j21vjEi4ODxzhvoTA"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/artaud/321645242"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/browse/MPREb_nMAqPGcJBl2"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Foco mensual"
+  },
+  {
+    "id": "album-020",
+    "type": "album",
+    "artist": "Stevie Wonder",
+    "title": "Innervisions",
+    "year": 1973,
+    "decade": "1970",
+    "genre": "soul",
+    "genreDetail": "Soul y funk",
+    "country": "Estados Unidos",
+    "duration": "44 min",
+    "catalogue": "TLG–A–0020",
+    "coverClass": "cover-yellow",
+    "coverUrl": "assets/covers-master/album-020.webp",
+    "thumbnailUrl": "assets/covers-master/album-020.webp",
+    "description": {
+      "es": "La vida cotidiana examinada con una curiosidad musical que nunca acepta respuestas fáciles.",
+      "en": "Everyday life examined with a musical curiosity that never accepts easy answers.",
+      "fr": "Le quotidien observé avec une curiosité musicale qui n’accepte aucune réponse facile."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Rolling Stone — 500 mejores álbumes",
+        "en": "Rolling Stone — 500 Greatest Albums",
+        "fr": "Rolling Stone — 500 meilleurs albums"
+      },
+      "source": "Rolling Stone",
+      "url": "https://www.rollingstone.com/music/music-lists/best-albums-of-all-time-1062063/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/innervisions/1440806790"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/browse/MPREb_HQxE96d4Cve"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "album-072",
+    "type": "album",
+    "artist": "Jorge Ben",
+    "title": "A Tábua de Esmeralda",
+    "year": 1974,
+    "decade": "1970",
+    "genre": "latin",
+    "genreDetail": "Samba rock",
+    "country": "Brasil",
+    "duration": "40 min",
+    "catalogue": "TLG–A–0072",
+    "coverClass": "cover-green",
+    "coverUrl": "assets/covers-master/album-072.webp",
+    "thumbnailUrl": "assets/covers-master/album-072.webp",
+    "description": {
+      "es": "Historia, magia y placer de bailar reunidos en una obra donde el conocimiento también tiene ritmo.",
+      "en": "History, magic and the pleasure of dancing meet in a work where knowledge also has rhythm.",
+      "fr": "Histoire, magie et plaisir de danser se rejoignent dans une œuvre où le savoir possède lui aussi un rythme."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Los 600 Discos de Latinoamérica",
+        "en": "The 600 Albums of Latin America",
+        "fr": "Les 600 albums d’Amérique latine"
+      },
+      "source": "Los 600 Discos de Latinoamérica",
+      "url": "https://www.600discoslatam.com/indice-general-de-los-600-discos-de-latinoamerica/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/album/5rcMJNWebtl2r2S18Je1A0"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/a-tabua-de-esmeralda/1444036491"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/browse/MPREb_SAt1jcQKRhK"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "album-073",
+    "type": "album",
+    "artist": "Fela Kuti & Africa 70",
+    "title": "Expensive Shit",
+    "year": 1975,
+    "decade": "1970",
+    "genre": "folk",
+    "genreDetail": "Afrobeat",
+    "country": "Nigeria",
+    "duration": "25 min",
+    "catalogue": "TLG–A–0073",
+    "coverClass": "cover-blue",
+    "coverUrl": "assets/covers-master/album-073.webp",
+    "thumbnailUrl": "assets/covers-master/album-073.webp",
+    "description": {
+      "es": "Una conversación que sólo revela todo su sentido cuando el cuerpo ya ha empezado a participar.",
+      "en": "A conversation that reveals its full meaning only after the body has begun to take part.",
+      "fr": "Une conversation qui ne révèle tout son sens qu’une fois le corps déjà engagé."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Pan African Music — selecciones africanas",
+        "en": "Pan African Music — African selections",
+        "fr": "Pan African Music — sélections africaines"
+      },
+      "source": "Pan African Music",
+      "url": "https://pan-african-music.com/en/80-best-albums-2010s/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/album/5QtXhQE2WvVLz60sYwafQH"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/us/album/expensive-shit/739004054"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/browse/MPREb_t1F6RMW1dwE"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "album-023",
+    "type": "album",
+    "artist": "Parliament",
+    "title": "Mothership Connection",
+    "year": 1975,
+    "decade": "1970",
+    "genre": "soul",
+    "genreDetail": "P-Funk",
+    "country": "Estados Unidos",
+    "duration": "38 min",
+    "catalogue": "TLG–A–0023",
+    "coverClass": "cover-red",
+    "coverUrl": "assets/covers-master/album-023.webp",
+    "thumbnailUrl": "assets/covers-master/album-023.webp",
+    "description": {
+      "es": "Una fiesta llegada del espacio que usa el humor para imaginar libertad, comunidad y deseo.",
+      "en": "A party from outer space using humour to imagine freedom, community and desire.",
+      "fr": "Une fête venue de l’espace qui utilise l’humour pour imaginer liberté, communauté et désir."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Pitchfork — listas por década y año",
+        "en": "Pitchfork — lists by decade and year",
+        "fr": "Pitchfork — sélections par décennie et par année"
+      },
+      "source": "Pitchfork",
+      "url": "https://pitchfork.com/features/lists-and-guides/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/album/4q1HNSka8CzuLvC8ydcsD2"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/mothership-connection/1440837684"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/browse/MPREb_kZhTxqCINhb"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Rotación"
+  },
+  {
+    "id": "album-022",
+    "type": "album",
+    "artist": "Patti Smith",
+    "title": "Horses",
+    "year": 1975,
+    "decade": "1970",
+    "genre": "rock",
+    "genreDetail": "Punk y art rock",
+    "country": "Estados Unidos",
+    "duration": "43 min",
+    "catalogue": "TLG–A–0022",
+    "coverClass": "cover-yellow",
+    "coverUrl": "assets/covers-master/album-022.webp",
+    "thumbnailUrl": "assets/covers-master/album-022.webp",
+    "description": {
+      "es": "La poesía deja de ser un objeto delicado y vuelve a caminar entre cuerpos, ruido y calle.",
+      "en": "Poetry stops being a delicate object and walks again among bodies, noise and the street.",
+      "fr": "La poésie cesse d’être un objet délicat et recommence à marcher parmi les corps, le bruit et la rue."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Rolling Stone — 500 mejores álbumes",
+        "en": "Rolling Stone — 500 Greatest Albums",
+        "fr": "Rolling Stone — 500 meilleurs albums"
+      },
+      "source": "Rolling Stone",
+      "url": "https://www.rollingstone.com/music/music-lists/best-albums-of-all-time-1062063/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/album/0OeuSeP8wp8n8OuTqYb61C"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/horses/1038568061"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/browse/MPREb_vOUT1LL7Mo4"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "album-003",
+    "type": "album",
+    "artist": "Kraftwerk",
+    "title": "Trans-Europe Express",
+    "year": 1977,
+    "decade": "1970",
+    "genre": "electronic",
+    "genreDetail": "Electrónica",
+    "country": "Alemania",
+    "duration": "43 min",
+    "catalogue": "TLG–A–0003",
+    "coverClass": "cover-green",
+    "coverUrl": "assets/covers-master/album-003.webp",
+    "thumbnailUrl": "assets/covers-master/album-003.webp",
+    "description": {
+      "es": "Europa observada desde un tren que parece avanzar tanto por la historia como por el paisaje.",
+      "en": "Europe seen from a train that seems to travel through history as much as landscape.",
+      "fr": "L’Europe vue depuis un train qui semble traverser autant l’histoire que le paysage."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Apple Music — 100 mejores álbumes",
+        "en": "Apple Music — 100 Best Albums",
+        "fr": "Apple Music — 100 meilleurs albums"
+      },
+      "source": "Apple Music",
+      "url": "https://www.apple.com/newsroom/2024/05/apple-music-celebrates-the-launch-of-inaugural-100-best-albums-list/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/album/0pj2vNZ0AI1nOjJJbDyw4d"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/trans-europe-express-2009-remaster/726144557"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/browse/MPREb_LkoKsgmSQCJ"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "album-074",
+    "type": "album",
+    "artist": "The Congos",
+    "title": "Heart of the Congos",
+    "year": 1977,
+    "decade": "1970",
+    "genre": "folk",
+    "genreDetail": "Roots reggae",
+    "country": "Jamaica",
+    "duration": "152 min",
+    "catalogue": "TLG–A–0074",
+    "coverClass": "cover-blue",
+    "coverUrl": "assets/covers-master/album-074.webp",
+    "thumbnailUrl": "assets/covers-master/album-074.webp",
+    "description": {
+      "es": "Una experiencia espiritual donde la profundidad parece crecer mucho más allá de las bocinas.",
+      "en": "A spiritual experience whose depth seems to extend far beyond the speakers.",
+      "fr": "Une expérience spirituelle dont la profondeur semble se prolonger bien au-delà des enceintes."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Acclaimed Music — agregador crítico",
+        "en": "Acclaimed Music — critical aggregator",
+        "fr": "Acclaimed Music — agrégateur critique"
+      },
+      "source": "Acclaimed Music",
+      "url": "https://www.acclaimedmusic.net/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/album/0FqUTYrs4FtPbav2Ry2I1M"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/heart-of-the-congos-40th-anniversary-edition/1230095082"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/browse/MPREb_JBbhelH0ez6"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Rotación"
+  },
+  {
+    "id": "album-075",
+    "type": "album",
+    "artist": "Brian Eno",
+    "title": "Ambient 1: Music for Airports",
+    "year": 1978,
+    "decade": "1970",
+    "genre": "electronic",
+    "genreDetail": "Ambient",
+    "country": "Reino Unido",
+    "duration": "48 min",
+    "catalogue": "TLG–A–0075",
+    "coverClass": "cover-red",
+    "coverUrl": "assets/covers-master/album-075.webp",
+    "thumbnailUrl": "assets/covers-master/album-075.webp",
+    "description": {
+      "es": "Un espacio público imaginado para calmar la ansiedad sin fingir que ha desaparecido.",
+      "en": "A public space imagined to soothe anxiety without pretending it has disappeared.",
+      "fr": "Un espace public imaginé pour apaiser l’angoisse sans prétendre qu’elle a disparu."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Resident Advisor — mejores discos y pistas",
+        "en": "Resident Advisor — best records and tracks",
+        "fr": "Resident Advisor — meilleurs disques et morceaux"
+      },
+      "source": "Resident Advisor",
+      "url": "https://www.residentadvisor.net/features.aspx?series=bestmusic"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/album/063f8Ej8rLVTz9KkjQKEMa"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/ambient-1-music-for-airports/724435863"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/browse/MPREb_5aNAcGxsnUX"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "album-025",
+    "type": "album",
+    "artist": "Willie Colón & Rubén Blades",
+    "title": "Siembra",
+    "year": 1978,
+    "decade": "1970",
+    "genre": "latin",
+    "genreDetail": "Salsa",
+    "country": "Estados Unidos / Panamá",
+    "duration": "43 min",
+    "catalogue": "TLG–A–0025",
+    "coverClass": "cover-yellow",
+    "coverUrl": "assets/covers-master/album-025.webp",
+    "thumbnailUrl": "assets/covers-master/album-025.webp",
+    "description": {
+      "es": "Una ciudad entera entra en escena y convierte sus desigualdades en relato, baile y advertencia.",
+      "en": "An entire city enters the stage and turns its inequalities into story, dance and warning.",
+      "fr": "Une ville entière entre en scène et transforme ses inégalités en récit, danse et avertissement."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Radiónica — música colombiana y latinoamericana",
+        "en": "Radiónica — Colombian and Latin American music",
+        "fr": "Radiónica — musique colombienne et latino-américaine"
+      },
+      "source": "Radiónica",
+      "url": "https://www.radionica.rocks/musica"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/album/7wOJ9RTQr05ytqROWtTPzy"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/siembra/1579606107"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/browse/MPREb_cfHsDiYJFa4"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "album-076",
+    "type": "album",
+    "artist": "Yellow Magic Orchestra",
+    "title": "Solid State Survivor",
+    "year": 1979,
+    "decade": "1970",
+    "genre": "electronic",
+    "genreDetail": "Electropop",
+    "country": "Japón",
+    "duration": "32 min",
+    "catalogue": "TLG–A–0076",
+    "coverClass": "cover-green",
+    "coverUrl": "assets/covers-master/album-076.webp",
+    "thumbnailUrl": "assets/covers-master/album-076.webp",
+    "description": {
+      "es": "El futuro se vuelve cercano, juguetón y extrañamente cotidiano cuando las máquinas dejan de posar.",
+      "en": "The future becomes familiar, playful and oddly everyday once the machines stop posing.",
+      "fr": "Le futur devient familier, ludique et étrangement quotidien lorsque les machines cessent de poser."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Rolling Stone Japan — 100 álbumes japoneses de rock",
+        "en": "Rolling Stone Japan — 100 Japanese Rock Albums",
+        "fr": "Rolling Stone Japan — 100 albums japonais de rock"
+      },
+      "source": "Rolling Stone Japan",
+      "url": "https://neojaponisme.com/2007/11/09/100-greatest-japanese-rock-albums/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/album/5TmpFE7Xus70ko1QYGxFIe"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/solid-state-survivor/1291843638"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/browse/MPREb_G23yNWyCvtm"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "album-027",
+    "type": "album",
+    "artist": "Talking Heads",
+    "title": "Remain in Light",
+    "year": 1980,
+    "decade": "1980",
+    "genre": "soul",
+    "genreDetail": "Art rock y funk",
+    "country": "Estados Unidos",
+    "duration": "40 min",
+    "catalogue": "TLG–A–0027",
+    "coverClass": "cover-blue",
+    "coverUrl": "assets/covers-master/album-027.webp",
+    "thumbnailUrl": "assets/covers-master/album-027.webp",
+    "description": {
+      "es": "La sensación de que una ciudad completa corre por el cuerpo de una banda incapaz de quedarse quieta.",
+      "en": "The feeling of an entire city running through the body of a band unable to stand still.",
+      "fr": "La sensation qu’une ville entière traverse le corps d’un groupe incapable de rester immobile."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Apple Music — 100 mejores álbumes",
+        "en": "Apple Music — 100 Best Albums",
+        "fr": "Apple Music — 100 meilleurs albums"
+      },
+      "source": "Apple Music",
+      "url": "https://www.apple.com/newsroom/2024/05/apple-music-celebrates-the-launch-of-inaugural-100-best-albums-list/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/album/1JvXxLsm0PxlGH4LXzqMGq"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/remain-in-light/300948043"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/browse/MPREb_0khzh74WqJw"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "album-077",
+    "type": "album",
+    "artist": "Los Jaivas",
+    "title": "Alturas de Macchu Picchu",
+    "year": 1981,
+    "decade": "1980",
+    "genre": "rock",
+    "genreDetail": "Rock progresivo andino",
+    "country": "Chile",
+    "duration": "37 min",
+    "catalogue": "TLG–A–0077",
+    "coverClass": "cover-red",
+    "coverUrl": "assets/covers-master/album-077.webp",
+    "thumbnailUrl": "assets/covers-master/album-077.webp",
+    "description": {
+      "es": "Poesía, paisaje y memoria continental alcanzan una escala que no cabe en una postal.",
+      "en": "Poetry, landscape and continental memory reach a scale no postcard could contain.",
+      "fr": "Poésie, paysage et mémoire continentale atteignent une échelle qu’aucune carte postale ne saurait contenir."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Radiónica — música colombiana y latinoamericana",
+        "en": "Radiónica — Colombian and Latin American music",
+        "fr": "Radiónica — musique colombienne et latino-américaine"
+      },
+      "source": "Radiónica",
+      "url": "https://www.radionica.rocks/musica"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/album/454rwJ7uRe7q5VW7dUj1XH"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/alturas-de-macchu-picchu/1607400773"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/browse/MPREb_HDgMolqQAb6"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "album-028",
+    "type": "album",
+    "artist": "Charly García",
+    "title": "Clics modernos",
+    "year": 1983,
+    "decade": "1980",
+    "genre": "rock",
+    "genreDetail": "Rock y new wave",
+    "country": "Argentina",
+    "duration": "34 min",
+    "catalogue": "TLG–A–0028",
+    "coverClass": "cover-yellow",
+    "coverUrl": "assets/covers-master/album-028.webp",
+    "thumbnailUrl": "assets/covers-master/album-028.webp",
+    "description": {
+      "es": "Una Buenos Aires moderna, nerviosa y brillante observada con humor desde el exilio interior.",
+      "en": "A modern, nervous and bright Buenos Aires observed with humour from inner exile.",
+      "fr": "Un Buenos Aires moderne, nerveux et lumineux observé avec humour depuis un exil intérieur."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Los 600 Discos de Latinoamérica",
+        "en": "The 600 Albums of Latin America",
+        "fr": "Les 600 albums d’Amérique latine"
+      },
+      "source": "Los 600 Discos de Latinoamérica",
+      "url": "https://www.600discoslatam.com/indice-general-de-los-600-discos-de-latinoamerica/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/album/3OyBf97NOuJjhEpQHY920H"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/clics-modernos/1443921010"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/browse/MPREb_KksITQ4nrgI"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "album-078",
+    "type": "album",
+    "artist": "Sade",
+    "title": "Diamond Life",
+    "year": 1984,
+    "decade": "1980",
+    "genre": "soul",
+    "genreDetail": "Soul y sophisti-pop",
+    "country": "Reino Unido",
+    "duration": "45 min",
+    "catalogue": "TLG–A–0078",
+    "coverClass": "cover-green",
+    "coverUrl": "assets/covers-master/album-078.webp",
+    "thumbnailUrl": "assets/covers-master/album-078.webp",
+    "description": {
+      "es": "La sofisticación funciona como una manera de mirar de frente el deseo, la ambición y sus acuerdos.",
+      "en": "Sophistication becomes a way of facing desire, ambition and their compromises directly.",
+      "fr": "La sophistication devient une manière de regarder en face le désir, l’ambition et leurs compromis."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Pitchfork — listas por década y año",
+        "en": "Pitchfork — lists by decade and year",
+        "fr": "Pitchfork — sélections par décennie et par année"
+      },
+      "source": "Pitchfork",
+      "url": "https://pitchfork.com/features/lists-and-guides/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/album/3JcNnjMVSKiNpqhErZarW0"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/diamond-life/1524651063"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/browse/MPREb_HEMsUPp9el0"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Rotación"
+  },
+  {
+    "id": "album-029",
+    "type": "album",
+    "artist": "Kate Bush",
+    "title": "Hounds of Love",
+    "year": 1985,
+    "decade": "1980",
+    "genre": "pop",
+    "genreDetail": "Art pop",
+    "country": "Reino Unido",
+    "duration": "47 min",
+    "catalogue": "TLG–A–0029",
+    "coverClass": "cover-blue",
+    "coverUrl": "assets/covers-master/album-029.webp",
+    "thumbnailUrl": "assets/covers-master/album-029.webp",
+    "description": {
+      "es": "Dos mitades distintas muestran que una imaginación privada también puede alcanzar dimensiones épicas.",
+      "en": "Two different halves show that a private imagination can also reach epic dimensions.",
+      "fr": "Deux moitiés différentes montrent qu’une imagination intime peut elle aussi atteindre une dimension épique."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Apple Music — 100 mejores álbumes",
+        "en": "Apple Music — 100 Best Albums",
+        "fr": "Apple Music — 100 meilleurs albums"
+      },
+      "source": "Apple Music",
+      "url": "https://www.apple.com/newsroom/2024/05/apple-music-celebrates-the-launch-of-inaugural-100-best-albums-list/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/hounds-of-love-2018-remaster/1675560565"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/browse/MPREb_9sJyLxgw0QA"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "album-031",
+    "type": "album",
+    "artist": "Janet Jackson",
+    "title": "Control",
+    "year": 1986,
+    "decade": "1980",
+    "genre": "soul",
+    "genreDetail": "Pop y R&B",
+    "country": "Estados Unidos",
+    "duration": "42 min",
+    "catalogue": "TLG–A–0031",
+    "coverClass": "cover-red",
+    "coverUrl": "assets/covers-master/album-031.webp",
+    "thumbnailUrl": "assets/covers-master/album-031.webp",
+    "description": {
+      "es": "El momento en que tomar el control de la propia historia también significó transformar el pop.",
+      "en": "The moment taking control of one’s own story also meant transforming pop.",
+      "fr": "Le moment où reprendre le contrôle de sa propre histoire signifiait aussi transformer la pop."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Apple Music — 100 mejores álbumes",
+        "en": "Apple Music — 100 Best Albums",
+        "fr": "Apple Music — 100 meilleurs albums"
+      },
+      "source": "Apple Music",
+      "url": "https://www.apple.com/newsroom/2024/05/apple-music-celebrates-the-launch-of-inaugural-100-best-albums-list/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/album/7GWkceE5McMVfffd1RGL6Y"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/control/1440831636"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/browse/MPREb_HaPtZEtfoPY"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "album-079",
+    "type": "album",
+    "artist": "The Smiths",
+    "title": "The Queen Is Dead",
+    "year": 1986,
+    "decade": "1980",
+    "genre": "rock",
+    "genreDetail": "Indie rock",
+    "country": "Reino Unido",
+    "duration": "37 min",
+    "catalogue": "TLG–A–0079",
+    "coverClass": "cover-yellow",
+    "coverUrl": "assets/covers-master/album-079.webp",
+    "thumbnailUrl": "assets/covers-master/album-079.webp",
+    "description": {
+      "es": "Canciones brillantes sobre personas que usan el ingenio para no admitir cuánto les duele estar solas.",
+      "en": "Bright songs about people who use wit to avoid admitting how much loneliness hurts.",
+      "fr": "Des chansons lumineuses sur des êtres qui se servent de l’esprit pour ne pas avouer combien la solitude leur fait mal."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Apple Music — 100 mejores álbumes",
+        "en": "Apple Music — 100 Best Albums",
+        "fr": "Apple Music — 100 meilleurs albums"
+      },
+      "source": "Apple Music",
+      "url": "https://www.apple.com/newsroom/2024/05/apple-music-celebrates-the-launch-of-inaugural-100-best-albums-list/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/album/5Y0p2XCgRRIjna91aQE8q7"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/the-queen-is-dead/800092985"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/browse/MPREb_LK6XKj3XSaf"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Rotación"
+  },
+  {
+    "id": "album-030",
+    "type": "album",
+    "artist": "Prince",
+    "title": "Sign o' the Times",
+    "year": 1987,
+    "decade": "1980",
+    "genre": "soul",
+    "genreDetail": "Pop y funk",
+    "country": "Estados Unidos",
+    "duration": "80 min",
+    "catalogue": "TLG–A–0030",
+    "coverClass": "cover-green",
+    "coverUrl": "assets/covers-master/album-030.webp",
+    "thumbnailUrl": "assets/covers-master/album-030.webp",
+    "description": {
+      "es": "Un artista en pleno dominio se permite ser contradictorio, excesivo, íntimo y político en la misma obra.",
+      "en": "An artist in full command allows himself to be contradictory, excessive, intimate and political within one work.",
+      "fr": "Un artiste en pleine maîtrise se permet d’être contradictoire, excessif, intime et politique dans une même œuvre."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Rolling Stone — 500 mejores álbumes",
+        "en": "Rolling Stone — 500 Greatest Albums",
+        "fr": "Rolling Stone — 500 meilleurs albums"
+      },
+      "source": "Rolling Stone",
+      "url": "https://www.rollingstone.com/music/music-lists/best-albums-of-all-time-1062063/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/album/1XsXHctYSQNyAd9BANCk2B"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/us/album/sign-o-the-times/1544303593"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/browse/MPREb_SoaNDbK8yuB"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "album-080",
+    "type": "album",
+    "artist": "N.W.A",
+    "title": "Straight Outta Compton",
+    "year": 1988,
+    "decade": "1980",
+    "genre": "hip-hop",
+    "genreDetail": "Hip-hop",
+    "country": "Estados Unidos",
+    "duration": "58 min",
+    "catalogue": "TLG–A–0080",
+    "coverClass": "cover-blue",
+    "coverUrl": "assets/covers-master/album-080.webp",
+    "thumbnailUrl": "assets/covers-master/album-080.webp",
+    "description": {
+      "es": "Una irrupción hostil que obliga a escuchar tanto la realidad narrada como el espectáculo construido alrededor de ella.",
+      "en": "A hostile arrival demanding attention to both the reality described and the spectacle built around it.",
+      "fr": "Une irruption hostile qui oblige à entendre la réalité racontée autant que le spectacle construit autour d’elle."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Rolling Stone — 500 mejores álbumes",
+        "en": "Rolling Stone — 500 Greatest Albums",
+        "fr": "Rolling Stone — 500 meilleurs albums"
+      },
+      "source": "Rolling Stone",
+      "url": "https://www.rollingstone.com/music/music-lists/best-albums-of-all-time-1062063/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/album/0Y7qkJVZ06tS2GUCDptzyW"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/straight-outta-compton/1478946356"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/browse/MPREb_shdy7WCXeqz"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "album-081",
+    "type": "album",
+    "artist": "Public Enemy",
+    "title": "It Takes a Nation of Millions to Hold Us Back",
+    "year": 1988,
+    "decade": "1980",
+    "genre": "hip-hop",
+    "genreDetail": "Hip-hop",
+    "country": "Estados Unidos",
+    "duration": "58 min",
+    "catalogue": "TLG–A–0081",
+    "coverClass": "cover-red",
+    "coverUrl": "assets/covers-master/album-081.webp",
+    "thumbnailUrl": "assets/covers-master/album-081.webp",
+    "description": {
+      "es": "Información, ruido y urgencia comprimidos hasta producir una música que no concede una posición neutral.",
+      "en": "Information, noise and urgency compressed into music that allows no neutral position.",
+      "fr": "Information, bruit et urgence comprimés jusqu’à produire une musique qui n’accorde aucune position neutre."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Apple Music — 100 mejores álbumes",
+        "en": "Apple Music — 100 Best Albums",
+        "fr": "Apple Music — 100 meilleurs albums"
+      },
+      "source": "Apple Music",
+      "url": "https://www.apple.com/newsroom/2024/05/apple-music-celebrates-the-launch-of-inaugural-100-best-albums-list/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/album/03Mx6yaV7k4bsEmcTH8J49"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/us/album/it-takes-a-nation-of-millions-to-hold-us-back/1440837788"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/browse/MPREb_AM60uGib8Dx"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "album-082",
+    "type": "album",
+    "artist": "Sonic Youth",
+    "title": "Daydream Nation",
+    "year": 1988,
+    "decade": "1980",
+    "genre": "rock",
+    "genreDetail": "Noise rock",
+    "country": "Estados Unidos",
+    "duration": "152 min",
+    "catalogue": "TLG–A–0082",
+    "coverClass": "cover-yellow",
+    "coverUrl": "assets/covers-master/album-082.webp",
+    "thumbnailUrl": "assets/covers-master/album-082.webp",
+    "description": {
+      "es": "Una deriva de guitarras que transforma la desorientación urbana en una forma inesperada de belleza.",
+      "en": "A drift of guitars turning urban disorientation into an unexpected form of beauty.",
+      "fr": "Une dérive de guitares qui transforme la désorientation urbaine en une forme inattendue de beauté."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Pitchfork — listas por década y año",
+        "en": "Pitchfork — lists by decade and year",
+        "fr": "Pitchfork — sélections par décennie et par année"
+      },
+      "source": "Pitchfork",
+      "url": "https://pitchfork.com/features/lists-and-guides/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/album/5z8bPdGFiJx56cqsHTvWM9"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/daydream-nation-deluxe-edition/520335802"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/browse/MPREb_YtNKiBRgTP9"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Rotación"
+  },
+  {
+    "id": "album-083",
+    "type": "album",
+    "artist": "Nusrat Fateh Ali Khan",
+    "title": "Shahen-Shah",
+    "year": 1989,
+    "decade": "1980",
+    "genre": "folk",
+    "genreDetail": "Qawwali",
+    "country": "Pakistán",
+    "duration": "71 min",
+    "catalogue": "TLG–A–0083",
+    "coverClass": "cover-green",
+    "coverUrl": "assets/covers-master/album-083.webp",
+    "thumbnailUrl": "assets/covers-master/album-083.webp",
+    "description": {
+      "es": "La devoción alcanza una intensidad que parece suspender por un momento la distancia entre cuerpo y espíritu.",
+      "en": "Devotion reaches an intensity that seems briefly to suspend the distance between body and spirit.",
+      "fr": "La dévotion atteint une intensité qui semble suspendre un instant la distance entre le corps et l’esprit."
+    },
+    "recognition": {
+      "type": "reference",
+      "title": {
+        "es": "Discogs — comunidad, ediciones y colección",
+        "en": "Discogs — community, editions and collecting",
+        "fr": "Discogs — communauté, éditions et collection"
+      },
+      "source": "Discogs",
+      "url": "https://support.discogs.com/hc/en-us/articles/360003622014-How-To-Browse-Search-In-The-Database"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/album/10GkvioKyOSyh7Q7aIbu2C"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/shahen-shah-real-world-gold/1653719596"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/browse/MPREb_Pw7QMSz77MS"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Foco mensual"
+  },
+  {
+    "id": "album-084",
+    "type": "album",
+    "artist": "The Cure",
+    "title": "Disintegration",
+    "year": 1989,
+    "decade": "1980",
+    "genre": "rock",
+    "genreDetail": "Rock alternativo",
+    "country": "Reino Unido",
+    "duration": "72 min",
+    "catalogue": "TLG–A–0084",
+    "coverClass": "cover-blue",
+    "coverUrl": "assets/covers-master/album-084.webp",
+    "thumbnailUrl": "assets/covers-master/album-084.webp",
+    "description": {
+      "es": "Un lugar para permanecer dentro de la tristeza hasta descubrir que también contiene destellos de luz.",
+      "en": "A place to remain inside sadness until discovering that it also contains flashes of light.",
+      "fr": "Un lieu où demeurer dans la tristesse jusqu’à découvrir qu’elle contient aussi des éclats de lumière."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Rolling Stone — 500 mejores álbumes",
+        "en": "Rolling Stone — 500 Greatest Albums",
+        "fr": "Rolling Stone — 500 meilleurs albums"
+      },
+      "source": "Rolling Stone",
+      "url": "https://www.rollingstone.com/music/music-lists/best-albums-of-all-time-1062063/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/album/7uUltiwqvVn8Uy23Hdf1kE"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/disintegration/1443843467"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/browse/MPREb_BBV3hJMs0YP"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Rotación"
+  },
+  {
+    "id": "album-085",
+    "type": "album",
+    "artist": "Cocteau Twins",
+    "title": "Heaven or Las Vegas",
+    "year": 1990,
+    "decade": "1990",
+    "genre": "rock",
+    "genreDetail": "Dream pop",
+    "country": "Escocia",
+    "duration": "37 min",
+    "catalogue": "TLG–A–0085",
+    "coverClass": "cover-red",
+    "coverUrl": "assets/covers-master/album-085.webp",
+    "thumbnailUrl": "assets/covers-master/album-085.webp",
+    "description": {
+      "es": "El enamoramiento convertido en un idioma sensorial que se entiende antes de descifrar una sola palabra.",
+      "en": "Infatuation turned into a sensory language understood before a single word is decoded.",
+      "fr": "L’éblouissement amoureux devient un langage sensoriel compris avant même de déchiffrer un seul mot."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Pitchfork — listas por década y año",
+        "en": "Pitchfork — lists by decade and year",
+        "fr": "Pitchfork — sélections par décennie et par année"
+      },
+      "source": "Pitchfork",
+      "url": "https://pitchfork.com/features/lists-and-guides/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/heaven-or-las-vegas-remastered/258198881"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/browse/MPREb_iY3KmrGPlGD"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Rotación"
+  },
+  {
+    "id": "album-086",
+    "type": "album",
+    "artist": "A Tribe Called Quest",
+    "title": "The Low End Theory",
+    "year": 1991,
+    "decade": "1990",
+    "genre": "hip-hop",
+    "genreDetail": "Hip-hop",
+    "country": "Estados Unidos",
+    "duration": "48 min",
+    "catalogue": "TLG–A–0086",
+    "coverClass": "cover-yellow",
+    "coverUrl": "assets/covers-master/album-086.webp",
+    "thumbnailUrl": "assets/covers-master/album-086.webp",
+    "description": {
+      "es": "Inteligencia, amistad y humor encuentran una cadencia donde nadie necesita imponerse para destacar.",
+      "en": "Intelligence, friendship and humour find a cadence where no one needs to dominate to stand out.",
+      "fr": "Intelligence, amitié et humour trouvent une cadence où personne n’a besoin de dominer pour se distinguer."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Rolling Stone — 500 mejores álbumes",
+        "en": "Rolling Stone — 500 Greatest Albums",
+        "fr": "Rolling Stone — 500 meilleurs albums"
+      },
+      "source": "Rolling Stone",
+      "url": "https://www.rollingstone.com/music/music-lists/best-albums-of-all-time-1062063/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/album/1p12OAWwudgMqfMzjMvl2a"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/us/album/the-low-end-theory/278911460"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/browse/MPREb_55oqD8AJaQU"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "album-036",
+    "type": "album",
+    "artist": "Massive Attack",
+    "title": "Blue Lines",
+    "year": 1991,
+    "decade": "1990",
+    "genre": "electronic",
+    "genreDetail": "Trip-hop",
+    "country": "Reino Unido",
+    "duration": "45 min",
+    "catalogue": "TLG–A–0036",
+    "coverClass": "cover-green",
+    "coverUrl": "assets/covers-master/album-036.webp",
+    "thumbnailUrl": "assets/covers-master/album-036.webp",
+    "description": {
+      "es": "Una noche urbana contada por varias voces que comparten clima sin perder su propia historia.",
+      "en": "An urban night told by several voices sharing a climate without losing their own stories.",
+      "fr": "Une nuit urbaine racontée par plusieurs voix qui partagent un climat sans perdre leur histoire."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Resident Advisor — mejores discos y pistas",
+        "en": "Resident Advisor — best records and tracks",
+        "fr": "Resident Advisor — meilleurs disques et morceaux"
+      },
+      "source": "Resident Advisor",
+      "url": "https://www.residentadvisor.net/features.aspx?series=bestmusic"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/album/3oUpZKrR0Z8DK7ud3S8a2M"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/blue-lines-2012-mix-master/715864097"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/browse/MPREb_wT1mZHKgy6D"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "album-006",
+    "type": "album",
+    "artist": "My Bloody Valentine",
+    "title": "Loveless",
+    "year": 1991,
+    "decade": "1990",
+    "genre": "rock",
+    "genreDetail": "Shoegaze",
+    "country": "Irlanda",
+    "duration": "49 min",
+    "catalogue": "TLG–A–0006",
+    "coverClass": "cover-blue",
+    "coverUrl": "assets/covers-master/album-006.webp",
+    "thumbnailUrl": "assets/covers-master/album-006.webp",
+    "description": {
+      "es": "Una experiencia física que vuelve borrosa la frontera entre el ruido exterior y la emoción más privada.",
+      "en": "A physical experience blurring the border between external noise and the most private emotion.",
+      "fr": "Une expérience physique qui brouille la frontière entre le bruit extérieur et l’émotion la plus intime."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Rolling Stone — 500 mejores álbumes",
+        "en": "Rolling Stone — 500 Greatest Albums",
+        "fr": "Rolling Stone — 500 meilleurs albums"
+      },
+      "source": "Rolling Stone",
+      "url": "https://www.rollingstone.com/music/music-lists/best-albums-of-all-time-1062063/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/album/3USQKOw0se5pBNEndu82Rb"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/loveless/1556921230"
+      },
+      "youtubeMusic": {
+        "status": "unavailable",
+        "reason": "The original Loveless album did not resolve to a playable YouTube Music album entity; unrelated tribute releases are intentionally excluded."
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "album-087",
+    "type": "album",
+    "artist": "Aphex Twin",
+    "title": "Selected Ambient Works 85–92",
+    "year": 1992,
+    "decade": "1990",
+    "genre": "electronic",
+    "genreDetail": "Electrónica",
+    "country": "Reino Unido",
+    "duration": "75 min",
+    "catalogue": "TLG–A–0087",
+    "coverClass": "cover-red",
+    "coverUrl": "assets/covers-master/album-087.webp",
+    "thumbnailUrl": "assets/covers-master/album-087.webp",
+    "description": {
+      "es": "Recuerdos electrónicos que conservan la calidez, el polvo y las imperfecciones de una habitación real.",
+      "en": "Electronic memories retaining the warmth, dust and imperfections of a real room.",
+      "fr": "Des souvenirs électroniques qui gardent la chaleur, la poussière et les imperfections d’une pièce réelle."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Resident Advisor — mejores discos y pistas",
+        "en": "Resident Advisor — best records and tracks",
+        "fr": "Resident Advisor — meilleurs disques et morceaux"
+      },
+      "source": "Resident Advisor",
+      "url": "https://www.residentadvisor.net/features.aspx?series=bestmusic"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/selected-ambient-works-85-92/1668862636"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/browse/MPREb_gaJgUErCmNd"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Rotación"
+  },
+  {
+    "id": "album-088",
+    "type": "album",
+    "artist": "Nirvana",
+    "title": "In Utero",
+    "year": 1993,
+    "decade": "1990",
+    "genre": "rock",
+    "genreDetail": "Rock alternativo",
+    "country": "Estados Unidos",
+    "duration": "42 min",
+    "catalogue": "TLG–A–0088",
+    "coverClass": "cover-yellow",
+    "coverUrl": "assets/covers-master/album-088.webp",
+    "thumbnailUrl": "assets/covers-master/album-088.webp",
+    "description": {
+      "es": "Una respuesta incómoda al éxito que se niega a convertir el conflicto en una pose vendible.",
+      "en": "An uncomfortable response to success that refuses to turn conflict into a marketable pose.",
+      "fr": "Une réponse inconfortable au succès qui refuse de transformer le conflit en posture vendable."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Rolling Stone — 500 mejores álbumes",
+        "en": "Rolling Stone — 500 Greatest Albums",
+        "fr": "Rolling Stone — 500 meilleurs albums"
+      },
+      "source": "Rolling Stone",
+      "url": "https://www.rollingstone.com/music/music-lists/best-albums-of-all-time-1062063/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/album/7wOOA7l306K8HfBKfPoafr"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/in-utero-20th-anniversary-edition/1440858699"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/browse/MPREb_fOBl6NeUrW5"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "album-089",
+    "type": "album",
+    "artist": "PJ Harvey",
+    "title": "Rid of Me",
+    "year": 1993,
+    "decade": "1990",
+    "genre": "rock",
+    "genreDetail": "Rock alternativo",
+    "country": "Reino Unido",
+    "duration": "48 min",
+    "catalogue": "TLG–A–0089",
+    "coverClass": "cover-green",
+    "coverUrl": "assets/covers-master/album-089.webp",
+    "thumbnailUrl": "assets/covers-master/album-089.webp",
+    "description": {
+      "es": "Deseo y amenaza permanecen tan cerca que incluso el silencio parece capaz de hacer daño.",
+      "en": "Desire and threat remain so close that even silence seems capable of harm.",
+      "fr": "Le désir et la menace restent si proches que même le silence semble pouvoir blesser."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Pitchfork — listas por década y año",
+        "en": "Pitchfork — lists by decade and year",
+        "fr": "Pitchfork — sélections par décennie et par année"
+      },
+      "source": "Pitchfork",
+      "url": "https://pitchfork.com/features/lists-and-guides/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/album/2fDJpBJhtloxzUENHlU9JB"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/us/album/rid-of-me/1440923277"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/browse/MPREb_W6EkPKjWEWj"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Rotación"
+  },
+  {
+    "id": "album-090",
+    "type": "album",
+    "artist": "Wu-Tang Clan",
+    "title": "Enter the Wu-Tang (36 Chambers)",
+    "year": 1993,
+    "decade": "1990",
+    "genre": "hip-hop",
+    "genreDetail": "Hip-hop",
+    "country": "Estados Unidos",
+    "duration": "36 min",
+    "catalogue": "TLG–A–0090",
+    "coverClass": "cover-blue",
+    "coverUrl": "assets/covers-master/album-090.webp",
+    "thumbnailUrl": "assets/covers-master/album-090.webp",
+    "description": {
+      "es": "Nueve voces construyen un mundo común sin renunciar a sus acentos, personajes ni maneras de contar.",
+      "en": "Nine voices build a shared world without surrendering their accents, characters or ways of telling stories.",
+      "fr": "Neuf voix bâtissent un monde commun sans renoncer à leurs accents, leurs personnages ni leurs façons de raconter."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Rolling Stone — 500 mejores álbumes",
+        "en": "Rolling Stone — 500 Greatest Albums",
+        "fr": "Rolling Stone — 500 meilleurs albums"
+      },
+      "source": "Rolling Stone",
+      "url": "https://www.rollingstone.com/music/music-lists/best-albums-of-all-time-1062063/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/album/0ujpvwNskNwgU6nb2krDZS"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/enter-the-wu-tang-36-chambers/1746566237"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/browse/MPREb_eRevYdOLt8G"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "album-032",
+    "type": "album",
+    "artist": "Café Tacvba",
+    "title": "Re",
+    "year": 1994,
+    "decade": "1990",
+    "genre": "rock",
+    "genreDetail": "Rock alternativo latino",
+    "country": "México",
+    "duration": "60 min",
+    "catalogue": "TLG–A–0032",
+    "coverClass": "cover-red",
+    "coverUrl": "assets/covers-master/album-032.webp",
+    "thumbnailUrl": "assets/covers-master/album-032.webp",
+    "description": {
+      "es": "Una identidad mexicana abierta, contradictoria y suficientemente segura para cambiar de forma a cada canción.",
+      "en": "A Mexican identity open, contradictory and secure enough to change shape with every song.",
+      "fr": "Une identité mexicaine ouverte, contradictoire et assez sûre d’elle pour changer de forme à chaque chanson."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Los 600 Discos de Latinoamérica",
+        "en": "The 600 Albums of Latin America",
+        "fr": "Les 600 albums d’Amérique latine"
+      },
+      "source": "Los 600 Discos de Latinoamérica",
+      "url": "https://www.600discoslatam.com/indice-general-de-los-600-discos-de-latinoamerica/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/re/36401122"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/browse/MPREb_SZ5bNiADJvH"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "album-038",
+    "type": "album",
+    "artist": "Nas",
+    "title": "Illmatic",
+    "year": 1994,
+    "decade": "1990",
+    "genre": "hip-hop",
+    "genreDetail": "Hip-hop",
+    "country": "Estados Unidos",
+    "duration": "40 min",
+    "catalogue": "TLG–A–0038",
+    "coverClass": "cover-yellow",
+    "coverUrl": "assets/covers-master/album-038.webp",
+    "thumbnailUrl": "assets/covers-master/album-038.webp",
+    "description": {
+      "es": "Veinte años de vida observados con la precisión de alguien que sabe que cada detalle puede ser prueba.",
+      "en": "Twenty years of life observed with the precision of someone who knows every detail may be evidence.",
+      "fr": "Vingt années de vie observées avec la précision de quelqu’un qui sait que chaque détail peut servir de preuve."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Rolling Stone — 500 mejores álbumes",
+        "en": "Rolling Stone — 500 Greatest Albums",
+        "fr": "Rolling Stone — 500 meilleurs albums"
+      },
+      "source": "Rolling Stone",
+      "url": "https://www.rollingstone.com/music/music-lists/best-albums-of-all-time-1062063/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/album/3kEtdS2pH6hKcMU9Wioob1"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/illmatic/856131729"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/browse/MPREb_NA9bTHvhFmF"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "album-037",
+    "type": "album",
+    "artist": "Portishead",
+    "title": "Dummy",
+    "year": 1994,
+    "decade": "1990",
+    "genre": "electronic",
+    "genreDetail": "Trip-hop",
+    "country": "Reino Unido",
+    "duration": "49 min",
+    "catalogue": "TLG–A–0037",
+    "coverClass": "cover-green",
+    "coverUrl": "assets/covers-master/album-037.webp",
+    "thumbnailUrl": "assets/covers-master/album-037.webp",
+    "description": {
+      "es": "Música para cuando la cercanía de otra persona resulta tan deseable como inquietante.",
+      "en": "Music for the moment when another person’s closeness feels as desirable as it is unsettling.",
+      "fr": "Une musique pour le moment où la proximité d’une autre personne devient aussi désirable qu’inquiétante."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Rockdelux — listas por género y escena",
+        "en": "Rockdelux — genre and scene lists",
+        "fr": "Rockdelux — sélections par genre et par scène"
+      },
+      "source": "Rockdelux",
+      "url": "https://www.rockdelux.com/es/listas"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/dummy/1440653096"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/browse/MPREb_G6JQUdInW98"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "album-091",
+    "type": "album",
+    "artist": "Fishmans",
+    "title": "Long Season",
+    "year": 1996,
+    "decade": "1990",
+    "genre": "rock",
+    "genreDetail": "Dream pop y dub",
+    "country": "Japón",
+    "duration": "35 min",
+    "catalogue": "TLG–A–0091",
+    "coverClass": "cover-blue",
+    "coverUrl": "assets/covers-master/album-091.webp",
+    "thumbnailUrl": "assets/covers-master/album-091.webp",
+    "description": {
+      "es": "Un viaje largo que transforma la permanencia en movimiento y el regreso en una experiencia distinta.",
+      "en": "A long journey turning permanence into motion and return into a different experience.",
+      "fr": "Un long voyage qui transforme la permanence en mouvement et le retour en expérience nouvelle."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Beehype — mejores álbumes japoneses",
+        "en": "Beehype — best Japanese albums",
+        "fr": "Beehype — meilleurs albums japonais"
+      },
+      "source": "Beehype",
+      "url": "https://beehy.pe/special/best-japanese-albums/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/album/4EX1fAypgQC9wDjGI5QzbZ"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/long-season/1416925635"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/browse/MPREb_lzEdPy01gZo"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "album-092",
+    "type": "album",
+    "artist": "Motorbass",
+    "title": "Pansoul",
+    "year": 1996,
+    "decade": "1990",
+    "genre": "electronic",
+    "genreDetail": "French house",
+    "country": "Francia",
+    "duration": "61 min",
+    "catalogue": "TLG–A–0092",
+    "coverClass": "cover-red",
+    "coverUrl": "assets/covers-master/album-092.webp",
+    "thumbnailUrl": "assets/covers-master/album-092.webp",
+    "description": {
+      "es": "La pista nocturna se vuelve un laboratorio de temperaturas, presiones y placeres que cambian lentamente.",
+      "en": "The night-time floor becomes a laboratory of slowly changing temperatures, pressures and pleasures.",
+      "fr": "La piste nocturne devient un laboratoire de températures, de pressions et de plaisirs en lente transformation."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Les Inrockuptibles — listas francesas",
+        "en": "Les Inrockuptibles — French lists",
+        "fr": "Les Inrockuptibles — sélections françaises"
+      },
+      "source": "Les Inrockuptibles",
+      "url": "https://www.lesinrocks.com/musique/les-100-meilleurs-albums-francais-de-tous-les-temps-125490-25-08-2017/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/album/1kNEgbKjOzowvkrbT1Syfv"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/pansoul/1590864920"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/browse/MPREb_UEtLG8KHoBT"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Rotación"
+  },
+  {
+    "id": "album-033",
+    "type": "album",
+    "artist": "Björk",
+    "title": "Homogenic",
+    "year": 1997,
+    "decade": "1990",
+    "genre": "electronic",
+    "genreDetail": "Art pop y electrónica",
+    "country": "Islandia",
+    "duration": "44 min",
+    "catalogue": "TLG–A–0033",
+    "coverClass": "cover-yellow",
+    "coverUrl": "assets/covers-master/album-033.webp",
+    "thumbnailUrl": "assets/covers-master/album-033.webp",
+    "description": {
+      "es": "Una geografía emocional donde la dureza y la protección se necesitan mutuamente para sobrevivir.",
+      "en": "An emotional geography where hardness and protection need one another to survive.",
+      "fr": "Une géographie émotionnelle où la dureté et la protection ont besoin l’une de l’autre pour survivre."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Rockdelux — listas por género y escena",
+        "en": "Rockdelux — genre and scene lists",
+        "fr": "Rockdelux — sélections par genre et par scène"
+      },
+      "source": "Rockdelux",
+      "url": "https://www.rockdelux.com/es/listas"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/album/0HMsmYvoT1h2x1C4di5faf"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/us/album/homogenic/20833577"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/browse/MPREb_LTBQeVlkUpN"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "album-093",
+    "type": "album",
+    "artist": "Racionais MC's",
+    "title": "Sobrevivendo no Inferno",
+    "year": 1997,
+    "decade": "1990",
+    "genre": "hip-hop",
+    "genreDetail": "Hip-hop",
+    "country": "Brasil",
+    "duration": "73 min",
+    "catalogue": "TLG–A–0093",
+    "coverClass": "cover-green",
+    "coverUrl": "assets/covers-master/album-093.webp",
+    "thumbnailUrl": "assets/covers-master/album-093.webp",
+    "description": {
+      "es": "Una escucha que no permite mantener una distancia cómoda frente a las vidas que está narrando.",
+      "en": "A listen that makes comfortable distance from the lives being narrated impossible.",
+      "fr": "Une écoute qui interdit de garder une distance confortable face aux vies racontées."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Rolling Stone Brasil — discos y canciones",
+        "en": "Rolling Stone Brasil — albums and songs",
+        "fr": "Rolling Stone Brasil — albums et chansons"
+      },
+      "source": "Rolling Stone Brasil",
+      "url": "https://rollingstone.com.br/artigo/os-100-maiores-discos-da-musica-brasileira/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/album/1UzrzuOmZfBgXyS3pgKD10"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/sobrevivendo-no-inferno/1198315004"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/browse/MPREb_AkYPI7KTY75"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Foco mensual"
+  },
+  {
+    "id": "album-094",
+    "type": "album",
+    "artist": "Air",
+    "title": "Moon Safari",
+    "year": 1998,
+    "decade": "1990",
+    "genre": "electronic",
+    "genreDetail": "Downtempo",
+    "country": "Francia",
+    "duration": "44 min",
+    "catalogue": "TLG–A–0094",
+    "coverClass": "cover-blue",
+    "coverUrl": "assets/covers-master/album-094.webp",
+    "thumbnailUrl": "assets/covers-master/album-094.webp",
+    "description": {
+      "es": "Un disco nocturno que consigue sentirse sofisticado sin perder nunca el gusto por el juego.",
+      "en": "A nocturnal record that feels sophisticated without ever losing its sense of play.",
+      "fr": "Un disque nocturne qui reste sophistiqué sans jamais perdre le goût du jeu."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Resident Advisor — mejores discos y pistas",
+        "en": "Resident Advisor — best records and tracks",
+        "fr": "Resident Advisor — meilleurs disques et morceaux"
+      },
+      "source": "Resident Advisor",
+      "url": "https://www.residentadvisor.net/features.aspx?series=bestmusic"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/album/206GTDefY2qRMQxYXmfb0a"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/moon-safari/697240234"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/browse/MPREb_n2c7cMLeLVP"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "album-095",
+    "type": "album",
+    "artist": "Aterciopelados",
+    "title": "Caribe Atómico",
+    "year": 1998,
+    "decade": "1990",
+    "genre": "rock",
+    "genreDetail": "Rock alternativo latino",
+    "country": "Colombia",
+    "duration": "45 min",
+    "catalogue": "TLG–A–0095",
+    "coverClass": "cover-red",
+    "coverUrl": "assets/covers-master/album-095.webp",
+    "thumbnailUrl": "assets/covers-master/album-095.webp",
+    "description": {
+      "es": "El cambio de milenio observado con curiosidad, ironía y suficiente ritmo para no convertirlo en diagnóstico.",
+      "en": "The turn of the millennium observed with curiosity, irony and enough rhythm to keep it from becoming a diagnosis.",
+      "fr": "Le changement de millénaire observé avec curiosité, ironie et assez de rythme pour ne pas devenir un diagnostic."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Radiónica — música colombiana y latinoamericana",
+        "en": "Radiónica — Colombian and Latin American music",
+        "fr": "Radiónica — musique colombienne et latino-américaine"
+      },
+      "source": "Radiónica",
+      "url": "https://www.radionica.rocks/musica"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/album/2NW9u5fZwmxvXx6otvibtG"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/caribe-atomico/268462696"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/browse/MPREb_3yzJSOElAwT"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Foco mensual"
+  },
+  {
+    "id": "album-034",
+    "type": "album",
+    "artist": "Lauryn Hill",
+    "title": "The Miseducation of Lauryn Hill",
+    "year": 1998,
+    "decade": "1990",
+    "genre": "hip-hop",
+    "genreDetail": "Hip-hop y soul",
+    "country": "Estados Unidos",
+    "duration": "77 min",
+    "catalogue": "TLG–A–0034",
+    "coverClass": "cover-yellow",
+    "coverUrl": "assets/covers-master/album-034.webp",
+    "thumbnailUrl": "assets/covers-master/album-034.webp",
+    "description": {
+      "es": "Una mujer reúne todas sus voces para pensar el amor sin separar lo íntimo de lo político.",
+      "en": "A woman gathers all her voices to consider love without separating the intimate from the political.",
+      "fr": "Une femme rassemble toutes ses voix pour penser l’amour sans séparer l’intime du politique."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Rolling Stone — 500 mejores álbumes",
+        "en": "Rolling Stone — 500 Greatest Albums",
+        "fr": "Rolling Stone — 500 meilleurs albums"
+      },
+      "source": "Rolling Stone",
+      "url": "https://www.rollingstone.com/music/music-lists/best-albums-of-all-time-1062063/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/the-miseducation-of-lauryn-hill/1276760743"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/browse/MPREb_qYhF5ZzV2ws"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "album-039",
+    "type": "album",
+    "artist": "Shakira",
+    "title": "¿Dónde están los ladrones?",
+    "year": 1998,
+    "decade": "1990",
+    "genre": "rock",
+    "genreDetail": "Pop rock latino",
+    "country": "Colombia",
+    "duration": "41 min",
+    "catalogue": "TLG–A–0039",
+    "coverClass": "cover-green",
+    "coverUrl": "assets/covers-master/album-039.webp",
+    "thumbnailUrl": "assets/covers-master/album-039.webp",
+    "description": {
+      "es": "La mirada de una compositora joven convierte observaciones precisas en pop de alcance continental.",
+      "en": "A young songwriter’s gaze turns precise observations into pop with continental reach.",
+      "fr": "Le regard d’une jeune autrice transforme des observations précises en pop de portée continentale."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Radiónica — música colombiana y latinoamericana",
+        "en": "Radiónica — Colombian and Latin American music",
+        "fr": "Radiónica — musique colombienne et latino-américaine"
+      },
+      "source": "Radiónica",
+      "url": "https://www.radionica.rocks/musica"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/d%C3%B3nde-est%C3%A1n-los-ladrones/192682818"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/browse/MPREb_TMoLPQpdvls"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "album-035",
+    "type": "album",
+    "artist": "Gustavo Cerati",
+    "title": "Bocanada",
+    "year": 1999,
+    "decade": "1990",
+    "genre": "electronic",
+    "genreDetail": "Art pop y electrónica",
+    "country": "Argentina",
+    "duration": "71 min",
+    "catalogue": "TLG–A–0035",
+    "coverClass": "cover-blue",
+    "coverUrl": "assets/covers-master/album-035.webp",
+    "thumbnailUrl": "assets/covers-master/album-035.webp",
+    "description": {
+      "es": "Deseo, memoria y distancia flotan dentro de una obra que parece existir entre la vigilia y el sueño.",
+      "en": "Desire, memory and distance float through a work that seems to exist between waking and sleep.",
+      "fr": "Désir, mémoire et distance flottent dans une œuvre qui semble exister entre veille et sommeil."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Rockdelux — listas por género y escena",
+        "en": "Rockdelux — genre and scene lists",
+        "fr": "Rockdelux — sélections par genre et par scène"
+      },
+      "source": "Rockdelux",
+      "url": "https://www.rockdelux.com/es/listas"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/album/2rIdWbXPjcq8K7BCccBhhC"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/bocanada/304792998"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/browse/MPREb_nIIZjhCkjeK"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "album-096",
+    "type": "album",
+    "artist": "Julieta Venegas",
+    "title": "Bueninvento",
+    "year": 2000,
+    "decade": "2000",
+    "genre": "rock",
+    "genreDetail": "Pop rock",
+    "country": "México",
+    "duration": "55 min",
+    "catalogue": "TLG–A–0096",
+    "coverClass": "cover-red",
+    "coverUrl": "assets/covers-master/album-096.webp",
+    "thumbnailUrl": "assets/covers-master/album-096.webp",
+    "description": {
+      "es": "Canciones para quienes saben que una respuesta honesta puede incluir dudas, contradicciones y espacios vacíos.",
+      "en": "Songs for anyone who knows an honest answer may include doubt, contradiction and empty space.",
+      "fr": "Des chansons pour qui sait qu’une réponse honnête peut contenir doute, contradiction et espaces vides."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Los 600 Discos de Latinoamérica",
+        "en": "The 600 Albums of Latin America",
+        "fr": "Les 600 albums d’Amérique latine"
+      },
+      "source": "Los 600 Discos de Latinoamérica",
+      "url": "https://www.600discoslatam.com/indice-general-de-los-600-discos-de-latinoamerica/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/album/0rmEiygdtUfM8jeJ7i1Hvp"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/bueninvento/252667214"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/browse/MPREb_dyyIU5Jwjtu"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "album-040",
+    "type": "album",
+    "artist": "Radiohead",
+    "title": "Kid A",
+    "year": 2000,
+    "decade": "2000",
+    "genre": "electronic",
+    "genreDetail": "Art rock y electrónica",
+    "country": "Reino Unido",
+    "duration": "47 min",
+    "catalogue": "TLG–A–0040",
+    "coverClass": "cover-yellow",
+    "coverUrl": "assets/covers-master/album-040.webp",
+    "thumbnailUrl": "assets/covers-master/album-040.webp",
+    "description": {
+      "es": "La desorientación de un cambio de siglo convertida en un territorio que todavía resulta familiar.",
+      "en": "The disorientation of a new century turned into territory that still feels familiar.",
+      "fr": "La désorientation d’un changement de siècle transformée en territoire toujours familier."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Resident Advisor — mejores discos y pistas",
+        "en": "Resident Advisor — best records and tracks",
+        "fr": "Resident Advisor — meilleurs disques et morceaux"
+      },
+      "source": "Resident Advisor",
+      "url": "https://www.residentadvisor.net/features.aspx?series=bestmusic"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/album/6GjwtEZcfenmOf6l18N7T7"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/kid-a/1097862870"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/browse/MPREb_ob5cslgCNc0"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "album-007",
+    "type": "album",
+    "artist": "Daft Punk",
+    "title": "Discovery",
+    "year": 2001,
+    "decade": "2000",
+    "genre": "electronic",
+    "genreDetail": "House y pop",
+    "country": "Francia",
+    "duration": "61 min",
+    "catalogue": "TLG–A–0007",
+    "coverClass": "cover-green",
+    "coverUrl": "assets/covers-master/album-007.webp",
+    "thumbnailUrl": "assets/covers-master/album-007.webp",
+    "description": {
+      "es": "Una celebración del descubrimiento que devuelve asombro humano a una música hecha con máquinas.",
+      "en": "A celebration of discovery returning human wonder to music made with machines.",
+      "fr": "Une célébration de la découverte qui rend l’émerveillement humain à une musique faite de machines."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Resident Advisor — mejores discos y pistas",
+        "en": "Resident Advisor — best records and tracks",
+        "fr": "Resident Advisor — meilleurs disques et morceaux"
+      },
+      "source": "Resident Advisor",
+      "url": "https://www.residentadvisor.net/features.aspx?series=bestmusic"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/discovery/697194953"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/browse/MPREb_7ltM34kr0mH"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "album-041",
+    "type": "album",
+    "artist": "The Strokes",
+    "title": "Is This It",
+    "year": 2001,
+    "decade": "2000",
+    "genre": "rock",
+    "genreDetail": "Indie rock",
+    "country": "Estados Unidos",
+    "duration": "36 min",
+    "catalogue": "TLG–A–0041",
+    "coverClass": "cover-blue",
+    "coverUrl": "assets/covers-master/album-041.webp",
+    "thumbnailUrl": "assets/covers-master/album-041.webp",
+    "description": {
+      "es": "El retrato de una juventud que aparenta saber exactamente qué hacer mientras improvisa cada respuesta.",
+      "en": "A portrait of youth pretending to know exactly what to do while improvising every answer.",
+      "fr": "Le portrait d’une jeunesse qui prétend savoir exactement quoi faire tout en improvisant chaque réponse."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Apple Music — 100 mejores álbumes",
+        "en": "Apple Music — 100 Best Albums",
+        "fr": "Apple Music — 100 meilleurs albums"
+      },
+      "source": "Apple Music",
+      "url": "https://www.apple.com/newsroom/2024/05/apple-music-celebrates-the-launch-of-inaugural-100-best-albums-list/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/us/album/is-this-it/266376953"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/browse/MPREb_pPtBvGEbwzO"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "album-097",
+    "type": "album",
+    "artist": "Tego Calderón",
+    "title": "El Abayarde",
+    "year": 2002,
+    "decade": "2000",
+    "genre": "hip-hop",
+    "genreDetail": "Reguetón y hip-hop",
+    "country": "Puerto Rico",
+    "duration": "75 min",
+    "catalogue": "TLG–A–0097",
+    "coverClass": "cover-red",
+    "coverUrl": "assets/covers-master/album-097.webp",
+    "thumbnailUrl": "assets/covers-master/album-097.webp",
+    "description": {
+      "es": "Una irrupción que cambió quién podía ocupar el centro y desde qué lugar podía hacerlo.",
+      "en": "An arrival that changed who could occupy the centre and where they could speak from.",
+      "fr": "Une irruption qui a changé qui pouvait occuper le centre et depuis quel endroit."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Radiónica — música colombiana y latinoamericana",
+        "en": "Radiónica — Colombian and Latin American music",
+        "fr": "Radiónica — musique colombienne et latino-américaine"
+      },
+      "source": "Radiónica",
+      "url": "https://www.radionica.rocks/musica"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/us/album/el-abayarde/535880568"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/browse/MPREb_6UbYdqRnThs"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "album-098",
+    "type": "album",
+    "artist": "Madvillain",
+    "title": "Madvillainy",
+    "year": 2004,
+    "decade": "2000",
+    "genre": "hip-hop",
+    "genreDetail": "Hip-hop",
+    "country": "Estados Unidos",
+    "duration": "46 min",
+    "catalogue": "TLG–A–0098",
+    "coverClass": "cover-yellow",
+    "coverUrl": "assets/covers-master/album-098.webp",
+    "thumbnailUrl": "assets/covers-master/album-098.webp",
+    "description": {
+      "es": "Un universo de fragmentos breves donde cada máscara abre otra puerta en lugar de ocultar la salida.",
+      "en": "A universe of brief fragments where every mask opens another door instead of hiding the exit.",
+      "fr": "Un univers de fragments brefs où chaque masque ouvre une autre porte au lieu de dissimuler la sortie."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Pitchfork — listas por década y año",
+        "en": "Pitchfork — lists by decade and year",
+        "fr": "Pitchfork — sélections par décennie et par année"
+      },
+      "source": "Pitchfork",
+      "url": "https://pitchfork.com/features/lists-and-guides/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/album/19bQiwEKhXUBJWY6oV3KZk"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/us/album/madvillainy/887699504"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/browse/MPREb_gsxHe49IEfl"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Rotación"
+  },
+  {
+    "id": "album-099",
+    "type": "album",
+    "artist": "Phoenix",
+    "title": "Alphabetical",
+    "year": 2004,
+    "decade": "2000",
+    "genre": "rock",
+    "genreDetail": "Indie pop",
+    "country": "Francia",
+    "duration": "35 min",
+    "catalogue": "TLG–A–0099",
+    "coverClass": "cover-green",
+    "coverUrl": "assets/covers-master/album-099.webp",
+    "thumbnailUrl": "assets/covers-master/album-099.webp",
+    "description": {
+      "es": "La elegancia de una banda que prefiere insinuar inseguridad y deseo antes que convertirlos en drama.",
+      "en": "The elegance of a band preferring to suggest insecurity and desire rather than turn them into drama.",
+      "fr": "L’élégance d’un groupe qui préfère suggérer l’insécurité et le désir plutôt que les transformer en drame."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Les Inrockuptibles — listas francesas",
+        "en": "Les Inrockuptibles — French lists",
+        "fr": "Les Inrockuptibles — sélections françaises"
+      },
+      "source": "Les Inrockuptibles",
+      "url": "https://www.lesinrocks.com/musique/les-100-meilleurs-albums-francais-de-tous-les-temps-125490-25-08-2017/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/album/0q1YbH7gLkklLFxNBLRKHD"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/alphabetical/697637090"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/browse/MPREb_GZ5LqSgDc1s"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "album-042",
+    "type": "album",
+    "artist": "Amy Winehouse",
+    "title": "Back to Black",
+    "year": 2006,
+    "decade": "2000",
+    "genre": "soul",
+    "genreDetail": "Soul",
+    "country": "Reino Unido",
+    "duration": "35 min",
+    "catalogue": "TLG–A–0042",
+    "coverClass": "cover-blue",
+    "coverUrl": "assets/covers-master/album-042.webp",
+    "thumbnailUrl": "assets/covers-master/album-042.webp",
+    "description": {
+      "es": "Una narradora brillante mira sus peores decisiones sin pedir absolución ni renunciar al humor.",
+      "en": "A brilliant narrator faces her worst decisions without asking for absolution or surrendering humour.",
+      "fr": "Une narratrice brillante regarde ses pires décisions sans demander l’absolution ni renoncer à l’humour."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Rolling Stone — 500 mejores álbumes",
+        "en": "Rolling Stone — 500 Greatest Albums",
+        "fr": "Rolling Stone — 500 meilleurs albums"
+      },
+      "source": "Rolling Stone",
+      "url": "https://www.rollingstone.com/music/music-lists/best-albums-of-all-time-1062063/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/back-to-black/1440856219"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/browse/MPREb_tzu0uaSBSSB"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "album-044",
+    "type": "album",
+    "artist": "Burial",
+    "title": "Untrue",
+    "year": 2007,
+    "decade": "2000",
+    "genre": "electronic",
+    "genreDetail": "UK garage y ambient",
+    "country": "Reino Unido",
+    "duration": "51 min",
+    "catalogue": "TLG–A–0044",
+    "coverClass": "cover-red",
+    "coverUrl": "assets/covers-master/album-044.webp",
+    "thumbnailUrl": "assets/covers-master/album-044.webp",
+    "description": {
+      "es": "La ciudad después de la fiesta persiste como una colección de presencias que nunca terminan de aparecer.",
+      "en": "The city after the party lingers as a collection of presences that never fully appear.",
+      "fr": "La ville après la fête persiste comme un ensemble de présences qui n’apparaissent jamais tout à fait."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Pitchfork — listas por década y año",
+        "en": "Pitchfork — lists by decade and year",
+        "fr": "Pitchfork — sélections par décennie et par année"
+      },
+      "source": "Pitchfork",
+      "url": "https://pitchfork.com/features/lists-and-guides/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/album/1C30LhZB9I48LdpVCRRYvq"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/untrue/893175779"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/browse/MPREb_pHgESM0mzlv"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "album-100",
+    "type": "album",
+    "artist": "LCD Soundsystem",
+    "title": "Sound of Silver",
+    "year": 2007,
+    "decade": "2000",
+    "genre": "electronic",
+    "genreDetail": "Dance-punk",
+    "country": "Estados Unidos",
+    "duration": "56 min",
+    "catalogue": "TLG–A–0100",
+    "coverClass": "cover-yellow",
+    "coverUrl": "assets/covers-master/album-100.webp",
+    "thumbnailUrl": "assets/covers-master/album-100.webp",
+    "description": {
+      "es": "Bailar mientras el tiempo cambia amistades, certezas y la relación con la persona que fuimos.",
+      "en": "Dancing while time changes friendships, certainties and our relationship with who we used to be.",
+      "fr": "Danser tandis que le temps transforme les amitiés, les certitudes et notre rapport à la personne que nous étions."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Pitchfork — listas por década y año",
+        "en": "Pitchfork — lists by decade and year",
+        "fr": "Pitchfork — sélections par décennie et par année"
+      },
+      "source": "Pitchfork",
+      "url": "https://pitchfork.com/features/lists-and-guides/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/sound-of-silver/742432549"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/browse/MPREb_cuPW1vT6K8X"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "album-043",
+    "type": "album",
+    "artist": "M.I.A.",
+    "title": "Kala",
+    "year": 2007,
+    "decade": "2000",
+    "genre": "hip-hop",
+    "genreDetail": "Hip-hop y electrónica",
+    "country": "Reino Unido / Sri Lanka",
+    "duration": "47 min",
+    "catalogue": "TLG–A–0043",
+    "coverClass": "cover-green",
+    "coverUrl": "assets/covers-master/album-043.webp",
+    "thumbnailUrl": "assets/covers-master/album-043.webp",
+    "description": {
+      "es": "Una música que viaja con las personas, las mercancías y los conflictos sin borrar las marcas del trayecto.",
+      "en": "Music travelling with people, goods and conflict without erasing the marks of the journey.",
+      "fr": "Une musique qui voyage avec les personnes, les marchandises et les conflits sans effacer les traces du trajet."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Rockdelux — listas por género y escena",
+        "en": "Rockdelux — genre and scene lists",
+        "fr": "Rockdelux — sélections par genre et par scène"
+      },
+      "source": "Rockdelux",
+      "url": "https://www.rockdelux.com/es/listas"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/album/2xoj2gYed3IYmGWn3owSfu"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/us/album/kala/296393419"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/browse/MPREb_NpKFvQ5uU46"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "album-101",
+    "type": "album",
+    "artist": "Ana Tijoux",
+    "title": "1977",
+    "year": 2010,
+    "decade": "2010",
+    "genre": "hip-hop",
+    "genreDetail": "Hip-hop",
+    "country": "Chile",
+    "duration": "52 min",
+    "catalogue": "TLG–A–0101",
+    "coverClass": "cover-blue",
+    "coverUrl": "assets/covers-master/album-101.webp",
+    "thumbnailUrl": "assets/covers-master/album-101.webp",
+    "description": {
+      "es": "Una biografía entre países demuestra que pertenecer a varios lugares no obliga a vivir dividido.",
+      "en": "A life between countries shows that belonging to several places need not mean living divided.",
+      "fr": "Une vie entre plusieurs pays montre qu’appartenir à plusieurs lieux n’oblige pas à vivre divisé."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Radiónica — música colombiana y latinoamericana",
+        "en": "Radiónica — Colombian and Latin American music",
+        "fr": "Radiónica — musique colombienne et latino-américaine"
+      },
+      "source": "Radiónica",
+      "url": "https://www.radionica.rocks/musica"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/album/3ZhTbUZNobDXuzcYWGzxA3"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/1977/355779584"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/browse/MPREb_Dsk3YYIbOu3"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "album-045",
+    "type": "album",
+    "artist": "Frank Ocean",
+    "title": "Channel Orange",
+    "year": 2012,
+    "decade": "2010",
+    "genre": "soul",
+    "genreDetail": "R&B",
+    "country": "Estados Unidos",
+    "duration": "55 min",
+    "catalogue": "TLG–A–0045",
+    "coverClass": "cover-red",
+    "coverUrl": "assets/covers-master/album-045.webp",
+    "thumbnailUrl": "assets/covers-master/album-045.webp",
+    "description": {
+      "es": "Historias de deseo y dinero aparecen como transmisiones captadas durante una noche sin sueño.",
+      "en": "Stories of desire and money arrive like transmissions caught during a sleepless night.",
+      "fr": "Des histoires de désir et d’argent arrivent comme des transmissions captées pendant une nuit sans sommeil."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Apple Music — 100 mejores álbumes",
+        "en": "Apple Music — 100 Best Albums",
+        "fr": "Apple Music — 100 meilleurs albums"
+      },
+      "source": "Apple Music",
+      "url": "https://www.apple.com/newsroom/2024/05/apple-music-celebrates-the-launch-of-inaugural-100-best-albums-list/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/us/album/channel-orange/1440765580"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/browse/MPREb_2WzVTTzzoJc"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "album-102",
+    "type": "album",
+    "artist": "D'Angelo and the Vanguard",
+    "title": "Black Messiah",
+    "year": 2014,
+    "decade": "2010",
+    "genre": "soul",
+    "genreDetail": "Soul y funk",
+    "country": "Estados Unidos",
+    "duration": "56 min",
+    "catalogue": "TLG–A–0102",
+    "coverClass": "cover-yellow",
+    "coverUrl": "assets/covers-master/album-102.webp",
+    "thumbnailUrl": "assets/covers-master/album-102.webp",
+    "description": {
+      "es": "Un regreso que no busca recuperar el pasado, sino reunir suficientes cuerpos para inventar otro presente.",
+      "en": "A return seeking not to recover the past but to gather enough bodies to invent another present.",
+      "fr": "Un retour qui ne cherche pas à retrouver le passé, mais à réunir assez de corps pour inventer un autre présent."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Pitchfork — listas por década y año",
+        "en": "Pitchfork — lists by decade and year",
+        "fr": "Pitchfork — sélections par décennie et par année"
+      },
+      "source": "Pitchfork",
+      "url": "https://pitchfork.com/features/lists-and-guides/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/us/album/black-messiah/950764300"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/browse/MPREb_VYQ9kGvAXbC"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Rotación"
+  },
+  {
+    "id": "album-103",
+    "type": "album",
+    "artist": "Elza Soares",
+    "title": "A Mulher do Fim do Mundo",
+    "year": 2015,
+    "decade": "2010",
+    "genre": "latin",
+    "genreDetail": "MPB experimental",
+    "country": "Brasil",
+    "duration": "39 min",
+    "catalogue": "TLG–A–0103",
+    "coverClass": "cover-green",
+    "coverUrl": "assets/covers-master/album-103.webp",
+    "thumbnailUrl": "assets/covers-master/album-103.webp",
+    "description": {
+      "es": "Una vida completa entra en contacto con el presente y demuestra que la experiencia también puede ser incendiaria.",
+      "en": "A whole life meets the present and proves that experience can be incendiary too.",
+      "fr": "Une vie entière rencontre le présent et montre que l’expérience peut elle aussi être incendiaire."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Rolling Stone Brasil — discos y canciones",
+        "en": "Rolling Stone Brasil — albums and songs",
+        "fr": "Rolling Stone Brasil — albums et chansons"
+      },
+      "source": "Rolling Stone Brasil",
+      "url": "https://rollingstone.com.br/artigo/os-100-maiores-discos-da-musica-brasileira/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/album/6pmPFWW4M6YDDDuFeUppDG"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/a-mulher-do-fim-do-mundo-the-woman-at-the-end-of-the-world/1677842970"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/browse/MPREb_1PyJTYFIgbK"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Foco mensual"
+  },
+  {
+    "id": "album-009",
+    "type": "album",
+    "artist": "Kendrick Lamar",
+    "title": "To Pimp a Butterfly",
+    "year": 2015,
+    "decade": "2010",
+    "genre": "hip-hop",
+    "genreDetail": "Hip-hop",
+    "country": "Estados Unidos",
+    "duration": "79 min",
+    "catalogue": "TLG–A–0009",
+    "coverClass": "cover-blue",
+    "coverUrl": "assets/covers-master/album-009.webp",
+    "thumbnailUrl": "assets/covers-master/album-009.webp",
+    "description": {
+      "es": "Una conciencia dividida entre culpa, orgullo y responsabilidad intenta hablar con una comunidad entera.",
+      "en": "A conscience divided among guilt, pride and responsibility tries to address an entire community.",
+      "fr": "Une conscience partagée entre culpabilité, fierté et responsabilité tente de parler à toute une communauté."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Apple Music — 100 mejores álbumes",
+        "en": "Apple Music — 100 Best Albums",
+        "fr": "Apple Music — 100 meilleurs albums"
+      },
+      "source": "Apple Music",
+      "url": "https://www.apple.com/newsroom/2024/05/apple-music-celebrates-the-launch-of-inaugural-100-best-albums-list/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/to-pimp-a-butterfly/1440871877"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/browse/MPREb_3jGuGO44ziy"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "album-104",
+    "type": "album",
+    "artist": "Solange",
+    "title": "A Seat at the Table",
+    "year": 2016,
+    "decade": "2010",
+    "genre": "soul",
+    "genreDetail": "R&B",
+    "country": "Estados Unidos",
+    "duration": "52 min",
+    "catalogue": "TLG–A–0104",
+    "coverClass": "cover-red",
+    "coverUrl": "assets/covers-master/album-104.webp",
+    "thumbnailUrl": "assets/covers-master/album-104.webp",
+    "description": {
+      "es": "Un álbum que pide bajar el volumen del exterior para escuchar todo lo que una voz serena puede sostener.",
+      "en": "An album that lowers the outside world’s volume so everything a composed voice can hold becomes audible.",
+      "fr": "Un album qui baisse le volume du monde extérieur afin de rendre audible tout ce qu’une voix sereine peut porter."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Pitchfork — listas por década y año",
+        "en": "Pitchfork — lists by decade and year",
+        "fr": "Pitchfork — sélections par décennie et par année"
+      },
+      "source": "Pitchfork",
+      "url": "https://pitchfork.com/features/lists-and-guides/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/album/3Yko2SxDk4hc6fncIBQlcM"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/us/album/a-seat-at-the-table/1159507212"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/browse/MPREb_9Jpqg5h7mzr"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "album-046",
+    "type": "album",
+    "artist": "Rosalía",
+    "title": "El mal querer",
+    "year": 2018,
+    "decade": "2010",
+    "genre": "latin",
+    "genreDetail": "Flamenco pop",
+    "country": "España",
+    "duration": "30 min",
+    "catalogue": "TLG–A–0046",
+    "coverClass": "cover-yellow",
+    "coverUrl": "assets/covers-master/album-046.webp",
+    "thumbnailUrl": "assets/covers-master/album-046.webp",
+    "description": {
+      "es": "Una historia de control y emancipación encuentra un lenguaje donde lo antiguo también puede resultar peligroso.",
+      "en": "A story of control and emancipation finds a language in which the old can also feel dangerous.",
+      "fr": "Une histoire de contrôle et d’émancipation trouve un langage où l’ancien peut lui aussi devenir dangereux."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Rockdelux — listas por género y escena",
+        "en": "Rockdelux — genre and scene lists",
+        "fr": "Rockdelux — sélections par genre et par scène"
+      },
+      "source": "Rockdelux",
+      "url": "https://www.rockdelux.com/es/listas"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/el-mal-querer/1436309944"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/browse/MPREb_zeW7Uq1tqIC"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "album-105",
+    "type": "album",
+    "artist": "SOPHIE",
+    "title": "Oil of Every Pearl's Un-Insides",
+    "year": 2018,
+    "decade": "2010",
+    "genre": "pop",
+    "genreDetail": "Pop experimental",
+    "country": "Escocia",
+    "duration": "40 min",
+    "catalogue": "TLG–A–0105",
+    "coverClass": "cover-green",
+    "coverUrl": "assets/covers-master/album-105.webp",
+    "thumbnailUrl": "assets/covers-master/album-105.webp",
+    "description": {
+      "es": "La posibilidad de construir otro cuerpo, otra voz y otra manera de sentir mediante el sonido.",
+      "en": "The possibility of building another body, another voice and another way of feeling through sound.",
+      "fr": "La possibilité de construire un autre corps, une autre voix et une autre manière de sentir par le son."
+    },
+    "recognition": {
+      "type": "reference",
+      "title": {
+        "es": "Discogs — comunidad, ediciones y colección",
+        "en": "Discogs — community, editions and collecting",
+        "fr": "Discogs — communauté, éditions et collection"
+      },
+      "source": "Discogs",
+      "url": "https://support.discogs.com/hc/en-us/articles/360003622014-How-To-Browse-Search-In-The-Database"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/album/23lnmHhZwyercCJhmyPXYN"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/oil-of-every-pearls-un-insides/1395045797"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/browse/MPREb_rObLhgATYMU"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Foco mensual"
+  },
+  {
+    "id": "album-047",
+    "type": "album",
+    "artist": "Fiona Apple",
+    "title": "Fetch the Bolt Cutters",
+    "year": 2020,
+    "decade": "2020",
+    "genre": "pop",
+    "genreDetail": "Art pop",
+    "country": "Estados Unidos",
+    "duration": "51 min",
+    "catalogue": "TLG–A–0047",
+    "coverClass": "cover-blue",
+    "coverUrl": "assets/covers-master/album-047.webp",
+    "thumbnailUrl": "assets/covers-master/album-047.webp",
+    "description": {
+      "es": "Una casa deja de ser fondo y se convierte en testigo de mujeres que deciden romper el silencio.",
+      "en": "A house stops being background and becomes witness to women choosing to break silence.",
+      "fr": "Une maison cesse d’être un décor et devient le témoin de femmes qui décident de rompre le silence."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Pitchfork — listas por década y año",
+        "en": "Pitchfork — lists by decade and year",
+        "fr": "Pitchfork — sélections par décennie et par année"
+      },
+      "source": "Pitchfork",
+      "url": "https://pitchfork.com/features/lists-and-guides/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/album/0fO1KemWL2uCCQmM22iKlj"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/us/album/fetch-the-bolt-cutters/1507811635"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/browse/MPREb_THra6CyCfb4"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Rotación"
+  },
+  {
+    "id": "album-106",
+    "type": "album",
+    "artist": "Bad Bunny",
+    "title": "Un verano sin ti",
+    "year": 2022,
+    "decade": "2020",
+    "genre": "latin",
+    "genreDetail": "Reguetón y pop",
+    "country": "Puerto Rico",
+    "duration": "82 min",
+    "catalogue": "TLG–A–0106",
+    "coverClass": "cover-red",
+    "coverUrl": "assets/covers-master/album-106.webp",
+    "thumbnailUrl": "assets/covers-master/album-106.webp",
+    "description": {
+      "es": "La sensación de escuchar una estación entera mientras cambia el ánimo de quienes la atraviesan.",
+      "en": "The feeling of hearing an entire season as the mood of everyone moving through it changes.",
+      "fr": "La sensation d’entendre une saison entière tandis que change l’humeur de ceux qui la traversent."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Rolling Stone — 500 mejores álbumes",
+        "en": "Rolling Stone — 500 Greatest Albums",
+        "fr": "Rolling Stone — 500 meilleurs albums"
+      },
+      "source": "Rolling Stone",
+      "url": "https://www.rollingstone.com/music/music-lists/best-albums-of-all-time-1062063/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/us/album/un-verano-sin-ti/1622045624"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/browse/MPREb_NMmY1n1NJFS"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "album-107",
+    "type": "album",
+    "artist": "Beyoncé",
+    "title": "Renaissance",
+    "year": 2022,
+    "decade": "2020",
+    "genre": "soul",
+    "genreDetail": "Dance y R&B",
+    "country": "Estados Unidos",
+    "duration": "62 min",
+    "catalogue": "TLG–A–0107",
+    "coverClass": "cover-yellow",
+    "coverUrl": "assets/covers-master/album-107.webp",
+    "thumbnailUrl": "assets/covers-master/album-107.webp",
+    "description": {
+      "es": "La seguridad de una intérprete que domina la noche y aun así encuentra nuevas maneras de moverse en ella.",
+      "en": "The assurance of a performer who commands the night and still finds new ways to move through it.",
+      "fr": "L’assurance d’une interprète qui maîtrise la nuit tout en trouvant encore de nouvelles manières de la traverser."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Apple Music — 100 mejores álbumes",
+        "en": "Apple Music — 100 Best Albums",
+        "fr": "Apple Music — 100 meilleurs albums"
+      },
+      "source": "Apple Music",
+      "url": "https://www.apple.com/newsroom/2024/05/apple-music-celebrates-the-launch-of-inaugural-100-best-albums-list/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/renaissance/1636789969"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/browse/MPREb_aiNCHq3yHyv"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "album-108",
+    "type": "album",
+    "artist": "Silvana Estrada",
+    "title": "Marchita",
+    "year": 2022,
+    "decade": "2020",
+    "genre": "folk",
+    "genreDetail": "Canción de autor",
+    "country": "México",
+    "duration": "37 min",
+    "catalogue": "TLG–A–0108",
+    "coverClass": "cover-green",
+    "coverUrl": "assets/covers-master/album-108.webp",
+    "thumbnailUrl": "assets/covers-master/album-108.webp",
+    "description": {
+      "es": "Canciones que se sientan al lado de una herida y permanecen allí sin exigir una conclusión.",
+      "en": "Songs that sit beside a wound and remain there without demanding a conclusion.",
+      "fr": "Des chansons qui s’assoient près d’une blessure et y restent sans exiger de conclusion."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Los 600 Discos de Latinoamérica",
+        "en": "The 600 Albums of Latin America",
+        "fr": "Les 600 albums d’Amérique latine"
+      },
+      "source": "Los 600 Discos de Latinoamérica",
+      "url": "https://www.600discoslatam.com/indice-general-de-los-600-discos-de-latinoamerica/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/marchita/1590308123"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/browse/MPREb_vXfnDj3Gzl1"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Foco mensual"
+  }
+]

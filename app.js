@@ -1,5 +1,5 @@
 const translations = window.TLG_TRANSLATIONS;
-const catalogVersion = "7.3";
+const catalogVersion = "7.8";
 
 const languageOrder = ["es", "en", "fr"];
 const coverColors = {
@@ -9,6 +9,18 @@ const coverColors = {
   "cover-yellow": "#c89117",
   "cover-purple": "#67284d"
 };
+const editorialRoleKeys = {
+  "Ancla": "anchor",
+  "Rotación": "rotation",
+  "Foco mensual": "focus"
+};
+const legacyCollectionStorageKey = "tlg-collection";
+const anonymousCollectionStorageKey = "tlg-collection-anonymous";
+let activeCollectionStorageKey = anonymousCollectionStorageKey;
+let resolveCatalogReady;
+const catalogReady = new Promise((resolve) => {
+  resolveCatalogReady = resolve;
+});
 
 const state = {
   language: getSavedLanguage(),
@@ -16,6 +28,10 @@ const state = {
   records: [],
   current: null,
   recommendationQueue: [],
+  seenRecommendationsByFilter: new Map(),
+  currentFilterKey: null,
+  completedCycle: null,
+  lastFilterChanged: "decade",
   collection: getSavedCollection()
 };
 
@@ -55,6 +71,22 @@ const elements = {
   catalogueNumber: document.querySelector("#catalogueNumber"),
 
   staffPick: document.querySelector(".staff-pick"),
+  recommendationCycle: document.querySelector("#recommendationCycle"),
+  recommendationCycleLabel: document.querySelector(
+    "#recommendationCycleLabel"
+  ),
+  recommendationCycleCount: document.querySelector(
+    "#recommendationCycleCount"
+  ),
+  recommendationCycleTrack: document.querySelector(
+    "#recommendationCycleTrack"
+  ),
+  recommendationCycleProgress: document.querySelector(
+    "#recommendationCycleProgress"
+  ),
+  recommendationCycleMessage: document.querySelector(
+    "#recommendationCycleMessage"
+  ),
   recommendationTitle: document.querySelector("#recommendationTitle"),
   recommendationArtist: document.querySelector("#recommendationArtist"),
   recommendationDetails: document.querySelector("#recommendationDetails"),
@@ -72,6 +104,18 @@ const elements = {
     "#listeningNoteCoverImage"
   ),
   listeningNoteReview: document.querySelector("#listeningNoteReview"),
+  listeningNoteRoleSection: document.querySelector(
+    "#listeningNoteRoleSection"
+  ),
+  listeningNoteRoleTitle: document.querySelector(
+    "#listeningNoteRoleTitle"
+  ),
+  listeningNoteRoleLabel: document.querySelector(
+    "#listeningNoteRoleLabel"
+  ),
+  listeningNoteRoleDescription: document.querySelector(
+    "#listeningNoteRoleDescription"
+  ),
   listeningNoteListenForTitle: document.querySelector(
     "#listeningNoteListenForTitle"
   ),
@@ -133,6 +177,15 @@ const elements = {
   footerPhrase: document.querySelector(".site-footer p:last-child")
 };
 
+const filterOptionValues = {
+  decades: [...elements.decadeFilter.options]
+    .slice(1)
+    .map((option) => option.value),
+  genres: [...elements.genreFilter.options]
+    .slice(1)
+    .map((option) => option.value)
+};
+
 function getSavedLanguage() {
   const savedLanguage = localStorage.getItem("tlg-language");
 
@@ -142,14 +195,112 @@ function getSavedLanguage() {
 }
 
 function getSavedCollection() {
+  const readCollection = (storageKey) => {
+    const rawValue = localStorage.getItem(storageKey);
+
+    if (rawValue === null) {
+      return null;
+    }
+
+    const parsedValue = JSON.parse(rawValue);
+    return Array.isArray(parsedValue) ? parsedValue : [];
+  };
+
   try {
-    return JSON.parse(
-      localStorage.getItem("tlg-collection") || "[]"
+    const savedCollection = readCollection(
+      activeCollectionStorageKey
     );
+
+    if (savedCollection !== null) {
+      return savedCollection;
+    }
+
+    const legacyCollection = readCollection(
+      legacyCollectionStorageKey
+    ) || [];
+
+    localStorage.setItem(
+      anonymousCollectionStorageKey,
+      JSON.stringify(legacyCollection)
+    );
+
+    return legacyCollection;
   } catch (error) {
     console.error("No se pudo recuperar la colección:", error);
     return [];
   }
+}
+
+function persistCollection({ notify = false } = {}) {
+  localStorage.setItem(
+    activeCollectionStorageKey,
+    JSON.stringify(state.collection)
+  );
+
+  if (notify) {
+    window.dispatchEvent(new CustomEvent(
+      "tlg-progress-change",
+      { detail: getCollectionProgress() }
+    ));
+  }
+}
+
+function getCollectionProgress() {
+  return state.collection.map((record) => ({
+    id: record.id,
+    listenedAt: record.listenedAt
+  }));
+}
+
+function readProgressFromStorage(storageKey) {
+  try {
+    const records = JSON.parse(
+      localStorage.getItem(storageKey) || "[]"
+    );
+
+    return Array.isArray(records)
+      ? records.map((record) => ({
+          id: record.id,
+          listenedAt: record.listenedAt
+        }))
+      : [];
+  } catch (error) {
+    console.error("No se pudo recuperar el progreso:", error);
+    return [];
+  }
+}
+
+function replaceCollectionProgress(progress, storageKey) {
+  if (storageKey) {
+    activeCollectionStorageKey = storageKey;
+  }
+
+  const uniqueProgress = new Map();
+
+  (Array.isArray(progress) ? progress : []).forEach((entry) => {
+    if (!entry?.id || uniqueProgress.has(entry.id)) {
+      return;
+    }
+
+    uniqueProgress.set(entry.id, {
+      id: entry.id,
+      listenedAt: entry.listenedAt || new Date().toISOString()
+    });
+  });
+
+  state.collection = [...uniqueProgress.values()].map((entry) => {
+    const currentRecord = state.records.find(
+      (record) => record.id === entry.id
+    );
+
+    return currentRecord
+      ? { ...currentRecord, listenedAt: entry.listenedAt }
+      : entry;
+  });
+
+  persistCollection();
+  updateHeardButton();
+  renderCollection();
 }
 
 function getText() {
@@ -178,6 +329,41 @@ function updateDiscoverButtonLabel() {
 
   elements.discoverButton.textContent =
     labelsByFormat[state.format] || discoveryText.button;
+}
+
+function updateEditorialRoleLabel(record = state.current) {
+  const text = getText().recommendation;
+  const roleKey = editorialRoleKeys[record?.monthlyRole] || "anchor";
+
+  elements.staffPick.textContent =
+    text.roles?.[roleKey] || text.essential;
+  elements.staffPick.dataset.shortLabel =
+    text.rolesShort?.[roleKey] || text.essentialShort;
+  elements.staffPick.classList.remove(
+    "role-anchor",
+    "role-rotation",
+    "role-focus"
+  );
+  elements.staffPick.classList.add(`role-${roleKey}`);
+}
+
+function renderListeningNoteRole(record = state.current) {
+  const text = getText();
+  const roleKey = editorialRoleKeys[record?.monthlyRole] || "anchor";
+
+  elements.listeningNoteRoleTitle.textContent =
+    text.editorial.selectionRole;
+  elements.listeningNoteRoleLabel.textContent =
+    text.recommendation.roles?.[roleKey] ||
+    text.recommendation.essential;
+  elements.listeningNoteRoleDescription.textContent =
+    text.editorial.roleDescriptions?.[roleKey] || "";
+  elements.listeningNoteRoleSection.classList.remove(
+    "role-anchor",
+    "role-rotation",
+    "role-focus"
+  );
+  elements.listeningNoteRoleSection.classList.add(`role-${roleKey}`);
 }
 
 function applyTranslations() {
@@ -247,16 +433,18 @@ function applyTranslations() {
     }
   );
 
+  if (state.records.length > 0) {
+    updateFilterAvailability();
+  }
+
   updateDiscoverButtonLabel();
 
-  elements.staffPick.textContent =
-    text.recommendation.essential;
+  updateEditorialRoleLabel();
 
   elements.platformLabel.textContent =
     text.recommendation.listenOn;
 
-  elements.anotherButton.textContent =
-    text.recommendation.another;
+  updateAnotherButtonLabel();
 
   elements.collectionEyebrow.textContent =
     text.collection.eyebrow;
@@ -340,8 +528,11 @@ async function loadCatalog() {
     }));
 
     syncCollectionWithCatalog();
+    normalizeFilterCombination(state.lastFilterChanged);
+    updateFilterAvailability();
 
     chooseRecord(false);
+    resolveCatalogReady();
   } catch (error) {
     console.error("Error al cargar el catálogo:", error);
 
@@ -356,6 +547,120 @@ async function loadCatalog() {
   }
 }
 
+function recordMatchesFormat(record) {
+  return (
+    state.format === "surprise" ||
+    record.type === state.format
+  );
+}
+
+function getCatalogRecordsForCurrentFormat() {
+  return state.records.filter(recordMatchesFormat);
+}
+
+function hasCatalogMatch(decade, genre) {
+  return getCatalogRecordsForCurrentFormat().some((record) => {
+    const matchesDecade =
+      decade === "all" || record.decade === decade;
+    const matchesGenre =
+      genre === "all" || record.genre === genre;
+
+    return matchesDecade && matchesGenre;
+  });
+}
+
+function normalizeFilterCombination(
+  preferredFilter = state.lastFilterChanged
+) {
+  if (state.records.length === 0) {
+    return;
+  }
+
+  const selectedDecade = elements.decadeFilter.value;
+  const selectedGenre = elements.genreFilter.value;
+
+  if (hasCatalogMatch(selectedDecade, selectedGenre)) {
+    return;
+  }
+
+  const canKeepDecade = hasCatalogMatch(selectedDecade, "all");
+  const canKeepGenre = hasCatalogMatch("all", selectedGenre);
+
+  if (preferredFilter === "genre" && canKeepGenre) {
+    elements.decadeFilter.value = "all";
+    return;
+  }
+
+  if (preferredFilter === "decade" && canKeepDecade) {
+    elements.genreFilter.value = "all";
+    return;
+  }
+
+  if (canKeepDecade) {
+    elements.genreFilter.value = "all";
+    return;
+  }
+
+  if (canKeepGenre) {
+    elements.decadeFilter.value = "all";
+    return;
+  }
+
+  elements.decadeFilter.value = "all";
+  elements.genreFilter.value = "all";
+}
+
+function updateFilterAvailability() {
+  if (state.records.length === 0) {
+    return;
+  }
+
+  normalizeFilterCombination(state.lastFilterChanged);
+
+  const selectedDecade = elements.decadeFilter.value;
+  const selectedGenre = elements.genreFilter.value;
+  const formatRecords = getCatalogRecordsForCurrentFormat();
+  const text = getText();
+  const availableDecades = new Set(
+    formatRecords
+      .filter((record) => (
+        selectedGenre === "all" ||
+        record.genre === selectedGenre
+      ))
+      .map((record) => record.decade)
+  );
+  const availableGenres = new Set(
+    formatRecords
+      .filter((record) => (
+        selectedDecade === "all" ||
+        record.decade === selectedDecade
+      ))
+      .map((record) => record.genre)
+  );
+
+  const decadeOptions = [
+    new Option(text.discovery.allDecades, "all"),
+    ...filterOptionValues.decades
+      .filter((value) => availableDecades.has(value))
+      .map((value) => new Option(value, value))
+  ];
+  const genreOptions = [
+    new Option(text.discovery.allGenres, "all"),
+    ...filterOptionValues.genres
+      .filter((value) => availableGenres.has(value))
+      .map((value) => new Option(text.genres[value] || value, value))
+  ];
+
+  elements.decadeFilter.replaceChildren(...decadeOptions);
+  elements.genreFilter.replaceChildren(...genreOptions);
+  elements.decadeFilter.value = availableDecades.has(selectedDecade)
+    ? selectedDecade
+    : "all";
+  elements.genreFilter.value = availableGenres.has(selectedGenre)
+    ? selectedGenre
+    : "all";
+}
+
 function getFilteredRecords() {
   const selectedDecade = elements.decadeFilter.value;
   const selectedGenre = elements.genreFilter.value;
@@ -364,9 +669,7 @@ function getFilteredRecords() {
   );
 
   return state.records.filter((record) => {
-    const matchesFormat =
-      state.format === "surprise" ||
-      record.type === state.format;
+    const matchesFormat = recordMatchesFormat(record);
 
     const matchesDecade =
       selectedDecade === "all" ||
@@ -383,6 +686,164 @@ function getFilteredRecords() {
       !listenedIds.has(record.id)
     );
   });
+}
+
+function getRecommendationFilterKey() {
+  return [
+    state.format,
+    elements.decadeFilter.value,
+    elements.genreFilter.value
+  ].join("|");
+}
+
+function getSeenRecommendationIds(filterKey) {
+  if (!state.seenRecommendationsByFilter.has(filterKey)) {
+    state.seenRecommendationsByFilter.set(filterKey, new Set());
+  }
+
+  return state.seenRecommendationsByFilter.get(filterKey);
+}
+
+function formatCycleMessage(template, current, total) {
+  return template
+    .replace("{current}", String(current))
+    .replace("{total}", String(total));
+}
+
+function updateRecommendationCycleProgress() {
+  if (!elements.recommendationCycle) {
+    return;
+  }
+
+  const filterKey = getRecommendationFilterKey();
+  const availableRecords = getFilteredRecords();
+  const total = availableRecords.length;
+
+  if (total === 0) {
+    elements.recommendationCycle.hidden = true;
+    return;
+  }
+
+  const seenIds = getSeenRecommendationIds(filterKey);
+  const current = availableRecords.filter(
+    (record) => seenIds.has(record.id)
+  ).length;
+  const cycleIsComplete =
+    state.completedCycle?.filterKey === filterKey;
+  const text = getText().recommendation;
+  const progressText = formatCycleMessage(
+    text.cycleProgress,
+    current,
+    total
+  );
+  const progressPercentage = Math.min(
+    100,
+    Math.max(0, (current / total) * 100)
+  );
+
+  elements.recommendationCycle.hidden = false;
+  elements.recommendationCycle.classList.toggle(
+    "is-complete",
+    cycleIsComplete
+  );
+  elements.recommendationCycleLabel.textContent = cycleIsComplete
+    ? text.cycleCompleteLabel
+    : text.cycleLabel;
+  elements.recommendationCycleCount.textContent =
+    `${current}/${total}`;
+  elements.recommendationCycleProgress.style.width =
+    `${progressPercentage}%`;
+  elements.recommendationCycleTrack.setAttribute(
+    "aria-valuemax",
+    String(total)
+  );
+  elements.recommendationCycleTrack.setAttribute(
+    "aria-valuenow",
+    String(current)
+  );
+  elements.recommendationCycleTrack.setAttribute(
+    "aria-valuetext",
+    progressText
+  );
+  elements.recommendationCycleMessage.textContent =
+    text.cycleComplete;
+  elements.recommendationCycleMessage.hidden = !cycleIsComplete;
+}
+
+function updateAnotherButtonLabel() {
+  const text = getText();
+  const filterKey = getRecommendationFilterKey();
+  const cycleIsComplete =
+    state.completedCycle?.filterKey === filterKey;
+
+  elements.anotherButton.textContent = cycleIsComplete
+    ? text.recommendation.restart
+    : text.recommendation.another;
+  elements.anotherButton.dataset.shortLabel = cycleIsComplete
+    ? text.recommendation.restartShort
+    : text.recommendation.anotherShort;
+  elements.anotherButton.classList.toggle(
+    "cycle-complete",
+    cycleIsComplete
+  );
+  updateRecommendationCycleProgress();
+}
+
+function markRecommendationCycleComplete(filterKey, seenCount) {
+  state.completedCycle = {
+    filterKey,
+    count: seenCount
+  };
+
+  elements.filterMessage.textContent = "";
+  updateAnotherButtonLabel();
+}
+
+function clearRecommendationCycleFeedback() {
+  state.completedCycle = null;
+  elements.filterMessage.textContent = "";
+  updateAnotherButtonLabel();
+}
+
+function syncRecommendationCycleFeedback() {
+  const filterKey = getRecommendationFilterKey();
+  const availableRecords = getFilteredRecords();
+  const seenIds = getSeenRecommendationIds(filterKey);
+  const hasUnseenRecords = availableRecords.some(
+    (record) => !seenIds.has(record.id)
+  );
+
+  if (availableRecords.length > 0 && !hasUnseenRecords) {
+    markRecommendationCycleComplete(
+      filterKey,
+      availableRecords.length
+    );
+    return true;
+  }
+
+  clearRecommendationCycleFeedback();
+  return false;
+}
+
+function restartRecommendationCycle() {
+  const filterKey = getRecommendationFilterKey();
+  const seenIds = getSeenRecommendationIds(filterKey);
+  const availableRecords = getFilteredRecords();
+
+  seenIds.clear();
+  state.recommendationQueue = [];
+  state.completedCycle = null;
+
+  if (
+    availableRecords.length > 1 &&
+    availableRecords.some((record) => record.id === state.current?.id)
+  ) {
+    seenIds.add(state.current.id);
+  }
+
+  elements.filterMessage.textContent = "";
+  updateAnotherButtonLabel();
+  chooseRecord(true);
 }
 
 function configureStreamingLink(
@@ -435,21 +896,33 @@ function weightedRandomIndex(records) {
 function chooseRecord(animate = true) {
   const availableRecords = getFilteredRecords();
   const text = getText();
+  const filterKey = getRecommendationFilterKey();
+  const seenIds = getSeenRecommendationIds(filterKey);
 
   if (availableRecords.length === 0) {
+    clearRecommendationCycleFeedback();
     elements.filterMessage.textContent =
       text.discovery.noResults;
     return;
   }
 
-  elements.filterMessage.textContent = "";
+  if (
+    state.currentFilterKey !== filterKey &&
+    availableRecords.some((record) => record.id === state.current?.id)
+  ) {
+    seenIds.add(state.current.id);
+  }
 
-  let candidates = availableRecords.filter(
-    (record) => record.id !== state.current?.id
+  const candidates = availableRecords.filter(
+    (record) => !seenIds.has(record.id)
   );
 
   if (candidates.length === 0) {
-    candidates = availableRecords;
+    markRecommendationCycleComplete(
+      filterKey,
+      availableRecords.length
+    );
+    return;
   }
 
   const queuedIndex = state.recommendationQueue.findIndex(
@@ -461,6 +934,22 @@ function chooseRecord(animate = true) {
   const selectedRecord = queuedIndex >= 0
     ? state.recommendationQueue.splice(queuedIndex, 1)[0]
     : candidates[weightedRandomIndex(candidates)];
+
+  seenIds.add(selectedRecord.id);
+  state.currentFilterKey = filterKey;
+
+  const remainingCount = availableRecords.filter(
+    (record) => !seenIds.has(record.id)
+  ).length;
+
+  if (remainingCount === 0) {
+    markRecommendationCycleComplete(
+      filterKey,
+      availableRecords.length
+    );
+  } else {
+    clearRecommendationCycleFeedback();
+  }
 
   if (animate && state.current) {
     elements.featuredRecord.classList.add("is-changing");
@@ -490,6 +979,8 @@ function renderRecommendation() {
   const text = getText();
   const localizedGenre =
     text.genres[record.genre] || record.genre;
+
+  updateEditorialRoleLabel(record);
 
   elements.coverArtist.textContent = record.artist;
   elements.coverTitle.textContent = record.title;
@@ -611,6 +1102,7 @@ function renderListeningNote() {
     "";
   elements.listeningNoteCoverImage.style.objectPosition =
     editorial.headerPosition || "center";
+  renderListeningNoteRole();
   elements.listeningNoteListenForTitle.textContent =
     text.editorial.listenFor;
   const showEntryPoint = state.current.type === "album";
@@ -894,8 +1386,10 @@ function prepareRecommendationQueue() {
     return;
   }
 
+  const filterKey = getRecommendationFilterKey();
+  const seenIds = getSeenRecommendationIds(filterKey);
   const candidates = getFilteredRecords().filter(
-    (record) => record.id !== state.current.id
+    (record) => !seenIds.has(record.id)
   );
   const candidateIds = new Set(
     candidates.map((record) => record.id)
@@ -968,6 +1462,8 @@ function updateHeardButton() {
   if (!state.current) {
     elements.heardButton.textContent =
       `○ ${text.recommendation.heard}`;
+    elements.heardButton.dataset.shortLabel =
+      text.recommendation.heardShort;
     return;
   }
 
@@ -978,6 +1474,9 @@ function updateHeardButton() {
   elements.heardButton.textContent = alreadySaved
     ? `✓ ${text.recommendation.saved}`
     : `○ ${text.recommendation.heard}`;
+  elements.heardButton.dataset.shortLabel = alreadySaved
+    ? text.recommendation.savedShort
+    : text.recommendation.heardShort;
 
   elements.heardButton.classList.toggle(
     "saved",
@@ -1000,10 +1499,7 @@ function saveCurrentRecord() {
       listenedAt: new Date().toISOString()
     });
 
-    localStorage.setItem(
-      "tlg-collection",
-      JSON.stringify(state.collection)
-    );
+    persistCollection({ notify: true });
   }
 
   updateHeardButton();
@@ -1024,10 +1520,7 @@ function syncCollectionWithCatalog() {
       : savedRecord;
   });
 
-  localStorage.setItem(
-    "tlg-collection",
-    JSON.stringify(state.collection)
-  );
+  persistCollection();
 
   renderCollection();
 }
@@ -1149,7 +1642,35 @@ function changeLanguage(language) {
   );
 
   applyTranslations();
+  window.dispatchEvent(new CustomEvent(
+    "tlg-language-change",
+    { detail: state.language }
+  ));
 }
+
+window.TLG_PROGRESS = {
+  whenReady: catalogReady,
+  getLanguage: () => state.language,
+  getCollection: getCollectionProgress,
+  getAnonymousCollection: () => readProgressFromStorage(
+    anonymousCollectionStorageKey
+  ),
+  getUserCollection: (userId) => readProgressFromStorage(
+    `tlg-collection-user-${userId}`
+  ),
+  useUserCollection: (userId, progress) => {
+    replaceCollectionProgress(
+      progress,
+      `tlg-collection-user-${userId}`
+    );
+  },
+  useAnonymousCollection: () => {
+    replaceCollectionProgress(
+      readProgressFromStorage(anonymousCollectionStorageKey),
+      anonymousCollectionStorageKey
+    );
+  }
+};
 
 elements.formatButtons.forEach((button) => {
   button.addEventListener("click", () => {
@@ -1159,23 +1680,42 @@ elements.formatButtons.forEach((button) => {
 
     button.classList.add("active");
     state.format = button.dataset.format;
+    state.recommendationQueue = [];
+    normalizeFilterCombination(state.lastFilterChanged);
+    updateFilterAvailability();
     updateDiscoverButtonLabel();
 
-    if (state.records.length > 0) {
+    const cycleIsComplete = syncRecommendationCycleFeedback();
+
+    if (state.records.length > 0 && !cycleIsComplete) {
       chooseRecord(true);
     }
   });
 });
 
-elements.discoverButton.addEventListener(
-  "click",
-  () => chooseRecord(true)
-);
+elements.discoverButton.addEventListener("click", () => {
+  if (
+    state.completedCycle?.filterKey ===
+    getRecommendationFilterKey()
+  ) {
+    restartRecommendationCycle();
+    return;
+  }
 
-elements.anotherButton.addEventListener(
-  "click",
-  () => chooseRecord(true)
-);
+  chooseRecord(true);
+});
+
+elements.anotherButton.addEventListener("click", () => {
+  if (
+    state.completedCycle?.filterKey ===
+    getRecommendationFilterKey()
+  ) {
+    restartRecommendationCycle();
+    return;
+  }
+
+  chooseRecord(true);
+});
 
 elements.heardButton.addEventListener(
   "click",
@@ -1245,11 +1785,17 @@ elements.aboutDialog.addEventListener("click", (event) => {
 });
 
 elements.decadeFilter.addEventListener("change", () => {
-  elements.filterMessage.textContent = "";
+  state.lastFilterChanged = "decade";
+  state.recommendationQueue = [];
+  updateFilterAvailability();
+  syncRecommendationCycleFeedback();
 });
 
 elements.genreFilter.addEventListener("change", () => {
-  elements.filterMessage.textContent = "";
+  state.lastFilterChanged = "genre";
+  state.recommendationQueue = [];
+  updateFilterAvailability();
+  syncRecommendationCycleFeedback();
 });
 
 applyTranslations();
