@@ -1,0 +1,4702 @@
+[
+  {
+    "id": "song-011",
+    "type": "song",
+    "artist": "Billie Holiday",
+    "title": "Strange Fruit",
+    "year": 1939,
+    "decade": "1930",
+    "genre": "jazz",
+    "genreDetail": "Jazz vocal",
+    "country": "Estados Unidos",
+    "duration": "3:13",
+    "catalogue": "TLG–S–0011",
+    "coverClass": "cover-blue",
+    "coverUrl": "assets/covers-master/song-011.webp",
+    "thumbnailUrl": "assets/covers-master/song-011.webp",
+    "description": {
+      "es": "Una interpretación breve que obliga a mirar una violencia que durante demasiado tiempo se quiso volver invisible.",
+      "en": "A brief performance forcing us to face violence that was kept invisible for far too long.",
+      "fr": "Une interprétation brève qui oblige à regarder une violence trop longtemps maintenue dans l’invisible."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Registro Nacional de Grabaciones",
+        "en": "National Recording Registry",
+        "fr": "Registre national des enregistrements"
+      },
+      "source": "National Recording Registry",
+      "url": "https://www.loc.gov/programs/national-recording-preservation-board/recording-registry/complete-national-recording-registry-listing/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/1CTex49P0iWwzUGsMNjgaV"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/strange-fruit/1429177620?i=1429177627"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=pCgyKVxSkuw"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-012",
+    "type": "song",
+    "artist": "Édith Piaf",
+    "title": "La vie en rose",
+    "year": 1946,
+    "decade": "1940",
+    "genre": "folk",
+    "genreDetail": "Chanson",
+    "country": "Francia",
+    "duration": "3:09",
+    "catalogue": "TLG–S–0012",
+    "coverClass": "cover-red",
+    "coverUrl": "assets/covers-master/song-012.webp",
+    "thumbnailUrl": "assets/covers-master/song-012.webp",
+    "description": {
+      "es": "Piaf convierte una certeza sentimental en una interpretación donde también cabe el vértigo.",
+      "en": "Piaf turns romantic certainty into a performance spacious enough to contain vertigo.",
+      "fr": "Piaf transforme une certitude sentimentale en interprétation capable d’accueillir aussi le vertige."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Les Inrockuptibles — listas francesas",
+        "en": "Les Inrockuptibles — French lists",
+        "fr": "Les Inrockuptibles — sélections françaises"
+      },
+      "source": "Les Inrockuptibles",
+      "url": "https://www.lesinrocks.com/musique/les-100-meilleurs-albums-francais-de-tous-les-temps-125490-25-08-2017/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/3lAun9V0YdTlCSIEXPvfsY"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/la-vie-en-rose/1556334257?i=1556335175"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=-RWGTddDZKc"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-051",
+    "type": "song",
+    "artist": "Muddy Waters",
+    "title": "Hoochie Coochie Man",
+    "year": 1954,
+    "decade": "1950",
+    "genre": "blues",
+    "genreDetail": "Blues",
+    "country": "Estados Unidos",
+    "duration": "2:52",
+    "catalogue": "TLG–S–0051",
+    "coverClass": "cover-yellow",
+    "coverUrl": "assets/covers-master/song-051.webp",
+    "thumbnailUrl": "assets/covers-master/song-051.webp",
+    "description": {
+      "es": "Un personaje entra en la habitación convencido de que su leyenda llegó antes que él.",
+      "en": "A character enters the room convinced his legend arrived before he did.",
+      "fr": "Un personnage entre dans la pièce persuadé que sa légende l’a précédé."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Registro Nacional de Grabaciones",
+        "en": "National Recording Registry",
+        "fr": "Registre national des enregistrements"
+      },
+      "source": "National Recording Registry",
+      "url": "https://www.loc.gov/programs/national-recording-preservation-board/recording-registry/complete-national-recording-registry-listing/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/5F7qmHHRIsYxnVZttf4cr9"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/hoochie-coochie-man/632938619?i=632939064"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=sSnxwnPkgas"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Rotación"
+  },
+  {
+    "id": "song-001",
+    "type": "song",
+    "artist": "Chuck Berry",
+    "title": "Johnny B. Goode",
+    "year": 1958,
+    "decade": "1950",
+    "genre": "rock",
+    "genreDetail": "Rock and roll",
+    "country": "Estados Unidos",
+    "duration": "2:39",
+    "catalogue": "TLG–S–0001",
+    "coverClass": "cover-green",
+    "coverUrl": "assets/covers-master/song-001.webp",
+    "thumbnailUrl": "assets/covers-master/song-001.webp",
+    "description": {
+      "es": "Juventud, ambición y movimiento reunidos en una historia que todavía parece avanzar hacia el futuro.",
+      "en": "Youth, ambition and motion gathered in a story that still seems to move towards the future.",
+      "fr": "Jeunesse, ambition et mouvement réunis dans une histoire qui semble encore avancer vers l’avenir."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Registro Nacional de Grabaciones",
+        "en": "National Recording Registry",
+        "fr": "Registre national des enregistrements"
+      },
+      "source": "National Recording Registry",
+      "url": "https://www.loc.gov/programs/national-recording-preservation-board/recording-registry/complete-national-recording-registry-listing/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/2QfiRTz5Yc8DdShCxG1tB2"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/johnny-b-goode/1485639733?i=1485640046"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=uFeZ_x--aRg"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-052",
+    "type": "song",
+    "artist": "João Gilberto",
+    "title": "Chega de Saudade",
+    "year": 1958,
+    "decade": "1950",
+    "genre": "latin",
+    "genreDetail": "Bossa nova",
+    "country": "Brasil",
+    "duration": "2:05",
+    "catalogue": "TLG–S–0052",
+    "coverClass": "cover-blue",
+    "coverUrl": "assets/covers-master/song-052.webp",
+    "thumbnailUrl": "assets/covers-master/song-052.webp",
+    "description": {
+      "es": "La tristeza pierde peso y aprende a caminar con una ligereza completamente nueva.",
+      "en": "Sadness loses weight and learns to walk with an entirely new lightness.",
+      "fr": "La tristesse perd de son poids et apprend à marcher avec une légèreté entièrement nouvelle."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Los 600 Discos de Latinoamérica",
+        "en": "The 600 Albums of Latin America",
+        "fr": "Les 600 albums d’Amérique latine"
+      },
+      "source": "Los 600 Discos de Latinoamérica",
+      "url": "https://www.600discoslatam.com/indice-general-de-los-600-discos-de-latinoamerica/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/0DZefMHdBkDk4vnkzP1jMD"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/chega-de-saudade/1451670605?i=1451670610"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=Y0a0QuLEC8A"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-053",
+    "type": "song",
+    "artist": "Ray Charles",
+    "title": "What'd I Say",
+    "year": 1959,
+    "decade": "1950",
+    "genre": "soul",
+    "genreDetail": "Soul y R&B",
+    "country": "Estados Unidos",
+    "duration": "5:07",
+    "catalogue": "TLG–S–0053",
+    "coverClass": "cover-red",
+    "coverUrl": "assets/covers-master/song-053.webp",
+    "thumbnailUrl": "assets/covers-master/song-053.webp",
+    "description": {
+      "es": "Una conversación nocturna crece hasta borrar la distancia entre quien interpreta y quien responde.",
+      "en": "A late-night conversation grows until the distance between performer and respondent disappears.",
+      "fr": "Une conversation nocturne grandit jusqu’à effacer la distance entre l’interprète et ceux qui lui répondent."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Registro Nacional de Grabaciones",
+        "en": "National Recording Registry",
+        "fr": "Registre national des enregistrements"
+      },
+      "source": "National Recording Registry",
+      "url": "https://www.loc.gov/programs/national-recording-preservation-board/recording-registry/complete-national-recording-registry-listing/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/6h4rAPuTPv0iAI1NaF2SRL"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/whatd-i-say/1621492038?i=1621492567"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=MWDzgiYBhUw"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-013",
+    "type": "song",
+    "artist": "Sam Cooke",
+    "title": "A Change Is Gonna Come",
+    "year": 1964,
+    "decade": "1960",
+    "genre": "soul",
+    "genreDetail": "Soul",
+    "country": "Estados Unidos",
+    "duration": "3:11",
+    "catalogue": "TLG–S–0013",
+    "coverClass": "cover-yellow",
+    "coverUrl": "assets/covers-master/song-013.webp",
+    "thumbnailUrl": "assets/covers-master/song-013.webp",
+    "description": {
+      "es": "La esperanza aparece con cicatrices, consciente de cuánto ha costado conservarla.",
+      "en": "Hope arrives bearing scars and knowing how much it has cost to preserve.",
+      "fr": "L’espoir apparaît avec ses cicatrices, conscient du prix qu’il a fallu payer pour le préserver."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Registro Nacional de Grabaciones",
+        "en": "National Recording Registry",
+        "fr": "Registre national des enregistrements"
+      },
+      "source": "National Recording Registry",
+      "url": "https://www.loc.gov/programs/national-recording-preservation-board/recording-registry/complete-national-recording-registry-listing/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/0KOE1hat4SIer491XKk4Pa"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/a-change-is-gonna-come/1440495264?i=1440495265"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=Z5zDRtEC0x0"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-014",
+    "type": "song",
+    "artist": "Bob Dylan",
+    "title": "Like a Rolling Stone",
+    "year": 1965,
+    "decade": "1960",
+    "genre": "folk",
+    "genreDetail": "Folk rock",
+    "country": "Estados Unidos",
+    "duration": "6:07",
+    "catalogue": "TLG–S–0014",
+    "coverClass": "cover-green",
+    "coverUrl": "assets/covers-master/song-014.webp",
+    "thumbnailUrl": "assets/covers-master/song-014.webp",
+    "description": {
+      "es": "Una caída pública se convierte en la pregunta más incómoda que una canción popular podía formular.",
+      "en": "A public fall becomes the most uncomfortable question a popular song could ask.",
+      "fr": "Une chute publique devient la question la plus inconfortable qu’une chanson populaire pouvait poser."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Rolling Stone — 500 mejores canciones",
+        "en": "Rolling Stone — 500 Greatest Songs",
+        "fr": "Rolling Stone — 500 meilleures chansons"
+      },
+      "source": "Rolling Stone",
+      "url": "https://www.rollingstone.com/music/music-lists/best-songs-of-all-time-1224767/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/3AhXZa8sUQht0UEdBJgpGc"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/like-a-rolling-stone/298810980?i=298810998"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=syNLBJ_Lq9E"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-018",
+    "type": "song",
+    "artist": "Nina Simone",
+    "title": "Sinnerman",
+    "year": 1965,
+    "decade": "1960",
+    "genre": "jazz",
+    "genreDetail": "Jazz y gospel",
+    "country": "Estados Unidos",
+    "duration": "10:19",
+    "catalogue": "TLG–S–0018",
+    "coverClass": "cover-blue",
+    "coverUrl": "assets/covers-master/song-018.webp",
+    "thumbnailUrl": "assets/covers-master/song-018.webp",
+    "description": {
+      "es": "La búsqueda de refugio se prolonga hasta que huir y avanzar empiezan a parecer la misma cosa.",
+      "en": "The search for refuge continues until fleeing and moving forward begin to feel the same.",
+      "fr": "La recherche d’un refuge se prolonge jusqu’à ce que fuir et avancer semblent ne faire qu’un."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Jazzwise — 100 discos que transformaron el jazz",
+        "en": "Jazzwise — 100 Jazz Albums That Shook the World",
+        "fr": "Jazzwise — 100 albums qui ont transformé le jazz"
+      },
+      "source": "Jazzwise",
+      "url": "https://www.jazzwise.com/features/article/the-100-jazz-albums-that-shook-the-world"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/5xRP5iyVdGglqlY4Vcjhkx"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/sinnerman/1470670125?i=1470670838"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=xP7XuE1Fw9s"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-054",
+    "type": "song",
+    "artist": "Violeta Parra",
+    "title": "Volver a los 17",
+    "year": 1966,
+    "decade": "1960",
+    "genre": "folk",
+    "genreDetail": "Nueva canción",
+    "country": "Chile",
+    "duration": "4:11",
+    "catalogue": "TLG–S–0054",
+    "coverClass": "cover-red",
+    "coverUrl": "assets/covers-master/song-054.webp",
+    "thumbnailUrl": "assets/covers-master/song-054.webp",
+    "description": {
+      "es": "El amor devuelve asombro al mundo adulto sin borrar todo lo que ya sabe sobre la pérdida.",
+      "en": "Love returns wonder to adulthood without erasing everything it already knows about loss.",
+      "fr": "L’amour rend l’émerveillement au monde adulte sans effacer tout ce qu’il sait déjà de la perte."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Los 600 Discos de Latinoamérica",
+        "en": "The 600 Albums of Latin America",
+        "fr": "Les 600 albums d’Amérique latine"
+      },
+      "source": "Los 600 Discos de Latinoamérica",
+      "url": "https://www.600discoslatam.com/indice-general-de-los-600-discos-de-latinoamerica/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/4xoYCWR8PdQT3izdZsjjPV"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/volver-a-los-17-versi%C3%B3n-alternativa/1600028521?i=1600036624"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=jurI4MfV5Gs"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-016",
+    "type": "song",
+    "artist": "Aretha Franklin",
+    "title": "Respect",
+    "year": 1967,
+    "decade": "1960",
+    "genre": "soul",
+    "genreDetail": "Soul",
+    "country": "Estados Unidos",
+    "duration": "2:26",
+    "catalogue": "TLG–S–0016",
+    "coverClass": "cover-yellow",
+    "coverUrl": "assets/covers-master/song-016.webp",
+    "thumbnailUrl": "assets/covers-master/song-016.webp",
+    "description": {
+      "es": "Una exigencia personal encuentra una forma que millones de personas pueden hacer suya de inmediato.",
+      "en": "A personal demand finds a form millions of people can immediately make their own.",
+      "fr": "Une exigence personnelle trouve une forme que des millions de personnes peuvent aussitôt faire leur."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Rolling Stone — 500 mejores canciones",
+        "en": "Rolling Stone — 500 Greatest Songs",
+        "fr": "Rolling Stone — 500 meilleures chansons"
+      },
+      "source": "Rolling Stone",
+      "url": "https://www.rollingstone.com/music/music-lists/best-songs-of-all-time-1224767/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/7s25THrKz86DM225dOYwnr"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/respect/878000342?i=878000348"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=9iayJ8u4Qew"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-055",
+    "type": "song",
+    "artist": "James Brown",
+    "title": "Cold Sweat",
+    "year": 1967,
+    "decade": "1960",
+    "genre": "soul",
+    "genreDetail": "Funk",
+    "country": "Estados Unidos",
+    "duration": "2:54",
+    "catalogue": "TLG–S–0055",
+    "coverClass": "cover-green",
+    "coverUrl": "assets/covers-master/song-055.webp",
+    "thumbnailUrl": "assets/covers-master/song-055.webp",
+    "description": {
+      "es": "El cuerpo descubre una nueva manera de organizar el tiempo y la música popular cambia con él.",
+      "en": "The body discovers a new way to organize time, and popular music changes with it.",
+      "fr": "Le corps découvre une nouvelle manière d’organiser le temps et la musique populaire change avec lui."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Registro Nacional de Grabaciones",
+        "en": "National Recording Registry",
+        "fr": "Registre national des enregistrements"
+      },
+      "source": "National Recording Registry",
+      "url": "https://www.loc.gov/programs/national-recording-preservation-board/recording-registry/complete-national-recording-registry-listing/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/4zX5gsJl05CQaRXlCY4WQz"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/cold-sweat/1469584155?i=1469584356"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=qkgIoMuaoQ0"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-017",
+    "type": "song",
+    "artist": "The Beatles",
+    "title": "A Day in the Life",
+    "year": 1967,
+    "decade": "1960",
+    "genre": "rock",
+    "genreDetail": "Rock y pop",
+    "country": "Reino Unido",
+    "duration": "5:35",
+    "catalogue": "TLG–S–0017",
+    "coverClass": "cover-blue",
+    "coverUrl": "assets/covers-master/song-017.webp",
+    "thumbnailUrl": "assets/covers-master/song-017.webp",
+    "description": {
+      "es": "Dos vidas cotidianas se encuentran dentro de una obra que convierte la interrupción en sentido.",
+      "en": "Two everyday lives meet inside a work that turns interruption into meaning.",
+      "fr": "Deux vies quotidiennes se rencontrent dans une œuvre qui transforme l’interruption en sens."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Registro Nacional de Grabaciones",
+        "en": "National Recording Registry",
+        "fr": "Registre national des enregistrements"
+      },
+      "source": "National Recording Registry",
+      "url": "https://www.loc.gov/programs/national-recording-preservation-board/recording-registry/complete-national-recording-registry-listing/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/4XiDAxr6alWzxm24i2Rt4K"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/a-day-in-the-life/1441164604?i=1441165168"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=UYeV7jLBXvA"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-019",
+    "type": "song",
+    "artist": "Glen Campbell",
+    "title": "Wichita Lineman",
+    "year": 1968,
+    "decade": "1960",
+    "genre": "folk",
+    "genreDetail": "Country pop",
+    "country": "Estados Unidos",
+    "duration": "3:07",
+    "catalogue": "TLG–S–0019",
+    "coverClass": "cover-red",
+    "coverUrl": "assets/covers-master/song-019.webp",
+    "thumbnailUrl": "assets/covers-master/song-019.webp",
+    "description": {
+      "es": "La distancia entre dos personas queda tendida sobre un paisaje tan hermoso como imposible de atravesar.",
+      "en": "The distance between two people stretches across a landscape as beautiful as it is impossible to cross.",
+      "fr": "La distance entre deux êtres s’étend sur un paysage aussi beau qu’impossible à traverser."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Pitchfork — listas por década y año",
+        "en": "Pitchfork — lists by decade and year",
+        "fr": "Pitchfork — sélections par décennie et par année"
+      },
+      "source": "Pitchfork",
+      "url": "https://pitchfork.com/features/lists-and-guides/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/0H1X2br2ZPFznGDtpGpJ11"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/wichita-lineman/1443109329?i=1443109565"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=Q8P_xTBpAcY"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Rotación"
+  },
+  {
+    "id": "song-056",
+    "type": "song",
+    "artist": "Os Mutantes",
+    "title": "A Minha Menina",
+    "year": 1968,
+    "decade": "1960",
+    "genre": "latin",
+    "genreDetail": "Tropicália",
+    "country": "Brasil",
+    "duration": "4:45",
+    "catalogue": "TLG–S–0056",
+    "coverClass": "cover-yellow",
+    "coverUrl": "assets/covers-master/song-056.webp",
+    "thumbnailUrl": "assets/covers-master/song-056.webp",
+    "description": {
+      "es": "Una fiesta juvenil recibe la distorsión como invitada y descubre que el choque también puede ser alegre.",
+      "en": "A youthful party welcomes distortion and discovers that collision can be joyful too.",
+      "fr": "Une fête de jeunesse accueille la distorsion et découvre que le choc peut lui aussi être joyeux."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Los 600 Discos de Latinoamérica",
+        "en": "The 600 Albums of Latin America",
+        "fr": "Les 600 albums d’Amérique latine"
+      },
+      "source": "Los 600 Discos de Latinoamérica",
+      "url": "https://www.600discoslatam.com/indice-general-de-los-600-discos-de-latinoamerica/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/5EsmRORNr0LcbfqI4Toir0"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/a-minha-menina/1443152697?i=1443152710"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=XIbJylD_c84"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-057",
+    "type": "song",
+    "artist": "Mercedes Sosa",
+    "title": "Duerme negrito",
+    "year": 1969,
+    "decade": "1960",
+    "genre": "folk",
+    "genreDetail": "Folk latinoamericano",
+    "country": "Argentina",
+    "duration": "2:24",
+    "catalogue": "TLG–S–0057",
+    "coverClass": "cover-green",
+    "coverUrl": "assets/covers-master/song-057.webp",
+    "thumbnailUrl": "assets/covers-master/song-057.webp",
+    "description": {
+      "es": "Un arrullo que obliga a pensar quién cuida a la persona encargada de cuidar.",
+      "en": "A cradle song that asks who cares for the person entrusted with caring.",
+      "fr": "Une berceuse qui oblige à se demander qui prend soin de celle chargée de prendre soin."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Indie Hoy — listas argentinas y por década",
+        "en": "Indie Hoy — Argentine and decade lists",
+        "fr": "Indie Hoy — sélections argentines et par décennie"
+      },
+      "source": "Indie Hoy",
+      "url": "https://indiehoy.com/listas/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/6kK7DGDR1OppRrxsZXV9ac"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/duerme-negrito-feat-kelo-palacios/1443456474?i=1443456568"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=BHWtQXMoVvA"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-058",
+    "type": "song",
+    "artist": "Fairuz",
+    "title": "Nassam Alayna el-Hawa",
+    "year": 1970,
+    "decade": "1970",
+    "genre": "global",
+    "genreDetail": "Pop árabe",
+    "country": "Líbano",
+    "duration": "4:03",
+    "catalogue": "TLG–S–0058",
+    "coverClass": "cover-blue",
+    "coverUrl": "assets/covers-master/song-058.webp",
+    "thumbnailUrl": "assets/covers-master/song-058.webp",
+    "description": {
+      "es": "La memoria de un lugar ausente se mantiene viva porque nunca deja de desplazarse.",
+      "en": "The memory of an absent place stays alive because it never stops moving.",
+      "fr": "La mémoire d’un lieu absent reste vivante parce qu’elle ne cesse jamais de se déplacer."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Acclaimed Music — agregador crítico",
+        "en": "Acclaimed Music — critical aggregator",
+        "fr": "Acclaimed Music — agrégateur critique"
+      },
+      "source": "Acclaimed Music",
+      "url": "https://www.acclaimedmusic.net/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/7BXhyXma11NSNQlQDZOgiN"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/us/song/nassam-alayna-el-hawa/1420594749"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=YFDW86Sb4nw"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Foco mensual"
+  },
+  {
+    "id": "song-059",
+    "type": "song",
+    "artist": "Chico Buarque",
+    "title": "Construção",
+    "year": 1971,
+    "decade": "1970",
+    "genre": "latin",
+    "genreDetail": "MPB",
+    "country": "Brasil",
+    "duration": "6:25",
+    "catalogue": "TLG–S–0059",
+    "coverClass": "cover-red",
+    "coverUrl": "assets/covers-master/song-059.webp",
+    "thumbnailUrl": "assets/covers-master/song-059.webp",
+    "description": {
+      "es": "Una vida reducida a rutina revela toda la violencia escondida en el lenguaje de la normalidad.",
+      "en": "A life reduced to routine reveals all the violence hidden in the language of normality.",
+      "fr": "Une vie réduite à la routine révèle toute la violence cachée dans le langage de la normalité."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Rolling Stone Brasil — discos y canciones",
+        "en": "Rolling Stone Brasil — albums and songs",
+        "fr": "Rolling Stone Brasil — albums et chansons"
+      },
+      "source": "Rolling Stone Brasil",
+      "url": "https://rollingstone.com.br/artigo/os-100-maiores-discos-da-musica-brasileira/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/6hLwtZdn9KPSYLP2BuM3tr"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/constru%C3%A7%C3%A3o/1442845496?i=1442845504"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=wBfVsucRe1w"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-060",
+    "type": "song",
+    "artist": "Françoise Hardy",
+    "title": "La question",
+    "year": 1971,
+    "decade": "1970",
+    "genre": "folk",
+    "genreDetail": "Chanson y folk",
+    "country": "Francia",
+    "duration": "3:02",
+    "catalogue": "TLG–S–0060",
+    "coverClass": "cover-yellow",
+    "coverUrl": "assets/covers-master/song-060.webp",
+    "thumbnailUrl": "assets/covers-master/song-060.webp",
+    "description": {
+      "es": "Una pregunta amorosa permanece abierta porque ninguna respuesta sería tan honesta como la duda.",
+      "en": "A question about love remains open because no answer would be as honest as doubt.",
+      "fr": "Une question amoureuse reste ouverte parce qu’aucune réponse ne serait aussi honnête que le doute."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Les Inrockuptibles — listas francesas",
+        "en": "Les Inrockuptibles — French lists",
+        "fr": "Les Inrockuptibles — sélections françaises"
+      },
+      "source": "Les Inrockuptibles",
+      "url": "https://www.lesinrocks.com/musique/les-100-meilleurs-albums-francais-de-tous-les-temps-125490-25-08-2017/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/2MGaxVjCfwk8OA6LHAoY6D"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/la-question/1490263490?i=1490263602"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=yxJkpcBmrf8"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Foco mensual"
+  },
+  {
+    "id": "song-061",
+    "type": "song",
+    "artist": "Happy End",
+    "title": "Kaze wo Atsumete",
+    "year": 1971,
+    "decade": "1970",
+    "genre": "folk",
+    "genreDetail": "Folk rock",
+    "country": "Japón",
+    "duration": "4:07",
+    "catalogue": "TLG–S–0061",
+    "coverClass": "cover-green",
+    "coverUrl": "assets/covers-master/song-061.webp",
+    "thumbnailUrl": "assets/covers-master/song-061.webp",
+    "description": {
+      "es": "La ciudad se vuelve un conjunto de imágenes tranquilas que el viento podría llevarse en cualquier momento.",
+      "en": "The city becomes a set of quiet images the wind might carry away at any moment.",
+      "fr": "La ville devient un ensemble d’images paisibles que le vent pourrait emporter à tout instant."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Beehype — mejores álbumes japoneses",
+        "en": "Beehype — best Japanese albums",
+        "fr": "Beehype — meilleurs albums japonais"
+      },
+      "source": "Beehype",
+      "url": "https://beehy.pe/special/best-japanese-albums/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/1tTAWGgTIRdym9wIg25Uhw"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/kaze-wo-atsumete/164362427?i=164362528"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=ZyZ8s09rVEE"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Foco mensual"
+  },
+  {
+    "id": "song-062",
+    "type": "song",
+    "artist": "Marvin Gaye",
+    "title": "Inner City Blues (Make Me Wanna Holler)",
+    "year": 1971,
+    "decade": "1970",
+    "genre": "soul",
+    "genreDetail": "Soul",
+    "country": "Estados Unidos",
+    "duration": "5:28",
+    "catalogue": "TLG–S–0062",
+    "coverClass": "cover-blue",
+    "coverUrl": "assets/covers-master/song-062.webp",
+    "thumbnailUrl": "assets/covers-master/song-062.webp",
+    "description": {
+      "es": "El cansancio de una comunidad encuentra una voz que no confunde serenidad con resignación.",
+      "en": "A community’s exhaustion finds a voice that never mistakes calm for resignation.",
+      "fr": "L’épuisement d’une communauté trouve une voix qui ne confond jamais calme et résignation."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Rolling Stone — 500 mejores canciones",
+        "en": "Rolling Stone — 500 Greatest Songs",
+        "fr": "Rolling Stone — 500 meilleures chansons"
+      },
+      "source": "Rolling Stone",
+      "url": "https://www.rollingstone.com/music/music-lists/best-songs-of-all-time-1224767/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/4KuBTG9nvmPhgwlRoXnJrJ"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/inner-city-blues-make-me-wanna-holler/1475816828?i=1475817954"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=WRLwTO_T52U"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Rotación"
+  },
+  {
+    "id": "song-063",
+    "type": "song",
+    "artist": "Serge Gainsbourg",
+    "title": "Ballade de Melody Nelson",
+    "year": 1971,
+    "decade": "1970",
+    "genre": "pop",
+    "genreDetail": "Pop orquestal",
+    "country": "Francia",
+    "duration": "2:01",
+    "catalogue": "TLG–S–0063",
+    "coverClass": "cover-red",
+    "coverUrl": "assets/covers-master/song-063.webp",
+    "thumbnailUrl": "assets/covers-master/song-063.webp",
+    "description": {
+      "es": "Una historia seductora conserva suficiente incomodidad para impedir que la belleza la vuelva inocente.",
+      "en": "A seductive story retains enough unease to keep beauty from making it innocent.",
+      "fr": "Un récit séduisant conserve assez de malaise pour empêcher la beauté de le rendre innocent."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Les Inrockuptibles — listas francesas",
+        "en": "Les Inrockuptibles — French lists",
+        "fr": "Les Inrockuptibles — sélections françaises"
+      },
+      "source": "Les Inrockuptibles",
+      "url": "https://www.lesinrocks.com/musique/les-100-meilleurs-albums-francais-de-tous-les-temps-125490-25-08-2017/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/2lmaHr8ih1E5GWEVmn50k5"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/ballade-de-melody-nelson/1443118514?i=1443118519"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=KYphb65yWKI"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-064",
+    "type": "song",
+    "artist": "Milton Nascimento",
+    "title": "Cais",
+    "year": 1972,
+    "decade": "1970",
+    "genre": "latin",
+    "genreDetail": "MPB",
+    "country": "Brasil",
+    "duration": "2:45",
+    "catalogue": "TLG–S–0064",
+    "coverClass": "cover-yellow",
+    "coverUrl": "assets/covers-master/song-064.webp",
+    "thumbnailUrl": "assets/covers-master/song-064.webp",
+    "description": {
+      "es": "La impresión de recordar con absoluta nitidez un lugar que quizá nunca existió.",
+      "en": "The sensation of remembering with perfect clarity a place that may never have existed.",
+      "fr": "L’impression de se souvenir avec une netteté absolue d’un lieu qui n’a peut-être jamais existé."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Los 600 Discos de Latinoamérica",
+        "en": "The 600 Albums of Latin America",
+        "fr": "Les 600 albums d’Amérique latine"
+      },
+      "source": "Los 600 Discos de Latinoamérica",
+      "url": "https://www.600discoslatam.com/indice-general-de-los-600-discos-de-latinoamerica/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/1UvOFJFyfsm2OJkE3s48fs"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/cais/1473446573?i=1473446727"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=dtZVQGa9eDw"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-065",
+    "type": "song",
+    "artist": "Novos Baianos",
+    "title": "Mistério do Planeta",
+    "year": 1972,
+    "decade": "1970",
+    "genre": "latin",
+    "genreDetail": "MPB y samba",
+    "country": "Brasil",
+    "duration": "3:38",
+    "catalogue": "TLG–S–0065",
+    "coverClass": "cover-green",
+    "coverUrl": "assets/covers-master/song-065.webp",
+    "thumbnailUrl": "assets/covers-master/song-065.webp",
+    "description": {
+      "es": "Una comunidad toca con la alegría de saber que cada participante puede cambiar el rumbo de la reunión.",
+      "en": "A community plays with the joy of knowing every participant can change the gathering’s direction.",
+      "fr": "Une communauté joue avec la joie de savoir que chacun peut changer la direction de la rencontre."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Rolling Stone Brasil — discos y canciones",
+        "en": "Rolling Stone Brasil — albums and songs",
+        "fr": "Rolling Stone Brasil — albums et chansons"
+      },
+      "source": "Rolling Stone Brasil",
+      "url": "https://rollingstone.com.br/artigo/os-100-maiores-discos-da-musica-brasileira/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/7CEKLxFNX1ow9iLwcwLjBH"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/mist%C3%A9rio-do-planeta/1831607320?i=1831607574"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=UtTqTFC0l5Y"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-023",
+    "type": "song",
+    "artist": "Dolly Parton",
+    "title": "Jolene",
+    "year": 1973,
+    "decade": "1970",
+    "genre": "folk",
+    "genreDetail": "Country",
+    "country": "Estados Unidos",
+    "duration": "2:43",
+    "catalogue": "TLG–S–0023",
+    "coverClass": "cover-blue",
+    "coverUrl": "assets/covers-master/song-023.webp",
+    "thumbnailUrl": "assets/covers-master/song-023.webp",
+    "description": {
+      "es": "Una súplica reconoce la belleza de la rival y por eso mismo resulta todavía más vulnerable.",
+      "en": "A plea acknowledges a rival’s beauty and becomes all the more vulnerable for it.",
+      "fr": "Une supplication reconnaît la beauté de la rivale et n’en devient que plus vulnérable."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Registro Nacional de Grabaciones",
+        "en": "National Recording Registry",
+        "fr": "Registre national des enregistrements"
+      },
+      "source": "National Recording Registry",
+      "url": "https://www.loc.gov/programs/national-recording-preservation-board/recording-registry/complete-national-recording-registry-listing/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/2SpEHTbUuebeLkgs9QB7Ue"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/jolene/1062400323?i=1062400330"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=ZCwWAD6ZuPk"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-066",
+    "type": "song",
+    "artist": "Pescado Rabioso",
+    "title": "Cementerio Club",
+    "year": 1973,
+    "decade": "1970",
+    "genre": "rock",
+    "genreDetail": "Rock argentino",
+    "country": "Argentina",
+    "duration": "4:56",
+    "catalogue": "TLG–S–0066",
+    "coverClass": "cover-red",
+    "coverUrl": "assets/covers-master/song-066.webp",
+    "thumbnailUrl": "assets/covers-master/song-066.webp",
+    "description": {
+      "es": "Un blues de bolsillo para convivir unos minutos con una pregunta que no admite respuesta.",
+      "en": "A pocket-sized blues for spending a few minutes with a question that has no answer.",
+      "fr": "Un blues de poche pour vivre quelques minutes avec une question sans réponse."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Los 600 Discos de Latinoamérica",
+        "en": "The 600 Albums of Latin America",
+        "fr": "Les 600 albums d’Amérique latine"
+      },
+      "source": "Los 600 Discos de Latinoamérica",
+      "url": "https://www.600discoslatam.com/indice-general-de-los-600-discos-de-latinoamerica/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/0O9BqfU1Cdm7YqmD0TrT9i"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/cementerio-club/321645242?i=321645301"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=fIeVgSvqFyY"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Foco mensual"
+  },
+  {
+    "id": "song-067",
+    "type": "song",
+    "artist": "Elis Regina & Tom Jobim",
+    "title": "Águas de Março",
+    "year": 1974,
+    "decade": "1970",
+    "genre": "latin",
+    "genreDetail": "MPB y bossa nova",
+    "country": "Brasil",
+    "duration": "3:34",
+    "catalogue": "TLG–S–0067",
+    "coverClass": "cover-yellow",
+    "coverUrl": "assets/covers-master/song-067.webp",
+    "thumbnailUrl": "assets/covers-master/song-067.webp",
+    "description": {
+      "es": "Dos intérpretes convierten una lista de cosas pequeñas en el placer de escucharse mutuamente.",
+      "en": "Two performers turn a list of small things into the pleasure of listening to one another.",
+      "fr": "Deux interprètes transforment une liste de petites choses en plaisir de s’écouter mutuellement."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Registro Nacional de Grabaciones",
+        "en": "National Recording Registry",
+        "fr": "Registre national des enregistrements"
+      },
+      "source": "National Recording Registry",
+      "url": "https://www.loc.gov/programs/national-recording-preservation-board/recording-registry/complete-national-recording-registry-listing/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/1CFpxBiLtcnBVIbnmAJCBk"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/%C3%A1guas-de-mar%C3%A7o/1438430508?i=1438430509"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=3dVe9WiZa2c"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-068",
+    "type": "song",
+    "artist": "Jorge Ben",
+    "title": "Os Alquimistas Estão Chegando os Alquimistas",
+    "year": 1974,
+    "decade": "1970",
+    "genre": "latin",
+    "genreDetail": "Samba rock",
+    "country": "Brasil",
+    "duration": "3:15",
+    "catalogue": "TLG–S–0068",
+    "coverClass": "cover-green",
+    "coverUrl": "assets/covers-master/song-068.webp",
+    "thumbnailUrl": "assets/covers-master/song-068.webp",
+    "description": {
+      "es": "La llegada de unos personajes misteriosos se celebra como si el conocimiento también pudiera bailar.",
+      "en": "The arrival of mysterious figures is celebrated as though knowledge could dance too.",
+      "fr": "L’arrivée de personnages mystérieux se fête comme si le savoir pouvait lui aussi danser."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Los 600 Discos de Latinoamérica",
+        "en": "The 600 Albums of Latin America",
+        "fr": "Les 600 albums d’Amérique latine"
+      },
+      "source": "Los 600 Discos de Latinoamérica",
+      "url": "https://www.600discoslatam.com/indice-general-de-los-600-discos-de-latinoamerica/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/25U56VP5BwMQX4apCV0BfA"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/os-alquimistas-est%C3%A3o-chegando-os-alquimistas/1444036491?i=1444036498"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=RZWl7CMRmMc"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-069",
+    "type": "song",
+    "artist": "Mulatu Astatke",
+    "title": "Tezeta",
+    "year": 1974,
+    "decade": "1970",
+    "genre": "jazz",
+    "genreDetail": "Ethio-jazz",
+    "country": "Etiopía",
+    "duration": "6:17",
+    "catalogue": "TLG–S–0069",
+    "coverClass": "cover-blue",
+    "coverUrl": "assets/covers-master/song-069.webp",
+    "thumbnailUrl": "assets/covers-master/song-069.webp",
+    "description": {
+      "es": "La melancolía observa el pasado con calma y descubre que cada recuerdo cambia de color.",
+      "en": "Melancholy regards the past calmly and discovers that every memory changes colour.",
+      "fr": "La mélancolie regarde paisiblement le passé et découvre que chaque souvenir change de couleur."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Pan African Music — selecciones africanas",
+        "en": "Pan African Music — African selections",
+        "fr": "Pan African Music — sélections africaines"
+      },
+      "source": "Pan African Music",
+      "url": "https://pan-african-music.com/en/80-best-albums-2010s/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/7JPNvoMjoIXkTDAMx9Aajj"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/tezeta-nostalgia/78928362?i=78928247"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=sXLfV2kegUI"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Foco mensual"
+  },
+  {
+    "id": "song-070",
+    "type": "song",
+    "artist": "Fela Kuti",
+    "title": "Water No Get Enemy",
+    "year": 1975,
+    "decade": "1970",
+    "genre": "global",
+    "genreDetail": "Afrobeat",
+    "country": "Nigeria",
+    "duration": "9:52",
+    "catalogue": "TLG–S–0070",
+    "coverClass": "cover-red",
+    "coverUrl": "assets/covers-master/song-070.webp",
+    "thumbnailUrl": "assets/covers-master/song-070.webp",
+    "description": {
+      "es": "Una verdad elemental alcanza dimensión política cuando una comunidad decide sostenerla durante el tiempo necesario.",
+      "en": "An elemental truth gains political scale when a community chooses to sustain it for as long as needed.",
+      "fr": "Une vérité élémentaire prend une dimension politique lorsqu’une communauté décide de la porter aussi longtemps que nécessaire."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Pan African Music — selecciones africanas",
+        "en": "Pan African Music — African selections",
+        "fr": "Pan African Music — sélections africaines"
+      },
+      "source": "Pan African Music",
+      "url": "https://pan-african-music.com/en/80-best-albums-2010s/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/6jzbUvXYVbH6NrUS3WRMoL"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/water-no-get-enemy/1783205871?i=1783205879"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=RHR0tKRxiyY"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-071",
+    "type": "song",
+    "artist": "Cartola",
+    "title": "O Mundo É um Moinho",
+    "year": 1976,
+    "decade": "1970",
+    "genre": "latin",
+    "genreDetail": "Samba",
+    "country": "Brasil",
+    "duration": "3:58",
+    "catalogue": "TLG–S–0071",
+    "coverClass": "cover-yellow",
+    "coverUrl": "assets/covers-master/song-071.webp",
+    "thumbnailUrl": "assets/covers-master/song-071.webp",
+    "description": {
+      "es": "Una advertencia amorosa duele más porque está dicha sin rencor y con absoluta claridad.",
+      "en": "A warning about love hurts more because it is delivered without resentment and with complete clarity.",
+      "fr": "Un avertissement amoureux fait d’autant plus mal qu’il est formulé sans rancœur et avec une clarté absolue."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Rolling Stone Brasil — discos y canciones",
+        "en": "Rolling Stone Brasil — albums and songs",
+        "fr": "Rolling Stone Brasil — albums et chansons"
+      },
+      "source": "Rolling Stone Brasil",
+      "url": "https://rollingstone.com.br/artigo/os-100-maiores-discos-da-musica-brasileira/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/78qzpcAasDDxEhfQSL457i"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/o-mundo-%C3%A9-um-moinho/1444042772?i=1444042773"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=F4RK4uNf2vU"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-072",
+    "type": "song",
+    "artist": "Joni Mitchell",
+    "title": "Amelia",
+    "year": 1976,
+    "decade": "1970",
+    "genre": "folk",
+    "genreDetail": "Folk y canción de autor",
+    "country": "Canadá",
+    "duration": "6:02",
+    "catalogue": "TLG–S–0072",
+    "coverClass": "cover-green",
+    "coverUrl": "assets/covers-master/song-072.webp",
+    "thumbnailUrl": "assets/covers-master/song-072.webp",
+    "description": {
+      "es": "Una viajera encuentra en el cielo una forma de pensar el deseo de moverse y la dificultad de quedarse.",
+      "en": "A traveller finds in the sky a way to consider the desire to move and the difficulty of staying.",
+      "fr": "Une voyageuse trouve dans le ciel une manière de penser le désir de partir et la difficulté de rester."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Pitchfork — listas por década y año",
+        "en": "Pitchfork — lists by decade and year",
+        "fr": "Pitchfork — sélections par décennie et par année"
+      },
+      "source": "Pitchfork",
+      "url": "https://pitchfork.com/features/lists-and-guides/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/6e3dnIRDSPUxRMPRgMlqj1"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/amelia/1492262288?i=1492262290"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=BsWVRN8DDjs"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-022",
+    "type": "song",
+    "artist": "Stevie Wonder",
+    "title": "As",
+    "year": 1976,
+    "decade": "1970",
+    "genre": "soul",
+    "genreDetail": "Soul",
+    "country": "Estados Unidos",
+    "duration": "7:08",
+    "catalogue": "TLG–S–0022",
+    "coverClass": "cover-blue",
+    "coverUrl": "assets/covers-master/song-022.webp",
+    "thumbnailUrl": "assets/covers-master/song-022.webp",
+    "description": {
+      "es": "Siete minutos capaces de borrar la frontera entre una declaración privada y una celebración compartida.",
+      "en": "Seven minutes that erase the boundary between a private declaration and a shared celebration.",
+      "fr": "Sept minutes capables d’effacer la frontière entre déclaration privée et célébration partagée."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Pitchfork — listas por década y año",
+        "en": "Pitchfork — lists by decade and year",
+        "fr": "Pitchfork — sélections par décennie et par année"
+      },
+      "source": "Pitchfork",
+      "url": "https://pitchfork.com/features/lists-and-guides/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/13toFl1UwJPsRxDiD9jgtn"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/as/1440788438?i=1440788744"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=VCgsmUNNOKM"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Rotación"
+  },
+  {
+    "id": "song-021",
+    "type": "song",
+    "artist": "David Bowie",
+    "title": "Sound and Vision",
+    "year": 1977,
+    "decade": "1970",
+    "genre": "rock",
+    "genreDetail": "Art rock",
+    "country": "Reino Unido",
+    "duration": "3:04",
+    "catalogue": "TLG–S–0021",
+    "coverClass": "cover-red",
+    "coverUrl": "assets/covers-master/song-021.webp",
+    "thumbnailUrl": "assets/covers-master/song-021.webp",
+    "description": {
+      "es": "La espera dentro de una habitación azul se vuelve más intrigante que cualquier explicación posterior.",
+      "en": "Waiting inside a blue room becomes more intriguing than any explanation that follows.",
+      "fr": "L’attente dans une chambre bleue devient plus intrigante que toute explication ultérieure."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Pitchfork — listas por década y año",
+        "en": "Pitchfork — lists by decade and year",
+        "fr": "Pitchfork — sélections par décennie et par année"
+      },
+      "source": "Pitchfork",
+      "url": "https://pitchfork.com/features/lists-and-guides/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/1vP2JEXRsGrFbwOZ0foOQ5"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/sound-and-vision/1347895593?i=1347895843"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=ZV_UsQPTBy4"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Rotación"
+  },
+  {
+    "id": "song-073",
+    "type": "song",
+    "artist": "Miriam Makeba",
+    "title": "Soweto Blues",
+    "year": 1977,
+    "decade": "1970",
+    "genre": "global",
+    "genreDetail": "Afropop",
+    "country": "Sudáfrica",
+    "duration": "4:17",
+    "catalogue": "TLG–S–0073",
+    "coverClass": "cover-yellow",
+    "coverUrl": "assets/covers-master/song-073.webp",
+    "thumbnailUrl": "assets/covers-master/song-073.webp",
+    "description": {
+      "es": "Una comunidad responde a la violencia negándose a entregar también su capacidad de movimiento.",
+      "en": "A community answers violence by refusing to surrender its ability to move as well.",
+      "fr": "Une communauté répond à la violence en refusant de céder aussi sa capacité de mouvement."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Pan African Music — selecciones africanas",
+        "en": "Pan African Music — African selections",
+        "fr": "Pan African Music — sélections africaines"
+      },
+      "source": "Pan African Music",
+      "url": "https://pan-african-music.com/en/80-best-albums-2010s/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/7qb0KJZ0iXtS8LMSXCH353"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/soweto-blues/656407455?i=656407960"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=bWbrLyZb5c4"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-074",
+    "type": "song",
+    "artist": "Rubén Blades",
+    "title": "Pablo Pueblo",
+    "year": 1977,
+    "decade": "1970",
+    "genre": "latin",
+    "genreDetail": "Salsa",
+    "country": "Panamá",
+    "duration": "3:59",
+    "catalogue": "TLG–S–0074",
+    "coverClass": "cover-green",
+    "coverUrl": "assets/covers-master/song-074.webp",
+    "thumbnailUrl": "assets/covers-master/song-074.webp",
+    "description": {
+      "es": "El regreso a casa de un trabajador revela una ciudad que conoce su nombre pero rara vez escucha su historia.",
+      "en": "A worker’s journey home reveals a city that knows his name but rarely hears his story.",
+      "fr": "Le retour d’un travailleur révèle une ville qui connaît son nom mais écoute rarement son histoire."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Los 600 Discos de Latinoamérica",
+        "en": "The 600 Albums of Latin America",
+        "fr": "Les 600 albums d’Amérique latine"
+      },
+      "source": "Los 600 Discos de Latinoamérica",
+      "url": "https://www.600discoslatam.com/indice-general-de-los-600-discos-de-latinoamerica/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/3bNKqH6CugJqI2QyofQtXf"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/pablo-pueblo/1464288853?i=1464288987"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=NEjTc-bFxA0"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-075",
+    "type": "song",
+    "artist": "Taeko Ohnuki",
+    "title": "4:00A.M.",
+    "year": 1978,
+    "decade": "1970",
+    "genre": "pop",
+    "genreDetail": "City pop",
+    "country": "Japón",
+    "duration": "5:37",
+    "catalogue": "TLG–S–0075",
+    "coverClass": "cover-blue",
+    "coverUrl": "assets/covers-master/song-075.webp",
+    "thumbnailUrl": "assets/covers-master/song-075.webp",
+    "description": {
+      "es": "La madrugada aparece como un estado mental donde cada luz parece demasiado lejana.",
+      "en": "The small hours emerge as a state of mind in which every light seems too far away.",
+      "fr": "Le cœur de la nuit devient un état mental où chaque lumière paraît trop lointaine."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Beehype — mejores álbumes japoneses",
+        "en": "Beehype — best Japanese albums",
+        "fr": "Beehype — meilleurs albums japonais"
+      },
+      "source": "Beehype",
+      "url": "https://beehy.pe/special/best-japanese-albums/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/2lV8YY0GQYXgtUWXM4NJ4X"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/4-00a-m/1597423751?i=1597423772"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=_sOKkON_UnQ"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Foco mensual"
+  },
+  {
+    "id": "song-076",
+    "type": "song",
+    "artist": "Michael Jackson",
+    "title": "I Can't Help It",
+    "year": 1979,
+    "decade": "1970",
+    "genre": "soul",
+    "genreDetail": "Soul y pop",
+    "country": "Estados Unidos",
+    "duration": "4:29",
+    "catalogue": "TLG–S–0076",
+    "coverClass": "cover-red",
+    "coverUrl": "assets/covers-master/song-076.webp",
+    "thumbnailUrl": "assets/covers-master/song-076.webp",
+    "description": {
+      "es": "El enamoramiento conserva su ligereza incluso mientras reconoce que ya no puede controlarse.",
+      "en": "Infatuation retains its lightness even while admitting it can no longer be controlled.",
+      "fr": "L’élan amoureux garde sa légèreté tout en reconnaissant qu’il ne peut plus être maîtrisé."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Pitchfork — listas por década y año",
+        "en": "Pitchfork — lists by decade and year",
+        "fr": "Pitchfork — sélections par décennie et par année"
+      },
+      "source": "Pitchfork",
+      "url": "https://pitchfork.com/features/lists-and-guides/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/1HibhNhwk2tljwC4BGGLXV"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/i-cant-help-it/186166282?i=186166572"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=_3h7wQxdM3A"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Rotación"
+  },
+  {
+    "id": "song-077",
+    "type": "song",
+    "artist": "Yellow Magic Orchestra",
+    "title": "Behind the Mask",
+    "year": 1979,
+    "decade": "1970",
+    "genre": "electronic",
+    "genreDetail": "Electropop",
+    "country": "Japón",
+    "duration": "3:37",
+    "catalogue": "TLG–S–0077",
+    "coverClass": "cover-yellow",
+    "coverUrl": "assets/covers-master/song-077.webp",
+    "thumbnailUrl": "assets/covers-master/song-077.webp",
+    "description": {
+      "es": "Una emoción discreta aprende a vivir dentro de un futuro de superficies perfectamente ordenadas.",
+      "en": "A quiet emotion learns to live inside a future of perfectly ordered surfaces.",
+      "fr": "Une émotion discrète apprend à vivre dans un futur aux surfaces parfaitement ordonnées."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Beehype — mejores álbumes japoneses",
+        "en": "Beehype — best Japanese albums",
+        "fr": "Beehype — meilleurs albums japonais"
+      },
+      "source": "Beehype",
+      "url": "https://beehy.pe/special/best-japanese-albums/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/2kSet7H0qbOHx4nHlBcpln"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/behind-the-mask/1291843638?i=1291843649"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=02IvYUAJbtY"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-078",
+    "type": "song",
+    "artist": "Ryuichi Sakamoto",
+    "title": "Riot in Lagos",
+    "year": 1980,
+    "decade": "1980",
+    "genre": "electronic",
+    "genreDetail": "Electrónica",
+    "country": "Japón",
+    "duration": "5:40",
+    "catalogue": "TLG–S–0078",
+    "coverClass": "cover-green",
+    "coverUrl": "assets/covers-master/song-078.webp",
+    "thumbnailUrl": "assets/covers-master/song-078.webp",
+    "description": {
+      "es": "Una ciudad imaginaria se reorganiza sin descanso y obliga al oído a buscar nuevas coordenadas.",
+      "en": "An imaginary city rearranges itself without rest and forces the ear to seek new coordinates.",
+      "fr": "Une ville imaginaire se réorganise sans relâche et oblige l’oreille à chercher de nouvelles coordonnées."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Resident Advisor — mejores discos y pistas",
+        "en": "Resident Advisor — best records and tracks",
+        "fr": "Resident Advisor — meilleurs disques et morceaux"
+      },
+      "source": "Resident Advisor",
+      "url": "https://www.residentadvisor.net/features.aspx?series=bestmusic"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/6ysWHPbTCVuBPweb20rYpD"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/riot-in-lagos-2019-remastering/1479414061?i=1479414074"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=GPuBOYsl--M"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-079",
+    "type": "song",
+    "artist": "Talking Heads",
+    "title": "The Great Curve",
+    "year": 1980,
+    "decade": "1980",
+    "genre": "rock",
+    "genreDetail": "Art rock y funk",
+    "country": "Estados Unidos",
+    "duration": "6:28",
+    "catalogue": "TLG–S–0079",
+    "coverClass": "cover-blue",
+    "coverUrl": "assets/covers-master/song-079.webp",
+    "thumbnailUrl": "assets/covers-master/song-079.webp",
+    "description": {
+      "es": "Muchas direcciones simultáneas terminan produciendo la sensación de que todo avanza hacia un mismo centro.",
+      "en": "Many simultaneous directions ultimately create the feeling that everything is moving towards one centre.",
+      "fr": "De nombreuses directions simultanées finissent par donner l’impression que tout avance vers un même centre."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Pitchfork — listas por década y año",
+        "en": "Pitchfork — lists by decade and year",
+        "fr": "Pitchfork — sélections par décennie et par année"
+      },
+      "source": "Pitchfork",
+      "url": "https://pitchfork.com/features/lists-and-guides/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/5N73ncX9gjmRv9lIpZ85nS"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/the-great-curve/300948043?i=300948068"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=3N5qQrGSuJ4"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Rotación"
+  },
+  {
+    "id": "song-080",
+    "type": "song",
+    "artist": "The Cure",
+    "title": "A Forest",
+    "year": 1980,
+    "decade": "1980",
+    "genre": "rock",
+    "genreDetail": "Post-punk",
+    "country": "Reino Unido",
+    "duration": "5:55",
+    "catalogue": "TLG–S–0080",
+    "coverClass": "cover-red",
+    "coverUrl": "assets/covers-master/song-080.webp",
+    "thumbnailUrl": "assets/covers-master/song-080.webp",
+    "description": {
+      "es": "Una búsqueda nocturna continúa incluso después de que la posibilidad de encontrar algo ha desaparecido.",
+      "en": "A nocturnal search continues even after the possibility of finding anything has disappeared.",
+      "fr": "Une recherche nocturne continue même après la disparition de toute possibilité de trouver quoi que ce soit."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Pitchfork — listas por década y año",
+        "en": "Pitchfork — lists by decade and year",
+        "fr": "Pitchfork — sélections par décennie et par année"
+      },
+      "source": "Pitchfork",
+      "url": "https://pitchfork.com/features/lists-and-guides/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/0o4S13NJiEdnzy67ZKoyFZ"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/a-forest/1443809010?i=1443809784"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=ouqt7tJiCbc"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Rotación"
+  },
+  {
+    "id": "song-081",
+    "type": "song",
+    "artist": "Los Jaivas",
+    "title": "La poderosa muerte",
+    "year": 1981,
+    "decade": "1980",
+    "genre": "rock",
+    "genreDetail": "Rock progresivo andino",
+    "country": "Chile",
+    "duration": "11:12",
+    "catalogue": "TLG–S–0081",
+    "coverClass": "cover-yellow",
+    "coverUrl": "assets/covers-master/song-081.webp",
+    "thumbnailUrl": "assets/covers-master/song-081.webp",
+    "description": {
+      "es": "El ascenso hacia una ciudad perdida se convierte en una reflexión sobre historia, muerte y permanencia.",
+      "en": "The ascent towards a lost city becomes a reflection on history, death and permanence.",
+      "fr": "L’ascension vers une ville perdue devient une réflexion sur l’histoire, la mort et la permanence."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Radiónica — música colombiana y latinoamericana",
+        "en": "Radiónica — Colombian and Latin American music",
+        "fr": "Radiónica — musique colombienne et latino-américaine"
+      },
+      "source": "Radiónica",
+      "url": "https://www.radionica.rocks/musica"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/6ArNvGUEBngQ9sliZXeGrr"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/la-poderosa-muerte/1607400773?i=1607400785"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=FOjHCeGiFOI"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-082",
+    "type": "song",
+    "artist": "New Order",
+    "title": "Temptation",
+    "year": 1982,
+    "decade": "1980",
+    "genre": "electronic",
+    "genreDetail": "Post-punk y electrónica",
+    "country": "Reino Unido",
+    "duration": "5:24",
+    "catalogue": "TLG–S–0082",
+    "coverClass": "cover-green",
+    "coverUrl": "assets/covers-master/song-082.webp",
+    "thumbnailUrl": "assets/covers-master/song-082.webp",
+    "description": {
+      "es": "La euforia conserva cierta torpeza y por eso parece pertenecer a una noche real, no a una fantasía perfecta.",
+      "en": "Euphoria retains a certain awkwardness and therefore belongs to a real night rather than a perfect fantasy.",
+      "fr": "L’euphorie garde une certaine maladresse et semble ainsi appartenir à une nuit réelle plutôt qu’à un rêve parfait."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Rockdelux — listas por género y escena",
+        "en": "Rockdelux — genre and scene lists",
+        "fr": "Rockdelux — sélections par genre et par scène"
+      },
+      "source": "Rockdelux",
+      "url": "https://www.rockdelux.com/es/listas"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/7j5Q3zhjvpQvMeoPSZwdsa"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/temptation-7-version/1129721479?i=1129721526"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=UkFqFoaDkFo"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-083",
+    "type": "song",
+    "artist": "Luis Alberto Spinetta",
+    "title": "Barro tal vez",
+    "year": 1982,
+    "decade": "1980",
+    "genre": "latin",
+    "genreDetail": "Zamba argentina",
+    "country": "Argentina",
+    "duration": "3:18",
+    "catalogue": "TLG–S–0083",
+    "coverClass": "cover-blue",
+    "coverUrl": "assets/covers-master/song-083.webp",
+    "thumbnailUrl": "assets/covers-master/song-083.webp",
+    "description": {
+      "es": "La necesidad de cantar aparece como una verdad anterior a cualquier explicación o aprendizaje técnico.",
+      "en": "The need to sing emerges as a truth preceding any explanation or technical training.",
+      "fr": "Le besoin de chanter apparaît comme une vérité antérieure à toute explication ou formation technique."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Pitchfork — listas por década y año",
+        "en": "Pitchfork — lists by decade and year",
+        "fr": "Pitchfork — sélections par décennie et par année"
+      },
+      "source": "Pitchfork",
+      "url": "https://pitchfork.com/features/lists-and-guides/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/1y96w7WDPlwByq9aISEi6G"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/uy/song/barro-tal-vez/1091406776"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=EhCcza2Tgc8"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-084",
+    "type": "song",
+    "artist": "Tatsuro Yamashita",
+    "title": "Sparkle",
+    "year": 1982,
+    "decade": "1980",
+    "genre": "pop",
+    "genreDetail": "City pop",
+    "country": "Japón",
+    "duration": "4:15",
+    "catalogue": "TLG–S–0084",
+    "coverClass": "cover-red",
+    "coverUrl": "assets/covers-master/song-084.webp",
+    "thumbnailUrl": "assets/covers-master/song-084.webp",
+    "description": {
+      "es": "Una mañana luminosa adquiere movimiento sin que el esfuerzo necesario llegue a verse en la superficie.",
+      "en": "A bright morning acquires motion without the necessary effort ever showing on the surface.",
+      "fr": "Un matin lumineux se met en mouvement sans que l’effort nécessaire n’apparaisse à la surface."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Rolling Stone Japan — 100 álbumes japoneses de rock",
+        "en": "Rolling Stone Japan — 100 Japanese Rock Albums",
+        "fr": "Rolling Stone Japan — 100 albums japonais de rock"
+      },
+      "source": "Rolling Stone Japan",
+      "url": "https://neojaponisme.com/2007/11/09/100-greatest-japanese-rock-albums/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "unavailable",
+        "reason": "The original Tatsuro Yamashita recording was not found as a playable Spotify track entity; a similarly titled orchestral recording is intentionally excluded."
+      },
+      "appleMusic": {
+        "status": "unavailable",
+        "reason": "The original Tatsuro Yamashita recording was not found as a playable Apple Music entity; covers and search pages are intentionally excluded."
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=pqobRu9aR3M"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-085",
+    "type": "song",
+    "artist": "Charly García",
+    "title": "Ojos de videotape",
+    "year": 1983,
+    "decade": "1980",
+    "genre": "rock",
+    "genreDetail": "Rock y new wave",
+    "country": "Argentina",
+    "duration": "3:35",
+    "catalogue": "TLG–S–0085",
+    "coverClass": "cover-yellow",
+    "coverUrl": "assets/covers-master/song-085.webp",
+    "thumbnailUrl": "assets/covers-master/song-085.webp",
+    "description": {
+      "es": "La intimidad frente a una pantalla deja ver cuánto aislamiento puede esconder una imagen conectada.",
+      "en": "Intimacy before a screen reveals how much isolation a connected image can conceal.",
+      "fr": "L’intimité devant un écran révèle combien d’isolement peut cacher une image connectée."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Indie Hoy — listas argentinas y por década",
+        "en": "Indie Hoy — Argentine and decade lists",
+        "fr": "Indie Hoy — sélections argentines et par décennie"
+      },
+      "source": "Indie Hoy",
+      "url": "https://indiehoy.com/listas/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/0UZXsxq8BziChG01WwNRNz"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/ojos-de-video-tape/1443921010?i=1443921386"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=QzOC1bd8Kow"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-086",
+    "type": "song",
+    "artist": "Héctor Lavoe",
+    "title": "Juanito Alimaña",
+    "year": 1983,
+    "decade": "1980",
+    "genre": "latin",
+    "genreDetail": "Salsa",
+    "country": "Puerto Rico",
+    "duration": "5:46",
+    "catalogue": "TLG–S–0086",
+    "coverClass": "cover-green",
+    "coverUrl": "assets/covers-master/song-086.webp",
+    "thumbnailUrl": "assets/covers-master/song-086.webp",
+    "description": {
+      "es": "Un retrato tan preciso que cada sonrisa deja ver el peligro que intenta disimular.",
+      "en": "A portrait so precise that every smile reveals the danger it tries to conceal.",
+      "fr": "Un portrait si précis que chaque sourire laisse apparaître le danger qu’il cherche à dissimuler."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Los 600 Discos de Latinoamérica",
+        "en": "The 600 Albums of Latin America",
+        "fr": "Les 600 albums d’Amérique latine"
+      },
+      "source": "Los 600 Discos de Latinoamérica",
+      "url": "https://www.600discoslatam.com/indice-general-de-los-600-discos-de-latinoamerica/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/02c7d670y3o6IvkBPazlFu"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/juanito-alima%C3%B1a/1464288853?i=1464288986"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=LrVjKqXjjpM"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-087",
+    "type": "song",
+    "artist": "William Onyeabor",
+    "title": "Fantastic Man",
+    "year": 1983,
+    "decade": "1980",
+    "genre": "electronic",
+    "genreDetail": "Funk electrónico",
+    "country": "Nigeria",
+    "duration": "6:26",
+    "catalogue": "TLG–S–0087",
+    "coverClass": "cover-blue",
+    "coverUrl": "assets/covers-master/song-087.webp",
+    "thumbnailUrl": "assets/covers-master/song-087.webp",
+    "description": {
+      "es": "Una pregunta sencilla conserva suficiente misterio para que el encanto aumente con cada nueva vuelta.",
+      "en": "A simple question retains enough mystery for its charm to grow with every return.",
+      "fr": "Une question simple garde assez de mystère pour que son charme grandisse à chaque retour."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Pan African Music — selecciones africanas",
+        "en": "Pan African Music — African selections",
+        "fr": "Pan African Music — sélections africaines"
+      },
+      "source": "Pan African Music",
+      "url": "https://pan-african-music.com/en/80-best-albums-2010s/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/1ETZhP9orTkDclKEyt0xqm"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/fantastic-man/708418132?i=708418258"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=PW-lgA8Esjc"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-028",
+    "type": "song",
+    "artist": "Kate Bush",
+    "title": "Cloudbusting",
+    "year": 1985,
+    "decade": "1980",
+    "genre": "pop",
+    "genreDetail": "Art pop",
+    "country": "Reino Unido",
+    "duration": "5:10",
+    "catalogue": "TLG–S–0028",
+    "coverClass": "cover-red",
+    "coverUrl": "assets/covers-master/song-028.webp",
+    "thumbnailUrl": "assets/covers-master/song-028.webp",
+    "description": {
+      "es": "Un recuerdo infantil adquiere una fuerza épica sin perder la fragilidad de quien todavía espera una respuesta.",
+      "en": "A childhood memory gains epic force without losing the fragility of someone still waiting for an answer.",
+      "fr": "Un souvenir d’enfance acquiert une force épique sans perdre la fragilité de celle qui attend encore une réponse."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Pitchfork — listas por década y año",
+        "en": "Pitchfork — lists by decade and year",
+        "fr": "Pitchfork — sélections par décennie et par année"
+      },
+      "source": "Pitchfork",
+      "url": "https://pitchfork.com/features/lists-and-guides/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/373vZ0g1dpWaUcrbh0WKhd"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/cloudbusting-2018-remaster/1675560565?i=1675560844"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=ns7EW5G9ses"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Rotación"
+  },
+  {
+    "id": "song-029",
+    "type": "song",
+    "artist": "Prince",
+    "title": "If I Was Your Girlfriend",
+    "year": 1987,
+    "decade": "1980",
+    "genre": "soul",
+    "genreDetail": "Pop y funk",
+    "country": "Estados Unidos",
+    "duration": "3:46",
+    "catalogue": "TLG–S–0029",
+    "coverClass": "cover-yellow",
+    "coverUrl": "assets/covers-master/song-029.webp",
+    "thumbnailUrl": "assets/covers-master/song-029.webp",
+    "description": {
+      "es": "Una pregunta sobre intimidad desarma las fronteras entre amistad, deseo e identidad sin ofrecer una respuesta cómoda.",
+      "en": "A question about intimacy unsettles the borders among friendship, desire and identity without offering a comfortable answer.",
+      "fr": "Une question d’intimité défait les frontières entre amitié, désir et identité sans offrir de réponse confortable."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Pitchfork — listas por década y año",
+        "en": "Pitchfork — lists by decade and year",
+        "fr": "Pitchfork — sélections par décennie et par année"
+      },
+      "source": "Pitchfork",
+      "url": "https://pitchfork.com/features/lists-and-guides/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/6yK7QgE4H7dIzHa9EV4FKL"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/if-i-was-your-girlfriend/212972881?i=212975497"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=4n0j2ZAqeVk"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Rotación"
+  },
+  {
+    "id": "song-088",
+    "type": "song",
+    "artist": "Joe Arroyo",
+    "title": "La noche",
+    "year": 1988,
+    "decade": "1980",
+    "genre": "latin",
+    "genreDetail": "Salsa y música tropical",
+    "country": "Colombia",
+    "duration": "4:24",
+    "catalogue": "TLG–S–0088",
+    "coverClass": "cover-green",
+    "coverUrl": "assets/covers-master/song-088.webp",
+    "thumbnailUrl": "assets/covers-master/song-088.webp",
+    "description": {
+      "es": "La oscuridad de una historia caribeña termina convertida en una fuerza que se comparte bailando.",
+      "en": "The darkness of a Caribbean story is ultimately turned into a force shared through dance.",
+      "fr": "L’obscurité d’un récit caribéen finit par devenir une force que l’on partage en dansant."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Los 600 Discos de Latinoamérica",
+        "en": "The 600 Albums of Latin America",
+        "fr": "Les 600 albums d’Amérique latine"
+      },
+      "source": "Los 600 Discos de Latinoamérica",
+      "url": "https://www.600discoslatam.com/indice-general-de-los-600-discos-de-latinoamerica/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/2uyCcoHiRGttV0uXaNXGB1"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/la-noche/1444508173?i=1444508177"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=p6k02-A_VB4"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-089",
+    "type": "song",
+    "artist": "Public Enemy",
+    "title": "Fight the Power",
+    "year": 1989,
+    "decade": "1980",
+    "genre": "hip-hop",
+    "genreDetail": "Hip-hop",
+    "country": "Estados Unidos",
+    "duration": "4:37",
+    "catalogue": "TLG–S–0089",
+    "coverClass": "cover-blue",
+    "coverUrl": "assets/covers-master/song-089.webp",
+    "thumbnailUrl": "assets/covers-master/song-089.webp",
+    "description": {
+      "es": "La negativa a permanecer callado adquiere una forma tan pública, conflictiva y multitudinaria como la calle.",
+      "en": "The refusal to stay silent takes a form as public, conflicted and crowded as the street.",
+      "fr": "Le refus de se taire prend une forme aussi publique, conflictuelle et peuplée que la rue."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Registro Nacional de Grabaciones",
+        "en": "National Recording Registry",
+        "fr": "Registre national des enregistrements"
+      },
+      "source": "National Recording Registry",
+      "url": "https://www.loc.gov/programs/national-recording-preservation-board/recording-registry/complete-national-recording-registry-listing/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/1yo16b3u0lptm6Cs7lx4AD"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/fight-the-power/1440751334?i=1440751885"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=jRJKjiCtVco"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-090",
+    "type": "song",
+    "artist": "Cocteau Twins",
+    "title": "Cherry-Coloured Funk",
+    "year": 1990,
+    "decade": "1990",
+    "genre": "rock",
+    "genreDetail": "Dream pop",
+    "country": "Escocia",
+    "duration": "3:12",
+    "catalogue": "TLG–S–0090",
+    "coverClass": "cover-red",
+    "coverUrl": "assets/covers-master/song-090.webp",
+    "thumbnailUrl": "assets/covers-master/song-090.webp",
+    "description": {
+      "es": "El enamoramiento se vuelve una sensación táctil que no necesita palabras comprensibles para orientarnos.",
+      "en": "Infatuation becomes a tactile sensation requiring no intelligible words to guide us.",
+      "fr": "L’éblouissement amoureux devient une sensation tactile qui n’a besoin d’aucun mot intelligible pour nous guider."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Pitchfork — listas por década y año",
+        "en": "Pitchfork — lists by decade and year",
+        "fr": "Pitchfork — sélections par décennie et par année"
+      },
+      "source": "Pitchfork",
+      "url": "https://pitchfork.com/features/lists-and-guides/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/6sVQNUvcVFTXvlk3ec0ngd"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/cherry-coloured-funk/258198881?i=258198956"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=PbbUeLkZt74"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Rotación"
+  },
+  {
+    "id": "song-091",
+    "type": "song",
+    "artist": "Juan Luis Guerra 4.40",
+    "title": "A pedir su mano",
+    "year": 1990,
+    "decade": "1990",
+    "genre": "latin",
+    "genreDetail": "Merengue",
+    "country": "República Dominicana",
+    "duration": "4:56",
+    "catalogue": "TLG–S–0091",
+    "coverClass": "cover-yellow",
+    "coverUrl": "assets/covers-master/song-091.webp",
+    "thumbnailUrl": "assets/covers-master/song-091.webp",
+    "description": {
+      "es": "Una petición íntima se convierte en celebración transatlántica sin dejar de mirar hacia una vida compartida.",
+      "en": "An intimate request becomes a transatlantic celebration without losing sight of a shared life.",
+      "fr": "Une demande intime devient une célébration transatlantique sans cesser d’imaginer une vie commune."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Radiónica — música colombiana y latinoamericana",
+        "en": "Radiónica — Colombian and Latin American music",
+        "fr": "Radiónica — musique colombienne et latino-américaine"
+      },
+      "source": "Radiónica",
+      "url": "https://www.radionica.rocks/musica"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/7cPG74cXXlEZ34POFvHZor"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/a-pedir-su-mano/19468976?i=19468964"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=VQQOemYLu3o"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-035",
+    "type": "song",
+    "artist": "Massive Attack",
+    "title": "Unfinished Sympathy",
+    "year": 1991,
+    "decade": "1990",
+    "genre": "electronic",
+    "genreDetail": "Trip-hop",
+    "country": "Reino Unido",
+    "duration": "5:16",
+    "catalogue": "TLG–S–0035",
+    "coverClass": "cover-green",
+    "coverUrl": "assets/covers-master/song-035.webp",
+    "thumbnailUrl": "assets/covers-master/song-035.webp",
+    "description": {
+      "es": "Una ausencia amorosa crece hasta ocupar al mismo tiempo la intimidad de una voz y el espacio de una ciudad.",
+      "en": "A lover’s absence grows to fill both the intimacy of one voice and the space of a city.",
+      "fr": "Une absence amoureuse grandit jusqu’à occuper à la fois l’intimité d’une voix et l’espace d’une ville."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Registro Nacional de Grabaciones",
+        "en": "National Recording Registry",
+        "fr": "Registre national des enregistrements"
+      },
+      "source": "National Recording Registry",
+      "url": "https://www.loc.gov/programs/national-recording-preservation-board/recording-registry/complete-national-recording-registry-listing/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/6OKUMxI7u6p3c4ViM8IXIx"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/unfinished-sympathy/816331899?i=816331921"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=VLRa4nvkTy4"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-092",
+    "type": "song",
+    "artist": "My Bloody Valentine",
+    "title": "Sometimes",
+    "year": 1991,
+    "decade": "1990",
+    "genre": "rock",
+    "genreDetail": "Shoegaze",
+    "country": "Irlanda",
+    "duration": "5:19",
+    "catalogue": "TLG–S–0092",
+    "coverClass": "cover-blue",
+    "coverUrl": "assets/covers-master/song-092.webp",
+    "thumbnailUrl": "assets/covers-master/song-092.webp",
+    "description": {
+      "es": "Una canción privada intenta llegar desde detrás de una memoria que se vuelve más borrosa al acercarnos.",
+      "en": "A private song tries to reach us from behind a memory that blurs as we approach.",
+      "fr": "Une chanson intime tente de nous parvenir derrière un souvenir qui se brouille à mesure qu’on s’en approche."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Pitchfork — listas por década y año",
+        "en": "Pitchfork — lists by decade and year",
+        "fr": "Pitchfork — sélections par décennie et par année"
+      },
+      "source": "Pitchfork",
+      "url": "https://pitchfork.com/features/lists-and-guides/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/5KBKqxYY263Tr0haAu3fMz"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/sometimes/1556921230?i=1556921238"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=1J5H7DIqRQQ"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Rotación"
+  },
+  {
+    "id": "song-093",
+    "type": "song",
+    "artist": "Aphex Twin",
+    "title": "Xtal",
+    "year": 1992,
+    "decade": "1990",
+    "genre": "electronic",
+    "genreDetail": "Ambient techno",
+    "country": "Reino Unido",
+    "duration": "4:54",
+    "catalogue": "TLG–S–0093",
+    "coverClass": "cover-red",
+    "coverUrl": "assets/covers-master/song-093.webp",
+    "thumbnailUrl": "assets/covers-master/song-093.webp",
+    "description": {
+      "es": "La calidez de un recuerdo doméstico sobrevive dentro de un paisaje que nunca podría existir fuera de la música.",
+      "en": "The warmth of a domestic memory survives inside a landscape that could exist nowhere outside music.",
+      "fr": "La chaleur d’un souvenir domestique survit dans un paysage qui ne pourrait exister ailleurs que dans la musique."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Resident Advisor — mejores discos y pistas",
+        "en": "Resident Advisor — best records and tracks",
+        "fr": "Resident Advisor — meilleurs disques et morceaux"
+      },
+      "source": "Resident Advisor",
+      "url": "https://www.residentadvisor.net/features.aspx?series=bestmusic"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/7o2AeQZzfCERsRmOM86EcB"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/xtal/1668862636?i=1668862649"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=sWcLccMuCA8"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Rotación"
+  },
+  {
+    "id": "song-094",
+    "type": "song",
+    "artist": "Cesária Évora",
+    "title": "Sodade",
+    "year": 1992,
+    "decade": "1990",
+    "genre": "global",
+    "genreDetail": "Morna",
+    "country": "Cabo Verde",
+    "duration": "4:55",
+    "catalogue": "TLG–S–0094",
+    "coverClass": "cover-yellow",
+    "coverUrl": "assets/covers-master/song-094.webp",
+    "thumbnailUrl": "assets/covers-master/song-094.webp",
+    "description": {
+      "es": "La distancia entre las islas y quienes partieron de ellas adquiere una dignidad sin sentimentalismo.",
+      "en": "The distance between islands and those who left them acquires dignity without sentimentality.",
+      "fr": "La distance entre les îles et ceux qui les ont quittées acquiert une dignité sans sentimentalisme."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Pan African Music — selecciones africanas",
+        "en": "Pan African Music — African selections",
+        "fr": "Pan African Music — sélections africaines"
+      },
+      "source": "Pan African Music",
+      "url": "https://pan-african-music.com/en/80-best-albums-2010s/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/6j81QCtGal0wGRBF7OQH1s"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/sodade/573376804?i=573377330"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=xBpUo-VHXHQ"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Foco mensual"
+  },
+  {
+    "id": "song-095",
+    "type": "song",
+    "artist": "Sade",
+    "title": "Kiss of Life",
+    "year": 1992,
+    "decade": "1990",
+    "genre": "soul",
+    "genreDetail": "Soul y sophisti-pop",
+    "country": "Reino Unido",
+    "duration": "5:50",
+    "catalogue": "TLG–S–0095",
+    "coverClass": "cover-green",
+    "coverUrl": "assets/covers-master/song-095.webp",
+    "thumbnailUrl": "assets/covers-master/song-095.webp",
+    "description": {
+      "es": "El instante de reconocer el amor se prolonga con una calma que no necesita demostrar entusiasmo.",
+      "en": "The instant of recognizing love unfolds with a calm that has no need to display excitement.",
+      "fr": "L’instant où l’amour se reconnaît se prolonge avec un calme qui n’a pas besoin d’afficher son enthousiasme."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Pitchfork — listas por década y año",
+        "en": "Pitchfork — lists by decade and year",
+        "fr": "Pitchfork — sélections par décennie et par année"
+      },
+      "source": "Pitchfork",
+      "url": "https://pitchfork.com/features/lists-and-guides/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/4S0NYVAQdIb81uLoZoQmgq"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/kiss-of-life/158796559?i=158796603"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=4MOzk7-6j-I"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Rotación"
+  },
+  {
+    "id": "song-096",
+    "type": "song",
+    "artist": "A Tribe Called Quest",
+    "title": "Electric Relaxation",
+    "year": 1993,
+    "decade": "1990",
+    "genre": "hip-hop",
+    "genreDetail": "Hip-hop",
+    "country": "Estados Unidos",
+    "duration": "4:04",
+    "catalogue": "TLG–S–0096",
+    "coverClass": "cover-blue",
+    "coverUrl": "assets/covers-master/song-096.webp",
+    "thumbnailUrl": "assets/covers-master/song-096.webp",
+    "description": {
+      "es": "Dos amigos convierten el coqueteo en conversación y dejan que el carácter haga todo el trabajo.",
+      "en": "Two friends turn flirtation into conversation and let personality do all the work.",
+      "fr": "Deux amis transforment le flirt en conversation et laissent leur personnalité faire tout le travail."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Pitchfork — listas por década y año",
+        "en": "Pitchfork — lists by decade and year",
+        "fr": "Pitchfork — sélections par décennie et par année"
+      },
+      "source": "Pitchfork",
+      "url": "https://pitchfork.com/features/lists-and-guides/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/32WDVNZXIAuu7EqncTTKjH"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/electric-relaxation/265670545?i=265670650"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=B2kWufDC3Bc"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-097",
+    "type": "song",
+    "artist": "Blur",
+    "title": "To the End",
+    "year": 1994,
+    "decade": "1990",
+    "genre": "rock",
+    "genreDetail": "Britpop",
+    "country": "Reino Unido",
+    "duration": "3:52",
+    "catalogue": "TLG–S–0097",
+    "coverClass": "cover-red",
+    "coverUrl": "assets/covers-master/song-097.webp",
+    "thumbnailUrl": "assets/covers-master/song-097.webp",
+    "description": {
+      "es": "Una despedida imagina su propia película porque la realidad ya no ofrece una salida suficientemente elegante.",
+      "en": "A farewell imagines its own film because reality no longer offers a sufficiently elegant exit.",
+      "fr": "Un adieu imagine son propre film parce que la réalité n’offre plus de sortie assez élégante."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Pitchfork — listas por década y año",
+        "en": "Pitchfork — lists by decade and year",
+        "fr": "Pitchfork — sélections par décennie et par année"
+      },
+      "source": "Pitchfork",
+      "url": "https://pitchfork.com/features/lists-and-guides/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/5tA1P3JwJtCJ3Xv90rhYta"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/to-the-end/867694889?i=867694937"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=4Dut0MGifbE"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-098",
+    "type": "song",
+    "artist": "Nas",
+    "title": "Memory Lane (Sittin' in da Park)",
+    "year": 1994,
+    "decade": "1990",
+    "genre": "hip-hop",
+    "genreDetail": "Hip-hop",
+    "country": "Estados Unidos",
+    "duration": "4:08",
+    "catalogue": "TLG–S–0098",
+    "coverClass": "cover-yellow",
+    "coverUrl": "assets/covers-master/song-098.webp",
+    "thumbnailUrl": "assets/covers-master/song-098.webp",
+    "description": {
+      "es": "El barrio reaparece como un lugar querido, peligroso y demasiado complejo para caber en la nostalgia.",
+      "en": "The neighbourhood returns as a beloved, dangerous place too complex to fit inside nostalgia.",
+      "fr": "Le quartier réapparaît comme un lieu aimé, dangereux et trop complexe pour tenir dans la nostalgie."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Pitchfork — listas por década y año",
+        "en": "Pitchfork — lists by decade and year",
+        "fr": "Pitchfork — sélections par décennie et par année"
+      },
+      "source": "Pitchfork",
+      "url": "https://pitchfork.com/features/lists-and-guides/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/2W58HMaCbjcUfZnZaeHtcC"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/memory-lane-sittin-in-da-park/856131729?i=856131736"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=ImSoA_fAVL4"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-099",
+    "type": "song",
+    "artist": "Oasis",
+    "title": "Listen Up",
+    "year": 1994,
+    "decade": "1990",
+    "genre": "rock",
+    "genreDetail": "Britpop",
+    "country": "Reino Unido",
+    "duration": "6:42",
+    "catalogue": "TLG–S–0099",
+    "coverClass": "cover-green",
+    "coverUrl": "assets/covers-master/song-099.webp",
+    "thumbnailUrl": "assets/covers-master/song-099.webp",
+    "description": {
+      "es": "La terquedad juvenil sigue avanzando hasta encontrar por unos instantes una sensación real de libertad.",
+      "en": "Youthful stubbornness keeps moving until it briefly finds a genuine sense of freedom.",
+      "fr": "L’obstination de la jeunesse continue d’avancer jusqu’à trouver un instant de véritable liberté."
+    },
+    "recognition": {
+      "type": "reference",
+      "title": {
+        "es": "Discogs — comunidad, ediciones y colección",
+        "en": "Discogs — community, editions and collecting",
+        "fr": "Discogs — communauté, éditions et collection"
+      },
+      "source": "Discogs",
+      "url": "https://support.discogs.com/hc/en-us/articles/360003622014-How-To-Browse-Search-In-The-Database"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/7IN0xNq5UxvsJXTqZ3rdSE"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/listen-up-remastered/828329184?i=828329217"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=Nb5iCUJ3LyE"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Foco mensual"
+  },
+  {
+    "id": "song-100",
+    "type": "song",
+    "artist": "Portishead",
+    "title": "Roads",
+    "year": 1994,
+    "decade": "1990",
+    "genre": "electronic",
+    "genreDetail": "Trip-hop",
+    "country": "Reino Unido",
+    "duration": "5:04",
+    "catalogue": "TLG–S–0100",
+    "coverClass": "cover-blue",
+    "coverUrl": "assets/covers-master/song-100.webp",
+    "thumbnailUrl": "assets/covers-master/song-100.webp",
+    "description": {
+      "es": "Una persona admite que no conoce el camino y convierte esa incertidumbre en el centro de la experiencia.",
+      "en": "Someone admits not knowing the way and makes that uncertainty the centre of the experience.",
+      "fr": "Une personne reconnaît ne pas connaître le chemin et place cette incertitude au centre de l’expérience."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Rockdelux — listas por género y escena",
+        "en": "Rockdelux — genre and scene lists",
+        "fr": "Rockdelux — sélections par genre et par scène"
+      },
+      "source": "Rockdelux",
+      "url": "https://www.rockdelux.com/es/listas"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/2sW8fmnISifQTRgnRrQTYW"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/roads/1440653096?i=1440653203"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=7nxWP9BhI7w"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Rotación"
+  },
+  {
+    "id": "song-101",
+    "type": "song",
+    "artist": "Aterciopelados",
+    "title": "El estuche",
+    "year": 1995,
+    "decade": "1990",
+    "genre": "rock",
+    "genreDetail": "Rock alternativo latino",
+    "country": "Colombia",
+    "duration": "3:22",
+    "catalogue": "TLG–S–0101",
+    "coverClass": "cover-red",
+    "coverUrl": "assets/covers-master/song-101.webp",
+    "thumbnailUrl": "assets/covers-master/song-101.webp",
+    "description": {
+      "es": "Una respuesta ingeniosa a las expectativas sobre el cuerpo se vuelve fácil de cantar sin perder filo.",
+      "en": "A witty answer to expectations about the body becomes easy to sing without losing its edge.",
+      "fr": "Une réponse spirituelle aux attentes imposées au corps devient facile à chanter sans perdre son mordant."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Radiónica — música colombiana y latinoamericana",
+        "en": "Radiónica — Colombian and Latin American music",
+        "fr": "Radiónica — musique colombienne et latino-américaine"
+      },
+      "source": "Radiónica",
+      "url": "https://www.radionica.rocks/musica"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/56x4HIuzPoH8O2CD21fM3r"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/el-estuche/268462696?i=268462708"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=mU-0CStclRM"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-102",
+    "type": "song",
+    "artist": "Fishmans",
+    "title": "Long Season",
+    "year": 1996,
+    "decade": "1990",
+    "genre": "rock",
+    "genreDetail": "Dream pop y dub",
+    "country": "Japón",
+    "duration": "35:16",
+    "catalogue": "TLG–S–0102",
+    "coverClass": "cover-yellow",
+    "coverUrl": "assets/covers-master/song-102.webp",
+    "thumbnailUrl": "assets/covers-master/song-102.webp",
+    "description": {
+      "es": "Una estación completa parece transcurrir dentro de una sola obra que nunca regresa exactamente al mismo lugar.",
+      "en": "An entire season seems to pass inside one work that never returns to exactly the same place.",
+      "fr": "Une saison entière semble s’écouler dans une seule œuvre qui ne revient jamais tout à fait au même endroit."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Rolling Stone Japan — 100 álbumes japoneses de rock",
+        "en": "Rolling Stone Japan — 100 Japanese Rock Albums",
+        "fr": "Rolling Stone Japan — 100 albums japonais de rock"
+      },
+      "source": "Rolling Stone Japan",
+      "url": "https://neojaponisme.com/2007/11/09/100-greatest-japanese-rock-albums/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/7tEzlrjJEHjWzDQ6cqGD06"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/long-season/1416925635?i=1416925644"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=GwWv-T4rM0k"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Foco mensual"
+  },
+  {
+    "id": "song-033",
+    "type": "song",
+    "artist": "Soda Stereo",
+    "title": "Té para tres (MTV Unplugged)",
+    "year": 1996,
+    "decade": "1990",
+    "genre": "rock",
+    "genreDetail": "Rock acústico",
+    "country": "Argentina",
+    "duration": "4:07",
+    "catalogue": "TLG–S–0033",
+    "coverClass": "cover-green",
+    "coverUrl": "assets/covers-master/song-033.webp",
+    "thumbnailUrl": "assets/covers-master/song-033.webp",
+    "description": {
+      "es": "Una memoria familiar dicha en voz baja pesa más que cualquier intento de convertirla en himno.",
+      "en": "A family memory spoken softly carries more weight than any attempt to turn it into an anthem.",
+      "fr": "Un souvenir familial dit à voix basse pèse davantage que toute tentative d’en faire un hymne."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Indie Hoy — listas argentinas y por década",
+        "en": "Indie Hoy — Argentine and decade lists",
+        "fr": "Indie Hoy — sélections argentines et par décennie"
+      },
+      "source": "Indie Hoy",
+      "url": "https://indiehoy.com/listas/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/1q1vvCImOp88UbKQkKsiMi"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/t%C3%A9-para-tres/286722893?i=286722988"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=KKxlkJkVULM"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-103",
+    "type": "song",
+    "artist": "Missy Elliott",
+    "title": "The Rain (Supa Dupa Fly)",
+    "year": 1997,
+    "decade": "1990",
+    "genre": "hip-hop",
+    "genreDetail": "Hip-hop",
+    "country": "Estados Unidos",
+    "duration": "4:11",
+    "catalogue": "TLG–S–0103",
+    "coverClass": "cover-blue",
+    "coverUrl": "assets/covers-master/song-103.webp",
+    "thumbnailUrl": "assets/covers-master/song-103.webp",
+    "description": {
+      "es": "Una artista ocupa el futuro con tanta naturalidad que lo extraño termina pareciendo construido especialmente para ella.",
+      "en": "An artist inhabits the future so naturally that strangeness ends up seeming built especially for her.",
+      "fr": "Une artiste habite le futur avec tant de naturel que l’étrange semble finir par avoir été conçu pour elle."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Registro Nacional de Grabaciones",
+        "en": "National Recording Registry",
+        "fr": "Registre national des enregistrements"
+      },
+      "source": "National Recording Registry",
+      "url": "https://www.loc.gov/programs/national-recording-preservation-board/recording-registry/complete-national-recording-registry-listing/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/2WRzpLD8qDRrxMXc63E5WJ"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/the-rain-supa-dupa-fly/302943316?i=302943332"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=BucB2h2Ykhg"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-104",
+    "type": "song",
+    "artist": "Air",
+    "title": "La femme d'argent",
+    "year": 1998,
+    "decade": "1990",
+    "genre": "electronic",
+    "genreDetail": "Downtempo",
+    "country": "Francia",
+    "duration": "7:07",
+    "catalogue": "TLG–S–0104",
+    "coverClass": "cover-red",
+    "coverUrl": "assets/covers-master/song-104.webp",
+    "thumbnailUrl": "assets/covers-master/song-104.webp",
+    "description": {
+      "es": "Un paseo sin prisa permite descubrir que la elegancia también puede ser una forma de movimiento.",
+      "en": "An unhurried walk reveals that elegance can also be a form of motion.",
+      "fr": "Une promenade sans hâte révèle que l’élégance peut elle aussi être une forme de mouvement."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Les Inrockuptibles — listas francesas",
+        "en": "Les Inrockuptibles — French lists",
+        "fr": "Les Inrockuptibles — sélections françaises"
+      },
+      "source": "Les Inrockuptibles",
+      "url": "https://www.lesinrocks.com/musique/les-100-meilleurs-albums-francais-de-tous-les-temps-125490-25-08-2017/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/6tEaLXZlN8b71vWV1SSsRf"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/la-femme-dargent/697240234?i=697240265"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=fh2E1I-cW0w"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-105",
+    "type": "song",
+    "artist": "Hikaru Utada",
+    "title": "Automatic",
+    "year": 1998,
+    "decade": "1990",
+    "genre": "soul",
+    "genreDetail": "J-pop y R&B",
+    "country": "Japón",
+    "duration": "5:12",
+    "catalogue": "TLG–S–0105",
+    "coverClass": "cover-yellow",
+    "coverUrl": "assets/covers-master/song-105.webp",
+    "thumbnailUrl": "assets/covers-master/song-105.webp",
+    "description": {
+      "es": "Una emoción adolescente cambia de escala sin perder la cercanía con la que fue confesada.",
+      "en": "An adolescent feeling changes scale without losing the closeness with which it was confessed.",
+      "fr": "Une émotion adolescente change d’échelle sans perdre la proximité de sa confidence."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Beehype — mejores álbumes japoneses",
+        "en": "Beehype — best Japanese albums",
+        "fr": "Beehype — meilleurs albums japonais"
+      },
+      "source": "Beehype",
+      "url": "https://beehy.pe/special/best-japanese-albums/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/6DJ3dfsY7fOU161ZMjzWIH"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/automatic/1444899395?i=1444899623"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=KZrx_5QOwEA"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-106",
+    "type": "song",
+    "artist": "Lauryn Hill",
+    "title": "Ex-Factor",
+    "year": 1998,
+    "decade": "1990",
+    "genre": "soul",
+    "genreDetail": "R&B y hip-hop",
+    "country": "Estados Unidos",
+    "duration": "5:27",
+    "catalogue": "TLG–S–0106",
+    "coverClass": "cover-green",
+    "coverUrl": "assets/covers-master/song-106.webp",
+    "thumbnailUrl": "assets/covers-master/song-106.webp",
+    "description": {
+      "es": "Una ruptura se mira desde tantos ángulos que ninguna versión consigue reclamar toda la verdad.",
+      "en": "A breakup is viewed from so many angles that no version can claim the whole truth.",
+      "fr": "Une rupture est regardée sous tant d’angles qu’aucune version ne peut revendiquer toute la vérité."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Pitchfork — listas por década y año",
+        "en": "Pitchfork — lists by decade and year",
+        "fr": "Pitchfork — sélections par décennie et par année"
+      },
+      "source": "Pitchfork",
+      "url": "https://pitchfork.com/features/lists-and-guides/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/2VjXGuPVVxyhMgER3Uz2Fe"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/ex-factor/1276760743?i=1276760746"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=r3p3G0tZunE"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-107",
+    "type": "song",
+    "artist": "Outkast",
+    "title": "Da Art of Storytellin' (Pt. 1)",
+    "year": 1998,
+    "decade": "1990",
+    "genre": "hip-hop",
+    "genreDetail": "Hip-hop",
+    "country": "Estados Unidos",
+    "duration": "3:24",
+    "catalogue": "TLG–S–0107",
+    "coverClass": "cover-blue",
+    "coverUrl": "assets/covers-master/song-107.webp",
+    "thumbnailUrl": "assets/covers-master/song-107.webp",
+    "description": {
+      "es": "Dos historias evitan la moraleja y confían en que los detalles permitan comprender a quienes las habitan.",
+      "en": "Two stories avoid moralizing and trust detail to let us understand the people inside them.",
+      "fr": "Deux histoires évitent la morale et font confiance aux détails pour nous rapprocher de ceux qui les habitent."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Pitchfork — listas por década y año",
+        "en": "Pitchfork — lists by decade and year",
+        "fr": "Pitchfork — sélections par décennie et par année"
+      },
+      "source": "Pitchfork",
+      "url": "https://pitchfork.com/features/lists-and-guides/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/1KQymTxNJfWk6vCD5ywKW2"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/da-art-of-storytellin-pt-1/1536669507?i=1536670028"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=qgnHmtsjFN4"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-108",
+    "type": "song",
+    "artist": "Pulp",
+    "title": "This Is Hardcore",
+    "year": 1998,
+    "decade": "1990",
+    "genre": "rock",
+    "genreDetail": "Art rock",
+    "country": "Reino Unido",
+    "duration": "6:25",
+    "catalogue": "TLG–S–0108",
+    "coverClass": "cover-red",
+    "coverUrl": "assets/covers-master/song-108.webp",
+    "thumbnailUrl": "assets/covers-master/song-108.webp",
+    "description": {
+      "es": "El glamour de una fantasía empieza a deteriorarse hasta revelar el cansancio que intentaba mantener fuera de cuadro.",
+      "en": "A fantasy’s glamour begins to decay and reveals the fatigue it tried to keep outside the frame.",
+      "fr": "Le glamour d’un fantasme commence à se détériorer et révèle la fatigue qu’il voulait maintenir hors champ."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Pitchfork — listas por década y año",
+        "en": "Pitchfork — lists by decade and year",
+        "fr": "Pitchfork — sélections par décennie et par année"
+      },
+      "source": "Pitchfork",
+      "url": "https://pitchfork.com/features/lists-and-guides/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/1so0qYkfkiZNNcvJN02qdo"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/this-is-hardcore/1452855037?i=1452855450"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=f8JCyNMgK54"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-109",
+    "type": "song",
+    "artist": "Shakira",
+    "title": "Moscas en la casa",
+    "year": 1998,
+    "decade": "1990",
+    "genre": "rock",
+    "genreDetail": "Pop rock latino",
+    "country": "Colombia",
+    "duration": "3:32",
+    "catalogue": "TLG–S–0109",
+    "coverClass": "cover-yellow",
+    "coverUrl": "assets/covers-master/song-109.webp",
+    "thumbnailUrl": "assets/covers-master/song-109.webp",
+    "description": {
+      "es": "La ausencia transforma objetos comunes y horas vacías en pruebas de una vida que perdió su ritmo.",
+      "en": "Absence turns ordinary objects and empty hours into evidence of a life that has lost its rhythm.",
+      "fr": "L’absence transforme objets ordinaires et heures vides en preuves d’une vie qui a perdu son rythme."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Radiónica — música colombiana y latinoamericana",
+        "en": "Radiónica — Colombian and Latin American music",
+        "fr": "Radiónica — musique colombienne et latino-américaine"
+      },
+      "source": "Radiónica",
+      "url": "https://www.radionica.rocks/musica"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/1j5NOlhczuiPnZdT6aovgY"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/moscas-en-la-casa/192682818?i=192682983"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=gSf-RRnuuYs"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-110",
+    "type": "song",
+    "artist": "Stardust",
+    "title": "Music Sounds Better With You",
+    "year": 1998,
+    "decade": "1990",
+    "genre": "electronic",
+    "genreDetail": "French house",
+    "country": "Francia",
+    "duration": "6:43",
+    "catalogue": "TLG–S–0110",
+    "coverClass": "cover-green",
+    "coverUrl": "assets/covers-master/song-110.webp",
+    "thumbnailUrl": "assets/covers-master/song-110.webp",
+    "description": {
+      "es": "Un instante de felicidad se repite sin agotarse porque cada regreso modifica nuestra expectativa.",
+      "en": "A moment of happiness repeats without wearing out because each return changes our expectation.",
+      "fr": "Un instant de bonheur se répète sans s’épuiser parce que chaque retour transforme notre attente."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Les Inrockuptibles — listas francesas",
+        "en": "Les Inrockuptibles — French lists",
+        "fr": "Les Inrockuptibles — sélections françaises"
+      },
+      "source": "Les Inrockuptibles",
+      "url": "https://www.lesinrocks.com/musique/les-100-meilleurs-albums-francais-de-tous-les-temps-125490-25-08-2017/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/303ccTay2FiDTZ9fZ2AdBt"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/music-sounds-better-with-you/1463775966?i=1463775972"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=hRvrj_diWYQ"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-038",
+    "type": "song",
+    "artist": "Café Tacvba",
+    "title": "La muerte chiquita",
+    "year": 1999,
+    "decade": "1990",
+    "genre": "rock",
+    "genreDetail": "Rock alternativo latino",
+    "country": "México",
+    "duration": "2:52",
+    "catalogue": "TLG–S–0038",
+    "coverClass": "cover-blue",
+    "coverUrl": "assets/covers-master/song-038.webp",
+    "thumbnailUrl": "assets/covers-master/song-038.webp",
+    "description": {
+      "es": "Una canción que sonríe justo cuando parece estar a punto de revelar su secreto.",
+      "en": "A song that smiles just when it seems ready to reveal its secret.",
+      "fr": "Une chanson qui sourit au moment même où elle semble prête à révéler son secret."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Los 600 Discos de Latinoamérica",
+        "en": "The 600 Albums of Latin America",
+        "fr": "Les 600 albums d’Amérique latine"
+      },
+      "source": "Los 600 Discos de Latinoamérica",
+      "url": "https://www.600discoslatam.com/indice-general-de-los-600-discos-de-latinoamerica/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/0NNxCT63tXUIOESKpJxQlb"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/la-muerte-chiquita/397724876?i=397724883"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=1co2HGN7bTA"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-111",
+    "type": "song",
+    "artist": "Gustavo Cerati",
+    "title": "Tabú",
+    "year": 1999,
+    "decade": "1990",
+    "genre": "electronic",
+    "genreDetail": "Art pop y electrónica",
+    "country": "Argentina",
+    "duration": "4:49",
+    "catalogue": "TLG–S–0111",
+    "coverClass": "cover-red",
+    "coverUrl": "assets/covers-master/song-111.webp",
+    "thumbnailUrl": "assets/covers-master/song-111.webp",
+    "description": {
+      "es": "La atracción permanece suspendida en un espacio donde acercarse un poco más también podría romper el encanto.",
+      "en": "Attraction stays suspended in a space where moving any closer might also break the spell.",
+      "fr": "L’attirance reste suspendue dans un espace où s’approcher davantage pourrait aussi rompre le charme."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Rockdelux — listas por género y escena",
+        "en": "Rockdelux — genre and scene lists",
+        "fr": "Rockdelux — sélections par genre et par scène"
+      },
+      "source": "Rockdelux",
+      "url": "https://www.rockdelux.com/es/listas"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/5NHyNFYxLRifc2kI1FqDUP"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/tab%C3%BA/304792998?i=304793005"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=m7uiaakuLpQ"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-112",
+    "type": "song",
+    "artist": "MF DOOM",
+    "title": "Doomsday",
+    "year": 1999,
+    "decade": "1990",
+    "genre": "hip-hop",
+    "genreDetail": "Hip-hop",
+    "country": "Estados Unidos / Reino Unido",
+    "duration": "4:59",
+    "catalogue": "TLG–S–0112",
+    "coverClass": "cover-yellow",
+    "coverUrl": "assets/covers-master/song-112.webp",
+    "thumbnailUrl": "assets/covers-master/song-112.webp",
+    "description": {
+      "es": "Una máscara protege a su creador sin conseguir ocultar por completo el duelo que la hizo necesaria.",
+      "en": "A mask protects its maker without fully concealing the grief that made it necessary.",
+      "fr": "Un masque protège son créateur sans parvenir à dissimuler entièrement le deuil qui l’a rendu nécessaire."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Acclaimed Music — agregador crítico",
+        "en": "Acclaimed Music — critical aggregator",
+        "fr": "Acclaimed Music — agrégateur critique"
+      },
+      "source": "Acclaimed Music",
+      "url": "https://www.acclaimedmusic.net/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/6k7oi8uzQ2sAVh1JvFQTj6"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/doomsday-instrumental/1654811465?i=1654813188"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=gndkFhYh5Mo"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-113",
+    "type": "song",
+    "artist": "Alan Braxe & Fred Falke",
+    "title": "Intro",
+    "year": 2000,
+    "decade": "2000",
+    "genre": "electronic",
+    "genreDetail": "French house",
+    "country": "Francia",
+    "duration": "4:55",
+    "catalogue": "TLG–S–0113",
+    "coverClass": "cover-green",
+    "coverUrl": "assets/covers-master/song-113.webp",
+    "thumbnailUrl": "assets/covers-master/song-113.webp",
+    "description": {
+      "es": "La promesa de una noche perfecta permanece dentro de un instante que se abre lentamente.",
+      "en": "The promise of a perfect night remains inside a moment that slowly opens.",
+      "fr": "La promesse d’une nuit parfaite demeure dans un instant qui s’ouvre lentement."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Rockdelux — listas por género y escena",
+        "en": "Rockdelux — genre and scene lists",
+        "fr": "Rockdelux — sélections par genre et par scène"
+      },
+      "source": "Rockdelux",
+      "url": "https://www.rockdelux.com/es/listas"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/3EXPdW0NGGkPlyDMcScfgu"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/intro/1616792066?i=1616792067"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=z3uLFiWLvHA"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Rotación"
+  },
+  {
+    "id": "song-114",
+    "type": "song",
+    "artist": "D'Angelo",
+    "title": "One Mo'Gin",
+    "year": 2000,
+    "decade": "2000",
+    "genre": "soul",
+    "genreDetail": "Neo soul",
+    "country": "Estados Unidos",
+    "duration": "6:13",
+    "catalogue": "TLG–S–0114",
+    "coverClass": "cover-blue",
+    "coverUrl": "assets/covers-master/song-114.webp",
+    "thumbnailUrl": "assets/covers-master/song-114.webp",
+    "description": {
+      "es": "La intimidad aparece en el pequeño retraso compartido por personas que confían plenamente unas en otras.",
+      "en": "Intimacy emerges in the slight shared delay among people who trust one another completely.",
+      "fr": "L’intimité naît du léger retard partagé par des personnes qui se font entièrement confiance."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Pitchfork — listas por década y año",
+        "en": "Pitchfork — lists by decade and year",
+        "fr": "Pitchfork — sélections par décennie et par année"
+      },
+      "source": "Pitchfork",
+      "url": "https://pitchfork.com/features/lists-and-guides/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/4KdHmcUVArJeN7XPjp6Czx"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/one-mogin/1440841365?i=1440841904"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=EQq-KwgolxE"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Rotación"
+  },
+  {
+    "id": "song-115",
+    "type": "song",
+    "artist": "Erykah Badu",
+    "title": "Didn't Cha Know",
+    "year": 2000,
+    "decade": "2000",
+    "genre": "soul",
+    "genreDetail": "Neo soul",
+    "country": "Estados Unidos",
+    "duration": "3:59",
+    "catalogue": "TLG–S–0115",
+    "coverClass": "cover-red",
+    "coverUrl": "assets/covers-master/song-115.webp",
+    "thumbnailUrl": "assets/covers-master/song-115.webp",
+    "description": {
+      "es": "Aceptar que no conocemos el camino se vuelve una forma serena de recuperar la propia dirección.",
+      "en": "Admitting we do not know the way becomes a calm means of recovering our own direction.",
+      "fr": "Reconnaître que l’on ignore le chemin devient une manière sereine de retrouver sa propre direction."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Pitchfork — listas por década y año",
+        "en": "Pitchfork — lists by decade and year",
+        "fr": "Pitchfork — sélections par décennie et par année"
+      },
+      "source": "Pitchfork",
+      "url": "https://pitchfork.com/features/lists-and-guides/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/7pv80uUHfocFqfTytu1MVi"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/didnt-cha-know/1440755899?i=1440756135"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=b4fCymLkgOQ"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-116",
+    "type": "song",
+    "artist": "Julieta Venegas",
+    "title": "Sería feliz",
+    "year": 2000,
+    "decade": "2000",
+    "genre": "rock",
+    "genreDetail": "Pop rock",
+    "country": "México",
+    "duration": "3:25",
+    "catalogue": "TLG–S–0116",
+    "coverClass": "cover-yellow",
+    "coverUrl": "assets/covers-master/song-116.webp",
+    "thumbnailUrl": "assets/covers-master/song-116.webp",
+    "description": {
+      "es": "Una posibilidad de felicidad se afirma, retrocede y vuelve a aparecer sin fingir que la duda ha terminado.",
+      "en": "The possibility of happiness advances, retreats and returns without pretending doubt has ended.",
+      "fr": "Une possibilité de bonheur s’affirme, recule et revient sans prétendre que le doute a disparu."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Los 600 Discos de Latinoamérica",
+        "en": "The 600 Albums of Latin America",
+        "fr": "Les 600 albums d’Amérique latine"
+      },
+      "source": "Los 600 Discos de Latinoamérica",
+      "url": "https://www.600discoslatam.com/indice-general-de-los-600-discos-de-latinoamerica/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/3kwjfht296P1KhIsHwUTmY"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/ser%C3%ADa-feliz/252667214?i=252667883"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=DPr1ZzQbmFI"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-117",
+    "type": "song",
+    "artist": "Daft Punk",
+    "title": "Something About Us",
+    "year": 2001,
+    "decade": "2000",
+    "genre": "electronic",
+    "genreDetail": "House y pop",
+    "country": "Francia",
+    "duration": "3:53",
+    "catalogue": "TLG–S–0117",
+    "coverClass": "cover-green",
+    "coverUrl": "assets/covers-master/song-117.webp",
+    "thumbnailUrl": "assets/covers-master/song-117.webp",
+    "description": {
+      "es": "Una confesión mínima encuentra ternura justo donde el lenguaje parece quedarse corto.",
+      "en": "A minimal confession finds tenderness precisely where language seems to fall short.",
+      "fr": "Une confession minimale trouve sa tendresse précisément là où le langage semble manquer."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Rockdelux — listas por género y escena",
+        "en": "Rockdelux — genre and scene lists",
+        "fr": "Rockdelux — sélections par genre et par scène"
+      },
+      "source": "Rockdelux",
+      "url": "https://www.rockdelux.com/es/listas"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/1NeLwFETswx8Fzxl2AFl91"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/something-about-us/703078650?i=703078831"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=URzOGF_QGls"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-118",
+    "type": "song",
+    "artist": "Radiohead",
+    "title": "Pyramid Song",
+    "year": 2001,
+    "decade": "2000",
+    "genre": "rock",
+    "genreDetail": "Art rock",
+    "country": "Reino Unido",
+    "duration": "4:49",
+    "catalogue": "TLG–S–0118",
+    "coverClass": "cover-blue",
+    "coverUrl": "assets/covers-master/song-118.webp",
+    "thumbnailUrl": "assets/covers-master/song-118.webp",
+    "description": {
+      "es": "La percepción del tiempo se suspende y vuelve con la claridad física de algo que siempre estuvo ahí.",
+      "en": "The perception of time is suspended and returns with the physical clarity of something always there.",
+      "fr": "La perception du temps se suspend puis revient avec la clarté physique de quelque chose qui était là depuis le début."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Pitchfork — listas por década y año",
+        "en": "Pitchfork — lists by decade and year",
+        "fr": "Pitchfork — sélections par décennie et par année"
+      },
+      "source": "Pitchfork",
+      "url": "https://pitchfork.com/features/lists-and-guides/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/55q3Ro66yXWi9rsEddeEN4"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/pyramid-song/1097864180?i=1097864572"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=2Agt3XfmccM"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Rotación"
+  },
+  {
+    "id": "song-041",
+    "type": "song",
+    "artist": "The Strokes",
+    "title": "Hard to Explain",
+    "year": 2001,
+    "decade": "2000",
+    "genre": "rock",
+    "genreDetail": "Indie rock",
+    "country": "Estados Unidos",
+    "duration": "3:44",
+    "catalogue": "TLG–S–0041",
+    "coverClass": "cover-red",
+    "coverUrl": "assets/covers-master/song-041.webp",
+    "thumbnailUrl": "assets/covers-master/song-041.webp",
+    "description": {
+      "es": "La urgencia juvenil queda atrapada en una canción que parece correr más rápido que sus propias dudas.",
+      "en": "Youthful urgency is caught in a song that seems to outrun its own doubts.",
+      "fr": "Une urgence juvénile prise dans une chanson qui semble aller plus vite que ses propres doutes."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Pitchfork — listas por década y año",
+        "en": "Pitchfork — lists by decade and year",
+        "fr": "Pitchfork — sélections par décennie et par année"
+      },
+      "source": "Pitchfork",
+      "url": "https://pitchfork.com/features/lists-and-guides/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/2LMloFiV7DHpBhITOaBSam"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/hard-to-explain/269080434?i=269080614"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=2iF9-LAVcjE"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Rotación"
+  },
+  {
+    "id": "song-042",
+    "type": "song",
+    "artist": "M.I.A.",
+    "title": "Galang",
+    "year": 2003,
+    "decade": "2000",
+    "genre": "hip-hop",
+    "genreDetail": "Hip-hop y electrónica",
+    "country": "Reino Unido / Sri Lanka",
+    "duration": "3:34",
+    "catalogue": "TLG–S–0042",
+    "coverClass": "cover-yellow",
+    "coverUrl": "assets/covers-master/song-042.webp",
+    "thumbnailUrl": "assets/covers-master/song-042.webp",
+    "description": {
+      "es": "Una voz encuentra dirección dentro de un paisaje saturado de señales, fronteras y movimiento.",
+      "en": "A voice finds direction inside a landscape saturated with signals, borders and motion.",
+      "fr": "Une voix trouve sa direction dans un paysage saturé de signaux, de frontières et de mouvement."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Resident Advisor — mejores discos y pistas",
+        "en": "Resident Advisor — best records and tracks",
+        "fr": "Resident Advisor — meilleurs disques et morceaux"
+      },
+      "source": "Resident Advisor",
+      "url": "https://www.residentadvisor.net/features.aspx?series=bestmusic"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/5nkcHStGMrEDph0DkuYSEk"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/galang/1450124269?i=1450124393"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=FJce_YJGQM8"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-119",
+    "type": "song",
+    "artist": "Tego Calderón",
+    "title": "Loíza",
+    "year": 2003,
+    "decade": "2000",
+    "genre": "latin",
+    "genreDetail": "Reguetón y hip-hop",
+    "country": "Puerto Rico",
+    "duration": "3:10",
+    "catalogue": "TLG–S–0119",
+    "coverClass": "cover-green",
+    "coverUrl": "assets/covers-master/song-119.webp",
+    "thumbnailUrl": "assets/covers-master/song-119.webp",
+    "description": {
+      "es": "La música entendida como un territorio que no necesita pedir permiso para existir.",
+      "en": "Music understood as a territory that needs no permission to exist.",
+      "fr": "La musique envisagée comme un territoire qui n’a besoin d’aucune permission pour exister."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Radiónica — música colombiana y latinoamericana",
+        "en": "Radiónica — Colombian and Latin American music",
+        "fr": "Radiónica — musique colombienne et latino-américaine"
+      },
+      "source": "Radiónica",
+      "url": "https://www.radionica.rocks/musica"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/1N5k7ZIktblvLZ2QFS5nHn"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/us/song/lo%C3%ADza/535880848"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=LVuoi-vS5ag"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-044",
+    "type": "song",
+    "artist": "Daddy Yankee",
+    "title": "Gasolina",
+    "year": 2004,
+    "decade": "2000",
+    "genre": "latin",
+    "genreDetail": "Reguetón",
+    "country": "Puerto Rico",
+    "duration": "3:13",
+    "catalogue": "TLG–S–0044",
+    "coverClass": "cover-blue",
+    "coverUrl": "assets/covers-master/song-044.webp",
+    "thumbnailUrl": "assets/covers-master/song-044.webp",
+    "description": {
+      "es": "La anticipación de una multitud se convierte en una fuerza que parece imposible de contener.",
+      "en": "A crowd’s anticipation becomes a force that seems impossible to contain.",
+      "fr": "L’attente d’une foule devient une force qui paraît impossible à contenir."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Los 600 Discos de Latinoamérica",
+        "en": "The 600 Albums of Latin America",
+        "fr": "Les 600 albums d’Amérique latine"
+      },
+      "source": "Los 600 Discos de Latinoamérica",
+      "url": "https://www.600discoslatam.com/indice-general-de-los-600-discos-de-latinoamerica/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/6jEZLz3YpnEBRpVkv35AmP"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/gasolina/1785999696?i=1786000124"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=2djj_KnGwjk"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-046",
+    "type": "song",
+    "artist": "Burial",
+    "title": "Archangel",
+    "year": 2007,
+    "decade": "2000",
+    "genre": "electronic",
+    "genreDetail": "UK garage y ambient",
+    "country": "Reino Unido",
+    "duration": "3:58",
+    "catalogue": "TLG–S–0046",
+    "coverClass": "cover-red",
+    "coverUrl": "assets/covers-master/song-046.webp",
+    "thumbnailUrl": "assets/covers-master/song-046.webp",
+    "description": {
+      "es": "Una presencia incompleta atraviesa la noche y vuelve emocional todo aquello que no alcanza a decir.",
+      "en": "An incomplete presence crosses the night and makes everything it cannot say emotional.",
+      "fr": "Une présence incomplète traverse la nuit et charge d’émotion tout ce qu’elle ne parvient pas à dire."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Rockdelux — listas por género y escena",
+        "en": "Rockdelux — genre and scene lists",
+        "fr": "Rockdelux — sélections par genre et par scène"
+      },
+      "source": "Rockdelux",
+      "url": "https://www.rockdelux.com/es/listas"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/2agb1CPPGWXqXnrKn6cx7u"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/archangel/893175779?i=893175788"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=PzYrr7K1dvU"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-045",
+    "type": "song",
+    "artist": "LCD Soundsystem",
+    "title": "All My Friends",
+    "year": 2007,
+    "decade": "2000",
+    "genre": "electronic",
+    "genreDetail": "Dance-punk",
+    "country": "Estados Unidos",
+    "duration": "7:42",
+    "catalogue": "TLG–S–0045",
+    "coverClass": "cover-yellow",
+    "coverUrl": "assets/covers-master/song-045.webp",
+    "thumbnailUrl": "assets/covers-master/song-045.webp",
+    "description": {
+      "es": "El paso del tiempo se vuelve visible mientras una reunión nocturna intenta prolongarse unos minutos más.",
+      "en": "The passage of time becomes visible as a late-night gathering tries to last a few minutes longer.",
+      "fr": "Le passage du temps devient visible tandis qu’une réunion nocturne tente de se prolonger quelques minutes encore."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Pitchfork — listas por década y año",
+        "en": "Pitchfork — lists by decade and year",
+        "fr": "Pitchfork — sélections par décennie et par année"
+      },
+      "source": "Pitchfork",
+      "url": "https://pitchfork.com/features/lists-and-guides/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/2Ud3deeqLAG988pfW0Kwcl"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/all-my-friends/742432549?i=742434954"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=vVEZNvqecdE"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-120",
+    "type": "song",
+    "artist": "Phoenix",
+    "title": "Love Like a Sunset, Parts I & II",
+    "year": 2009,
+    "decade": "2000",
+    "genre": "pop",
+    "genreDetail": "Indie pop",
+    "country": "Francia",
+    "duration": "5:39",
+    "catalogue": "TLG–S–0120",
+    "coverClass": "cover-green",
+    "coverUrl": "assets/covers-master/song-120.webp",
+    "thumbnailUrl": "assets/covers-master/song-120.webp",
+    "description": {
+      "es": "Una escucha para comprobar cuánto puede cambiar la intensidad cuando se aprende a esperar.",
+      "en": "A listen that shows how profoundly intensity can change once patience enters the room.",
+      "fr": "Une écoute qui montre combien l’intensité peut changer lorsque la patience entre en jeu."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Les Inrockuptibles — listas francesas",
+        "en": "Les Inrockuptibles — French lists",
+        "fr": "Les Inrockuptibles — sélections françaises"
+      },
+      "source": "Les Inrockuptibles",
+      "url": "https://www.lesinrocks.com/musique/les-100-meilleurs-albums-francais-de-tous-les-temps-125490-25-08-2017/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/3KMHONJQytkungXeE7aOi6"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/love-like-a-sunset-pt-i/1771710012?i=1771710558"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=5F8hTrbKH0I"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-047",
+    "type": "song",
+    "artist": "Frank Ocean",
+    "title": "Pyramids",
+    "year": 2012,
+    "decade": "2010",
+    "genre": "soul",
+    "genreDetail": "R&B",
+    "country": "Estados Unidos",
+    "duration": "9:53",
+    "catalogue": "TLG–S–0047",
+    "coverClass": "cover-blue",
+    "coverUrl": "assets/covers-master/song-047.webp",
+    "thumbnailUrl": "assets/covers-master/song-047.webp",
+    "description": {
+      "es": "Una fantasía de grandeza cambia de escala y revela la economía íntima que la sostenía.",
+      "en": "A fantasy of grandeur changes scale and reveals the intimate economy that sustained it.",
+      "fr": "Une fantaisie de grandeur change d’échelle et révèle l’économie intime qui la soutenait."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Pitchfork — listas por década y año",
+        "en": "Pitchfork — lists by decade and year",
+        "fr": "Pitchfork — sélections par décennie et par année"
+      },
+      "source": "Pitchfork",
+      "url": "https://pitchfork.com/features/lists-and-guides/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/4QhWbupniDd44EDtnh2bFJ"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/gb/song/pyramids/1440766589"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=dMV31MWIjLE"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-121",
+    "type": "song",
+    "artist": "Kendrick Lamar",
+    "title": "Sing About Me, I'm Dying of Thirst",
+    "year": 2012,
+    "decade": "2010",
+    "genre": "hip-hop",
+    "genreDetail": "Hip-hop",
+    "country": "Estados Unidos",
+    "duration": "12:04",
+    "catalogue": "TLG–S–0121",
+    "coverClass": "cover-red",
+    "coverUrl": "assets/covers-master/song-121.webp",
+    "thumbnailUrl": "assets/covers-master/song-121.webp",
+    "description": {
+      "es": "Varias personas reclaman el derecho a decidir cómo serán recordadas y quién contará sus vidas.",
+      "en": "Several people claim the right to decide how they will be remembered and who will tell their lives.",
+      "fr": "Plusieurs personnes revendiquent le droit de décider comment elles seront retenues et qui racontera leur vie."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Pitchfork — listas por década y año",
+        "en": "Pitchfork — lists by decade and year",
+        "fr": "Pitchfork — sélections par décennie et par année"
+      },
+      "source": "Pitchfork",
+      "url": "https://pitchfork.com/features/lists-and-guides/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/3q2v8QaTnHLveAQzR6gvYm"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/sing-about-me-im-dying-of-thirst/1440860389?i=1440860410"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=9-XbXBq8cl8"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-049",
+    "type": "song",
+    "artist": "Beyoncé",
+    "title": "Formation",
+    "year": 2016,
+    "decade": "2010",
+    "genre": "soul",
+    "genreDetail": "Pop y R&B",
+    "country": "Estados Unidos",
+    "duration": "3:26",
+    "catalogue": "TLG–S–0049",
+    "coverClass": "cover-yellow",
+    "coverUrl": "assets/covers-master/song-049.webp",
+    "thumbnailUrl": "assets/covers-master/song-049.webp",
+    "description": {
+      "es": "Identidad, herencia y poder dejan de pedir aprobación y ocupan el centro con plena conciencia del encuadre.",
+      "en": "Identity, inheritance and power stop asking for approval and take the centre with full command of the frame.",
+      "fr": "Identité, héritage et pouvoir cessent de demander l’approbation et occupent le centre en maîtrisant pleinement le cadre."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Registro Nacional de Grabaciones",
+        "en": "National Recording Registry",
+        "fr": "Registre national des enregistrements"
+      },
+      "source": "National Recording Registry",
+      "url": "https://www.loc.gov/programs/national-recording-preservation-board/recording-registry/complete-national-recording-registry-listing/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/6g0Orsxv6glTJCt4cHsRsQ"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/formation/1460432013?i=1460432163"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=sj9q5ve6bh0"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-122",
+    "type": "song",
+    "artist": "Rosalía",
+    "title": "De aquí no sales",
+    "year": 2018,
+    "decade": "2010",
+    "genre": "latin",
+    "genreDetail": "Flamenco pop",
+    "country": "España",
+    "duration": "2:25",
+    "catalogue": "TLG–S–0122",
+    "coverClass": "cover-green",
+    "coverUrl": "assets/covers-master/song-122.webp",
+    "thumbnailUrl": "assets/covers-master/song-122.webp",
+    "description": {
+      "es": "Una relación violenta se vuelve un espacio cerrado del que la voz intenta salir sin suavizar el peligro.",
+      "en": "A violent relationship becomes an enclosed space the voice tries to escape without softening the danger.",
+      "fr": "Une relation violente devient un espace clos dont la voix tente de sortir sans atténuer le danger."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Rockdelux — listas por género y escena",
+        "en": "Rockdelux — genre and scene lists",
+        "fr": "Rockdelux — sélections par genre et par scène"
+      },
+      "source": "Rockdelux",
+      "url": "https://www.rockdelux.com/es/listas"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/2BGzvk6J3fbN4nJY3kOUoz"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/de-aqu%C3%AD-no-sales-cap-4-disputa/1436309944?i=1436310380"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=vk4dTui5EQo"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-123",
+    "type": "song",
+    "artist": "SOPHIE",
+    "title": "Immaterial",
+    "year": 2018,
+    "decade": "2010",
+    "genre": "pop",
+    "genreDetail": "Pop experimental",
+    "country": "Escocia",
+    "duration": "3:53",
+    "catalogue": "TLG–S–0123",
+    "coverClass": "cover-blue",
+    "coverUrl": "assets/covers-master/song-123.webp",
+    "thumbnailUrl": "assets/covers-master/song-123.webp",
+    "description": {
+      "es": "La posibilidad de transformarse se celebra como un derecho corporal, emocional y creativo.",
+      "en": "The possibility of transformation is celebrated as a bodily, emotional and creative right.",
+      "fr": "La possibilité de se transformer est célébrée comme un droit corporel, émotionnel et créatif."
+    },
+    "recognition": {
+      "type": "reference",
+      "title": {
+        "es": "Discogs — comunidad, ediciones y colección",
+        "en": "Discogs — community, editions and collecting",
+        "fr": "Discogs — communauté, éditions et collection"
+      },
+      "source": "Discogs",
+      "url": "https://support.discogs.com/hc/en-us/articles/360003622014-How-To-Browse-Search-In-The-Database"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/1huN927tTdSiwF90FBHXkT"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/immaterial/1395045797?i=1395046305"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=PB5tnokRFS0"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-124",
+    "type": "song",
+    "artist": "FKA twigs",
+    "title": "Cellophane",
+    "year": 2019,
+    "decade": "2010",
+    "genre": "pop",
+    "genreDetail": "Art pop",
+    "country": "Reino Unido",
+    "duration": "3:24",
+    "catalogue": "TLG–S–0124",
+    "coverClass": "cover-red",
+    "coverUrl": "assets/covers-master/song-124.webp",
+    "thumbnailUrl": "assets/covers-master/song-124.webp",
+    "description": {
+      "es": "Una interpretación se presenta sin protección y convierte cada imperfección en prueba de su sinceridad.",
+      "en": "A performance appears without protection and turns every imperfection into evidence of its sincerity.",
+      "fr": "Une interprétation se présente sans protection et transforme chaque imperfection en preuve de sa sincérité."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Pitchfork — listas por década y año",
+        "en": "Pitchfork — lists by decade and year",
+        "fr": "Pitchfork — sélections par décennie et par année"
+      },
+      "source": "Pitchfork",
+      "url": "https://pitchfork.com/features/lists-and-guides/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/3VwZqgfrM3xb1usuLprkTu"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/cellophane/1477652618?i=1477652823"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=ZruInYsvwuY"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Rotación"
+  },
+  {
+    "id": "song-125",
+    "type": "song",
+    "artist": "Bad Bunny",
+    "title": "Andrea",
+    "year": 2022,
+    "decade": "2020",
+    "genre": "latin",
+    "genreDetail": "Reguetón y pop",
+    "country": "Puerto Rico",
+    "duration": "3:31",
+    "catalogue": "TLG–S–0125",
+    "coverClass": "cover-yellow",
+    "coverUrl": "assets/covers-master/song-125.webp",
+    "thumbnailUrl": "assets/covers-master/song-125.webp",
+    "description": {
+      "es": "Una mujer conserva el derecho a ser compleja incluso cuando otros intentan convertirla en historia o advertencia.",
+      "en": "A woman retains the right to complexity even when others try to turn her into story or warning.",
+      "fr": "Une femme garde le droit d’être complexe même lorsque d’autres tentent d’en faire un récit ou un avertissement."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Radiónica — música colombiana y latinoamericana",
+        "en": "Radiónica — Colombian and Latin American music",
+        "fr": "Radiónica — musique colombienne et latino-américaine"
+      },
+      "source": "Radiónica",
+      "url": "https://www.radionica.rocks/musica"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/44XjoNvtwevktFKjvVe1vH"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/andrea/1209997077?i=1209997759"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=gjWk-MY3pc4"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-050",
+    "type": "song",
+    "artist": "Silvana Estrada",
+    "title": "Te guardo",
+    "year": 2022,
+    "decade": "2020",
+    "genre": "folk",
+    "genreDetail": "Canción de autor",
+    "country": "México",
+    "duration": "3:22",
+    "catalogue": "TLG–S–0050",
+    "coverClass": "cover-green",
+    "coverUrl": "assets/covers-master/song-050.webp",
+    "thumbnailUrl": "assets/covers-master/song-050.webp",
+    "description": {
+      "es": "Una promesa pequeña encuentra suficiente espacio para acompañar una ausencia sin apropiarse de ella.",
+      "en": "A small promise finds enough space to accompany an absence without claiming it.",
+      "fr": "Une petite promesse trouve assez d’espace pour accompagner une absence sans se l’approprier."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Los 600 Discos de Latinoamérica",
+        "en": "The 600 Albums of Latin America",
+        "fr": "Les 600 albums d’Amérique latine"
+      },
+      "source": "Los 600 Discos de Latinoamérica",
+      "url": "https://www.600discoslatam.com/indice-general-de-los-600-discos-de-latinoamerica/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/0MbiIQrfTj9U3MXzv3AsoK"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/te-guardo/1590308123?i=1590308341"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=5kONPvuwLQw"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Foco mensual"
+  }
+]
