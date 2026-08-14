@@ -1,0 +1,1773 @@
+[
+  {
+    "id": "album-001",
+    "type": "album",
+    "artist": "Chet Baker",
+    "title": "The Touch of Your Lips",
+    "year": 1979,
+    "decade": "1970",
+    "genre": "jazz",
+    "duration": "44 min",
+    "catalogue": "TLG–A–0001",
+    "coverClass": "cover-blue",
+    "coverUrl": "assets/covers/album-001-500.jpg",
+    "thumbnailUrl": "assets/covers/album-001-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release-group/651772cd-6379-3df2-9d0b-a77f4bf12780/front-500",
+    "searchQuery": "Chet Baker The Touch of Your Lips full album",
+    "description": {
+      "es": "Una escucha íntima, delicada y esencial.",
+      "en": "An intimate, delicate and essential listen.",
+      "fr": "Un album intime, délicat et incontournable."
+    },
+    "editorial": {
+      "readTime": 1,
+      "headerPosition": "center 38%",
+      "trackMentions": [
+        "I Waited for You",
+        "But Not for Me"
+      ],
+      "es": {
+        "review": [
+          "En The Touch of Your Lips, el silencio funciona como un cuarto integrante. Chet Baker está acompañado únicamente por el guitarrista Doug Raney y el contrabajista Niels-Henning Ørsted Pedersen; sin piano ni batería, cada decisión melódica queda expuesta.",
+          "El repertorio está formado por estándares, pero el interés no reside tanto en las canciones elegidas como en la manera en que el trío las habita. Raney sostiene la armonía sin llenar todos los espacios, Pedersen da dirección incluso a bajo volumen y Baker deja respirar sus frases hasta hacerlas parecer casi habladas.",
+          "En But Not for Me y la canción titular, su voz conserva la misma contención que su trompeta: ninguna intenta imponerse. El disco utiliza la calma, el espacio y la economía como recursos expresivos.",
+          "Es música nocturna, pero no música de fondo. Su intimidad se vuelve más evidente cuando prestamos atención a todo lo que los músicos deciden no tocar."
+        ],
+        "listenFor": [
+          "El espacio entre las primeras frases de I Waited for You.",
+          "La transición entre la voz y la trompeta en But Not for Me.",
+          "Cómo el contrabajo mantiene el movimiento sin romper la delicadeza del conjunto."
+        ],
+        "entryPoint": {
+          "title": "I Waited for You",
+          "reason": "No necesariamente porque sea la mejor canción, sino porque presenta de inmediato el sonido abierto y sin batería que define al disco."
+        }
+      },
+      "en": {
+        "review": [
+          "On The Touch of Your Lips, silence functions like a fourth member. Chet Baker is accompanied only by guitarist Doug Raney and bassist Niels-Henning Ørsted Pedersen; without piano or drums, every melodic decision is left exposed.",
+          "The repertoire consists of standards, but the interest lies less in the songs chosen than in the way the trio inhabits them. Raney supports the harmony without filling every space, Pedersen gives the music direction even at low volume, and Baker lets his phrases breathe until they sound almost spoken.",
+          "On But Not for Me and the title track, his voice carries the same restraint as his trumpet: neither tries to dominate. The album turns calm, space and economy into expressive resources.",
+          "This is late-night music, but not background music. Its intimacy becomes clearer when we pay attention to everything the musicians choose not to play."
+        ],
+        "listenFor": [
+          "The space between the opening phrases of I Waited for You.",
+          "The transition between voice and trumpet on But Not for Me.",
+          "How the bass keeps the music moving without disturbing the trio’s delicacy."
+        ],
+        "entryPoint": {
+          "title": "I Waited for You",
+          "reason": "Not necessarily because it is the best track, but because it immediately introduces the open, drumless sound that defines the album."
+        }
+      },
+      "fr": {
+        "review": [
+          "Dans The Touch of Your Lips, le silence agit comme un quatrième membre. Chet Baker n’est accompagné que du guitariste Doug Raney et du contrebassiste Niels-Henning Ørsted Pedersen ; sans piano ni batterie, chaque choix mélodique reste à découvert.",
+          "Le répertoire se compose de standards, mais l’intérêt réside moins dans le choix des morceaux que dans la manière dont le trio les habite. Raney soutient l’harmonie sans combler tous les espaces, Pedersen donne une direction même à faible volume et Baker laisse respirer ses phrases jusqu’à les faire paraître presque parlées.",
+          "Dans But Not for Me et le morceau-titre, sa voix garde la même retenue que sa trompette : aucune ne cherche à s’imposer. L’album fait du calme, de l’espace et de l’économie de moyens de véritables ressources expressives.",
+          "C’est une musique nocturne, mais pas une musique de fond. Son intimité se révèle davantage lorsque l’on prête attention à tout ce que les musiciens choisissent de ne pas jouer."
+        ],
+        "listenFor": [
+          "L’espace entre les premières phrases de I Waited for You.",
+          "Le passage de la voix à la trompette dans But Not for Me.",
+          "La manière dont la contrebasse entretient le mouvement sans rompre la délicatesse de l’ensemble."
+        ],
+        "entryPoint": {
+          "title": "I Waited for You",
+          "reason": "Pas nécessairement parce qu’il s’agit du meilleur morceau, mais parce qu’il présente d’emblée le son ouvert et sans batterie qui définit l’album."
+        }
+      },
+      "sources": [
+        {
+          "name": {
+            "es": "AllMusic",
+            "en": "AllMusic",
+            "fr": "AllMusic"
+          },
+          "url": "https://www.allmusic.com/album/the-touch-of-your-lips-mw0000187664"
+        },
+        {
+          "name": {
+            "es": "Créditos de SteepleChase · Amoeba Music",
+            "en": "SteepleChase credits · Amoeba Music",
+            "fr": "Crédits SteepleChase · Amoeba Music"
+          },
+          "url": "https://www.amoeba.com/touch-of-your-lips-cd-chet-baker/albums/782093/"
+        },
+        {
+          "name": {
+            "es": "Apple Music",
+            "en": "Apple Music",
+            "fr": "Apple Music"
+          },
+          "url": "https://music.apple.com/es/album/the-touch-of-your-lips/159233558"
+        }
+      ]
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Diez discos alternativos de Chet Baker para perderse",
+        "en": "Chet Baker: An Alternative Top Ten Albums to Get Lost In",
+        "fr": "Dix albums alternatifs de Chet Baker dans lesquels se perdre"
+      },
+      "source": "All About Jazz",
+      "year": 2020,
+      "url": "https://www.allaboutjazz.com/chet-baker-an-alternative-top-ten-albums-chet-baker"
+    }
+  },
+  {
+    "id": "album-002",
+    "type": "album",
+    "artist": "Marvin Gaye",
+    "title": "What's Going On",
+    "year": 1971,
+    "decade": "1970",
+    "genre": "soul",
+    "duration": "35 min",
+    "catalogue": "TLG–A–0002",
+    "coverClass": "cover-green",
+    "coverUrl": "assets/covers/album-002-500.jpg",
+    "thumbnailUrl": "assets/covers/album-002-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release-group/c1fa4d2c-ec62-37d5-b01d-6df7f8fd2c90/front-500",
+    "searchQuery": "Marvin Gaye What's Going On full album",
+    "description": {
+      "es": "Soul profundamente humano convertido en una obra continua.",
+      "en": "Deeply human soul transformed into one continuous work.",
+      "fr": "Une soul profondément humaine qui se déploie comme une œuvre continue."
+    },
+    "recognition": {
+      "type": "ranking",
+      "rank": 1,
+      "title": {
+        "es": "Los 500 mejores álbumes de todos los tiempos",
+        "en": "The 500 Greatest Albums of All Time",
+        "fr": "Les 500 plus grands albums de tous les temps"
+      },
+      "source": "Rolling Stone",
+      "year": 2023,
+      "url": "https://www.rollingstone.com/music/music-lists/best-albums-of-all-time-1062063/"
+    }
+  },
+  {
+    "id": "album-003",
+    "type": "album",
+    "artist": "Kraftwerk",
+    "title": "Trans-Europe Express",
+    "year": 1977,
+    "decade": "1970",
+    "genre": "electronic",
+    "duration": "42 min",
+    "catalogue": "TLG–A–0003",
+    "coverClass": "cover-red",
+    "coverUrl": "assets/covers/album-003-500.jpg",
+    "thumbnailUrl": "assets/covers/album-003-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release-group/33101a28-ae05-3a69-873c-684e336fe2df/front-500",
+    "searchQuery": "Kraftwerk Trans-Europe Express full album",
+    "description": {
+      "es": "El sonido moderno imaginado mediante trenes, máquinas y precisión.",
+      "en": "Modern sound imagined through trains, machines and precision.",
+      "fr": "Le son moderne imaginé à travers les trains, les machines et la précision."
+    },
+    "recognition": {
+      "type": "ranking",
+      "rank": 238,
+      "title": {
+        "es": "Los 500 mejores álbumes de todos los tiempos",
+        "en": "The 500 Greatest Albums of All Time",
+        "fr": "Les 500 plus grands albums de tous les temps"
+      },
+      "source": "Rolling Stone",
+      "year": 2023,
+      "url": "https://www.rollingstone.com/music/music-lists/best-albums-of-all-time-1062063/"
+    }
+  },
+  {
+    "id": "album-004",
+    "type": "album",
+    "artist": "The Clash",
+    "title": "London Calling",
+    "year": 1979,
+    "decade": "1970",
+    "genre": "rock",
+    "duration": "65 min",
+    "catalogue": "TLG–A–0004",
+    "coverClass": "cover-yellow",
+    "coverUrl": "assets/covers/album-004-500.jpg",
+    "thumbnailUrl": "assets/covers/album-004-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release-group/8d73e45e-7ca1-3cb4-ae28-6da76196c17c/front-500",
+    "searchQuery": "The Clash London Calling full album",
+    "description": {
+      "es": "Punk abierto al reggae, el soul y una ciudad al borde del colapso.",
+      "en": "Punk opened up to reggae, soul and a city on the edge.",
+      "fr": "Un album punk ouvert au reggae, à la soul et à une ville au bord du gouffre."
+    },
+    "recognition": {
+      "type": "ranking",
+      "rank": 16,
+      "title": {
+        "es": "Los 500 mejores álbumes de todos los tiempos",
+        "en": "The 500 Greatest Albums of All Time",
+        "fr": "Les 500 plus grands albums de tous les temps"
+      },
+      "source": "Rolling Stone",
+      "year": 2023,
+      "url": "https://www.rollingstone.com/music/music-lists/best-albums-of-all-time-1062063/"
+    }
+  },
+  {
+    "id": "album-005",
+    "type": "album",
+    "artist": "Joni Mitchell",
+    "title": "Blue",
+    "year": 1971,
+    "decade": "1970",
+    "genre": "folk",
+    "duration": "36 min",
+    "catalogue": "TLG–A–0005",
+    "coverClass": "cover-blue",
+    "coverUrl": "assets/covers/album-005-500.jpg",
+    "thumbnailUrl": "assets/covers/album-005-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release-group/42d725fb-a8b7-388c-8866-3b02789af326/front-500",
+    "searchQuery": "Joni Mitchell Blue full album",
+    "description": {
+      "es": "Canciones confesionales con una claridad emocional extraordinaria.",
+      "en": "Confessional songs with extraordinary emotional clarity.",
+      "fr": "Des chansons confessionnelles d’une clarté émotionnelle extraordinaire."
+    },
+    "recognition": {
+      "type": "ranking",
+      "rank": 3,
+      "title": {
+        "es": "Los 500 mejores álbumes de todos los tiempos",
+        "en": "The 500 Greatest Albums of All Time",
+        "fr": "Les 500 plus grands albums de tous les temps"
+      },
+      "source": "Rolling Stone",
+      "year": 2023,
+      "url": "https://www.rollingstone.com/music/music-lists/best-albums-of-all-time-1062063/"
+    }
+  },
+  {
+    "id": "album-006",
+    "type": "album",
+    "artist": "My Bloody Valentine",
+    "title": "Loveless",
+    "year": 1991,
+    "decade": "1990",
+    "genre": "rock",
+    "duration": "48 min",
+    "catalogue": "TLG–A–0006",
+    "coverClass": "cover-purple",
+    "coverUrl": "assets/covers/album-006-500.jpg",
+    "thumbnailUrl": "assets/covers/album-006-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release-group/cb76227e-3ac0-3002-9a10-615a5b73cc59/front-500",
+    "searchQuery": "My Bloody Valentine Loveless full album",
+    "description": {
+      "es": "Guitarras convertidas en niebla, textura y melodía.",
+      "en": "Guitars transformed into haze, texture and melody.",
+      "fr": "Des guitares transformées en brume, en texture et en mélodie."
+    },
+    "recognition": {
+      "type": "ranking",
+      "rank": 1,
+      "title": {
+        "es": "Los 150 mejores álbumes de los noventa",
+        "en": "The 150 Best Albums of the 1990s",
+        "fr": "Les 150 meilleurs albums des années 1990"
+      },
+      "source": "Pitchfork",
+      "year": 2022,
+      "url": "https://pitchfork.com/features/lists-and-guides/the-best-albums-of-the-1990s/"
+    }
+  },
+  {
+    "id": "album-007",
+    "type": "album",
+    "artist": "Daft Punk",
+    "title": "Discovery",
+    "year": 2001,
+    "decade": "2000",
+    "genre": "electronic",
+    "duration": "60 min",
+    "catalogue": "TLG–A–0007",
+    "coverClass": "cover-yellow",
+    "coverUrl": "assets/covers/album-007-500.jpg",
+    "thumbnailUrl": "assets/covers/album-007-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release-group/48117b90-a16e-34ca-a514-19c702df1158/front-500",
+    "searchQuery": "Daft Punk Discovery full album",
+    "description": {
+      "es": "Una celebración futurista del pop, el disco y los recuerdos.",
+      "en": "A futuristic celebration of pop, disco and memory.",
+      "fr": "Une célébration futuriste de la pop, du disco et des souvenirs."
+    },
+    "recognition": {
+      "type": "ranking",
+      "rank": 236,
+      "title": {
+        "es": "Los 500 mejores álbumes de todos los tiempos",
+        "en": "The 500 Greatest Albums of All Time",
+        "fr": "Les 500 plus grands albums de tous les temps"
+      },
+      "source": "Rolling Stone",
+      "year": 2023,
+      "url": "https://www.rollingstone.com/music/music-lists/best-albums-of-all-time-1062063/"
+    }
+  },
+  {
+    "id": "album-008",
+    "type": "album",
+    "artist": "Phoenix",
+    "title": "Wolfgang Amadeus Phoenix",
+    "year": 2009,
+    "decade": "2000",
+    "genre": "pop",
+    "duration": "37 min",
+    "catalogue": "TLG–A–0008",
+    "coverClass": "cover-red",
+    "coverUrl": "assets/covers/album-008-500.jpg",
+    "thumbnailUrl": "assets/covers/album-008-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release-group/32304f6e-5b80-3818-a66b-47f09efff0d9/front-500",
+    "searchQuery": "Phoenix Wolfgang Amadeus Phoenix full album",
+    "description": {
+      "es": "Pop elegante y preciso en el que cada canción parece inevitable.",
+      "en": "Elegant, precise pop where every song feels inevitable.",
+      "fr": "Une pop élégante et précise où chaque chanson semble inévitable."
+    },
+    "recognition": {
+      "type": "award",
+      "title": {
+        "es": "Mejor álbum de música alternativa",
+        "en": "Best Alternative Music Album",
+        "fr": "Meilleur album de musique alternative"
+      },
+      "source": "Grammy Awards",
+      "year": 2010,
+      "url": "https://www.grammy.com/artists/phoenix/17695/"
+    }
+  },
+  {
+    "id": "album-009",
+    "type": "album",
+    "artist": "Kendrick Lamar",
+    "title": "To Pimp a Butterfly",
+    "year": 2015,
+    "decade": "2010",
+    "genre": "hip-hop",
+    "duration": "79 min",
+    "catalogue": "TLG–A–0009",
+    "coverClass": "cover-green",
+    "coverUrl": "assets/covers/album-009-500.jpg",
+    "thumbnailUrl": "assets/covers/album-009-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release-group/d9103c72-3807-4378-9ce7-b6f3e8fdd547/front-500",
+    "searchQuery": "Kendrick Lamar To Pimp a Butterfly full album",
+    "description": {
+      "es": "Hip-hop, jazz y funk reunidos en una obra política y personal.",
+      "en": "Hip-hop, jazz and funk united in a political and personal work.",
+      "fr": "Le hip-hop, le jazz et le funk réunis dans une œuvre politique et personnelle."
+    },
+    "recognition": {
+      "type": "award",
+      "title": {
+        "es": "Mejor álbum de rap",
+        "en": "Best Rap Album",
+        "fr": "Meilleur album de rap"
+      },
+      "source": "Grammy Awards",
+      "year": 2016,
+      "url": "https://www.grammy.com/video/kendrick-lamar-to-pimp-a-butterfly-best-rap-album-win-speech-grammy-rewind/"
+    }
+  },
+  {
+    "id": "album-010",
+    "type": "album",
+    "artist": "Natalia Lafourcade",
+    "title": "Hasta la Raíz",
+    "year": 2015,
+    "decade": "2010",
+    "genre": "latin",
+    "duration": "43 min",
+    "catalogue": "TLG–A–0010",
+    "coverClass": "cover-purple",
+    "coverUrl": "assets/covers/album-010-500.jpg",
+    "thumbnailUrl": "assets/covers/album-010-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release/afa1f4bd-c707-47a2-9a6c-9a203eb34c05/front-500",
+    "searchQuery": "Natalia Lafourcade Hasta la Raíz full album",
+    "description": {
+      "es": "Tradición latinoamericana y composición contemporánea en equilibrio.",
+      "en": "Latin American tradition and contemporary songwriting in balance.",
+      "fr": "Un équilibre entre tradition latino-américaine et écriture contemporaine."
+    },
+    "recognition": {
+      "type": "award",
+      "title": {
+        "es": "Mejor álbum latino de rock, urbano o alternativo",
+        "en": "Best Latin Rock, Urban or Alternative Album",
+        "fr": "Meilleur album de rock, musique urbaine ou alternative latino"
+      },
+      "source": "Grammy Awards",
+      "year": 2016,
+      "url": "https://www.grammy.com/video/natalia-lafourcades-hasta-la-raiz-record/"
+    }
+  },
+  {
+    "id": "album-011",
+    "type": "album",
+    "artist": "Miles Davis",
+    "title": "Kind of Blue",
+    "year": 1959,
+    "decade": "1950",
+    "genre": "jazz",
+    "duration": "46 min",
+    "catalogue": "TLG–A–0011",
+    "coverClass": "cover-blue",
+    "coverUrl": "assets/covers/album-011-500.jpg",
+    "thumbnailUrl": "assets/covers/album-011-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release-group/8e8a594f-2175-38c7-a871-abb68ec363e7/front-500",
+    "coverSearchTitle": "Kind of Blue",
+    "coverSearchYear": 1959,
+    "searchQuery": "Miles Davis Kind of Blue full album",
+    "description": {
+      "es": "Improvisación modal, espacio y una serenidad que cambió el lenguaje del jazz.",
+      "en": "Modal improvisation, space and a serenity that changed the language of jazz.",
+      "fr": "Improvisation modale, espace et sérénité : un nouveau langage pour le jazz."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Los 500 mejores álbumes de todos los tiempos",
+        "en": "The 500 Greatest Albums of All Time",
+        "fr": "Les 500 plus grands albums de tous les temps"
+      },
+      "source": "Rolling Stone",
+      "year": 2023,
+      "url": "https://www.rollingstone.com/music/music-lists/best-albums-of-all-time-1062063/"
+    }
+  },
+  {
+    "id": "album-012",
+    "type": "album",
+    "artist": "John Coltrane",
+    "title": "A Love Supreme",
+    "year": 1965,
+    "decade": "1960",
+    "genre": "jazz",
+    "duration": "33 min",
+    "catalogue": "TLG–A–0012",
+    "coverClass": "cover-red",
+    "coverUrl": "assets/covers/album-012-500.jpg",
+    "thumbnailUrl": "assets/covers/album-012-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release-group/77cf47ba-58cd-3f3d-a5f9-79bf89860421/front-500",
+    "coverSearchTitle": "A Love Supreme",
+    "coverSearchYear": 1965,
+    "searchQuery": "John Coltrane A Love Supreme full album",
+    "description": {
+      "es": "Una suite espiritual donde disciplina, intensidad y gratitud se vuelven inseparables.",
+      "en": "A spiritual suite where discipline, intensity and gratitude become inseparable.",
+      "fr": "Une suite spirituelle où discipline, intensité et gratitude deviennent indissociables."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Los 500 mejores álbumes de todos los tiempos",
+        "en": "The 500 Greatest Albums of All Time",
+        "fr": "Les 500 plus grands albums de tous les temps"
+      },
+      "source": "Rolling Stone",
+      "year": 2023,
+      "url": "https://www.rollingstone.com/music/music-lists/best-albums-of-all-time-1062063/"
+    }
+  },
+  {
+    "id": "album-013",
+    "type": "album",
+    "artist": "The Beatles",
+    "title": "Revolver",
+    "year": 1966,
+    "decade": "1960",
+    "genre": "rock",
+    "duration": "35 min",
+    "catalogue": "TLG–A–0013",
+    "coverClass": "cover-green",
+    "coverUrl": "assets/covers/album-013-500.jpg",
+    "thumbnailUrl": "assets/covers/album-013-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release-group/72d15666-99a7-321e-b1f3-a3f8c09dff9f/front-500",
+    "coverSearchTitle": "Revolver",
+    "coverSearchYear": 1966,
+    "searchQuery": "The Beatles Revolver full album",
+    "description": {
+      "es": "El estudio de grabación convertido en instrumento para ensanchar la canción pop.",
+      "en": "The recording studio turned into an instrument for expanding the pop song.",
+      "fr": "Le studio d’enregistrement devient un instrument qui élargit la chanson pop."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Los 500 mejores álbumes de todos los tiempos",
+        "en": "The 500 Greatest Albums of All Time",
+        "fr": "Les 500 plus grands albums de tous les temps"
+      },
+      "source": "Rolling Stone",
+      "year": 2023,
+      "url": "https://www.rollingstone.com/music/music-lists/best-albums-of-all-time-1062063/"
+    }
+  },
+  {
+    "id": "album-014",
+    "type": "album",
+    "artist": "Violeta Parra",
+    "title": "Las últimas composiciones",
+    "year": 1966,
+    "decade": "1960",
+    "genre": "latin",
+    "duration": "31 min",
+    "catalogue": "TLG–A–0014",
+    "coverClass": "cover-yellow",
+    "coverUrl": "assets/covers/album-014-500.jpg",
+    "thumbnailUrl": "assets/covers/album-014-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release-group/705e96ab-3515-37d1-b3ce-629edc53ee16/front-500",
+    "coverSearchTitle": "Las últimas composiciones",
+    "coverSearchYear": 1966,
+    "searchQuery": "Violeta Parra Las últimas composiciones full album",
+    "description": {
+      "es": "Canciones de amor, pérdida y lucidez escritas con una franqueza estremecedora.",
+      "en": "Songs of love, loss and clarity written with startling candour.",
+      "fr": "Des chansons d’amour, de perte et de lucidité, écrites avec une franchise bouleversante."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Los 600 discos de Latinoamérica",
+        "en": "The 600 Albums of Latin America",
+        "fr": "Les 600 albums d’Amérique latine"
+      },
+      "source": "Los 600 de Latinoamérica",
+      "year": 2024,
+      "url": "https://www.600discoslatam.com/category/discos/"
+    }
+  },
+  {
+    "id": "album-015",
+    "type": "album",
+    "artist": "Aretha Franklin",
+    "title": "I Never Loved a Man the Way I Love You",
+    "year": 1967,
+    "decade": "1960",
+    "genre": "soul",
+    "duration": "32 min",
+    "catalogue": "TLG–A–0015",
+    "coverClass": "cover-purple",
+    "coverUrl": "assets/covers/album-015-500.jpg",
+    "thumbnailUrl": "assets/covers/album-015-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release-group/7d8f07a7-4c64-3afb-8daf-8f1d4df89a78/front-500",
+    "coverSearchTitle": "I Never Loved a Man the Way I Love You",
+    "coverSearchYear": 1967,
+    "searchQuery": "Aretha Franklin I Never Loved a Man the Way I Love You full album",
+    "description": {
+      "es": "Una voz soberana encuentra el marco exacto entre góspel, soul y autonomía.",
+      "en": "A sovereign voice finds its perfect setting between gospel, soul and autonomy.",
+      "fr": "Une voix souveraine trouve son écrin idéal entre gospel, soul et indépendance."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Los 500 mejores álbumes de todos los tiempos",
+        "en": "The 500 Greatest Albums of All Time",
+        "fr": "Les 500 plus grands albums de tous les temps"
+      },
+      "source": "Rolling Stone",
+      "year": 2023,
+      "url": "https://www.rollingstone.com/music/music-lists/best-albums-of-all-time-1062063/"
+    }
+  },
+  {
+    "id": "album-016",
+    "type": "album",
+    "artist": "The Velvet Underground & Nico",
+    "title": "The Velvet Underground & Nico",
+    "year": 1967,
+    "decade": "1960",
+    "genre": "rock",
+    "duration": "49 min",
+    "catalogue": "TLG–A–0016",
+    "coverClass": "cover-blue",
+    "coverUrl": "assets/covers/album-016-500.jpg",
+    "thumbnailUrl": "assets/covers/album-016-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release-group/5cbd9d7b-597a-3c5e-bfd1-c2b364215560/front-500",
+    "coverSearchTitle": "The Velvet Underground & Nico",
+    "coverSearchYear": 1967,
+    "searchQuery": "The Velvet Underground & Nico The Velvet Underground & Nico full album",
+    "description": {
+      "es": "Belleza, ruido y vida urbana reunidos en un disco que tardó años en revelar su alcance.",
+      "en": "Beauty, noise and city life meet on a record whose reach took years to become clear.",
+      "fr": "Beauté, bruit et vie urbaine se rencontrent dans un disque dont l’influence s’est révélée avec le temps."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Los 500 mejores álbumes de todos los tiempos",
+        "en": "The 500 Greatest Albums of All Time",
+        "fr": "Les 500 plus grands albums de tous les temps"
+      },
+      "source": "Rolling Stone",
+      "year": 2023,
+      "url": "https://www.rollingstone.com/music/music-lists/best-albums-of-all-time-1062063/"
+    }
+  },
+  {
+    "id": "album-017",
+    "type": "album",
+    "artist": "Os Mutantes",
+    "title": "Os Mutantes",
+    "year": 1968,
+    "decade": "1960",
+    "genre": "latin",
+    "duration": "36 min",
+    "catalogue": "TLG–A–0017",
+    "coverClass": "cover-red",
+    "coverUrl": "assets/covers/album-017-500.jpg",
+    "thumbnailUrl": "assets/covers/album-017-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release-group/f3578417-4c90-3891-a2cf-d1eab06cc084/front-500",
+    "coverSearchTitle": "Os Mutantes",
+    "coverSearchYear": 1968,
+    "searchQuery": "Os Mutantes Os Mutantes full album",
+    "description": {
+      "es": "Psicodelia brasileña hecha de melodía, humor, invención casera y desobediencia.",
+      "en": "Brazilian psychedelia built from melody, humor, homemade invention and disobedience.",
+      "fr": "Une psychédélie brésilienne faite de mélodie, d’humour, d’inventions artisanales et d’insolence."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Los 600 discos de Latinoamérica",
+        "en": "The 600 Albums of Latin America",
+        "fr": "Les 600 albums d’Amérique latine"
+      },
+      "source": "Los 600 de Latinoamérica",
+      "year": 2024,
+      "url": "https://www.600discoslatam.com/category/discos/"
+    }
+  },
+  {
+    "id": "album-018",
+    "type": "album",
+    "artist": "João Gilberto",
+    "title": "Chega de Saudade",
+    "year": 1959,
+    "decade": "1950",
+    "genre": "latin",
+    "duration": "30 min",
+    "catalogue": "TLG–A–0018",
+    "coverClass": "cover-green",
+    "coverUrl": "assets/covers/album-018-500.jpg",
+    "thumbnailUrl": "assets/covers/album-018-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release-group/9e4072b4-11c3-3fe6-be4f-4a607bbb94f9/front-500",
+    "coverSearchTitle": "Chega de Saudade",
+    "coverSearchYear": 1959,
+    "searchQuery": "João Gilberto Chega de Saudade full album",
+    "description": {
+      "es": "Guitarra, voz y síncopa reorganizan la música brasileña desde la intimidad.",
+      "en": "Guitar, voice and syncopation reorganize Brazilian music from within an intimate space.",
+      "fr": "Guitare, voix et syncope réinventent la musique brésilienne dans l’intimité."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Los 600 discos de Latinoamérica",
+        "en": "The 600 Albums of Latin America",
+        "fr": "Les 600 albums d’Amérique latine"
+      },
+      "source": "Los 600 de Latinoamérica",
+      "year": 2024,
+      "url": "https://www.600discoslatam.com/category/discos/"
+    }
+  },
+  {
+    "id": "album-019",
+    "type": "album",
+    "artist": "Milton Nascimento & Lô Borges",
+    "title": "Clube da Esquina",
+    "year": 1972,
+    "decade": "1970",
+    "genre": "latin",
+    "duration": "64 min",
+    "catalogue": "TLG–A–0019",
+    "coverClass": "cover-yellow",
+    "coverUrl": "assets/covers/album-019-500.jpg",
+    "thumbnailUrl": "assets/covers/album-019-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release-group/b29e94e7-0b0b-3a66-ab06-e02f8fa5054f/front-500",
+    "coverSearchTitle": "Clube da Esquina",
+    "coverSearchYear": 1972,
+    "searchQuery": "Milton Nascimento & Lô Borges Clube da Esquina full album",
+    "description": {
+      "es": "Una comunidad musical donde Brasil dialoga con el folk, el rock y la armonía jazzística.",
+      "en": "A musical community where Brazil converses with folk, rock and jazz harmony.",
+      "fr": "Une communauté musicale où le Brésil dialogue avec le folk, le rock et l’harmonie jazz."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Los 600 discos de Latinoamérica",
+        "en": "The 600 Albums of Latin America",
+        "fr": "Les 600 albums d’Amérique latine"
+      },
+      "source": "Los 600 de Latinoamérica",
+      "year": 2024,
+      "url": "https://www.600discoslatam.com/category/discos/"
+    }
+  },
+  {
+    "id": "album-020",
+    "type": "album",
+    "artist": "Stevie Wonder",
+    "title": "Innervisions",
+    "year": 1973,
+    "decade": "1970",
+    "genre": "soul",
+    "duration": "44 min",
+    "catalogue": "TLG–A–0020",
+    "coverClass": "cover-purple",
+    "coverUrl": "assets/covers/album-020-500.jpg",
+    "thumbnailUrl": "assets/covers/album-020-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release-group/e626b377-74c5-3b97-8f16-8cef5e1c04ea/front-500",
+    "coverSearchTitle": "Innervisions",
+    "coverSearchYear": 1973,
+    "searchQuery": "Stevie Wonder Innervisions full album",
+    "description": {
+      "es": "Soul visionario que observa la ciudad, la fe y la desigualdad sin perder el pulso.",
+      "en": "Visionary soul that studies city life, faith and inequality without losing its groove.",
+      "fr": "Une soul visionnaire qui observe la ville, la foi et les inégalités sans perdre le groove."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Los 500 mejores álbumes de todos los tiempos",
+        "en": "The 500 Greatest Albums of All Time",
+        "fr": "Les 500 plus grands albums de tous les temps"
+      },
+      "source": "Rolling Stone",
+      "year": 2023,
+      "url": "https://www.rollingstone.com/music/music-lists/best-albums-of-all-time-1062063/"
+    }
+  },
+  {
+    "id": "album-021",
+    "type": "album",
+    "artist": "Chico Buarque",
+    "title": "Construção",
+    "year": 1971,
+    "decade": "1970",
+    "genre": "latin",
+    "duration": "31 min",
+    "catalogue": "TLG–A–0021",
+    "coverClass": "cover-blue",
+    "coverUrl": "assets/covers/album-021-500.jpg",
+    "thumbnailUrl": "assets/covers/album-021-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release-group/5da13507-7e60-3dec-b2e7-0e75dba03997/front-500",
+    "coverSearchTitle": "Construção",
+    "coverSearchYear": 1971,
+    "searchQuery": "Chico Buarque Construção full album",
+    "description": {
+      "es": "Arquitectura verbal y arreglos orquestales al servicio de una crítica social precisa.",
+      "en": "Verbal architecture and orchestral arrangements in the service of precise social criticism.",
+      "fr": "Architecture verbale et arrangements orchestraux au service d’une critique sociale précise."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Los 600 discos de Latinoamérica",
+        "en": "The 600 Albums of Latin America",
+        "fr": "Les 600 albums d’Amérique latine"
+      },
+      "source": "Los 600 de Latinoamérica",
+      "year": 2024,
+      "url": "https://www.600discoslatam.com/category/discos/"
+    }
+  },
+  {
+    "id": "album-022",
+    "type": "album",
+    "artist": "Patti Smith",
+    "title": "Horses",
+    "year": 1975,
+    "decade": "1970",
+    "genre": "rock",
+    "duration": "43 min",
+    "catalogue": "TLG–A–0022",
+    "coverClass": "cover-red",
+    "coverUrl": "assets/covers/album-022-500.jpg",
+    "thumbnailUrl": "assets/covers/album-022-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release-group/ff8f533c-3cb3-3877-9209-11f433edaad2/front-500",
+    "coverSearchTitle": "Horses",
+    "coverSearchYear": 1975,
+    "searchQuery": "Patti Smith Horses full album",
+    "description": {
+      "es": "Poesía, desafío y rock elemental en una apertura que todavía parece peligrosa.",
+      "en": "Poetry, defiance and elemental rock in an opening statement that still feels dangerous.",
+      "fr": "Poésie, défi et rock élémentaire dans un manifeste qui reste dangereusement vivant."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Los 500 mejores álbumes de todos los tiempos",
+        "en": "The 500 Greatest Albums of All Time",
+        "fr": "Les 500 plus grands albums de tous les temps"
+      },
+      "source": "Rolling Stone",
+      "year": 2023,
+      "url": "https://www.rollingstone.com/music/music-lists/best-albums-of-all-time-1062063/"
+    }
+  },
+  {
+    "id": "album-023",
+    "type": "album",
+    "artist": "Parliament",
+    "title": "Mothership Connection",
+    "year": 1975,
+    "decade": "1970",
+    "genre": "soul",
+    "duration": "39 min",
+    "catalogue": "TLG–A–0023",
+    "coverClass": "cover-green",
+    "coverUrl": "assets/covers/album-023-500.jpg",
+    "thumbnailUrl": "assets/covers/album-023-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release-group/cb69bfc6-a15c-34cd-b1af-76b6481bf09a/front-500",
+    "coverSearchTitle": "Mothership Connection",
+    "coverSearchYear": 1975,
+    "searchQuery": "Parliament Mothership Connection full album",
+    "description": {
+      "es": "El funk imagina su propio universo y convierte la pista de baile en ciencia ficción.",
+      "en": "Funk imagines its own universe and turns the dance floor into science fiction.",
+      "fr": "Le funk invente son propre univers et transforme la piste de danse en science-fiction."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Los 500 mejores álbumes de todos los tiempos",
+        "en": "The 500 Greatest Albums of All Time",
+        "fr": "Les 500 plus grands albums de tous les temps"
+      },
+      "source": "Rolling Stone",
+      "year": 2023,
+      "url": "https://www.rollingstone.com/music/music-lists/best-albums-of-all-time-1062063/"
+    }
+  },
+  {
+    "id": "album-024",
+    "type": "album",
+    "artist": "Fleetwood Mac",
+    "title": "Rumours",
+    "year": 1977,
+    "decade": "1970",
+    "genre": "rock",
+    "duration": "40 min",
+    "catalogue": "TLG–A–0024",
+    "coverClass": "cover-yellow",
+    "coverUrl": "assets/covers/album-024-500.jpg",
+    "thumbnailUrl": "assets/covers/album-024-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release-group/416bb5e5-c7d1-3977-8fd7-7c9daf6c2be6/front-500",
+    "coverSearchTitle": "Rumours",
+    "coverSearchYear": 1977,
+    "searchQuery": "Fleetwood Mac Rumours full album",
+    "description": {
+      "es": "Rupturas privadas transformadas en canciones de precisión y armonías luminosas.",
+      "en": "Private breakups transformed into precise songs and luminous harmonies.",
+      "fr": "Des ruptures intimes transformées en chansons précises aux harmonies lumineuses."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Los 500 mejores álbumes de todos los tiempos",
+        "en": "The 500 Greatest Albums of All Time",
+        "fr": "Les 500 plus grands albums de tous les temps"
+      },
+      "source": "Rolling Stone",
+      "year": 2023,
+      "url": "https://www.rollingstone.com/music/music-lists/best-albums-of-all-time-1062063/"
+    }
+  },
+  {
+    "id": "album-025",
+    "type": "album",
+    "artist": "Willie Colón & Rubén Blades",
+    "title": "Siembra",
+    "year": 1978,
+    "decade": "1970",
+    "genre": "latin",
+    "duration": "42 min",
+    "catalogue": "TLG–A–0025",
+    "coverClass": "cover-purple",
+    "coverUrl": "assets/covers/album-025-500.jpg",
+    "thumbnailUrl": "assets/covers/album-025-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release-group/0efd12a2-2d31-3fa8-a76c-5f8af6613fca/front-500",
+    "coverSearchTitle": "Siembra",
+    "coverSearchYear": 1978,
+    "searchQuery": "Willie Colón & Rubén Blades Siembra full album",
+    "description": {
+      "es": "Salsa ambiciosa que une narrativa callejera, conciencia política y baile.",
+      "en": "Ambitious salsa joining street narratives, political awareness and dance.",
+      "fr": "Une salsa ambitieuse qui unit récits de rue, conscience politique et danse."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Los 600 discos de Latinoamérica",
+        "en": "The 600 Albums of Latin America",
+        "fr": "Les 600 albums d’Amérique latine"
+      },
+      "source": "Los 600 de Latinoamérica",
+      "year": 2024,
+      "url": "https://www.600discoslatam.com/category/discos/"
+    }
+  },
+  {
+    "id": "album-026",
+    "type": "album",
+    "artist": "Blondie",
+    "title": "Parallel Lines",
+    "year": 1978,
+    "decade": "1970",
+    "genre": "rock",
+    "duration": "39 min",
+    "catalogue": "TLG–A–0026",
+    "coverClass": "cover-blue",
+    "coverUrl": "assets/covers/album-026-500.jpg",
+    "thumbnailUrl": "assets/covers/album-026-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release-group/0c1a4d70-5926-3ae8-aa25-466fe65639fe/front-500",
+    "coverSearchTitle": "Parallel Lines",
+    "coverSearchYear": 1978,
+    "searchQuery": "Blondie Parallel Lines full album",
+    "description": {
+      "es": "El punk neoyorquino aprende a hablar con el pop, la disco y la radio sin perder nervio.",
+      "en": "New York punk learns to speak pop, disco and radio without losing its edge.",
+      "fr": "Le punk new-yorkais dialogue avec la pop, le disco et la radio sans perdre son mordant."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Los 500 mejores álbumes de todos los tiempos",
+        "en": "The 500 Greatest Albums of All Time",
+        "fr": "Les 500 plus grands albums de tous les temps"
+      },
+      "source": "Rolling Stone",
+      "year": 2023,
+      "url": "https://www.rollingstone.com/music/music-lists/best-albums-of-all-time-1062063/"
+    }
+  },
+  {
+    "id": "album-027",
+    "type": "album",
+    "artist": "Talking Heads",
+    "title": "Remain in Light",
+    "year": 1980,
+    "decade": "1980",
+    "genre": "rock",
+    "duration": "40 min",
+    "catalogue": "TLG–A–0027",
+    "coverClass": "cover-red",
+    "coverUrl": "assets/covers/album-027-500.jpg",
+    "thumbnailUrl": "assets/covers/album-027-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release-group/f6b1b900-6108-32f0-abbd-2855af9151eb/front-500",
+    "coverSearchTitle": "Remain in Light",
+    "coverSearchYear": 1980,
+    "searchQuery": "Talking Heads Remain in Light full album",
+    "description": {
+      "es": "Capas rítmicas, ansiedad moderna y trabajo colectivo en movimiento constante.",
+      "en": "Rhythmic layers, modern anxiety and collective work in constant motion.",
+      "fr": "Strates rythmiques, anxiété moderne et travail collectif en mouvement perpétuel."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Los 500 mejores álbumes de todos los tiempos",
+        "en": "The 500 Greatest Albums of All Time",
+        "fr": "Les 500 plus grands albums de tous les temps"
+      },
+      "source": "Rolling Stone",
+      "year": 2023,
+      "url": "https://www.rollingstone.com/music/music-lists/best-albums-of-all-time-1062063/"
+    }
+  },
+  {
+    "id": "album-028",
+    "type": "album",
+    "artist": "Charly García",
+    "title": "Clics modernos",
+    "year": 1983,
+    "decade": "1980",
+    "genre": "latin",
+    "duration": "36 min",
+    "catalogue": "TLG–A–0028",
+    "coverClass": "cover-green",
+    "coverUrl": "assets/covers/album-028-500.jpg",
+    "thumbnailUrl": "assets/covers/album-028-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release-group/33eaf398-1164-32e3-9055-3bcbff8f3b12/front-500",
+    "coverSearchTitle": "Clics modernos",
+    "coverSearchYear": 1983,
+    "searchQuery": "Charly García Clics modernos full album",
+    "description": {
+      "es": "Tecnología, ironía y melodía para retratar la Argentina de la posdictadura.",
+      "en": "Technology, irony and melody used to portray post-dictatorship Argentina.",
+      "fr": "Technologie, ironie et mélodie pour dépeindre l’Argentine de l’après-dictature."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Los 600 discos de Latinoamérica",
+        "en": "The 600 Albums of Latin America",
+        "fr": "Les 600 albums d’Amérique latine"
+      },
+      "source": "Los 600 de Latinoamérica",
+      "year": 2024,
+      "url": "https://www.600discoslatam.com/category/discos/"
+    }
+  },
+  {
+    "id": "album-029",
+    "type": "album",
+    "artist": "Kate Bush",
+    "title": "Hounds of Love",
+    "year": 1985,
+    "decade": "1980",
+    "genre": "pop",
+    "duration": "47 min",
+    "catalogue": "TLG–A–0029",
+    "coverClass": "cover-yellow",
+    "coverUrl": "assets/covers/album-029-500.jpg",
+    "thumbnailUrl": "assets/covers/album-029-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release-group/017f2a37-a78f-3578-9611-fa40408e5d90/front-500",
+    "coverSearchTitle": "Hounds of Love",
+    "coverSearchYear": 1985,
+    "searchQuery": "Kate Bush Hounds of Love full album",
+    "description": {
+      "es": "Pop expansivo y narración experimental unidos por una imaginación sin jerarquías.",
+      "en": "Expansive pop and experimental storytelling joined by an imagination without limits.",
+      "fr": "Pop expansive et narration expérimentale portées par une imagination sans limites."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Los 500 mejores álbumes de todos los tiempos",
+        "en": "The 500 Greatest Albums of All Time",
+        "fr": "Les 500 plus grands albums de tous les temps"
+      },
+      "source": "Rolling Stone",
+      "year": 2023,
+      "url": "https://www.rollingstone.com/music/music-lists/best-albums-of-all-time-1062063/"
+    }
+  },
+  {
+    "id": "album-030",
+    "type": "album",
+    "artist": "Prince",
+    "title": "Sign o’ the Times",
+    "year": 1987,
+    "decade": "1980",
+    "genre": "soul",
+    "duration": "80 min",
+    "catalogue": "TLG–A–0030",
+    "coverClass": "cover-purple",
+    "coverUrl": "assets/covers/album-030-500.jpg",
+    "thumbnailUrl": "assets/covers/album-030-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release-group/a47f26f1-6166-46bd-9612-cb4c327ffe5f/front-500",
+    "coverSearchTitle": "Sign o’ the Times",
+    "coverSearchYear": 1987,
+    "searchQuery": "Prince Sign o’ the Times full album",
+    "description": {
+      "es": "Funk, rock, gospel y electrónica contenidos en el retrato de un creador sin fronteras.",
+      "en": "Funk, rock, gospel and electronics held inside the portrait of a creator without borders.",
+      "fr": "Funk, rock, gospel et électronique composent le portrait d’un créateur sans frontières."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Los 500 mejores álbumes de todos los tiempos",
+        "en": "The 500 Greatest Albums of All Time",
+        "fr": "Les 500 plus grands albums de tous les temps"
+      },
+      "source": "Rolling Stone",
+      "year": 2023,
+      "url": "https://www.rollingstone.com/music/music-lists/best-albums-of-all-time-1062063/"
+    }
+  },
+  {
+    "id": "album-031",
+    "type": "album",
+    "artist": "Janet Jackson",
+    "title": "Control",
+    "year": 1986,
+    "decade": "1980",
+    "genre": "pop",
+    "duration": "42 min",
+    "catalogue": "TLG–A–0031",
+    "coverClass": "cover-blue",
+    "coverUrl": "assets/covers/album-031-500.jpg",
+    "thumbnailUrl": "assets/covers/album-031-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release-group/b23d3137-df51-3047-a6a5-b5efbde50f22/front-500",
+    "coverSearchTitle": "Control",
+    "coverSearchYear": 1986,
+    "searchQuery": "Janet Jackson Control full album",
+    "description": {
+      "es": "Independencia personal expresada mediante ritmos secos, detalle y autoridad pop.",
+      "en": "Personal independence expressed through sharp rhythms, detail and pop authority.",
+      "fr": "Une indépendance personnelle affirmée par des rythmes secs, le détail et une autorité pop."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Los 500 mejores álbumes de todos los tiempos",
+        "en": "The 500 Greatest Albums of All Time",
+        "fr": "Les 500 plus grands albums de tous les temps"
+      },
+      "source": "Rolling Stone",
+      "year": 2023,
+      "url": "https://www.rollingstone.com/music/music-lists/best-albums-of-all-time-1062063/"
+    }
+  },
+  {
+    "id": "album-032",
+    "type": "album",
+    "artist": "Café Tacvba",
+    "title": "Re",
+    "year": 1994,
+    "decade": "1990",
+    "genre": "latin",
+    "duration": "59 min",
+    "catalogue": "TLG–A–0032",
+    "coverClass": "cover-red",
+    "coverUrl": "assets/covers/album-032-500.jpg",
+    "thumbnailUrl": "assets/covers/album-032-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release-group/05548ae5-6e3d-3e7b-baee-5e03a80fe5d2/front-500",
+    "coverSearchTitle": "Re",
+    "coverSearchYear": 1994,
+    "searchQuery": "Café Tacvba Re full album",
+    "description": {
+      "es": "Tradición mexicana, rock y experimentación reunidos sin pedir permiso a una sola identidad.",
+      "en": "Mexican tradition, rock and experimentation meet without submitting to a single identity.",
+      "fr": "Tradition mexicaine, rock et expérimentation réunis sans se soumettre à une identité unique."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Los 600 discos de Latinoamérica",
+        "en": "The 600 Albums of Latin America",
+        "fr": "Les 600 albums d’Amérique latine"
+      },
+      "source": "Los 600 de Latinoamérica",
+      "year": 2024,
+      "url": "https://www.600discoslatam.com/category/discos/"
+    }
+  },
+  {
+    "id": "album-033",
+    "type": "album",
+    "artist": "Björk",
+    "title": "Homogenic",
+    "year": 1997,
+    "decade": "1990",
+    "genre": "electronic",
+    "duration": "44 min",
+    "catalogue": "TLG–A–0033",
+    "coverClass": "cover-green",
+    "coverUrl": "assets/covers/album-033-500.jpg",
+    "thumbnailUrl": "assets/covers/album-033-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release-group/810272e0-aef1-3d85-b2d3-e512e87fc38c/front-500",
+    "coverSearchTitle": "Homogenic",
+    "coverSearchYear": 1997,
+    "searchQuery": "Björk Homogenic full album",
+    "description": {
+      "es": "Cuerdas, pulsos volcánicos y una voz capaz de hacer íntimo un paisaje inmenso.",
+      "en": "Strings, volcanic beats and a voice able to make a vast landscape feel intimate.",
+      "fr": "Cordes, pulsations volcaniques et une voix qui rend intime un paysage immense."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Los 500 mejores álbumes de todos los tiempos",
+        "en": "The 500 Greatest Albums of All Time",
+        "fr": "Les 500 plus grands albums de tous les temps"
+      },
+      "source": "Rolling Stone",
+      "year": 2023,
+      "url": "https://www.rollingstone.com/music/music-lists/best-albums-of-all-time-1062063/"
+    }
+  },
+  {
+    "id": "album-034",
+    "type": "album",
+    "artist": "Lauryn Hill",
+    "title": "The Miseducation of Lauryn Hill",
+    "year": 1998,
+    "decade": "1990",
+    "genre": "hip-hop",
+    "duration": "77 min",
+    "catalogue": "TLG–A–0034",
+    "coverClass": "cover-yellow",
+    "coverUrl": "assets/covers/album-034-500.jpg",
+    "thumbnailUrl": "assets/covers/album-034-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release-group/8691d12c-abd8-385c-b1eb-d841190124f7/front-500",
+    "coverSearchTitle": "The Miseducation of Lauryn Hill",
+    "coverSearchYear": 1998,
+    "searchQuery": "Lauryn Hill The Miseducation of Lauryn Hill full album",
+    "description": {
+      "es": "Rap, soul y vulnerabilidad organizados alrededor de una voz plenamente dueña de sí.",
+      "en": "Rap, soul and vulnerability organized around a voice fully in command of itself.",
+      "fr": "Rap, soul et vulnérabilité réunis autour d’une voix pleinement maîtresse d’elle-même."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Los 500 mejores álbumes de todos los tiempos",
+        "en": "The 500 Greatest Albums of All Time",
+        "fr": "Les 500 plus grands albums de tous les temps"
+      },
+      "source": "Rolling Stone",
+      "year": 2023,
+      "url": "https://www.rollingstone.com/music/music-lists/best-albums-of-all-time-1062063/"
+    }
+  },
+  {
+    "id": "album-035",
+    "type": "album",
+    "artist": "Gustavo Cerati",
+    "title": "Bocanada",
+    "year": 1999,
+    "decade": "1990",
+    "genre": "latin",
+    "duration": "69 min",
+    "catalogue": "TLG–A–0035",
+    "coverClass": "cover-purple",
+    "coverUrl": "assets/covers/album-035-500.jpg",
+    "thumbnailUrl": "assets/covers/album-035-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release-group/22d84dc0-84cb-3934-8aa6-4af8fa6671f8/front-500",
+    "coverSearchTitle": "Bocanada",
+    "coverSearchYear": 1999,
+    "searchQuery": "Gustavo Cerati Bocanada full album",
+    "description": {
+      "es": "Una reinvención solista construida con electrónica, guitarras y detalle cinematográfico.",
+      "en": "A solo reinvention built from electronics, guitars and cinematic detail.",
+      "fr": "Une réinvention en solo faite d’électronique, de guitares et de détails cinématographiques."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Los 600 discos de Latinoamérica",
+        "en": "The 600 Albums of Latin America",
+        "fr": "Les 600 albums d’Amérique latine"
+      },
+      "source": "Los 600 de Latinoamérica",
+      "year": 2024,
+      "url": "https://www.600discoslatam.com/category/discos/"
+    }
+  },
+  {
+    "id": "album-036",
+    "type": "album",
+    "artist": "Massive Attack",
+    "title": "Blue Lines",
+    "year": 1991,
+    "decade": "1990",
+    "genre": "electronic",
+    "duration": "45 min",
+    "catalogue": "TLG–A–0036",
+    "coverClass": "cover-blue",
+    "coverUrl": "assets/covers/album-036-500.jpg",
+    "thumbnailUrl": "assets/covers/album-036-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release-group/8b6f133a-2fdf-3cc2-b84d-1c889adc0939/front-500",
+    "coverSearchTitle": "Blue Lines",
+    "coverSearchYear": 1991,
+    "searchQuery": "Massive Attack Blue Lines full album",
+    "description": {
+      "es": "Bajos profundos, tempos lentos y voces múltiples dan forma a una nueva música urbana.",
+      "en": "Deep bass, slow tempos and multiple voices shape a new kind of urban music.",
+      "fr": "Basses profondes, tempos lents et voix multiples façonnent une nouvelle musique urbaine."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Los 500 mejores álbumes de todos los tiempos",
+        "en": "The 500 Greatest Albums of All Time",
+        "fr": "Les 500 plus grands albums de tous les temps"
+      },
+      "source": "Rolling Stone",
+      "year": 2023,
+      "url": "https://www.rollingstone.com/music/music-lists/best-albums-of-all-time-1062063/"
+    }
+  },
+  {
+    "id": "album-037",
+    "type": "album",
+    "artist": "Portishead",
+    "title": "Dummy",
+    "year": 1994,
+    "decade": "1990",
+    "genre": "electronic",
+    "duration": "49 min",
+    "catalogue": "TLG–A–0037",
+    "coverClass": "cover-red",
+    "coverUrl": "assets/covers/album-037-500.jpg",
+    "thumbnailUrl": "assets/covers/album-037-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release-group/48140466-cff6-3222-bd55-63c27e43190d/front-500",
+    "coverSearchTitle": "Dummy",
+    "coverSearchYear": 1994,
+    "searchQuery": "Portishead Dummy full album",
+    "description": {
+      "es": "Ritmos polvorientos y tensión de cine negro para canciones de vulnerabilidad extrema.",
+      "en": "Dusty rhythms and film-noir tension frame songs of extreme vulnerability.",
+      "fr": "Rythmes poussiéreux et tension de film noir encadrent des chansons d’une extrême vulnérabilité."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Los 500 mejores álbumes de todos los tiempos",
+        "en": "The 500 Greatest Albums of All Time",
+        "fr": "Les 500 plus grands albums de tous les temps"
+      },
+      "source": "Rolling Stone",
+      "year": 2023,
+      "url": "https://www.rollingstone.com/music/music-lists/best-albums-of-all-time-1062063/"
+    }
+  },
+  {
+    "id": "album-038",
+    "type": "album",
+    "artist": "Nas",
+    "title": "Illmatic",
+    "year": 1994,
+    "decade": "1990",
+    "genre": "hip-hop",
+    "duration": "39 min",
+    "catalogue": "TLG–A–0038",
+    "coverClass": "cover-green",
+    "coverUrl": "assets/covers/album-038-500.jpg",
+    "thumbnailUrl": "assets/covers/album-038-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release-group/28298e2c-4d70-3eed-a0f5-a3280c662b3d/front-500",
+    "coverSearchTitle": "Illmatic",
+    "coverSearchYear": 1994,
+    "searchQuery": "Nas Illmatic full album",
+    "description": {
+      "es": "Una ciudad entera comprimida en rimas precisas, memoria y producción sin exceso.",
+      "en": "An entire city compressed into precise rhymes, memory and production without excess.",
+      "fr": "Une ville entière condensée en rimes précises, en mémoire et en production sans excès."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Los 500 mejores álbumes de todos los tiempos",
+        "en": "The 500 Greatest Albums of All Time",
+        "fr": "Les 500 plus grands albums de tous les temps"
+      },
+      "source": "Rolling Stone",
+      "year": 2023,
+      "url": "https://www.rollingstone.com/music/music-lists/best-albums-of-all-time-1062063/"
+    }
+  },
+  {
+    "id": "album-039",
+    "type": "album",
+    "artist": "Shakira",
+    "title": "¿Dónde están los ladrones?",
+    "year": 1998,
+    "decade": "1990",
+    "genre": "latin",
+    "duration": "42 min",
+    "catalogue": "TLG–A–0039",
+    "coverClass": "cover-yellow",
+    "coverUrl": "assets/covers/album-039-500.jpg",
+    "thumbnailUrl": "assets/covers/album-039-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release-group/3197ee5d-696e-374f-8df3-042f1c0fd3a5/front-500",
+    "coverSearchTitle": "¿Dónde están los ladrones?",
+    "coverSearchYear": 1998,
+    "searchQuery": "Shakira ¿Dónde están los ladrones? full album",
+    "description": {
+      "es": "Rock latino y escritura pop afilada antes de que la ambición se volviera global.",
+      "en": "Latin rock and sharp pop writing just before the ambition became global.",
+      "fr": "Rock latino et écriture pop acérée, juste avant que l’ambition ne devienne mondiale."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Los 600 discos de Latinoamérica",
+        "en": "The 600 Albums of Latin America",
+        "fr": "Les 600 albums d’Amérique latine"
+      },
+      "source": "Los 600 de Latinoamérica",
+      "year": 2024,
+      "url": "https://www.600discoslatam.com/category/discos/"
+    }
+  },
+  {
+    "id": "album-040",
+    "type": "album",
+    "artist": "Radiohead",
+    "title": "Kid A",
+    "year": 2000,
+    "decade": "2000",
+    "genre": "rock",
+    "duration": "50 min",
+    "catalogue": "TLG–A–0040",
+    "coverClass": "cover-purple",
+    "coverUrl": "assets/covers/album-040-500.jpg",
+    "thumbnailUrl": "assets/covers/album-040-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release-group/e75c0549-ad55-39e3-8025-c72c5d4a3c5d/front-500",
+    "coverSearchTitle": "Kid A",
+    "coverSearchYear": 2000,
+    "searchQuery": "Radiohead Kid A full album",
+    "description": {
+      "es": "Una banda de rock abandona sus certezas y encuentra emoción dentro de la abstracción.",
+      "en": "A rock band abandons its certainties and finds emotion inside abstraction.",
+      "fr": "Un groupe de rock abandonne ses certitudes et trouve l’émotion dans l’abstraction."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Los 500 mejores álbumes de todos los tiempos",
+        "en": "The 500 Greatest Albums of All Time",
+        "fr": "Les 500 plus grands albums de tous les temps"
+      },
+      "source": "Rolling Stone",
+      "year": 2023,
+      "url": "https://www.rollingstone.com/music/music-lists/best-albums-of-all-time-1062063/"
+    }
+  },
+  {
+    "id": "album-041",
+    "type": "album",
+    "artist": "The Strokes",
+    "title": "Is This It",
+    "year": 2001,
+    "decade": "2000",
+    "genre": "rock",
+    "duration": "36 min",
+    "catalogue": "TLG–A–0041",
+    "coverClass": "cover-blue",
+    "coverUrl": "assets/covers/album-041-500.jpg",
+    "thumbnailUrl": "assets/covers/album-041-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release-group/efea26d1-a016-30f6-b8e2-bc8c02336b0a/front-500",
+    "coverSearchTitle": "Is This It",
+    "coverSearchYear": 2001,
+    "searchQuery": "The Strokes Is This It full album",
+    "description": {
+      "es": "Canciones compactas y guitarras austeras devuelven urgencia a una forma conocida.",
+      "en": "Compact songs and austere guitars return urgency to a familiar form.",
+      "fr": "Des chansons compactes et des guitares dépouillées rendent son urgence à une forme familière."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Los 500 mejores álbumes de todos los tiempos",
+        "en": "The 500 Greatest Albums of All Time",
+        "fr": "Les 500 plus grands albums de tous les temps"
+      },
+      "source": "Rolling Stone",
+      "year": 2023,
+      "url": "https://www.rollingstone.com/music/music-lists/best-albums-of-all-time-1062063/"
+    }
+  },
+  {
+    "id": "album-042",
+    "type": "album",
+    "artist": "Amy Winehouse",
+    "title": "Back to Black",
+    "year": 2006,
+    "decade": "2000",
+    "genre": "soul",
+    "duration": "35 min",
+    "catalogue": "TLG–A–0042",
+    "coverClass": "cover-red",
+    "coverUrl": "assets/covers/album-042-500.jpg",
+    "thumbnailUrl": "assets/covers/album-042-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release-group/6eac2e57-ee50-36f8-b0c4-c4c847a2c098/front-500",
+    "coverSearchTitle": "Back to Black",
+    "coverSearchYear": 2006,
+    "searchQuery": "Amy Winehouse Back to Black full album",
+    "description": {
+      "es": "Una escritura brutalmente directa encuentra elegancia en arreglos de soul clásico.",
+      "en": "Brutally direct writing finds elegance in classic soul arrangements.",
+      "fr": "Une écriture brutalement directe trouve son élégance dans des arrangements soul classiques."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Los 500 mejores álbumes de todos los tiempos",
+        "en": "The 500 Greatest Albums of All Time",
+        "fr": "Les 500 plus grands albums de tous les temps"
+      },
+      "source": "Rolling Stone",
+      "year": 2023,
+      "url": "https://www.rollingstone.com/music/music-lists/best-albums-of-all-time-1062063/"
+    }
+  },
+  {
+    "id": "album-043",
+    "type": "album",
+    "artist": "M.I.A.",
+    "title": "Kala",
+    "year": 2007,
+    "decade": "2000",
+    "genre": "electronic",
+    "duration": "48 min",
+    "catalogue": "TLG–A–0043",
+    "coverClass": "cover-green",
+    "coverUrl": "assets/covers/album-043-500.jpg",
+    "thumbnailUrl": "assets/covers/album-043-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release-group/44261ea6-06cf-3fd3-a05c-42dee49c295a/front-500",
+    "coverSearchTitle": "Kala",
+    "coverSearchYear": 2007,
+    "searchQuery": "M.I.A. Kala full album",
+    "description": {
+      "es": "Ritmos globales, ruido digital y política fronteriza convertidos en pop móvil.",
+      "en": "Global rhythms, digital noise and border politics turned into mobile pop.",
+      "fr": "Rythmes mondiaux, bruit numérique et politique des frontières transformés en pop nomade."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Los 500 mejores álbumes de todos los tiempos",
+        "en": "The 500 Greatest Albums of All Time",
+        "fr": "Les 500 plus grands albums de tous les temps"
+      },
+      "source": "Rolling Stone",
+      "year": 2023,
+      "url": "https://www.rollingstone.com/music/music-lists/best-albums-of-all-time-1062063/"
+    }
+  },
+  {
+    "id": "album-044",
+    "type": "album",
+    "artist": "Burial",
+    "title": "Untrue",
+    "year": 2007,
+    "decade": "2000",
+    "genre": "electronic",
+    "duration": "50 min",
+    "catalogue": "TLG–A–0044",
+    "coverClass": "cover-yellow",
+    "coverUrl": "assets/covers/album-044-500.jpg",
+    "thumbnailUrl": "assets/covers/album-044-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release-group/fddedc4f-7a2e-3d7d-9ec5-1705c416f3f4/front-500",
+    "coverSearchTitle": "Untrue",
+    "coverSearchYear": 2007,
+    "searchQuery": "Burial Untrue full album",
+    "description": {
+      "es": "Voces fantasma y ritmos rotos convierten la ciudad nocturna en memoria emocional.",
+      "en": "Ghost voices and broken rhythms turn the nocturnal city into emotional memory.",
+      "fr": "Voix fantômes et rythmes brisés transforment la ville nocturne en mémoire émotionnelle."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Los 500 mejores álbumes de todos los tiempos",
+        "en": "The 500 Greatest Albums of All Time",
+        "fr": "Les 500 plus grands albums de tous les temps"
+      },
+      "source": "Rolling Stone",
+      "year": 2023,
+      "url": "https://www.rollingstone.com/music/music-lists/best-albums-of-all-time-1062063/"
+    }
+  },
+  {
+    "id": "album-045",
+    "type": "album",
+    "artist": "Frank Ocean",
+    "title": "Channel Orange",
+    "year": 2012,
+    "decade": "2010",
+    "genre": "soul",
+    "duration": "56 min",
+    "catalogue": "TLG–A–0045",
+    "coverClass": "cover-purple",
+    "coverUrl": "assets/covers/album-045-500.jpg",
+    "thumbnailUrl": "assets/covers/album-045-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release-group/f8f4167d-897c-4b25-a171-638374d1dfa4/front-500",
+    "coverSearchTitle": "Channel Orange",
+    "coverSearchYear": 2012,
+    "searchQuery": "Frank Ocean Channel Orange full album",
+    "description": {
+      "es": "Relatos de deseo, privilegio y soledad dentro de un soul de arquitectura cambiante.",
+      "en": "Stories of desire, privilege and loneliness inside soul with shifting architecture.",
+      "fr": "Récits de désir, de privilège et de solitude dans une soul à l’architecture mouvante."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Los 500 mejores álbumes de todos los tiempos",
+        "en": "The 500 Greatest Albums of All Time",
+        "fr": "Les 500 plus grands albums de tous les temps"
+      },
+      "source": "Rolling Stone",
+      "year": 2023,
+      "url": "https://www.rollingstone.com/music/music-lists/best-albums-of-all-time-1062063/"
+    }
+  },
+  {
+    "id": "album-046",
+    "type": "album",
+    "artist": "Rosalía",
+    "title": "El mal querer",
+    "year": 2018,
+    "decade": "2010",
+    "genre": "latin",
+    "duration": "30 min",
+    "catalogue": "TLG–A–0046",
+    "coverClass": "cover-blue",
+    "coverUrl": "assets/covers/album-046-500.jpg",
+    "thumbnailUrl": "assets/covers/album-046-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release-group/bb525db3-81e4-4c05-b529-23fa05f35c12/front-500",
+    "coverSearchTitle": "El mal querer",
+    "coverSearchYear": 2018,
+    "searchQuery": "Rosalía El mal querer full album",
+    "description": {
+      "es": "Flamenco, producción digital y relato conceptual tensados hasta crear un lenguaje propio.",
+      "en": "Flamenco, digital production and conceptual storytelling stretched into a language of their own.",
+      "fr": "Flamenco, production numérique et récit conceptuel tendus jusqu’à créer un langage singulier."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Los 500 mejores álbumes de todos los tiempos",
+        "en": "The 500 Greatest Albums of All Time",
+        "fr": "Les 500 plus grands albums de tous les temps"
+      },
+      "source": "Rolling Stone",
+      "year": 2023,
+      "url": "https://www.rollingstone.com/music/music-lists/best-albums-of-all-time-1062063/"
+    }
+  },
+  {
+    "id": "album-047",
+    "type": "album",
+    "artist": "Fiona Apple",
+    "title": "Fetch the Bolt Cutters",
+    "year": 2020,
+    "decade": "2020",
+    "genre": "pop",
+    "duration": "52 min",
+    "catalogue": "TLG–A–0047",
+    "coverClass": "cover-red",
+    "coverUrl": "assets/covers/album-047-500.jpg",
+    "thumbnailUrl": "assets/covers/album-047-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release-group/882db6d8-e28b-46ba-8a30-277e86fbddf7/front-500",
+    "coverSearchTitle": "Fetch the Bolt Cutters",
+    "coverSearchYear": 2020,
+    "searchQuery": "Fiona Apple Fetch the Bolt Cutters full album",
+    "description": {
+      "es": "Percusión doméstica, libertad vocal y escritura incisiva en un disco que abre ventanas.",
+      "en": "Domestic percussion, vocal freedom and incisive writing on a record that opens windows.",
+      "fr": "Percussions domestiques, liberté vocale et écriture incisive dans un disque qui ouvre les fenêtres."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Los 500 mejores álbumes de todos los tiempos",
+        "en": "The 500 Greatest Albums of All Time",
+        "fr": "Les 500 plus grands albums de tous les temps"
+      },
+      "source": "Rolling Stone",
+      "year": 2023,
+      "url": "https://www.rollingstone.com/music/music-lists/best-albums-of-all-time-1062063/"
+    }
+  },
+  {
+    "id": "album-048",
+    "type": "album",
+    "artist": "Charles Mingus",
+    "title": "The Black Saint and the Sinner Lady",
+    "year": 1963,
+    "decade": "1960",
+    "genre": "jazz",
+    "duration": "39 min",
+    "catalogue": "TLG–A–0048",
+    "coverClass": "cover-green",
+    "coverUrl": "assets/covers/album-048-500.jpg",
+    "thumbnailUrl": "assets/covers/album-048-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release-group/48070ee2-1865-3b11-ba36-360b1453a37a/front-500",
+    "coverSearchTitle": "The Black Saint and the Sinner Lady",
+    "coverSearchYear": 1963,
+    "searchQuery": "Charles Mingus The Black Saint and the Sinner Lady full album",
+    "description": {
+      "es": "Composición, improvisación y movimiento físico dentro de una suite de intensidad orquestal.",
+      "en": "Composition, improvisation and physical movement inside a suite of orchestral intensity.",
+      "fr": "Composition, improvisation et mouvement physique dans une suite d’une intensité orchestrale."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Los 500 mejores álbumes de todos los tiempos",
+        "en": "The 500 Greatest Albums of All Time",
+        "fr": "Les 500 plus grands albums de tous les temps"
+      },
+      "source": "Rolling Stone",
+      "year": 2023,
+      "url": "https://www.rollingstone.com/music/music-lists/best-albums-of-all-time-1062063/"
+    }
+  },
+  {
+    "id": "album-049",
+    "type": "album",
+    "artist": "Funkadelic",
+    "title": "Maggot Brain",
+    "year": 1971,
+    "decade": "1970",
+    "genre": "soul",
+    "duration": "37 min",
+    "catalogue": "TLG–A–0049",
+    "coverClass": "cover-yellow",
+    "coverUrl": "assets/covers/album-049-500.jpg",
+    "thumbnailUrl": "assets/covers/album-049-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release-group/a334e612-e736-3b4f-82b4-c4dfb774983c/front-500",
+    "coverSearchTitle": "Maggot Brain",
+    "coverSearchYear": 1971,
+    "searchQuery": "Funkadelic Maggot Brain full album",
+    "description": {
+      "es": "Psicodelia, funk y una guitarra que convierte el duelo en viaje cósmico.",
+      "en": "Psychedelia, funk and a guitar that turns grief into a cosmic journey.",
+      "fr": "Psychédélisme, funk et une guitare qui transforme le deuil en voyage cosmique."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Los 500 mejores álbumes de todos los tiempos",
+        "en": "The 500 Greatest Albums of All Time",
+        "fr": "Les 500 plus grands albums de tous les temps"
+      },
+      "source": "Rolling Stone",
+      "year": 2023,
+      "url": "https://www.rollingstone.com/music/music-lists/best-albums-of-all-time-1062063/"
+    }
+  },
+  {
+    "id": "album-050",
+    "type": "album",
+    "artist": "Cartola",
+    "title": "Cartola",
+    "year": 1976,
+    "decade": "1970",
+    "genre": "latin",
+    "duration": "32 min",
+    "catalogue": "TLG–A–0050",
+    "coverClass": "cover-purple",
+    "coverUrl": "assets/covers/album-050-500.jpg",
+    "thumbnailUrl": "assets/covers/album-050-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release-group/4d1bd640-e295-37c7-839e-e000c4e93910/front-500",
+    "coverSearchTitle": "Cartola",
+    "coverSearchYear": 1976,
+    "searchQuery": "Cartola Cartola full album",
+    "description": {
+      "es": "Samba de melodías elegantes y palabras sencillas que cargan toda una vida.",
+      "en": "Samba with elegant melodies and simple words carrying the weight of a lifetime.",
+      "fr": "Une samba aux mélodies élégantes et aux mots simples qui portent le poids d’une vie."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Los 600 discos de Latinoamérica",
+        "en": "The 600 Albums of Latin America",
+        "fr": "Les 600 albums d’Amérique latine"
+      },
+      "source": "Los 600 de Latinoamérica",
+      "year": 2024,
+      "url": "https://www.600discoslatam.com/category/discos/"
+    }
+  }
+]

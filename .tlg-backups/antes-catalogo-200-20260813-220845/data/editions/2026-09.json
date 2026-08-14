@@ -1,0 +1,843 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-09",
+  "label": {
+    "es": "Edición inaugural",
+    "en": "Inaugural edition",
+    "fr": "Édition inaugurale"
+  },
+  "releaseStatus": "draft-enrichment",
+  "rules": {
+    "perFormat": {
+      "anchors": 70,
+      "rotation": 20,
+      "monthlyFocus": 10
+    },
+    "rotationRestMonths": 3,
+    "archiveEveryEdition": true,
+    "replaceListenedImmediately": true
+  },
+  "focus": {
+    "id": "less-obvious-routes",
+    "title": {
+      "es": "Rutas menos obvias",
+      "en": "Less obvious routes",
+      "fr": "Chemins moins évidents"
+    }
+  },
+  "microSelections": [
+    {
+      "id": "france-chanson-french-touch",
+      "title": {
+        "es": "Chanson y French Touch",
+        "en": "Chanson and French Touch",
+        "fr": "Chanson et French Touch"
+      },
+      "rule": "Present across the edition without forcing an artificial quota."
+    }
+  ],
+  "albums": [
+    {
+      "id": "album-051",
+      "role": "Ancla"
+    },
+    {
+      "id": "album-052",
+      "role": "Rotación"
+    },
+    {
+      "id": "album-018",
+      "role": "Ancla"
+    },
+    {
+      "id": "album-011",
+      "role": "Ancla"
+    },
+    {
+      "id": "album-053",
+      "role": "Rotación"
+    },
+    {
+      "id": "album-054",
+      "role": "Rotación"
+    },
+    {
+      "id": "album-012",
+      "role": "Ancla"
+    },
+    {
+      "id": "album-055",
+      "role": "Ancla"
+    },
+    {
+      "id": "album-056",
+      "role": "Ancla"
+    },
+    {
+      "id": "album-013",
+      "role": "Ancla"
+    },
+    {
+      "id": "album-014",
+      "role": "Ancla"
+    },
+    {
+      "id": "album-015",
+      "role": "Ancla"
+    },
+    {
+      "id": "album-016",
+      "role": "Ancla"
+    },
+    {
+      "id": "album-057",
+      "role": "Ancla"
+    },
+    {
+      "id": "album-017",
+      "role": "Ancla"
+    },
+    {
+      "id": "album-058",
+      "role": "Ancla"
+    },
+    {
+      "id": "album-059",
+      "role": "Ancla"
+    },
+    {
+      "id": "album-060",
+      "role": "Rotación"
+    },
+    {
+      "id": "album-061",
+      "role": "Foco mensual"
+    },
+    {
+      "id": "album-062",
+      "role": "Ancla"
+    },
+    {
+      "id": "album-063",
+      "role": "Rotación"
+    },
+    {
+      "id": "album-064",
+      "role": "Rotación"
+    },
+    {
+      "id": "album-021",
+      "role": "Ancla"
+    },
+    {
+      "id": "album-065",
+      "role": "Ancla"
+    },
+    {
+      "id": "album-066",
+      "role": "Rotación"
+    },
+    {
+      "id": "album-049",
+      "role": "Ancla"
+    },
+    {
+      "id": "album-067",
+      "role": "Foco mensual"
+    },
+    {
+      "id": "album-005",
+      "role": "Ancla"
+    },
+    {
+      "id": "album-002",
+      "role": "Ancla"
+    },
+    {
+      "id": "album-068",
+      "role": "Ancla"
+    },
+    {
+      "id": "album-069",
+      "role": "Foco mensual"
+    },
+    {
+      "id": "album-019",
+      "role": "Ancla"
+    },
+    {
+      "id": "album-070",
+      "role": "Ancla"
+    },
+    {
+      "id": "album-071",
+      "role": "Foco mensual"
+    },
+    {
+      "id": "album-020",
+      "role": "Ancla"
+    },
+    {
+      "id": "album-072",
+      "role": "Ancla"
+    },
+    {
+      "id": "album-073",
+      "role": "Ancla"
+    },
+    {
+      "id": "album-023",
+      "role": "Rotación"
+    },
+    {
+      "id": "album-022",
+      "role": "Ancla"
+    },
+    {
+      "id": "album-003",
+      "role": "Ancla"
+    },
+    {
+      "id": "album-074",
+      "role": "Rotación"
+    },
+    {
+      "id": "album-075",
+      "role": "Ancla"
+    },
+    {
+      "id": "album-025",
+      "role": "Ancla"
+    },
+    {
+      "id": "album-076",
+      "role": "Ancla"
+    },
+    {
+      "id": "album-027",
+      "role": "Ancla"
+    },
+    {
+      "id": "album-077",
+      "role": "Ancla"
+    },
+    {
+      "id": "album-028",
+      "role": "Ancla"
+    },
+    {
+      "id": "album-078",
+      "role": "Rotación"
+    },
+    {
+      "id": "album-029",
+      "role": "Ancla"
+    },
+    {
+      "id": "album-031",
+      "role": "Ancla"
+    },
+    {
+      "id": "album-079",
+      "role": "Rotación"
+    },
+    {
+      "id": "album-030",
+      "role": "Ancla"
+    },
+    {
+      "id": "album-080",
+      "role": "Ancla"
+    },
+    {
+      "id": "album-081",
+      "role": "Ancla"
+    },
+    {
+      "id": "album-082",
+      "role": "Rotación"
+    },
+    {
+      "id": "album-083",
+      "role": "Foco mensual"
+    },
+    {
+      "id": "album-084",
+      "role": "Rotación"
+    },
+    {
+      "id": "album-085",
+      "role": "Rotación"
+    },
+    {
+      "id": "album-086",
+      "role": "Ancla"
+    },
+    {
+      "id": "album-036",
+      "role": "Ancla"
+    },
+    {
+      "id": "album-006",
+      "role": "Ancla"
+    },
+    {
+      "id": "album-087",
+      "role": "Rotación"
+    },
+    {
+      "id": "album-088",
+      "role": "Ancla"
+    },
+    {
+      "id": "album-089",
+      "role": "Rotación"
+    },
+    {
+      "id": "album-090",
+      "role": "Ancla"
+    },
+    {
+      "id": "album-032",
+      "role": "Ancla"
+    },
+    {
+      "id": "album-038",
+      "role": "Ancla"
+    },
+    {
+      "id": "album-037",
+      "role": "Ancla"
+    },
+    {
+      "id": "album-091",
+      "role": "Ancla"
+    },
+    {
+      "id": "album-092",
+      "role": "Rotación"
+    },
+    {
+      "id": "album-033",
+      "role": "Ancla"
+    },
+    {
+      "id": "album-093",
+      "role": "Foco mensual"
+    },
+    {
+      "id": "album-094",
+      "role": "Ancla"
+    },
+    {
+      "id": "album-095",
+      "role": "Foco mensual"
+    },
+    {
+      "id": "album-034",
+      "role": "Ancla"
+    },
+    {
+      "id": "album-039",
+      "role": "Ancla"
+    },
+    {
+      "id": "album-035",
+      "role": "Ancla"
+    },
+    {
+      "id": "album-096",
+      "role": "Ancla"
+    },
+    {
+      "id": "album-040",
+      "role": "Ancla"
+    },
+    {
+      "id": "album-007",
+      "role": "Ancla"
+    },
+    {
+      "id": "album-041",
+      "role": "Ancla"
+    },
+    {
+      "id": "album-097",
+      "role": "Ancla"
+    },
+    {
+      "id": "album-098",
+      "role": "Rotación"
+    },
+    {
+      "id": "album-099",
+      "role": "Ancla"
+    },
+    {
+      "id": "album-042",
+      "role": "Ancla"
+    },
+    {
+      "id": "album-044",
+      "role": "Ancla"
+    },
+    {
+      "id": "album-100",
+      "role": "Ancla"
+    },
+    {
+      "id": "album-043",
+      "role": "Ancla"
+    },
+    {
+      "id": "album-101",
+      "role": "Ancla"
+    },
+    {
+      "id": "album-045",
+      "role": "Ancla"
+    },
+    {
+      "id": "album-102",
+      "role": "Rotación"
+    },
+    {
+      "id": "album-103",
+      "role": "Foco mensual"
+    },
+    {
+      "id": "album-009",
+      "role": "Ancla"
+    },
+    {
+      "id": "album-104",
+      "role": "Ancla"
+    },
+    {
+      "id": "album-046",
+      "role": "Ancla"
+    },
+    {
+      "id": "album-105",
+      "role": "Foco mensual"
+    },
+    {
+      "id": "album-047",
+      "role": "Rotación"
+    },
+    {
+      "id": "album-106",
+      "role": "Ancla"
+    },
+    {
+      "id": "album-107",
+      "role": "Ancla"
+    },
+    {
+      "id": "album-108",
+      "role": "Foco mensual"
+    }
+  ],
+  "songs": [
+    {
+      "id": "song-011",
+      "role": "Ancla"
+    },
+    {
+      "id": "song-012",
+      "role": "Ancla"
+    },
+    {
+      "id": "song-051",
+      "role": "Rotación"
+    },
+    {
+      "id": "song-001",
+      "role": "Ancla"
+    },
+    {
+      "id": "song-052",
+      "role": "Ancla"
+    },
+    {
+      "id": "song-053",
+      "role": "Ancla"
+    },
+    {
+      "id": "song-013",
+      "role": "Ancla"
+    },
+    {
+      "id": "song-014",
+      "role": "Ancla"
+    },
+    {
+      "id": "song-018",
+      "role": "Ancla"
+    },
+    {
+      "id": "song-054",
+      "role": "Ancla"
+    },
+    {
+      "id": "song-016",
+      "role": "Ancla"
+    },
+    {
+      "id": "song-055",
+      "role": "Ancla"
+    },
+    {
+      "id": "song-017",
+      "role": "Ancla"
+    },
+    {
+      "id": "song-019",
+      "role": "Rotación"
+    },
+    {
+      "id": "song-056",
+      "role": "Ancla"
+    },
+    {
+      "id": "song-057",
+      "role": "Ancla"
+    },
+    {
+      "id": "song-058",
+      "role": "Foco mensual"
+    },
+    {
+      "id": "song-059",
+      "role": "Ancla"
+    },
+    {
+      "id": "song-060",
+      "role": "Foco mensual"
+    },
+    {
+      "id": "song-061",
+      "role": "Foco mensual"
+    },
+    {
+      "id": "song-062",
+      "role": "Rotación"
+    },
+    {
+      "id": "song-063",
+      "role": "Ancla"
+    },
+    {
+      "id": "song-064",
+      "role": "Ancla"
+    },
+    {
+      "id": "song-065",
+      "role": "Ancla"
+    },
+    {
+      "id": "song-023",
+      "role": "Ancla"
+    },
+    {
+      "id": "song-066",
+      "role": "Foco mensual"
+    },
+    {
+      "id": "song-067",
+      "role": "Ancla"
+    },
+    {
+      "id": "song-068",
+      "role": "Ancla"
+    },
+    {
+      "id": "song-069",
+      "role": "Foco mensual"
+    },
+    {
+      "id": "song-070",
+      "role": "Ancla"
+    },
+    {
+      "id": "song-071",
+      "role": "Ancla"
+    },
+    {
+      "id": "song-072",
+      "role": "Ancla"
+    },
+    {
+      "id": "song-022",
+      "role": "Rotación"
+    },
+    {
+      "id": "song-021",
+      "role": "Rotación"
+    },
+    {
+      "id": "song-073",
+      "role": "Ancla"
+    },
+    {
+      "id": "song-074",
+      "role": "Ancla"
+    },
+    {
+      "id": "song-075",
+      "role": "Foco mensual"
+    },
+    {
+      "id": "song-076",
+      "role": "Rotación"
+    },
+    {
+      "id": "song-077",
+      "role": "Ancla"
+    },
+    {
+      "id": "song-078",
+      "role": "Ancla"
+    },
+    {
+      "id": "song-079",
+      "role": "Rotación"
+    },
+    {
+      "id": "song-080",
+      "role": "Rotación"
+    },
+    {
+      "id": "song-081",
+      "role": "Ancla"
+    },
+    {
+      "id": "song-082",
+      "role": "Ancla"
+    },
+    {
+      "id": "song-083",
+      "role": "Ancla"
+    },
+    {
+      "id": "song-084",
+      "role": "Ancla"
+    },
+    {
+      "id": "song-085",
+      "role": "Ancla"
+    },
+    {
+      "id": "song-086",
+      "role": "Ancla"
+    },
+    {
+      "id": "song-087",
+      "role": "Ancla"
+    },
+    {
+      "id": "song-028",
+      "role": "Rotación"
+    },
+    {
+      "id": "song-029",
+      "role": "Rotación"
+    },
+    {
+      "id": "song-088",
+      "role": "Ancla"
+    },
+    {
+      "id": "song-089",
+      "role": "Ancla"
+    },
+    {
+      "id": "song-090",
+      "role": "Rotación"
+    },
+    {
+      "id": "song-091",
+      "role": "Ancla"
+    },
+    {
+      "id": "song-035",
+      "role": "Ancla"
+    },
+    {
+      "id": "song-092",
+      "role": "Rotación"
+    },
+    {
+      "id": "song-093",
+      "role": "Rotación"
+    },
+    {
+      "id": "song-094",
+      "role": "Foco mensual"
+    },
+    {
+      "id": "song-095",
+      "role": "Rotación"
+    },
+    {
+      "id": "song-096",
+      "role": "Ancla"
+    },
+    {
+      "id": "song-097",
+      "role": "Ancla"
+    },
+    {
+      "id": "song-098",
+      "role": "Ancla"
+    },
+    {
+      "id": "song-099",
+      "role": "Foco mensual"
+    },
+    {
+      "id": "song-100",
+      "role": "Rotación"
+    },
+    {
+      "id": "song-101",
+      "role": "Ancla"
+    },
+    {
+      "id": "song-102",
+      "role": "Foco mensual"
+    },
+    {
+      "id": "song-033",
+      "role": "Ancla"
+    },
+    {
+      "id": "song-103",
+      "role": "Ancla"
+    },
+    {
+      "id": "song-104",
+      "role": "Ancla"
+    },
+    {
+      "id": "song-105",
+      "role": "Ancla"
+    },
+    {
+      "id": "song-106",
+      "role": "Ancla"
+    },
+    {
+      "id": "song-107",
+      "role": "Ancla"
+    },
+    {
+      "id": "song-108",
+      "role": "Ancla"
+    },
+    {
+      "id": "song-109",
+      "role": "Ancla"
+    },
+    {
+      "id": "song-110",
+      "role": "Ancla"
+    },
+    {
+      "id": "song-038",
+      "role": "Ancla"
+    },
+    {
+      "id": "song-111",
+      "role": "Ancla"
+    },
+    {
+      "id": "song-112",
+      "role": "Ancla"
+    },
+    {
+      "id": "song-113",
+      "role": "Rotación"
+    },
+    {
+      "id": "song-114",
+      "role": "Rotación"
+    },
+    {
+      "id": "song-115",
+      "role": "Ancla"
+    },
+    {
+      "id": "song-116",
+      "role": "Ancla"
+    },
+    {
+      "id": "song-117",
+      "role": "Ancla"
+    },
+    {
+      "id": "song-118",
+      "role": "Rotación"
+    },
+    {
+      "id": "song-041",
+      "role": "Rotación"
+    },
+    {
+      "id": "song-042",
+      "role": "Ancla"
+    },
+    {
+      "id": "song-119",
+      "role": "Ancla"
+    },
+    {
+      "id": "song-044",
+      "role": "Ancla"
+    },
+    {
+      "id": "song-046",
+      "role": "Ancla"
+    },
+    {
+      "id": "song-045",
+      "role": "Ancla"
+    },
+    {
+      "id": "song-120",
+      "role": "Ancla"
+    },
+    {
+      "id": "song-047",
+      "role": "Ancla"
+    },
+    {
+      "id": "song-121",
+      "role": "Ancla"
+    },
+    {
+      "id": "song-049",
+      "role": "Ancla"
+    },
+    {
+      "id": "song-122",
+      "role": "Ancla"
+    },
+    {
+      "id": "song-123",
+      "role": "Ancla"
+    },
+    {
+      "id": "song-124",
+      "role": "Rotación"
+    },
+    {
+      "id": "song-125",
+      "role": "Ancla"
+    },
+    {
+      "id": "song-050",
+      "role": "Foco mensual"
+    }
+  ]
+}

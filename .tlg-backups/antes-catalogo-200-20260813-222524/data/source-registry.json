@@ -1,0 +1,158 @@
+{
+  "schemaVersion": 1,
+  "verificationStatus": "routes-to-contrast",
+  "sources": [
+    {
+      "id": "RS-ALB",
+      "name": "Rolling Stone — 500 Greatest Albums",
+      "scope": "Estados Unidos",
+      "layer": "Mainstream/canon",
+      "use": "Álbumes",
+      "url": "https://www.rollingstone.com/music/music-lists/best-albums-of-all-time-1062063/"
+    },
+    {
+      "id": "RS-SONG",
+      "name": "Rolling Stone — 500 Greatest Songs",
+      "scope": "Estados Unidos",
+      "layer": "Mainstream/canon",
+      "use": "Canciones",
+      "url": "https://www.rollingstone.com/music/music-lists/best-songs-of-all-time-1224767/"
+    },
+    {
+      "id": "APPLE",
+      "name": "Apple Music — 100 Best Albums",
+      "scope": "Global",
+      "layer": "Mainstream/editorial",
+      "use": "Álbumes",
+      "url": "https://www.apple.com/newsroom/2024/05/apple-music-celebrates-the-launch-of-inaugural-100-best-albums-list/"
+    },
+    {
+      "id": "NME",
+      "name": "NME — 500 Greatest Albums",
+      "scope": "Reino Unido",
+      "layer": "Mainstream/alternativo",
+      "use": "Álbumes",
+      "url": "https://www.nme.com/photos/the-500-greatest-albums-of-all-time-100-1-1426116"
+    },
+    {
+      "id": "PITCH",
+      "name": "Pitchfork — listas por década y año",
+      "scope": "Estados Unidos",
+      "layer": "Intermedia/indie",
+      "use": "Ambos",
+      "url": "https://pitchfork.com/features/lists-and-guides/"
+    },
+    {
+      "id": "ACCLAIM",
+      "name": "Acclaimed Music",
+      "scope": "Suecia / global",
+      "layer": "Agregador crítico",
+      "use": "Ambos",
+      "url": "https://www.acclaimedmusic.net/"
+    },
+    {
+      "id": "600LATAM",
+      "name": "Los 600 Discos de Latinoamérica",
+      "scope": "Latinoamérica",
+      "layer": "Regional",
+      "use": "Álbumes",
+      "url": "https://www.600discoslatam.com/indice-general-de-los-600-discos-de-latinoamerica/"
+    },
+    {
+      "id": "RS-BR",
+      "name": "Rolling Stone Brasil — 100 discos / 100 músicas",
+      "scope": "Brasil",
+      "layer": "Regional/mainstream",
+      "use": "Ambos",
+      "url": "https://rollingstone.com.br/artigo/os-100-maiores-discos-da-musica-brasileira/"
+    },
+    {
+      "id": "ROCKDELUX",
+      "name": "Rockdelux — listas por género y escena",
+      "scope": "España",
+      "layer": "Intermedia/especialista",
+      "use": "Ambos",
+      "url": "https://www.rockdelux.com/es/listas"
+    },
+    {
+      "id": "INDIEHOY",
+      "name": "Indie Hoy — listas argentinas y por década",
+      "scope": "Argentina",
+      "layer": "Indie/regional",
+      "use": "Ambos",
+      "url": "https://indiehoy.com/listas/"
+    },
+    {
+      "id": "RADIONICA",
+      "name": "Radiónica — música colombiana y latinoamericana",
+      "scope": "Colombia",
+      "layer": "Intermedia/regional",
+      "use": "Ambos",
+      "url": "https://www.radionica.rocks/musica"
+    },
+    {
+      "id": "LESINROCKS",
+      "name": "Les Inrockuptibles — listas francesas",
+      "scope": "Francia",
+      "layer": "Intermedia/indie",
+      "use": "Ambos",
+      "url": "https://www.lesinrocks.com/musique/les-100-meilleurs-albums-francais-de-tous-les-temps-125490-25-08-2017/"
+    },
+    {
+      "id": "RA",
+      "name": "Resident Advisor — Best Music / tracks of the decade",
+      "scope": "Reino Unido / global",
+      "layer": "Especialista electrónica",
+      "use": "Ambos",
+      "url": "https://www.residentadvisor.net/features.aspx?series=bestmusic"
+    },
+    {
+      "id": "JAZZWISE",
+      "name": "Jazzwise — 100 Jazz Albums That Shook the World",
+      "scope": "Reino Unido",
+      "layer": "Especialista jazz",
+      "use": "Álbumes",
+      "url": "https://www.jazzwise.com/features/article/the-100-jazz-albums-that-shook-the-world"
+    },
+    {
+      "id": "PAM",
+      "name": "Pan African Music — selecciones africanas",
+      "scope": "África / Francia",
+      "layer": "Indie/regional",
+      "use": "Ambos",
+      "url": "https://pan-african-music.com/en/80-best-albums-2010s/"
+    },
+    {
+      "id": "RS-JP",
+      "name": "Rolling Stone Japan — 100 Japanese Rock Albums",
+      "scope": "Japón",
+      "layer": "Regional",
+      "use": "Álbumes",
+      "url": "https://neojaponisme.com/2007/11/09/100-greatest-japanese-rock-albums/"
+    },
+    {
+      "id": "BEEHYPE",
+      "name": "Beehype — Best Japanese Albums",
+      "scope": "Japón / global",
+      "layer": "Indie/local",
+      "use": "Álbumes",
+      "url": "https://beehy.pe/special/best-japanese-albums/"
+    },
+    {
+      "id": "LOC",
+      "name": "National Recording Registry",
+      "scope": "Estados Unidos",
+      "layer": "Histórica/institucional",
+      "use": "Ambos",
+      "url": "https://www.loc.gov/programs/national-recording-preservation-board/recording-registry/complete-national-recording-registry-listing/"
+    },
+    {
+      "id": "DISCOGS",
+      "name": "Discogs — colección, demanda y ediciones",
+      "scope": "Global",
+      "layer": "Comunidad/metadata",
+      "use": "Ambos",
+      "url": "https://support.discogs.com/hc/en-us/articles/360003622014-How-To-Browse-Search-In-The-Database"
+    }
+  ]
+}

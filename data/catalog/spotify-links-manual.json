@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "status": "manually-resolved-candidates",
+  "records": [
+    {"id": "album-017", "url": "https://open.spotify.com/album/0RBkIFbQy91qv8Tqja20og", "status": "manual-candidate"},
+    {"id": "album-021", "url": "https://open.spotify.com/album/5YARZzYbonX4CbZ5hucHPc", "status": "manual-candidate"},
+    {"id": "album-059", "url": "https://open.spotify.com/album/0samM57T0WsA9JhEmWkKEM", "status": "manual-candidate"},
+    {"id": "album-067", "url": "https://open.spotify.com/album/3N3NdhXkyIKauv6xkoUpwE", "status": "manual-candidate"},
+    {"id": "album-071", "url": "https://open.spotify.com/album/5MJR9j21vjEi4ODxzhvoTA", "status": "manual-candidate"},
+    {"id": "album-077", "url": "https://open.spotify.com/album/454rwJ7uRe7q5VW7dUj1XH", "status": "manual-candidate"},
+    {"id": "album-090", "url": "https://open.spotify.com/album/0ujpvwNskNwgU6nb2krDZS", "status": "manual-candidate"},
+    {"id": "album-095", "url": "https://open.spotify.com/album/2NW9u5fZwmxvXx6otvibtG", "status": "manual-candidate"},
+    {"id": "song-063", "url": "https://open.spotify.com/track/2lmaHr8ih1E5GWEVmn50k5", "status": "manual-candidate"},
+    {"id": "song-061", "url": "https://open.spotify.com/track/1tTAWGgTIRdym9wIg25Uhw", "status": "manual-candidate"},
+    {"id": "song-083", "url": "https://open.spotify.com/track/1y96w7WDPlwByq9aISEi6G", "status": "manual-candidate"},
+    {"id": "song-084", "status": "unavailable-original", "reason": "The original Tatsuro Yamashita recording was not found as a playable Spotify track entity; a similarly titled orchestral recording is intentionally excluded."},
+    {"id": "song-101", "url": "https://open.spotify.com/track/56x4HIuzPoH8O2CD21fM3r", "status": "manual-candidate"}
+  ]
+}

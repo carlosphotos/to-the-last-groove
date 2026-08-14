@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "note": "Exact YouTube Music entity pages verified manually. Search pages and unrelated tribute releases are excluded.",
+  "records": [
+    {"id": "album-059", "url": "https://music.youtube.com/browse/MPREb_nWvtIdqLHGF", "status": "manually-verified-exact-entity"},
+    {"id": "album-006", "status": "unavailable-original", "reason": "The original Loveless album did not resolve to a playable YouTube Music album entity; unrelated tribute releases are intentionally excluded."},
+    {"id": "song-058", "url": "https://music.youtube.com/watch?v=YFDW86Sb4nw", "status": "manually-verified-exact-entity"}
+  ]
+}

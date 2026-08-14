@@ -1,0 +1,1549 @@
+[
+  {
+    "id": "song-001",
+    "type": "song",
+    "artist": "Chuck Berry",
+    "title": "Johnny B. Goode",
+    "year": 1958,
+    "decade": "1950",
+    "genre": "rock",
+    "duration": "2:41",
+    "catalogue": "TLG–S–0001",
+    "coverClass": "cover-yellow",
+    "coverUrl": "assets/covers/song-001-500.jpg",
+    "thumbnailUrl": "assets/covers/song-001-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release/bcbb0a69-eebf-4c16-a857-72a3726c8510/front-500",
+    "searchQuery": "Chuck Berry Johnny B. Goode",
+    "description": {
+      "es": "Uno de los planos fundamentales sobre los que se construyó el rock.",
+      "en": "One of the fundamental blueprints upon which rock was built.",
+      "fr": "L’un des morceaux fondateurs du rock."
+    },
+    "recognition": {
+      "type": "ranking",
+      "rank": 33,
+      "title": {
+        "es": "Las 500 mejores canciones de todos los tiempos",
+        "en": "The 500 Greatest Songs of All Time",
+        "fr": "Les 500 plus grandes chansons de tous les temps"
+      },
+      "source": "Rolling Stone",
+      "year": 2021,
+      "url": "https://www.rollingstone.com/music/music-lists/best-songs-of-all-time-1224767/"
+    }
+  },
+  {
+    "id": "song-002",
+    "type": "song",
+    "artist": "The Ronettes",
+    "title": "Be My Baby",
+    "year": 1963,
+    "decade": "1960",
+    "genre": "pop",
+    "duration": "2:40",
+    "catalogue": "TLG–S–0002",
+    "coverClass": "cover-red",
+    "coverUrl": "assets/covers/song-002-500.jpg",
+    "thumbnailUrl": "assets/covers/song-002-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release-group/b24ffd1d-1cbc-32bd-bf45-b76b30792b8d/front-500",
+    "searchQuery": "The Ronettes Be My Baby",
+    "description": {
+      "es": "Una entrada de batería inolvidable y una producción que definió una época.",
+      "en": "An unforgettable drum intro and production that defined an era.",
+      "fr": "Une introduction à la batterie inoubliable et une production qui a défini une époque."
+    },
+    "recognition": {
+      "type": "ranking",
+      "rank": 22,
+      "title": {
+        "es": "Las 500 mejores canciones de todos los tiempos",
+        "en": "The 500 Greatest Songs of All Time",
+        "fr": "Les 500 plus grandes chansons de tous les temps"
+      },
+      "source": "Rolling Stone",
+      "year": 2021,
+      "url": "https://www.rollingstone.com/music/music-lists/best-songs-of-all-time-1224767/"
+    }
+  },
+  {
+    "id": "song-003",
+    "type": "song",
+    "artist": "The Beach Boys",
+    "title": "God Only Knows",
+    "year": 1966,
+    "decade": "1960",
+    "genre": "pop",
+    "duration": "2:55",
+    "catalogue": "TLG–S–0003",
+    "coverClass": "cover-green",
+    "coverUrl": "assets/covers/song-003-500.jpg",
+    "thumbnailUrl": "assets/covers/song-003-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release-group/fdd96703-7b21-365e-bdea-38029fbeb84e/front-500",
+    "searchQuery": "The Beach Boys God Only Knows",
+    "description": {
+      "es": "Pop de enorme sofisticación convertido en una declaración sencilla.",
+      "en": "Highly sophisticated pop transformed into a simple declaration.",
+      "fr": "Une pop sophistiquée ramenée à une déclaration d’une simplicité désarmante."
+    },
+    "recognition": {
+      "type": "ranking",
+      "rank": 11,
+      "title": {
+        "es": "Las 500 mejores canciones de todos los tiempos",
+        "en": "The 500 Greatest Songs of All Time",
+        "fr": "Les 500 plus grandes chansons de tous les temps"
+      },
+      "source": "Rolling Stone",
+      "year": 2021,
+      "url": "https://www.rollingstone.com/music/music-lists/best-songs-of-all-time-1224767/"
+    }
+  },
+  {
+    "id": "song-004",
+    "type": "song",
+    "artist": "Marvin Gaye",
+    "title": "What's Going On",
+    "year": 1971,
+    "decade": "1970",
+    "genre": "soul",
+    "duration": "3:53",
+    "catalogue": "TLG–S–0004",
+    "coverClass": "cover-blue",
+    "coverUrl": "assets/covers/song-004-500.jpg",
+    "thumbnailUrl": "assets/covers/song-004-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release-group/c1fa4d2c-ec62-37d5-b01d-6df7f8fd2c90/front-500",
+    "searchQuery": "Marvin Gaye What's Going On",
+    "description": {
+      "es": "Una pregunta política expresada con calidez, compasión y elegancia.",
+      "en": "A political question expressed with warmth, compassion and elegance.",
+      "fr": "Une question politique exprimée avec chaleur, compassion et élégance."
+    },
+    "recognition": {
+      "type": "ranking",
+      "rank": 6,
+      "title": {
+        "es": "Las 500 mejores canciones de todos los tiempos",
+        "en": "The 500 Greatest Songs of All Time",
+        "fr": "Les 500 plus grandes chansons de tous les temps"
+      },
+      "source": "Rolling Stone",
+      "year": 2021,
+      "url": "https://www.rollingstone.com/music/music-lists/best-songs-of-all-time-1224767/"
+    }
+  },
+  {
+    "id": "song-005",
+    "type": "song",
+    "artist": "New Order",
+    "title": "Blue Monday",
+    "year": 1983,
+    "decade": "1980",
+    "genre": "electronic",
+    "duration": "7:29",
+    "catalogue": "TLG–S–0005",
+    "coverClass": "cover-purple",
+    "coverUrl": "assets/covers/song-005-500.jpg",
+    "thumbnailUrl": "assets/covers/song-005-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release/1b32eb3d-21a8-4e0a-8213-40d7ed95a85c/front-500",
+    "searchQuery": "New Order Blue Monday",
+    "description": {
+      "es": "El punto de encuentro entre el post-punk, las máquinas y la pista de baile.",
+      "en": "The meeting point between post-punk, machines and the dance floor.",
+      "fr": "Le point de rencontre entre le post-punk, les machines et la piste de danse."
+    },
+    "recognition": {
+      "type": "ranking",
+      "rank": 234,
+      "title": {
+        "es": "Las 500 mejores canciones de todos los tiempos",
+        "en": "The 500 Greatest Songs of All Time",
+        "fr": "Les 500 plus grandes chansons de tous les temps"
+      },
+      "source": "Rolling Stone",
+      "year": 2021,
+      "url": "https://www.rollingstone.com/music/music-lists/best-songs-of-all-time-1224767/"
+    }
+  },
+  {
+    "id": "song-006",
+    "type": "song",
+    "artist": "Pulp",
+    "title": "Common People",
+    "year": 1995,
+    "decade": "1990",
+    "genre": "rock",
+    "duration": "5:50",
+    "catalogue": "TLG–S–0006",
+    "coverClass": "cover-red",
+    "coverUrl": "assets/covers/song-006-500.jpg",
+    "thumbnailUrl": "assets/covers/song-006-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release-group/88f69eab-8f07-343b-847c-b944ad33dfcf/front-500",
+    "searchQuery": "Pulp Common People",
+    "description": {
+      "es": "Una historia de clase social que crece hasta convertirse en un himno.",
+      "en": "A story about social class that grows into an anthem.",
+      "fr": "Une histoire de classe sociale qui grandit jusqu’à devenir un hymne."
+    },
+    "recognition": {
+      "type": "ranking",
+      "rank": 75,
+      "title": {
+        "es": "Las 500 mejores canciones de todos los tiempos",
+        "en": "The 500 Greatest Songs of All Time",
+        "fr": "Les 500 plus grandes chansons de tous les temps"
+      },
+      "source": "Rolling Stone",
+      "year": 2021,
+      "url": "https://www.rollingstone.com/music/music-lists/best-songs-of-all-time-1224767/"
+    }
+  },
+  {
+    "id": "song-007",
+    "type": "song",
+    "artist": "Willie Colón & Rubén Blades",
+    "title": "Pedro Navaja",
+    "year": 1978,
+    "decade": "1970",
+    "genre": "latin",
+    "duration": "7:21",
+    "catalogue": "TLG–S–0007",
+    "coverClass": "cover-red",
+    "coverUrl": "assets/covers/song-007-500.jpg",
+    "thumbnailUrl": "assets/covers/song-007-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release-group/0efd12a2-2d31-3fa8-a76c-5f8af6613fca/front-500",
+    "coverSearchTitle": "Siembra",
+    "coverSearchYear": 1978,
+    "searchQuery": "Willie Colón & Rubén Blades Pedro Navaja",
+    "description": {
+      "es": "Crónica urbana, suspenso y salsa reunidos en una historia donde cada detalle importa.",
+      "en": "Urban chronicle, suspense and salsa meet in a story where every detail matters.",
+      "fr": "Chronique urbaine, suspense et salsa se rencontrent dans un récit où chaque détail compte."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "el álbum Siembra, n.º 1 de Los 600 de Latinoamérica",
+        "en": "the album Siembra, No. 1 on The 600 Albums of Latin America",
+        "fr": "l’album Siembra, n° 1 des 600 albums d’Amérique latine"
+      },
+      "source": "Los 600 de Latinoamérica",
+      "year": 2024,
+      "url": "https://www.600discoslatam.com/category/discos/"
+    }
+  },
+  {
+    "id": "song-008",
+    "type": "song",
+    "artist": "Daft Punk",
+    "title": "Digital Love",
+    "year": 2001,
+    "decade": "2000",
+    "genre": "electronic",
+    "duration": "4:58",
+    "catalogue": "TLG–S–0008",
+    "coverClass": "cover-blue",
+    "coverUrl": "assets/covers/song-008-500.jpg",
+    "thumbnailUrl": "assets/covers/song-008-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release-group/48117b90-a16e-34ca-a514-19c702df1158/front-500",
+    "searchQuery": "Daft Punk Digital Love",
+    "description": {
+      "es": "Nostalgia, tecnología y romanticismo dentro de una canción pop perfecta.",
+      "en": "Nostalgia, technology and romance inside a perfect pop song.",
+      "fr": "Nostalgie, technologie et romantisme dans une chanson pop parfaite."
+    },
+    "recognition": {
+      "type": "ranking",
+      "rank": 23,
+      "title": {
+        "es": "Las 500 mejores canciones de los años 2000",
+        "en": "The Top 500 Tracks of the 2000s",
+        "fr": "Les 500 meilleurs morceaux des années 2000"
+      },
+      "source": "Pitchfork",
+      "year": 2009,
+      "url": "https://pitchfork.com/features/lists-and-guides/7693-the-top-500-tracks-of-the-2000s-20-1/"
+    }
+  },
+  {
+    "id": "song-009",
+    "type": "song",
+    "artist": "Phoenix",
+    "title": "1901",
+    "year": 2009,
+    "decade": "2000",
+    "genre": "pop",
+    "duration": "3:13",
+    "catalogue": "TLG–S–0009",
+    "coverClass": "cover-green",
+    "coverUrl": "assets/covers/song-009-500.jpg",
+    "thumbnailUrl": "assets/covers/song-009-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release-group/32304f6e-5b80-3818-a66b-47f09efff0d9/front-500",
+    "searchQuery": "Phoenix 1901",
+    "description": {
+      "es": "Sintetizadores, guitarras y energía reunidas en tres minutos de pop preciso.",
+      "en": "Synths, guitars and energy condensed into three minutes of precise pop.",
+      "fr": "Synthétiseurs, guitares et énergie réunis en trois minutes de pop ciselée."
+    },
+    "recognition": {
+      "type": "chart",
+      "rank": 1,
+      "title": {
+        "es": "Lista Alternative Songs",
+        "en": "Alternative Songs chart",
+        "fr": "Classement Alternative Songs"
+      },
+      "source": "Billboard",
+      "year": 2010,
+      "url": "https://www.billboard.com/music/rock/daniel-glass-phoenix-1901-billboard-moment-8504810/"
+    }
+  },
+  {
+    "id": "song-010",
+    "type": "song",
+    "artist": "Kendrick Lamar",
+    "title": "Alright",
+    "year": 2015,
+    "decade": "2010",
+    "genre": "hip-hop",
+    "duration": "3:39",
+    "catalogue": "TLG–S–0010",
+    "coverClass": "cover-purple",
+    "coverUrl": "assets/covers/song-010-500.jpg",
+    "thumbnailUrl": "assets/covers/song-010-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release-group/d9103c72-3807-4378-9ce7-b6f3e8fdd547/front-500",
+    "searchQuery": "Kendrick Lamar Alright",
+    "description": {
+      "es": "Una canción de supervivencia personal que se convirtió en protesta colectiva.",
+      "en": "A song of personal survival that became a collective protest.",
+      "fr": "Une chanson de survie personnelle devenue un hymne collectif de protestation."
+    },
+    "recognition": {
+      "type": "award",
+      "title": {
+        "es": "Mejor canción de rap",
+        "en": "Best Rap Song",
+        "fr": "Meilleure chanson rap"
+      },
+      "source": "Grammy Awards",
+      "year": 2016,
+      "url": "https://www.grammy.com/awards/categories/best-rap-song/"
+    }
+  },
+  {
+    "id": "song-011",
+    "type": "song",
+    "artist": "Billie Holiday",
+    "title": "Strange Fruit",
+    "year": 1939,
+    "decade": "1930",
+    "genre": "jazz",
+    "duration": "3:12",
+    "catalogue": "TLG–S–0011",
+    "coverClass": "cover-blue",
+    "coverUrl": "assets/covers/song-011-500.jpg",
+    "thumbnailUrl": "assets/covers/song-011-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release-group/a0b08901-20b6-32a2-ac7a-2ab06300ceb5/front-500",
+    "coverSearchTitle": "Strange Fruit",
+    "coverSearchYear": 1939,
+    "searchQuery": "Billie Holiday Strange Fruit",
+    "description": {
+      "es": "Una denuncia contra el linchamiento cuya contención vuelve imposible apartar la mirada.",
+      "en": "An indictment of lynching whose restraint makes it impossible to look away.",
+      "fr": "Une dénonciation du lynchage dont la retenue rend toute fuite impossible."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Las 500 mejores canciones de todos los tiempos",
+        "en": "The 500 Greatest Songs of All Time",
+        "fr": "Les 500 plus grandes chansons de tous les temps"
+      },
+      "source": "Rolling Stone",
+      "year": 2021,
+      "url": "https://www.rollingstone.com/music/music-lists/best-songs-of-all-time-1224767/"
+    }
+  },
+  {
+    "id": "song-012",
+    "type": "song",
+    "artist": "Édith Piaf",
+    "title": "La vie en rose",
+    "year": 1946,
+    "decade": "1940",
+    "genre": "pop",
+    "duration": "3:07",
+    "catalogue": "TLG–S–0012",
+    "coverClass": "cover-red",
+    "coverUrl": "assets/covers/song-012-500.jpg",
+    "thumbnailUrl": "assets/covers/song-012-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release-group/f81cc86d-4db1-3e95-815a-1972e9f2f49c/front-500",
+    "coverSearchTitle": "La vie en rose",
+    "coverSearchYear": 1946,
+    "searchQuery": "Édith Piaf La vie en rose",
+    "description": {
+      "es": "Una melodía que convierte la intimidad amorosa en lenguaje universal.",
+      "en": "A melody that turns romantic intimacy into a universal language.",
+      "fr": "Une mélodie qui transforme l’intimité amoureuse en langage universel."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Las 500 mejores canciones de todos los tiempos",
+        "en": "The 500 Greatest Songs of All Time",
+        "fr": "Les 500 plus grandes chansons de tous les temps"
+      },
+      "source": "Rolling Stone",
+      "year": 2021,
+      "url": "https://www.rollingstone.com/music/music-lists/best-songs-of-all-time-1224767/"
+    }
+  },
+  {
+    "id": "song-013",
+    "type": "song",
+    "artist": "Sam Cooke",
+    "title": "A Change Is Gonna Come",
+    "year": 1964,
+    "decade": "1960",
+    "genre": "soul",
+    "duration": "3:13",
+    "catalogue": "TLG–S–0013",
+    "coverClass": "cover-green",
+    "coverUrl": "assets/covers/song-013-500.jpg",
+    "thumbnailUrl": "assets/covers/song-013-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release-group/9e46abfc-1267-350f-b2d3-600ec3fc7d85/front-500",
+    "coverSearchTitle": "Ain’t That Good News",
+    "coverSearchYear": 1964,
+    "searchQuery": "Sam Cooke A Change Is Gonna Come",
+    "description": {
+      "es": "Esperanza y agotamiento histórico sostenidos por una interpretación de enorme dignidad.",
+      "en": "Hope and historical exhaustion held together by a performance of immense dignity.",
+      "fr": "Espoir et épuisement historique réunis dans une interprétation d’une immense dignité."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Las 500 mejores canciones de todos los tiempos",
+        "en": "The 500 Greatest Songs of All Time",
+        "fr": "Les 500 plus grandes chansons de tous les temps"
+      },
+      "source": "Rolling Stone",
+      "year": 2021,
+      "url": "https://www.rollingstone.com/music/music-lists/best-songs-of-all-time-1224767/"
+    }
+  },
+  {
+    "id": "song-014",
+    "type": "song",
+    "artist": "Bob Dylan",
+    "title": "Like a Rolling Stone",
+    "year": 1965,
+    "decade": "1960",
+    "genre": "rock",
+    "duration": "6:13",
+    "catalogue": "TLG–S–0014",
+    "coverClass": "cover-yellow",
+    "coverUrl": "assets/covers/song-014-500.jpg",
+    "thumbnailUrl": "assets/covers/song-014-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release-group/fb48b1dc-412f-36aa-8820-1023c08c46c6/front-500",
+    "coverSearchTitle": "Highway 61 Revisited",
+    "coverSearchYear": 1965,
+    "searchQuery": "Bob Dylan Like a Rolling Stone",
+    "description": {
+      "es": "Una canción popular descubre que también puede ser larga, áspera y narrativamente abierta.",
+      "en": "A popular song discovers it can also be long, abrasive and narratively open.",
+      "fr": "La chanson populaire découvre qu’elle peut aussi être longue, abrasive et ouverte."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Las 500 mejores canciones de todos los tiempos",
+        "en": "The 500 Greatest Songs of All Time",
+        "fr": "Les 500 plus grandes chansons de tous les temps"
+      },
+      "source": "Rolling Stone",
+      "year": 2021,
+      "url": "https://www.rollingstone.com/music/music-lists/best-songs-of-all-time-1224767/"
+    }
+  },
+  {
+    "id": "song-015",
+    "type": "song",
+    "artist": "Violeta Parra",
+    "title": "Gracias a la vida",
+    "year": 1966,
+    "decade": "1960",
+    "genre": "latin",
+    "duration": "4:32",
+    "catalogue": "TLG–S–0015",
+    "coverClass": "cover-purple",
+    "coverUrl": "assets/covers/song-015-500.jpg",
+    "thumbnailUrl": "assets/covers/song-015-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release-group/705e96ab-3515-37d1-b3ce-629edc53ee16/front-500",
+    "coverSearchTitle": "Las últimas composiciones",
+    "coverSearchYear": 1966,
+    "searchQuery": "Violeta Parra Gracias a la vida",
+    "description": {
+      "es": "Gratitud y despedida conviven en una canción cuya sencillez nunca es ingenua.",
+      "en": "Gratitude and farewell coexist in a song whose simplicity is never naïve.",
+      "fr": "Gratitude et adieu cohabitent dans une chanson dont la simplicité n’est jamais naïve."
+    }
+  },
+  {
+    "id": "song-016",
+    "type": "song",
+    "artist": "Aretha Franklin",
+    "title": "Respect",
+    "year": 1967,
+    "decade": "1960",
+    "genre": "soul",
+    "duration": "2:27",
+    "catalogue": "TLG–S–0016",
+    "coverClass": "cover-blue",
+    "coverUrl": "assets/covers/song-016-500.jpg",
+    "thumbnailUrl": "assets/covers/song-016-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release-group/7d8f07a7-4c64-3afb-8daf-8f1d4df89a78/front-500",
+    "coverSearchTitle": "I Never Loved a Man the Way I Love You",
+    "coverSearchYear": 1967,
+    "searchQuery": "Aretha Franklin Respect",
+    "description": {
+      "es": "Una versión que transforma una petición en una declaración de autonomía.",
+      "en": "A cover that transforms a request into a declaration of autonomy.",
+      "fr": "Une reprise qui transforme une demande en déclaration d’autonomie."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Las 500 mejores canciones de todos los tiempos",
+        "en": "The 500 Greatest Songs of All Time",
+        "fr": "Les 500 plus grandes chansons de tous les temps"
+      },
+      "source": "Rolling Stone",
+      "year": 2021,
+      "url": "https://www.rollingstone.com/music/music-lists/best-songs-of-all-time-1224767/"
+    }
+  },
+  {
+    "id": "song-017",
+    "type": "song",
+    "artist": "The Beatles",
+    "title": "A Day in the Life",
+    "year": 1967,
+    "decade": "1960",
+    "genre": "rock",
+    "duration": "5:37",
+    "catalogue": "TLG–S–0017",
+    "coverClass": "cover-red",
+    "coverUrl": "assets/covers/song-017-500.jpg",
+    "thumbnailUrl": "assets/covers/song-017-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release-group/9f7a4c28-8fa2-3113-929c-c47a9f7982c3/front-500",
+    "coverSearchTitle": "Sgt. Pepper’s Lonely Hearts Club Band",
+    "coverSearchYear": 1967,
+    "searchQuery": "The Beatles A Day in the Life",
+    "description": {
+      "es": "Noticias cotidianas, sueño y caos orquestal dentro de una sola forma expansiva.",
+      "en": "Daily news, dream and orchestral chaos held inside one expansive form.",
+      "fr": "Faits divers, rêve et chaos orchestral réunis dans une forme expansive."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Las 500 mejores canciones de todos los tiempos",
+        "en": "The 500 Greatest Songs of All Time",
+        "fr": "Les 500 plus grandes chansons de tous les temps"
+      },
+      "source": "Rolling Stone",
+      "year": 2021,
+      "url": "https://www.rollingstone.com/music/music-lists/best-songs-of-all-time-1224767/"
+    }
+  },
+  {
+    "id": "song-018",
+    "type": "song",
+    "artist": "Nina Simone",
+    "title": "Sinnerman",
+    "year": 1965,
+    "decade": "1960",
+    "genre": "jazz",
+    "duration": "10:20",
+    "catalogue": "TLG–S–0018",
+    "coverClass": "cover-green",
+    "coverUrl": "assets/covers/song-018-500.jpg",
+    "thumbnailUrl": "assets/covers/song-018-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release-group/1b3233e2-15ed-344e-bc8e-6630455db87f/front-500",
+    "coverSearchTitle": "Pastel Blues",
+    "coverSearchYear": 1965,
+    "searchQuery": "Nina Simone Sinnerman",
+    "description": {
+      "es": "Diez minutos de persecución espiritual impulsados por piano, palmas y una tensión creciente.",
+      "en": "Ten minutes of spiritual pursuit driven by piano, handclaps and mounting tension.",
+      "fr": "Dix minutes de poursuite spirituelle portées par le piano, les claquements de mains et une tension croissante."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Las 500 mejores canciones de todos los tiempos",
+        "en": "The 500 Greatest Songs of All Time",
+        "fr": "Les 500 plus grandes chansons de tous les temps"
+      },
+      "source": "Rolling Stone",
+      "year": 2021,
+      "url": "https://www.rollingstone.com/music/music-lists/best-songs-of-all-time-1224767/"
+    }
+  },
+  {
+    "id": "song-019",
+    "type": "song",
+    "artist": "Glen Campbell",
+    "title": "Wichita Lineman",
+    "year": 1968,
+    "decade": "1960",
+    "genre": "folk",
+    "duration": "3:05",
+    "catalogue": "TLG–S–0019",
+    "coverClass": "cover-yellow",
+    "coverUrl": "assets/covers/song-019-500.jpg",
+    "thumbnailUrl": "assets/covers/song-019-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release-group/23d3efe5-ab8f-3342-b33b-4f2837671970/front-500",
+    "coverSearchTitle": "Wichita Lineman",
+    "coverSearchYear": 1968,
+    "searchQuery": "Glen Campbell Wichita Lineman",
+    "description": {
+      "es": "Soledad laboral y deseo suspendidos sobre una orquestación que parece no tocar tierra.",
+      "en": "Working solitude and desire suspended over an arrangement that never seems to touch ground.",
+      "fr": "Solitude au travail et désir suspendus sur un arrangement qui semble ne jamais toucher terre."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Las 500 mejores canciones de todos los tiempos",
+        "en": "The 500 Greatest Songs of All Time",
+        "fr": "Les 500 plus grandes chansons de tous les temps"
+      },
+      "source": "Rolling Stone",
+      "year": 2021,
+      "url": "https://www.rollingstone.com/music/music-lists/best-songs-of-all-time-1224767/"
+    }
+  },
+  {
+    "id": "song-020",
+    "type": "song",
+    "artist": "The Rolling Stones",
+    "title": "Gimme Shelter",
+    "year": 1969,
+    "decade": "1960",
+    "genre": "rock",
+    "duration": "4:31",
+    "catalogue": "TLG–S–0020",
+    "coverClass": "cover-purple",
+    "coverUrl": "assets/covers/song-020-500.jpg",
+    "thumbnailUrl": "assets/covers/song-020-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release-group/784c0edd-0f37-33a2-9ca5-dff87b4f999c/front-500",
+    "coverSearchTitle": "Let It Bleed",
+    "coverSearchYear": 1969,
+    "searchQuery": "The Rolling Stones Gimme Shelter",
+    "description": {
+      "es": "Una tormenta de guitarras y voces que escucha cómo una época pierde la calma.",
+      "en": "A storm of guitars and voices listening as an era loses its calm.",
+      "fr": "Une tempête de guitares et de voix qui écoute une époque perdre son calme."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Las 500 mejores canciones de todos los tiempos",
+        "en": "The 500 Greatest Songs of All Time",
+        "fr": "Les 500 plus grandes chansons de tous les temps"
+      },
+      "source": "Rolling Stone",
+      "year": 2021,
+      "url": "https://www.rollingstone.com/music/music-lists/best-songs-of-all-time-1224767/"
+    }
+  },
+  {
+    "id": "song-021",
+    "type": "song",
+    "artist": "David Bowie",
+    "title": "Sound and Vision",
+    "year": 1977,
+    "decade": "1970",
+    "genre": "rock",
+    "duration": "3:03",
+    "catalogue": "TLG–S–0021",
+    "coverClass": "cover-blue",
+    "coverUrl": "assets/covers/song-021-500.jpg",
+    "thumbnailUrl": "assets/covers/song-021-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release-group/f6a51281-56c4-3538-b915-65a9d4eb29b5/front-500",
+    "coverSearchTitle": "Low",
+    "coverSearchYear": 1977,
+    "searchQuery": "David Bowie Sound and Vision",
+    "description": {
+      "es": "Una entrada oblicua a Bowie: color, aislamiento y producción convertidos en pop fragmentario.",
+      "en": "An oblique way into Bowie: colour, isolation and production turned into fragmented pop.",
+      "fr": "Une porte d’entrée oblique vers Bowie : couleur, isolement et production changés en pop fragmentaire."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Las 500 mejores canciones de todos los tiempos",
+        "en": "The 500 Greatest Songs of All Time",
+        "fr": "Les 500 plus grandes chansons de tous les temps"
+      },
+      "source": "Rolling Stone",
+      "year": 2021,
+      "url": "https://www.rollingstone.com/music/music-lists/best-songs-of-all-time-1224767/"
+    }
+  },
+  {
+    "id": "song-022",
+    "type": "song",
+    "artist": "Stevie Wonder",
+    "title": "As",
+    "year": 1976,
+    "decade": "1970",
+    "genre": "soul",
+    "duration": "7:08",
+    "catalogue": "TLG–S–0022",
+    "coverClass": "cover-red",
+    "coverUrl": "assets/covers/song-022-500.jpg",
+    "thumbnailUrl": "assets/covers/song-022-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release-group/ea88b09b-fd34-33cf-a3e5-25a3a2fb4c6f/front-500",
+    "coverSearchTitle": "Songs in the Key of Life",
+    "coverSearchYear": 1976,
+    "searchQuery": "Stevie Wonder As",
+    "description": {
+      "es": "Una promesa amorosa que crece desde la serenidad hasta una celebración casi infinita.",
+      "en": "A love pledge that grows from serenity into an almost endless celebration.",
+      "fr": "Une promesse d’amour qui grandit de la sérénité vers une célébration presque infinie."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Las 500 mejores canciones de todos los tiempos",
+        "en": "The 500 Greatest Songs of All Time",
+        "fr": "Les 500 plus grandes chansons de tous les temps"
+      },
+      "source": "Rolling Stone",
+      "year": 2021,
+      "url": "https://www.rollingstone.com/music/music-lists/best-songs-of-all-time-1224767/"
+    }
+  },
+  {
+    "id": "song-023",
+    "type": "song",
+    "artist": "Dolly Parton",
+    "title": "Jolene",
+    "year": 1973,
+    "decade": "1970",
+    "genre": "folk",
+    "duration": "2:42",
+    "catalogue": "TLG–S–0023",
+    "coverClass": "cover-green",
+    "coverUrl": "assets/covers/song-023-500.jpg",
+    "thumbnailUrl": "assets/covers/song-023-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release-group/e13af55a-84e8-31d5-a4cd-f5681616235b/front-500",
+    "coverSearchTitle": "Jolene",
+    "coverSearchYear": 1974,
+    "searchQuery": "Dolly Parton Jolene",
+    "description": {
+      "es": "Vulnerabilidad, velocidad y una melodía que vuelve inolvidable una súplica.",
+      "en": "Vulnerability, speed and a melody that makes a plea unforgettable.",
+      "fr": "Vulnérabilité, vitesse et mélodie rendent une supplication inoubliable."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Las 500 mejores canciones de todos los tiempos",
+        "en": "The 500 Greatest Songs of All Time",
+        "fr": "Les 500 plus grandes chansons de tous les temps"
+      },
+      "source": "Rolling Stone",
+      "year": 2021,
+      "url": "https://www.rollingstone.com/music/music-lists/best-songs-of-all-time-1224767/"
+    }
+  },
+  {
+    "id": "song-024",
+    "type": "song",
+    "artist": "Fleetwood Mac",
+    "title": "Storms",
+    "year": 1979,
+    "decade": "1970",
+    "genre": "rock",
+    "duration": "5:31",
+    "catalogue": "TLG–S–0024",
+    "coverClass": "cover-yellow",
+    "coverUrl": "assets/covers/song-024-500.jpg",
+    "thumbnailUrl": "assets/covers/song-024-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release-group/22deeac8-6009-31ad-a069-26e85d246412/front-500",
+    "coverSearchTitle": "Tusk",
+    "coverSearchYear": 1979,
+    "searchQuery": "Fleetwood Mac Storms",
+    "description": {
+      "es": "Una puerta menos evidente al grupo: voz cercana, tiempo suspendido y resignación sin dramatismo.",
+      "en": "A less obvious doorway into the band: close vocals, suspended time and resignation without drama.",
+      "fr": "Une entrée moins évidente dans le groupe : voix proche, temps suspendu et résignation sans emphase."
+    }
+  },
+  {
+    "id": "song-025",
+    "type": "song",
+    "artist": "Caetano Veloso",
+    "title": "Cucurrucucú paloma",
+    "year": 1994,
+    "decade": "1990",
+    "genre": "latin",
+    "duration": "3:48",
+    "catalogue": "TLG–S–0025",
+    "coverClass": "cover-purple",
+    "coverUrl": "assets/covers/song-025-500.jpg",
+    "thumbnailUrl": "assets/covers/song-025-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release-group/ccb05f00-6a0a-3172-b0e8-91dc4ce6858f/front-500",
+    "coverSearchTitle": "Fina estampa",
+    "coverSearchYear": 1994,
+    "searchQuery": "Caetano Veloso Cucurrucucú paloma",
+    "description": {
+      "es": "Una interpretación desnuda que hace de cada respiración parte de la melodía.",
+      "en": "A bare interpretation that makes every breath part of the melody.",
+      "fr": "Une interprétation dépouillée qui fait de chaque respiration une part de la mélodie."
+    }
+  },
+  {
+    "id": "song-026",
+    "type": "song",
+    "artist": "Blondie",
+    "title": "Heart of Glass",
+    "year": 1978,
+    "decade": "1970",
+    "genre": "pop",
+    "duration": "4:12",
+    "catalogue": "TLG–S–0026",
+    "coverClass": "cover-blue",
+    "coverUrl": "assets/covers/song-026-500.jpg",
+    "thumbnailUrl": "assets/covers/song-026-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release-group/0c1a4d70-5926-3ae8-aa25-466fe65639fe/front-500",
+    "coverSearchTitle": "Parallel Lines",
+    "coverSearchYear": 1978,
+    "searchQuery": "Blondie Heart of Glass",
+    "description": {
+      "es": "Frialdad neoyorquina, desencanto y pulso disco en equilibrio perfecto.",
+      "en": "New York cool, disillusionment and a disco pulse held in perfect balance.",
+      "fr": "Froideur new-yorkaise, désillusion et pulsation disco dans un équilibre parfait."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Las 500 mejores canciones de todos los tiempos",
+        "en": "The 500 Greatest Songs of All Time",
+        "fr": "Les 500 plus grandes chansons de tous les temps"
+      },
+      "source": "Rolling Stone",
+      "year": 2021,
+      "url": "https://www.rollingstone.com/music/music-lists/best-songs-of-all-time-1224767/"
+    }
+  },
+  {
+    "id": "song-027",
+    "type": "song",
+    "artist": "Joy Division",
+    "title": "Love Will Tear Us Apart",
+    "year": 1980,
+    "decade": "1980",
+    "genre": "rock",
+    "duration": "3:26",
+    "catalogue": "TLG–S–0027",
+    "coverClass": "cover-red",
+    "coverUrl": "assets/covers/song-027-500.jpg",
+    "thumbnailUrl": "assets/covers/song-027-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release-group/d4e6c019-a6df-38fb-b6aa-7861d71b5543/front-500",
+    "coverSearchTitle": "Love Will Tear Us Apart",
+    "coverSearchYear": 1980,
+    "searchQuery": "Joy Division Love Will Tear Us Apart",
+    "description": {
+      "es": "Una melodía luminosa contiene el deterioro íntimo sin resolverlo.",
+      "en": "A luminous melody holds intimate collapse without resolving it.",
+      "fr": "Une mélodie lumineuse contient l’effondrement intime sans le résoudre."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Las 500 mejores canciones de todos los tiempos",
+        "en": "The 500 Greatest Songs of All Time",
+        "fr": "Les 500 plus grandes chansons de tous les temps"
+      },
+      "source": "Rolling Stone",
+      "year": 2021,
+      "url": "https://www.rollingstone.com/music/music-lists/best-songs-of-all-time-1224767/"
+    }
+  },
+  {
+    "id": "song-028",
+    "type": "song",
+    "artist": "Kate Bush",
+    "title": "Cloudbusting",
+    "year": 1985,
+    "decade": "1980",
+    "genre": "pop",
+    "duration": "5:10",
+    "catalogue": "TLG–S–0028",
+    "coverClass": "cover-green",
+    "coverUrl": "assets/covers/song-028-500.jpg",
+    "thumbnailUrl": "assets/covers/song-028-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release-group/017f2a37-a78f-3578-9611-fa40408e5d90/front-500",
+    "coverSearchTitle": "Hounds of Love",
+    "coverSearchYear": 1985,
+    "searchQuery": "Kate Bush Cloudbusting",
+    "description": {
+      "es": "Memoria infantil, ciencia excéntrica y cuerdas insistentes en lugar del éxito más esperado.",
+      "en": "Childhood memory, eccentric science and insistent strings instead of the expected hit.",
+      "fr": "Souvenir d’enfance, science excentrique et cordes insistantes plutôt que le tube attendu."
+    }
+  },
+  {
+    "id": "song-029",
+    "type": "song",
+    "artist": "Prince",
+    "title": "If I Was Your Girlfriend",
+    "year": 1987,
+    "decade": "1980",
+    "genre": "soul",
+    "duration": "5:01",
+    "catalogue": "TLG–S–0029",
+    "coverClass": "cover-yellow",
+    "coverUrl": "assets/covers/song-029-500.jpg",
+    "thumbnailUrl": "assets/covers/song-029-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release-group/a47f26f1-6166-46bd-9612-cb4c327ffe5f/front-500",
+    "coverSearchTitle": "Sign o’ the Times",
+    "coverSearchYear": 1987,
+    "searchQuery": "Prince If I Was Your Girlfriend",
+    "description": {
+      "es": "Deseo, identidad e intimidad examinados desde una voz deliberadamente inestable.",
+      "en": "Desire, identity and intimacy examined through a deliberately unstable voice.",
+      "fr": "Désir, identité et intimité explorés par une voix volontairement instable."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Las 500 mejores canciones de todos los tiempos",
+        "en": "The 500 Greatest Songs of All Time",
+        "fr": "Les 500 plus grandes chansons de tous les temps"
+      },
+      "source": "Rolling Stone",
+      "year": 2021,
+      "url": "https://www.rollingstone.com/music/music-lists/best-songs-of-all-time-1224767/"
+    }
+  },
+  {
+    "id": "song-030",
+    "type": "song",
+    "artist": "Michael Jackson",
+    "title": "Billie Jean",
+    "year": 1982,
+    "decade": "1980",
+    "genre": "pop",
+    "duration": "4:54",
+    "catalogue": "TLG–S–0030",
+    "coverClass": "cover-purple",
+    "coverUrl": "assets/covers/song-030-500.jpg",
+    "thumbnailUrl": "assets/covers/song-030-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release-group/f32fab67-77dd-3937-addc-9062e28e4c37/front-500",
+    "coverSearchTitle": "Thriller",
+    "coverSearchYear": 1982,
+    "searchQuery": "Michael Jackson Billie Jean",
+    "description": {
+      "es": "Bajo, espacio y tensión narrativa convertidos en una pieza de pop de precisión extrema.",
+      "en": "Bass, space and narrative tension turned into pop of extreme precision.",
+      "fr": "Basse, espace et tension narrative transformés en pop d’une précision extrême."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Las 500 mejores canciones de todos los tiempos",
+        "en": "The 500 Greatest Songs of All Time",
+        "fr": "Les 500 plus grandes chansons de tous les temps"
+      },
+      "source": "Rolling Stone",
+      "year": 2021,
+      "url": "https://www.rollingstone.com/music/music-lists/best-songs-of-all-time-1224767/"
+    }
+  },
+  {
+    "id": "song-031",
+    "type": "song",
+    "artist": "Eurythmics",
+    "title": "Sweet Dreams (Are Made of This)",
+    "year": 1983,
+    "decade": "1980",
+    "genre": "electronic",
+    "duration": "3:36",
+    "catalogue": "TLG–S–0031",
+    "coverClass": "cover-blue",
+    "coverUrl": "assets/covers/song-031-500.jpg",
+    "thumbnailUrl": "assets/covers/song-031-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release-group/b969f851-b5cf-3a3f-9bfe-1280eb271406/front-500",
+    "coverSearchTitle": "Sweet Dreams (Are Made of This)",
+    "coverSearchYear": 1983,
+    "searchQuery": "Eurythmics Sweet Dreams (Are Made of This)",
+    "description": {
+      "es": "Una secuencia austera sostiene una canción tan fría como inmediatamente humana.",
+      "en": "An austere sequence supports a song as cold as it is immediately human.",
+      "fr": "Une séquence austère porte une chanson aussi froide qu’immédiatement humaine."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Las 500 mejores canciones de todos los tiempos",
+        "en": "The 500 Greatest Songs of All Time",
+        "fr": "Les 500 plus grandes chansons de tous les temps"
+      },
+      "source": "Rolling Stone",
+      "year": 2021,
+      "url": "https://www.rollingstone.com/music/music-lists/best-songs-of-all-time-1224767/"
+    }
+  },
+  {
+    "id": "song-032",
+    "type": "song",
+    "artist": "Depeche Mode",
+    "title": "Never Let Me Down Again",
+    "year": 1987,
+    "decade": "1980",
+    "genre": "electronic",
+    "duration": "4:47",
+    "catalogue": "TLG–S–0032",
+    "coverClass": "cover-red",
+    "coverUrl": "assets/covers/song-032-500.jpg",
+    "thumbnailUrl": "assets/covers/song-032-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release-group/e59021bd-1710-3c13-9449-b78560039592/front-500",
+    "coverSearchTitle": "Music for the Masses",
+    "coverSearchYear": 1987,
+    "searchQuery": "Depeche Mode Never Let Me Down Again",
+    "description": {
+      "es": "Confianza, dependencia y escala de estadio dentro de una maquinaria electrónica oscura.",
+      "en": "Trust, dependence and stadium scale inside dark electronic machinery.",
+      "fr": "Confiance, dépendance et ampleur de stade au cœur d’une mécanique électronique sombre."
+    }
+  },
+  {
+    "id": "song-033",
+    "type": "song",
+    "artist": "Soda Stereo",
+    "title": "Té para tres (MTV Unplugged)",
+    "year": 1996,
+    "decade": "1990",
+    "genre": "latin",
+    "duration": "4:07",
+    "catalogue": "TLG–S–0033",
+    "coverClass": "cover-green",
+    "coverUrl": "assets/covers/song-033-500.jpg",
+    "thumbnailUrl": "assets/covers/song-033-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release-group/687b0a9c-35c6-3206-8462-3a02c7298089/front-500",
+    "coverSearchTitle": "MTV Unplugged: Comfort y música para volar",
+    "coverSearchYear": 1996,
+    "searchQuery": "Soda Stereo Té para tres (MTV Unplugged)",
+    "description": {
+      "es": "Una canción íntima se abre al blues y a Spinetta sin perder el peso de su despedida.",
+      "en": "An intimate song opens toward blues and Spinetta without losing the weight of its farewell.",
+      "fr": "Une chanson intime s’ouvre au blues et à Spinetta sans perdre le poids de ses adieux."
+    }
+  },
+  {
+    "id": "song-034",
+    "type": "song",
+    "artist": "Björk",
+    "title": "Hyperballad",
+    "year": 1995,
+    "decade": "1990",
+    "genre": "electronic",
+    "duration": "5:21",
+    "catalogue": "TLG–S–0034",
+    "coverClass": "cover-yellow",
+    "coverUrl": "assets/covers/song-034-500.jpg",
+    "thumbnailUrl": "assets/covers/song-034-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release-group/b2a6e057-087d-3ae5-a6e5-7f5fa39808ff/front-500",
+    "coverSearchTitle": "Post",
+    "coverSearchYear": 1995,
+    "searchQuery": "Björk Hyperballad",
+    "description": {
+      "es": "Un ritual privado y extraño se transforma gradualmente en liberación de pista de baile.",
+      "en": "A strange private ritual gradually turns into dance-floor release.",
+      "fr": "Un étrange rituel intime se transforme peu à peu en libération sur la piste de danse."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Las 500 mejores canciones de todos los tiempos",
+        "en": "The 500 Greatest Songs of All Time",
+        "fr": "Les 500 plus grandes chansons de tous les temps"
+      },
+      "source": "Rolling Stone",
+      "year": 2021,
+      "url": "https://www.rollingstone.com/music/music-lists/best-songs-of-all-time-1224767/"
+    }
+  },
+  {
+    "id": "song-035",
+    "type": "song",
+    "artist": "Massive Attack",
+    "title": "Unfinished Sympathy",
+    "year": 1991,
+    "decade": "1990",
+    "genre": "electronic",
+    "duration": "5:08",
+    "catalogue": "TLG–S–0035",
+    "coverClass": "cover-purple",
+    "coverUrl": "assets/covers/song-035-500.jpg",
+    "thumbnailUrl": "assets/covers/song-035-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release-group/8b6f133a-2fdf-3cc2-b84d-1c889adc0939/front-500",
+    "coverSearchTitle": "Blue Lines",
+    "coverSearchYear": 1991,
+    "searchQuery": "Massive Attack Unfinished Sympathy",
+    "description": {
+      "es": "Cuerdas sin sentimentalismo, ritmo callejero y una voz que avanza sin protección.",
+      "en": "Strings without sentimentality, a street rhythm and a voice moving without protection.",
+      "fr": "Cordes sans sentimentalisme, rythme de rue et voix qui avance sans protection."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Las 500 mejores canciones de todos los tiempos",
+        "en": "The 500 Greatest Songs of All Time",
+        "fr": "Les 500 plus grandes chansons de tous les temps"
+      },
+      "source": "Rolling Stone",
+      "year": 2021,
+      "url": "https://www.rollingstone.com/music/music-lists/best-songs-of-all-time-1224767/"
+    }
+  },
+  {
+    "id": "song-036",
+    "type": "song",
+    "artist": "Nas",
+    "title": "N.Y. State of Mind",
+    "year": 1994,
+    "decade": "1990",
+    "genre": "hip-hop",
+    "duration": "4:54",
+    "catalogue": "TLG–S–0036",
+    "coverClass": "cover-blue",
+    "coverUrl": "assets/covers/song-036-500.jpg",
+    "thumbnailUrl": "assets/covers/song-036-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release-group/28298e2c-4d70-3eed-a0f5-a3280c662b3d/front-500",
+    "coverSearchTitle": "Illmatic",
+    "coverSearchYear": 1994,
+    "searchQuery": "Nas N.Y. State of Mind",
+    "description": {
+      "es": "Observación callejera y técnica narrativa sostenidas por un pulso austero.",
+      "en": "Street observation and narrative technique held over an austere pulse.",
+      "fr": "Observation de la rue et maîtrise narrative portées par une pulsation austère."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Las 500 mejores canciones de todos los tiempos",
+        "en": "The 500 Greatest Songs of All Time",
+        "fr": "Les 500 plus grandes chansons de tous les temps"
+      },
+      "source": "Rolling Stone",
+      "year": 2021,
+      "url": "https://www.rollingstone.com/music/music-lists/best-songs-of-all-time-1224767/"
+    }
+  },
+  {
+    "id": "song-037",
+    "type": "song",
+    "artist": "Portishead",
+    "title": "Glory Box",
+    "year": 1994,
+    "decade": "1990",
+    "genre": "electronic",
+    "duration": "5:06",
+    "catalogue": "TLG–S–0037",
+    "coverClass": "cover-red",
+    "coverUrl": "assets/covers/song-037-500.jpg",
+    "thumbnailUrl": "assets/covers/song-037-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release-group/48140466-cff6-3222-bd55-63c27e43190d/front-500",
+    "coverSearchTitle": "Dummy",
+    "coverSearchYear": 1994,
+    "searchQuery": "Portishead Glory Box",
+    "description": {
+      "es": "Deseo y cansancio dentro de un ritmo pesado que parece recordar otra época.",
+      "en": "Desire and exhaustion inside a heavy rhythm that seems to remember another era.",
+      "fr": "Désir et fatigue dans un rythme lourd qui semble se souvenir d’une autre époque."
+    }
+  },
+  {
+    "id": "song-038",
+    "type": "song",
+    "artist": "Café Tacvba",
+    "title": "La muerte chiquita",
+    "year": 1999,
+    "decade": "1990",
+    "genre": "latin",
+    "duration": "2:51",
+    "catalogue": "TLG–S–0038",
+    "coverClass": "cover-green",
+    "coverUrl": "assets/covers/song-038-500.jpg",
+    "thumbnailUrl": "assets/covers/song-038-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release-group/f6d307da-707f-4cff-ae2d-cbfafd9fed2c/front-500",
+    "coverSearchTitle": "Revés/Yo Soy",
+    "coverSearchYear": 1999,
+    "searchQuery": "Café Tacvba La muerte chiquita",
+    "description": {
+      "es": "Deseo, muerte y tradición popular concentrados en una canción breve y juguetona.",
+      "en": "Desire, death and popular tradition concentrated in a brief, playful song.",
+      "fr": "Désir, mort et tradition populaire concentrés dans une chanson brève et joueuse."
+    }
+  },
+  {
+    "id": "song-039",
+    "type": "song",
+    "artist": "Radiohead",
+    "title": "Paranoid Android",
+    "year": 1997,
+    "decade": "1990",
+    "genre": "rock",
+    "duration": "6:27",
+    "catalogue": "TLG–S–0039",
+    "coverClass": "cover-yellow",
+    "coverUrl": "assets/covers/song-039-500.jpg",
+    "thumbnailUrl": "assets/covers/song-039-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release-group/b1392450-e666-3926-a536-22c65f834433/front-500",
+    "coverSearchTitle": "OK Computer",
+    "coverSearchYear": 1997,
+    "searchQuery": "Radiohead Paranoid Android",
+    "description": {
+      "es": "Tres estados de ánimo chocan dentro de una canción que rehúsa escoger un solo centro.",
+      "en": "Three moods collide inside a song that refuses to choose a single center.",
+      "fr": "Trois climats s’entrechoquent dans une chanson qui refuse de choisir un seul centre."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Las 500 mejores canciones de todos los tiempos",
+        "en": "The 500 Greatest Songs of All Time",
+        "fr": "Les 500 plus grandes chansons de tous les temps"
+      },
+      "source": "Rolling Stone",
+      "year": 2021,
+      "url": "https://www.rollingstone.com/music/music-lists/best-songs-of-all-time-1224767/"
+    }
+  },
+  {
+    "id": "song-040",
+    "type": "song",
+    "artist": "Lauryn Hill",
+    "title": "Doo Wop (That Thing)",
+    "year": 1998,
+    "decade": "1990",
+    "genre": "hip-hop",
+    "duration": "5:20",
+    "catalogue": "TLG–S–0040",
+    "coverClass": "cover-purple",
+    "coverUrl": "assets/covers/song-040-500.jpg",
+    "thumbnailUrl": "assets/covers/song-040-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release-group/8691d12c-abd8-385c-b1eb-d841190124f7/front-500",
+    "coverSearchTitle": "The Miseducation of Lauryn Hill",
+    "coverSearchYear": 1998,
+    "searchQuery": "Lauryn Hill Doo Wop (That Thing)",
+    "description": {
+      "es": "Consejo, crítica y celebración sostenidos por una interpretación que domina rap y soul.",
+      "en": "Advice, criticism and celebration delivered by a performance mastering rap and soul.",
+      "fr": "Conseil, critique et célébration portés par une interprétation qui maîtrise rap et soul."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Las 500 mejores canciones de todos los tiempos",
+        "en": "The 500 Greatest Songs of All Time",
+        "fr": "Les 500 plus grandes chansons de tous les temps"
+      },
+      "source": "Rolling Stone",
+      "year": 2021,
+      "url": "https://www.rollingstone.com/music/music-lists/best-songs-of-all-time-1224767/"
+    }
+  },
+  {
+    "id": "song-041",
+    "type": "song",
+    "artist": "The Strokes",
+    "title": "Hard to Explain",
+    "year": 2001,
+    "decade": "2000",
+    "genre": "rock",
+    "duration": "3:44",
+    "catalogue": "TLG–S–0041",
+    "coverClass": "cover-blue",
+    "coverUrl": "assets/covers/song-041-500.jpg",
+    "thumbnailUrl": "assets/covers/song-041-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release-group/efea26d1-a016-30f6-b8e2-bc8c02336b0a/front-500",
+    "coverSearchTitle": "Is This It",
+    "coverSearchYear": 2001,
+    "searchQuery": "The Strokes Hard to Explain",
+    "description": {
+      "es": "La entrada menos gastada al grupo: guitarras contenidas y una emoción que nunca termina de explicarse.",
+      "en": "A less worn doorway into the band: restrained guitars and an emotion that never quite explains itself.",
+      "fr": "Une entrée moins usée dans le groupe : guitares retenues et émotion qui ne s’explique jamais tout à fait."
+    }
+  },
+  {
+    "id": "song-042",
+    "type": "song",
+    "artist": "M.I.A.",
+    "title": "Galang",
+    "year": 2003,
+    "decade": "2000",
+    "genre": "electronic",
+    "duration": "3:35",
+    "catalogue": "TLG–S–0042",
+    "coverClass": "cover-red",
+    "coverUrl": "assets/covers/song-042-500.jpg",
+    "thumbnailUrl": "assets/covers/song-042-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release-group/32d38e25-27e8-45bc-b79b-931f5a609546/front-500",
+    "coverSearchTitle": "Arular",
+    "coverSearchYear": 2005,
+    "searchQuery": "M.I.A. Galang",
+    "description": {
+      "es": "Antes del gran éxito: percusión angulosa, consignas y una energía difícil de domesticar.",
+      "en": "Before the crossover hit: angular percussion, slogans and energy that resists taming.",
+      "fr": "Avant le grand succès : percussions anguleuses, slogans et énergie impossible à dompter."
+    }
+  },
+  {
+    "id": "song-043",
+    "type": "song",
+    "artist": "Yeah Yeah Yeahs",
+    "title": "Maps",
+    "year": 2003,
+    "decade": "2000",
+    "genre": "rock",
+    "duration": "3:39",
+    "catalogue": "TLG–S–0043",
+    "coverClass": "cover-green",
+    "coverUrl": "assets/covers/song-043-500.jpg",
+    "thumbnailUrl": "assets/covers/song-043-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release-group/e8e2d824-dd32-3b24-9c7c-24619fbe86a9/front-500",
+    "coverSearchTitle": "Fever to Tell",
+    "coverSearchYear": 2003,
+    "searchQuery": "Yeah Yeah Yeahs Maps",
+    "description": {
+      "es": "Una banda ruidosa descubre cuánto puede doler una canción cuando deja espacio.",
+      "en": "A noisy band discovers how much a song can hurt when it leaves room.",
+      "fr": "Un groupe bruyant découvre combien une chanson peut faire mal lorsqu’elle laisse de l’espace."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Las 500 mejores canciones de todos los tiempos",
+        "en": "The 500 Greatest Songs of All Time",
+        "fr": "Les 500 plus grandes chansons de tous les temps"
+      },
+      "source": "Rolling Stone",
+      "year": 2021,
+      "url": "https://www.rollingstone.com/music/music-lists/best-songs-of-all-time-1224767/"
+    }
+  },
+  {
+    "id": "song-044",
+    "type": "song",
+    "artist": "Daddy Yankee",
+    "title": "Gasolina",
+    "year": 2004,
+    "decade": "2000",
+    "genre": "latin",
+    "duration": "3:13",
+    "catalogue": "TLG–S–0044",
+    "coverClass": "cover-yellow",
+    "coverUrl": "assets/covers/song-044-500.jpg",
+    "thumbnailUrl": "assets/covers/song-044-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release-group/5fa20be8-ea07-31bd-a915-f12a3ab8495e/front-500",
+    "coverSearchTitle": "Barrio fino",
+    "coverSearchYear": 2004,
+    "searchQuery": "Daddy Yankee Gasolina",
+    "description": {
+      "es": "Dembow, velocidad y economía verbal en la canción que aceleró la expansión global del reguetón.",
+      "en": "Dembow, speed and verbal economy in the song that accelerated reggaeton’s global reach.",
+      "fr": "Dembow, vitesse et économie verbale dans le morceau qui a accéléré l’essor mondial du reggaeton."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Las 500 mejores canciones de todos los tiempos",
+        "en": "The 500 Greatest Songs of All Time",
+        "fr": "Les 500 plus grandes chansons de tous les temps"
+      },
+      "source": "Rolling Stone",
+      "year": 2021,
+      "url": "https://www.rollingstone.com/music/music-lists/best-songs-of-all-time-1224767/"
+    }
+  },
+  {
+    "id": "song-045",
+    "type": "song",
+    "artist": "LCD Soundsystem",
+    "title": "All My Friends",
+    "year": 2007,
+    "decade": "2000",
+    "genre": "electronic",
+    "duration": "7:42",
+    "catalogue": "TLG–S–0045",
+    "coverClass": "cover-purple",
+    "coverUrl": "assets/covers/song-045-500.jpg",
+    "thumbnailUrl": "assets/covers/song-045-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release-group/5cbcdd9f-4b7d-3b3c-b9f2-6b0e75971157/front-500",
+    "coverSearchTitle": "Sound of Silver",
+    "coverSearchYear": 2007,
+    "searchQuery": "LCD Soundsystem All My Friends",
+    "description": {
+      "es": "Un mismo patrón de piano acumula edad, amistad y urgencia hasta volverse catártico.",
+      "en": "One piano pattern gathers age, friendship and urgency until it becomes cathartic.",
+      "fr": "Un même motif de piano accumule âge, amitié et urgence jusqu’à la catharsis."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Las 500 mejores canciones de todos los tiempos",
+        "en": "The 500 Greatest Songs of All Time",
+        "fr": "Les 500 plus grandes chansons de tous les temps"
+      },
+      "source": "Rolling Stone",
+      "year": 2021,
+      "url": "https://www.rollingstone.com/music/music-lists/best-songs-of-all-time-1224767/"
+    }
+  },
+  {
+    "id": "song-046",
+    "type": "song",
+    "artist": "Burial",
+    "title": "Archangel",
+    "year": 2007,
+    "decade": "2000",
+    "genre": "electronic",
+    "duration": "3:59",
+    "catalogue": "TLG–S–0046",
+    "coverClass": "cover-blue",
+    "coverUrl": "assets/covers/song-046-500.jpg",
+    "thumbnailUrl": "assets/covers/song-046-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release-group/fddedc4f-7a2e-3d7d-9ec5-1705c416f3f4/front-500",
+    "coverSearchTitle": "Untrue",
+    "coverSearchYear": 2007,
+    "searchQuery": "Burial Archangel",
+    "description": {
+      "es": "Una voz fragmentada encuentra calor entre lluvia imaginaria y ritmos que tropiezan.",
+      "en": "A fragmented voice finds warmth between imaginary rain and stumbling rhythms.",
+      "fr": "Une voix fragmentée trouve de la chaleur entre pluie imaginaire et rythmes chancelants."
+    }
+  },
+  {
+    "id": "song-047",
+    "type": "song",
+    "artist": "Frank Ocean",
+    "title": "Pyramids",
+    "year": 2012,
+    "decade": "2010",
+    "genre": "soul",
+    "duration": "9:53",
+    "catalogue": "TLG–S–0047",
+    "coverClass": "cover-red",
+    "coverUrl": "assets/covers/song-047-500.jpg",
+    "thumbnailUrl": "assets/covers/song-047-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release-group/f8f4167d-897c-4b25-a171-638374d1dfa4/front-500",
+    "coverSearchTitle": "Channel Orange",
+    "coverSearchYear": 2012,
+    "searchQuery": "Frank Ocean Pyramids",
+    "description": {
+      "es": "Siglos de deseo, poder y explotación atravesados por un cambio de ritmo cinematográfico.",
+      "en": "Centuries of desire, power and exploitation crossed by a cinematic beat switch.",
+      "fr": "Des siècles de désir, de pouvoir et d’exploitation traversés par un changement de rythme cinématographique."
+    }
+  },
+  {
+    "id": "song-048",
+    "type": "song",
+    "artist": "Lorde",
+    "title": "Royals",
+    "year": 2013,
+    "decade": "2010",
+    "genre": "pop",
+    "duration": "3:10",
+    "catalogue": "TLG–S–0048",
+    "coverClass": "cover-green",
+    "coverUrl": "assets/covers/song-048-500.jpg",
+    "thumbnailUrl": "assets/covers/song-048-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release-group/8e8a1db7-1d43-44d3-9796-fd69f12730cb/front-500",
+    "coverSearchTitle": "Pure Heroine",
+    "coverSearchYear": 2013,
+    "searchQuery": "Lorde Royals",
+    "description": {
+      "es": "Espacio, percusión mínima y mirada adolescente contra las fantasías del lujo pop.",
+      "en": "Space, minimal percussion and an adolescent gaze against pop fantasies of luxury.",
+      "fr": "Espace, percussion minimale et regard adolescent face aux fantasmes de luxe de la pop."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Las 500 mejores canciones de todos los tiempos",
+        "en": "The 500 Greatest Songs of All Time",
+        "fr": "Les 500 plus grandes chansons de tous les temps"
+      },
+      "source": "Rolling Stone",
+      "year": 2021,
+      "url": "https://www.rollingstone.com/music/music-lists/best-songs-of-all-time-1224767/"
+    }
+  },
+  {
+    "id": "song-049",
+    "type": "song",
+    "artist": "Beyoncé",
+    "title": "Formation",
+    "year": 2016,
+    "decade": "2010",
+    "genre": "pop",
+    "duration": "3:26",
+    "catalogue": "TLG–S–0049",
+    "coverClass": "cover-yellow",
+    "coverUrl": "assets/covers/song-049-500.jpg",
+    "thumbnailUrl": "assets/covers/song-049-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release-group/c1f22e07-7bdf-4a4f-8b50-7747c1091ef6/front-500",
+    "coverSearchTitle": "Lemonade",
+    "coverSearchYear": 2016,
+    "searchQuery": "Beyoncé Formation",
+    "description": {
+      "es": "Identidad sureña, poder y precisión visual reunidos en una declaración sin rodeos.",
+      "en": "Southern identity, power and visual precision joined in a direct declaration.",
+      "fr": "Identité du Sud, puissance et précision visuelle réunies dans une déclaration sans détour."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Las 500 mejores canciones de todos los tiempos",
+        "en": "The 500 Greatest Songs of All Time",
+        "fr": "Les 500 plus grandes chansons de tous les temps"
+      },
+      "source": "Rolling Stone",
+      "year": 2021,
+      "url": "https://www.rollingstone.com/music/music-lists/best-songs-of-all-time-1224767/"
+    }
+  },
+  {
+    "id": "song-050",
+    "type": "song",
+    "artist": "Silvana Estrada",
+    "title": "Te guardo",
+    "year": 2018,
+    "decade": "2010",
+    "genre": "latin",
+    "duration": "3:19",
+    "catalogue": "TLG–S–0050",
+    "coverClass": "cover-purple",
+    "coverUrl": "assets/covers/song-050-500.jpg",
+    "thumbnailUrl": "assets/covers/song-050-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release-group/5d79ad2d-bd12-4049-b590-ed40b72175e2/front-500",
+    "coverSearchTitle": "Lo sagrado",
+    "coverSearchYear": 2017,
+    "searchQuery": "Silvana Estrada Te guardo",
+    "description": {
+      "es": "Voz, cuatro venezolano y cercanía para una promesa amorosa sin ornamento innecesario.",
+      "en": "Voice, Venezuelan cuatro and closeness for a love pledge without needless ornament.",
+      "fr": "Voix, cuatro vénézuélien et proximité pour une promesse d’amour sans ornement inutile."
+    }
+  }
+]

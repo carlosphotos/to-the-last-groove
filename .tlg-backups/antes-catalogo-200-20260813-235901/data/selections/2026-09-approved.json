@@ -1,0 +1,3101 @@
+{
+  "schemaVersion": 1,
+  "editionId": "2026-09",
+  "approvedAt": "2026-08-13",
+  "status": "approved",
+  "albums": [
+    {
+      "artist": "Billie Holiday",
+      "title": "Lady in Satin",
+      "year": 1958,
+      "country": "Estados Unidos",
+      "genre": "Jazz vocal",
+      "layer": "Intermedia",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "JAZZWISE",
+        "PITCH",
+        "ACCLAIM",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Charles Mingus",
+      "title": "Mingus Ah Um",
+      "year": 1959,
+      "country": "Estados Unidos",
+      "genre": "Jazz",
+      "layer": "Intermedia",
+      "monthlyRole": "Rotación",
+      "sourceRoute": [
+        "JAZZWISE",
+        "PITCH",
+        "ACCLAIM",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "João Gilberto",
+      "title": "Chega de Saudade",
+      "year": 1959,
+      "country": "Brasil",
+      "genre": "Bossa nova",
+      "layer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "600LATAM",
+        "RS-BR",
+        "ACCLAIM",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Miles Davis",
+      "title": "Kind of Blue",
+      "year": 1959,
+      "country": "Estados Unidos",
+      "genre": "Jazz",
+      "layer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "JAZZWISE",
+        "PITCH",
+        "RS-ALB",
+        "APPLE",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Ornette Coleman",
+      "title": "The Shape of Jazz to Come",
+      "year": 1959,
+      "country": "Estados Unidos",
+      "genre": "Jazz",
+      "layer": "Intermedia",
+      "monthlyRole": "Rotación",
+      "sourceRoute": [
+        "JAZZWISE",
+        "PITCH",
+        "ACCLAIM",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "James Brown",
+      "title": "Live at the Apollo",
+      "year": 1963,
+      "country": "Estados Unidos",
+      "genre": "Soul",
+      "layer": "Canon",
+      "monthlyRole": "Rotación",
+      "sourceRoute": [
+        "RS-ALB",
+        "APPLE",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "John Coltrane",
+      "title": "A Love Supreme",
+      "year": 1965,
+      "country": "Estados Unidos",
+      "genre": "Jazz",
+      "layer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "JAZZWISE",
+        "PITCH",
+        "RS-ALB",
+        "APPLE",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Nina Simone",
+      "title": "Pastel Blues",
+      "year": 1965,
+      "country": "Estados Unidos",
+      "genre": "Jazz y soul",
+      "layer": "Intermedia",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "JAZZWISE",
+        "PITCH",
+        "ACCLAIM",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "The Beach Boys",
+      "title": "Pet Sounds",
+      "year": 1966,
+      "country": "Estados Unidos",
+      "genre": "Pop",
+      "layer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RS-ALB",
+        "APPLE",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "The Beatles",
+      "title": "Revolver",
+      "year": 1966,
+      "country": "Reino Unido",
+      "genre": "Rock y pop",
+      "layer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RS-ALB",
+        "APPLE",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Violeta Parra",
+      "title": "Las últimas composiciones",
+      "year": 1966,
+      "country": "Chile",
+      "genre": "Nueva canción",
+      "layer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "600LATAM",
+        "RADIONICA",
+        "ACCLAIM",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Aretha Franklin",
+      "title": "I Never Loved a Man the Way I Love You",
+      "year": 1967,
+      "country": "Estados Unidos",
+      "genre": "Soul",
+      "layer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RS-ALB",
+        "APPLE",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "The Velvet Underground & Nico",
+      "title": "The Velvet Underground & Nico",
+      "year": 1967,
+      "country": "Estados Unidos",
+      "genre": "Rock experimental",
+      "layer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RS-ALB",
+        "APPLE",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Jimi Hendrix Experience",
+      "title": "Electric Ladyland",
+      "year": 1968,
+      "country": "Estados Unidos",
+      "genre": "Rock psicodélico",
+      "layer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RS-ALB",
+        "APPLE",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Os Mutantes",
+      "title": "Os Mutantes",
+      "year": 1968,
+      "country": "Brasil",
+      "genre": "Tropicália",
+      "layer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "600LATAM",
+        "RS-BR",
+        "ACCLAIM",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Van Morrison",
+      "title": "Astral Weeks",
+      "year": 1968,
+      "country": "Irlanda del Norte",
+      "genre": "Folk soul",
+      "layer": "Intermedia",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "ACCLAIM",
+        "PITCH",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Varios artistas",
+      "title": "Tropicália ou Panis et Circencis",
+      "year": 1968,
+      "country": "Brasil",
+      "genre": "Tropicália",
+      "layer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "600LATAM",
+        "RS-BR",
+        "ACCLAIM",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Nick Drake",
+      "title": "Five Leaves Left",
+      "year": 1969,
+      "country": "Reino Unido",
+      "genre": "Folk",
+      "layer": "Intermedia",
+      "monthlyRole": "Rotación",
+      "sourceRoute": [
+        "ACCLAIM",
+        "PITCH",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Pharoah Sanders",
+      "title": "Karma",
+      "year": 1969,
+      "country": "Estados Unidos",
+      "genre": "Spiritual jazz",
+      "layer": "Regional/indie",
+      "monthlyRole": "Foco mensual",
+      "sourceRoute": [
+        "JAZZWISE",
+        "PITCH",
+        "ACCLAIM",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Black Sabbath",
+      "title": "Paranoid",
+      "year": 1970,
+      "country": "Reino Unido",
+      "genre": "Heavy metal",
+      "layer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RS-ALB",
+        "APPLE",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Alice Coltrane",
+      "title": "Journey in Satchidananda",
+      "year": 1971,
+      "country": "Estados Unidos",
+      "genre": "Spiritual jazz",
+      "layer": "Regional/indie",
+      "monthlyRole": "Rotación",
+      "sourceRoute": [
+        "JAZZWISE",
+        "PITCH",
+        "ACCLAIM",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Can",
+      "title": "Tago Mago",
+      "year": 1971,
+      "country": "Alemania",
+      "genre": "Krautrock",
+      "layer": "Intermedia",
+      "monthlyRole": "Rotación",
+      "sourceRoute": [
+        "ACCLAIM",
+        "PITCH",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Chico Buarque",
+      "title": "Construção",
+      "year": 1971,
+      "country": "Brasil",
+      "genre": "MPB",
+      "layer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "600LATAM",
+        "RS-BR",
+        "ACCLAIM",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "David Bowie",
+      "title": "Hunky Dory",
+      "year": 1971,
+      "country": "Reino Unido",
+      "genre": "Art rock",
+      "layer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RS-ALB",
+        "APPLE",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Françoise Hardy",
+      "title": "La question",
+      "year": 1971,
+      "country": "Francia",
+      "genre": "Chanson y folk",
+      "layer": "Regional/indie",
+      "monthlyRole": "Rotación",
+      "sourceRoute": [
+        "LESINROCKS",
+        "ROCKDELUX",
+        "ACCLAIM",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Funkadelic",
+      "title": "Maggot Brain",
+      "year": 1971,
+      "country": "Estados Unidos",
+      "genre": "Funk rock",
+      "layer": "Intermedia",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "ACCLAIM",
+        "PITCH",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Happy End",
+      "title": "Kazemachi Roman",
+      "year": 1971,
+      "country": "Japón",
+      "genre": "Folk rock",
+      "layer": "Regional/indie",
+      "monthlyRole": "Foco mensual",
+      "sourceRoute": [
+        "RS-JP",
+        "BEEHYPE",
+        "ACCLAIM",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Joni Mitchell",
+      "title": "Blue",
+      "year": 1971,
+      "country": "Canadá",
+      "genre": "Folk y canción de autor",
+      "layer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RS-ALB",
+        "APPLE",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Marvin Gaye",
+      "title": "What's Going On",
+      "year": 1971,
+      "country": "Estados Unidos",
+      "genre": "Soul",
+      "layer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RS-ALB",
+        "APPLE",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Serge Gainsbourg",
+      "title": "Histoire de Melody Nelson",
+      "year": 1971,
+      "country": "Francia",
+      "genre": "Pop orquestal",
+      "layer": "Intermedia",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "LESINROCKS",
+        "ROCKDELUX",
+        "ACCLAIM",
+        "PITCH",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Arthur Verocai",
+      "title": "Arthur Verocai",
+      "year": 1972,
+      "country": "Brasil",
+      "genre": "MPB y jazz",
+      "layer": "Regional/indie",
+      "monthlyRole": "Foco mensual",
+      "sourceRoute": [
+        "600LATAM",
+        "RS-BR",
+        "JAZZWISE",
+        "PITCH",
+        "ACCLAIM"
+      ]
+    },
+    {
+      "artist": "Milton Nascimento & Lô Borges",
+      "title": "Clube da Esquina",
+      "year": 1972,
+      "country": "Brasil",
+      "genre": "MPB",
+      "layer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "600LATAM",
+        "RS-BR",
+        "ACCLAIM",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Novos Baianos",
+      "title": "Acabou Chorare",
+      "year": 1972,
+      "country": "Brasil",
+      "genre": "MPB y samba",
+      "layer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "600LATAM",
+        "RS-BR",
+        "ACCLAIM",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Pescado Rabioso",
+      "title": "Artaud",
+      "year": 1973,
+      "country": "Argentina",
+      "genre": "Rock argentino",
+      "layer": "Regional/indie",
+      "monthlyRole": "Foco mensual",
+      "sourceRoute": [
+        "600LATAM",
+        "INDIEHOY",
+        "ACCLAIM",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Stevie Wonder",
+      "title": "Innervisions",
+      "year": 1973,
+      "country": "Estados Unidos",
+      "genre": "Soul y funk",
+      "layer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RS-ALB",
+        "APPLE",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Jorge Ben",
+      "title": "A Tábua de Esmeralda",
+      "year": 1974,
+      "country": "Brasil",
+      "genre": "Samba rock",
+      "layer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "600LATAM",
+        "RS-BR",
+        "ACCLAIM",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Fela Kuti & Africa 70",
+      "title": "Expensive Shit",
+      "year": 1975,
+      "country": "Nigeria",
+      "genre": "Afrobeat",
+      "layer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "PAM",
+        "ACCLAIM",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Parliament",
+      "title": "Mothership Connection",
+      "year": 1975,
+      "country": "Estados Unidos",
+      "genre": "P-Funk",
+      "layer": "Intermedia",
+      "monthlyRole": "Rotación",
+      "sourceRoute": [
+        "ACCLAIM",
+        "PITCH",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Patti Smith",
+      "title": "Horses",
+      "year": 1975,
+      "country": "Estados Unidos",
+      "genre": "Punk y art rock",
+      "layer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RS-ALB",
+        "APPLE",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Kraftwerk",
+      "title": "Trans-Europe Express",
+      "year": 1977,
+      "country": "Alemania",
+      "genre": "Electrónica",
+      "layer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RA",
+        "ROCKDELUX",
+        "RS-ALB",
+        "APPLE",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "The Congos",
+      "title": "Heart of the Congos",
+      "year": 1977,
+      "country": "Jamaica",
+      "genre": "Roots reggae",
+      "layer": "Regional/indie",
+      "monthlyRole": "Rotación",
+      "sourceRoute": [
+        "ACCLAIM",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Brian Eno",
+      "title": "Ambient 1: Music for Airports",
+      "year": 1978,
+      "country": "Reino Unido",
+      "genre": "Ambient",
+      "layer": "Intermedia",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RA",
+        "ROCKDELUX",
+        "ACCLAIM",
+        "PITCH",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Willie Colón & Rubén Blades",
+      "title": "Siembra",
+      "year": 1978,
+      "country": "Estados Unidos / Panamá",
+      "genre": "Salsa",
+      "layer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "600LATAM",
+        "RADIONICA",
+        "ACCLAIM",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Yellow Magic Orchestra",
+      "title": "Solid State Survivor",
+      "year": 1979,
+      "country": "Japón",
+      "genre": "Electropop",
+      "layer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RS-JP",
+        "BEEHYPE",
+        "RA",
+        "ROCKDELUX",
+        "ACCLAIM"
+      ]
+    },
+    {
+      "artist": "Talking Heads",
+      "title": "Remain in Light",
+      "year": 1980,
+      "country": "Estados Unidos",
+      "genre": "Art rock y funk",
+      "layer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RS-ALB",
+        "APPLE",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Los Jaivas",
+      "title": "Alturas de Macchu Picchu",
+      "year": 1981,
+      "country": "Chile",
+      "genre": "Rock progresivo andino",
+      "layer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "600LATAM",
+        "RADIONICA",
+        "ACCLAIM",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Charly García",
+      "title": "Clics modernos",
+      "year": 1983,
+      "country": "Argentina",
+      "genre": "Rock y new wave",
+      "layer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "600LATAM",
+        "INDIEHOY",
+        "ACCLAIM",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Sade",
+      "title": "Diamond Life",
+      "year": 1984,
+      "country": "Reino Unido",
+      "genre": "Soul y sophisti-pop",
+      "layer": "Intermedia",
+      "monthlyRole": "Rotación",
+      "sourceRoute": [
+        "ACCLAIM",
+        "PITCH",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Kate Bush",
+      "title": "Hounds of Love",
+      "year": 1985,
+      "country": "Reino Unido",
+      "genre": "Art pop",
+      "layer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RS-ALB",
+        "APPLE",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Janet Jackson",
+      "title": "Control",
+      "year": 1986,
+      "country": "Estados Unidos",
+      "genre": "Pop y R&B",
+      "layer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RS-ALB",
+        "APPLE",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "The Smiths",
+      "title": "The Queen Is Dead",
+      "year": 1986,
+      "country": "Reino Unido",
+      "genre": "Indie rock",
+      "layer": "Canon",
+      "monthlyRole": "Rotación",
+      "sourceRoute": [
+        "RS-ALB",
+        "APPLE",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Prince",
+      "title": "Sign o' the Times",
+      "year": 1987,
+      "country": "Estados Unidos",
+      "genre": "Pop y funk",
+      "layer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RS-ALB",
+        "APPLE",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "N.W.A",
+      "title": "Straight Outta Compton",
+      "year": 1988,
+      "country": "Estados Unidos",
+      "genre": "Hip-hop",
+      "layer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RS-ALB",
+        "APPLE",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Public Enemy",
+      "title": "It Takes a Nation of Millions to Hold Us Back",
+      "year": 1988,
+      "country": "Estados Unidos",
+      "genre": "Hip-hop",
+      "layer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RS-ALB",
+        "APPLE",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Sonic Youth",
+      "title": "Daydream Nation",
+      "year": 1988,
+      "country": "Estados Unidos",
+      "genre": "Noise rock",
+      "layer": "Intermedia",
+      "monthlyRole": "Rotación",
+      "sourceRoute": [
+        "ACCLAIM",
+        "PITCH",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Nusrat Fateh Ali Khan",
+      "title": "Shahen-Shah",
+      "year": 1989,
+      "country": "Pakistán",
+      "genre": "Qawwali",
+      "layer": "Regional/indie",
+      "monthlyRole": "Foco mensual",
+      "sourceRoute": [
+        "ACCLAIM",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "The Cure",
+      "title": "Disintegration",
+      "year": 1989,
+      "country": "Reino Unido",
+      "genre": "Rock alternativo",
+      "layer": "Canon",
+      "monthlyRole": "Rotación",
+      "sourceRoute": [
+        "RS-ALB",
+        "APPLE",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Cocteau Twins",
+      "title": "Heaven or Las Vegas",
+      "year": 1990,
+      "country": "Escocia",
+      "genre": "Dream pop",
+      "layer": "Intermedia",
+      "monthlyRole": "Rotación",
+      "sourceRoute": [
+        "ACCLAIM",
+        "PITCH",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "A Tribe Called Quest",
+      "title": "The Low End Theory",
+      "year": 1991,
+      "country": "Estados Unidos",
+      "genre": "Hip-hop",
+      "layer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RS-ALB",
+        "APPLE",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Massive Attack",
+      "title": "Blue Lines",
+      "year": 1991,
+      "country": "Reino Unido",
+      "genre": "Trip-hop",
+      "layer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RA",
+        "ROCKDELUX",
+        "RS-ALB",
+        "APPLE",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "My Bloody Valentine",
+      "title": "Loveless",
+      "year": 1991,
+      "country": "Irlanda",
+      "genre": "Shoegaze",
+      "layer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RS-ALB",
+        "APPLE",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Aphex Twin",
+      "title": "Selected Ambient Works 85–92",
+      "year": 1992,
+      "country": "Reino Unido",
+      "genre": "Electrónica",
+      "layer": "Intermedia",
+      "monthlyRole": "Rotación",
+      "sourceRoute": [
+        "RA",
+        "ROCKDELUX",
+        "ACCLAIM",
+        "PITCH",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Nirvana",
+      "title": "In Utero",
+      "year": 1993,
+      "country": "Estados Unidos",
+      "genre": "Rock alternativo",
+      "layer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RS-ALB",
+        "APPLE",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "PJ Harvey",
+      "title": "Rid of Me",
+      "year": 1993,
+      "country": "Reino Unido",
+      "genre": "Rock alternativo",
+      "layer": "Intermedia",
+      "monthlyRole": "Rotación",
+      "sourceRoute": [
+        "ACCLAIM",
+        "PITCH",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Wu-Tang Clan",
+      "title": "Enter the Wu-Tang (36 Chambers)",
+      "year": 1993,
+      "country": "Estados Unidos",
+      "genre": "Hip-hop",
+      "layer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RS-ALB",
+        "APPLE",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Café Tacvba",
+      "title": "Re",
+      "year": 1994,
+      "country": "México",
+      "genre": "Rock alternativo latino",
+      "layer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "600LATAM",
+        "RADIONICA",
+        "ACCLAIM",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Nas",
+      "title": "Illmatic",
+      "year": 1994,
+      "country": "Estados Unidos",
+      "genre": "Hip-hop",
+      "layer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RS-ALB",
+        "APPLE",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Portishead",
+      "title": "Dummy",
+      "year": 1994,
+      "country": "Reino Unido",
+      "genre": "Trip-hop",
+      "layer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RA",
+        "ROCKDELUX",
+        "RS-ALB",
+        "APPLE",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Fishmans",
+      "title": "Long Season",
+      "year": 1996,
+      "country": "Japón",
+      "genre": "Dream pop y dub",
+      "layer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RS-JP",
+        "BEEHYPE",
+        "ACCLAIM",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Motorbass",
+      "title": "Pansoul",
+      "year": 1996,
+      "country": "Francia",
+      "genre": "French house",
+      "layer": "Intermedia",
+      "monthlyRole": "Rotación",
+      "sourceRoute": [
+        "LESINROCKS",
+        "ROCKDELUX",
+        "RA",
+        "ACCLAIM",
+        "PITCH"
+      ]
+    },
+    {
+      "artist": "Björk",
+      "title": "Homogenic",
+      "year": 1997,
+      "country": "Islandia",
+      "genre": "Art pop y electrónica",
+      "layer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RA",
+        "ROCKDELUX",
+        "RS-ALB",
+        "APPLE",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Racionais MC's",
+      "title": "Sobrevivendo no Inferno",
+      "year": 1997,
+      "country": "Brasil",
+      "genre": "Hip-hop",
+      "layer": "Regional/indie",
+      "monthlyRole": "Foco mensual",
+      "sourceRoute": [
+        "600LATAM",
+        "RS-BR",
+        "ACCLAIM",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Air",
+      "title": "Moon Safari",
+      "year": 1998,
+      "country": "Francia",
+      "genre": "Downtempo",
+      "layer": "Intermedia",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "LESINROCKS",
+        "ROCKDELUX",
+        "RA",
+        "ACCLAIM",
+        "PITCH"
+      ]
+    },
+    {
+      "artist": "Aterciopelados",
+      "title": "Caribe Atómico",
+      "year": 1998,
+      "country": "Colombia",
+      "genre": "Rock alternativo latino",
+      "layer": "Regional/indie",
+      "monthlyRole": "Foco mensual",
+      "sourceRoute": [
+        "600LATAM",
+        "RADIONICA",
+        "ACCLAIM",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Lauryn Hill",
+      "title": "The Miseducation of Lauryn Hill",
+      "year": 1998,
+      "country": "Estados Unidos",
+      "genre": "Hip-hop y soul",
+      "layer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RS-ALB",
+        "APPLE",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Shakira",
+      "title": "¿Dónde están los ladrones?",
+      "year": 1998,
+      "country": "Colombia",
+      "genre": "Pop rock latino",
+      "layer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "600LATAM",
+        "RADIONICA",
+        "ACCLAIM",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Gustavo Cerati",
+      "title": "Bocanada",
+      "year": 1999,
+      "country": "Argentina",
+      "genre": "Art pop y electrónica",
+      "layer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "600LATAM",
+        "INDIEHOY",
+        "RA",
+        "ROCKDELUX",
+        "ACCLAIM"
+      ]
+    },
+    {
+      "artist": "Julieta Venegas",
+      "title": "Bueninvento",
+      "year": 2000,
+      "country": "México",
+      "genre": "Pop rock",
+      "layer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "600LATAM",
+        "RADIONICA",
+        "ACCLAIM",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Radiohead",
+      "title": "Kid A",
+      "year": 2000,
+      "country": "Reino Unido",
+      "genre": "Art rock y electrónica",
+      "layer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RA",
+        "ROCKDELUX",
+        "RS-ALB",
+        "APPLE",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Daft Punk",
+      "title": "Discovery",
+      "year": 2001,
+      "country": "Francia",
+      "genre": "House y pop",
+      "layer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "LESINROCKS",
+        "ROCKDELUX",
+        "RA",
+        "RS-ALB",
+        "APPLE"
+      ]
+    },
+    {
+      "artist": "The Strokes",
+      "title": "Is This It",
+      "year": 2001,
+      "country": "Estados Unidos",
+      "genre": "Indie rock",
+      "layer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RS-ALB",
+        "APPLE",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Tego Calderón",
+      "title": "El Abayarde",
+      "year": 2002,
+      "country": "Puerto Rico",
+      "genre": "Reguetón y hip-hop",
+      "layer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "600LATAM",
+        "RADIONICA",
+        "ACCLAIM",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Madvillain",
+      "title": "Madvillainy",
+      "year": 2004,
+      "country": "Estados Unidos",
+      "genre": "Hip-hop",
+      "layer": "Intermedia",
+      "monthlyRole": "Rotación",
+      "sourceRoute": [
+        "ACCLAIM",
+        "PITCH",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Phoenix",
+      "title": "Alphabetical",
+      "year": 2004,
+      "country": "Francia",
+      "genre": "Indie pop",
+      "layer": "Intermedia",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "LESINROCKS",
+        "ROCKDELUX",
+        "ACCLAIM",
+        "PITCH",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Amy Winehouse",
+      "title": "Back to Black",
+      "year": 2006,
+      "country": "Reino Unido",
+      "genre": "Soul",
+      "layer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RS-ALB",
+        "APPLE",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Burial",
+      "title": "Untrue",
+      "year": 2007,
+      "country": "Reino Unido",
+      "genre": "UK garage y ambient",
+      "layer": "Intermedia",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RA",
+        "ROCKDELUX",
+        "ACCLAIM",
+        "PITCH",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "LCD Soundsystem",
+      "title": "Sound of Silver",
+      "year": 2007,
+      "country": "Estados Unidos",
+      "genre": "Dance-punk",
+      "layer": "Intermedia",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "ACCLAIM",
+        "PITCH",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "M.I.A.",
+      "title": "Kala",
+      "year": 2007,
+      "country": "Reino Unido / Sri Lanka",
+      "genre": "Hip-hop y electrónica",
+      "layer": "Intermedia",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RA",
+        "ROCKDELUX",
+        "ACCLAIM",
+        "PITCH",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Ana Tijoux",
+      "title": "1977",
+      "year": 2010,
+      "country": "Chile",
+      "genre": "Hip-hop",
+      "layer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "600LATAM",
+        "RADIONICA",
+        "ACCLAIM",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Frank Ocean",
+      "title": "Channel Orange",
+      "year": 2012,
+      "country": "Estados Unidos",
+      "genre": "R&B",
+      "layer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RS-ALB",
+        "APPLE",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "D'Angelo and the Vanguard",
+      "title": "Black Messiah",
+      "year": 2014,
+      "country": "Estados Unidos",
+      "genre": "Soul y funk",
+      "layer": "Intermedia",
+      "monthlyRole": "Rotación",
+      "sourceRoute": [
+        "ACCLAIM",
+        "PITCH",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Elza Soares",
+      "title": "A Mulher do Fim do Mundo",
+      "year": 2015,
+      "country": "Brasil",
+      "genre": "MPB experimental",
+      "layer": "Regional/indie",
+      "monthlyRole": "Foco mensual",
+      "sourceRoute": [
+        "600LATAM",
+        "RS-BR",
+        "ACCLAIM",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Kendrick Lamar",
+      "title": "To Pimp a Butterfly",
+      "year": 2015,
+      "country": "Estados Unidos",
+      "genre": "Hip-hop",
+      "layer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RS-ALB",
+        "APPLE",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Solange",
+      "title": "A Seat at the Table",
+      "year": 2016,
+      "country": "Estados Unidos",
+      "genre": "R&B",
+      "layer": "Intermedia",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "ACCLAIM",
+        "PITCH",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Rosalía",
+      "title": "El mal querer",
+      "year": 2018,
+      "country": "España",
+      "genre": "Flamenco pop",
+      "layer": "Intermedia",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "ROCKDELUX",
+        "ACCLAIM",
+        "PITCH",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "SOPHIE",
+      "title": "Oil of Every Pearl's Un-Insides",
+      "year": 2018,
+      "country": "Escocia",
+      "genre": "Pop experimental",
+      "layer": "Regional/indie",
+      "monthlyRole": "Foco mensual",
+      "sourceRoute": [
+        "ACCLAIM",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Fiona Apple",
+      "title": "Fetch the Bolt Cutters",
+      "year": 2020,
+      "country": "Estados Unidos",
+      "genre": "Art pop",
+      "layer": "Intermedia",
+      "monthlyRole": "Rotación",
+      "sourceRoute": [
+        "ACCLAIM",
+        "PITCH",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Bad Bunny",
+      "title": "Un verano sin ti",
+      "year": 2022,
+      "country": "Puerto Rico",
+      "genre": "Reguetón y pop",
+      "layer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "600LATAM",
+        "RADIONICA",
+        "RS-ALB",
+        "APPLE",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Beyoncé",
+      "title": "Renaissance",
+      "year": 2022,
+      "country": "Estados Unidos",
+      "genre": "Dance y R&B",
+      "layer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RS-ALB",
+        "APPLE",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Silvana Estrada",
+      "title": "Marchita",
+      "year": 2022,
+      "country": "México",
+      "genre": "Canción de autor",
+      "layer": "Regional/indie",
+      "monthlyRole": "Foco mensual",
+      "sourceRoute": [
+        "600LATAM",
+        "RADIONICA",
+        "ACCLAIM",
+        "DISCOGS"
+      ]
+    }
+  ],
+  "songs": [
+    {
+      "artist": "Billie Holiday",
+      "title": "Strange Fruit",
+      "year": 1939,
+      "country": "Estados Unidos",
+      "genre": "Jazz vocal",
+      "layer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "JAZZWISE",
+        "PITCH",
+        "RS-SONG",
+        "LOC",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Édith Piaf",
+      "title": "La vie en rose",
+      "year": 1946,
+      "country": "Francia",
+      "genre": "Chanson",
+      "layer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "LESINROCKS",
+        "ROCKDELUX",
+        "RS-SONG",
+        "LOC",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Muddy Waters",
+      "title": "Hoochie Coochie Man",
+      "year": 1954,
+      "country": "Estados Unidos",
+      "genre": "Blues",
+      "layer": "Canon",
+      "monthlyRole": "Rotación",
+      "sourceRoute": [
+        "RS-SONG",
+        "LOC",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Chuck Berry",
+      "title": "Johnny B. Goode",
+      "year": 1958,
+      "country": "Estados Unidos",
+      "genre": "Rock and roll",
+      "layer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RS-SONG",
+        "LOC",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "João Gilberto",
+      "title": "Chega de Saudade",
+      "year": 1958,
+      "country": "Brasil",
+      "genre": "Bossa nova",
+      "layer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "600LATAM",
+        "RS-BR",
+        "ACCLAIM",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Ray Charles",
+      "title": "What'd I Say",
+      "year": 1959,
+      "country": "Estados Unidos",
+      "genre": "Soul y R&B",
+      "layer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RS-SONG",
+        "LOC",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Sam Cooke",
+      "title": "A Change Is Gonna Come",
+      "year": 1964,
+      "country": "Estados Unidos",
+      "genre": "Soul",
+      "layer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RS-SONG",
+        "LOC",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Bob Dylan",
+      "title": "Like a Rolling Stone",
+      "year": 1965,
+      "country": "Estados Unidos",
+      "genre": "Folk rock",
+      "layer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RS-SONG",
+        "LOC",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Nina Simone",
+      "title": "Sinnerman",
+      "year": 1965,
+      "country": "Estados Unidos",
+      "genre": "Jazz y gospel",
+      "layer": "Intermedia",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "JAZZWISE",
+        "PITCH",
+        "ACCLAIM",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Violeta Parra",
+      "title": "Volver a los 17",
+      "year": 1966,
+      "country": "Chile",
+      "genre": "Nueva canción",
+      "layer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "600LATAM",
+        "RADIONICA",
+        "ACCLAIM",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Aretha Franklin",
+      "title": "Respect",
+      "year": 1967,
+      "country": "Estados Unidos",
+      "genre": "Soul",
+      "layer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RS-SONG",
+        "LOC",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "James Brown",
+      "title": "Cold Sweat",
+      "year": 1967,
+      "country": "Estados Unidos",
+      "genre": "Funk",
+      "layer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RS-SONG",
+        "LOC",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "The Beatles",
+      "title": "A Day in the Life",
+      "year": 1967,
+      "country": "Reino Unido",
+      "genre": "Rock y pop",
+      "layer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RS-SONG",
+        "LOC",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Glen Campbell",
+      "title": "Wichita Lineman",
+      "year": 1968,
+      "country": "Estados Unidos",
+      "genre": "Country pop",
+      "layer": "Intermedia",
+      "monthlyRole": "Rotación",
+      "sourceRoute": [
+        "ACCLAIM",
+        "PITCH",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Os Mutantes",
+      "title": "A Minha Menina",
+      "year": 1968,
+      "country": "Brasil",
+      "genre": "Tropicália",
+      "layer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "600LATAM",
+        "RS-BR",
+        "ACCLAIM",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Mercedes Sosa",
+      "title": "Duerme negrito",
+      "year": 1969,
+      "country": "Argentina",
+      "genre": "Folk latinoamericano",
+      "layer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "600LATAM",
+        "INDIEHOY",
+        "ACCLAIM",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Fairuz",
+      "title": "Nassam Alayna el-Hawa",
+      "year": 1970,
+      "country": "Líbano",
+      "genre": "Pop árabe",
+      "layer": "Regional/indie",
+      "monthlyRole": "Foco mensual",
+      "sourceRoute": [
+        "ACCLAIM",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Chico Buarque",
+      "title": "Construção",
+      "year": 1971,
+      "country": "Brasil",
+      "genre": "MPB",
+      "layer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "600LATAM",
+        "RS-BR",
+        "ACCLAIM",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Françoise Hardy",
+      "title": "La question",
+      "year": 1971,
+      "country": "Francia",
+      "genre": "Chanson y folk",
+      "layer": "Regional/indie",
+      "monthlyRole": "Foco mensual",
+      "sourceRoute": [
+        "LESINROCKS",
+        "ROCKDELUX",
+        "ACCLAIM",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Happy End",
+      "title": "Kaze wo Atsumete",
+      "year": 1971,
+      "country": "Japón",
+      "genre": "Folk rock",
+      "layer": "Regional/indie",
+      "monthlyRole": "Foco mensual",
+      "sourceRoute": [
+        "RS-JP",
+        "BEEHYPE",
+        "ACCLAIM",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Marvin Gaye",
+      "title": "Inner City Blues (Make Me Wanna Holler)",
+      "year": 1971,
+      "country": "Estados Unidos",
+      "genre": "Soul",
+      "layer": "Canon",
+      "monthlyRole": "Rotación",
+      "sourceRoute": [
+        "RS-SONG",
+        "LOC",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Serge Gainsbourg",
+      "title": "Ballade de Melody Nelson",
+      "year": 1971,
+      "country": "Francia",
+      "genre": "Pop orquestal",
+      "layer": "Intermedia",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "LESINROCKS",
+        "ROCKDELUX",
+        "ACCLAIM",
+        "PITCH",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Milton Nascimento",
+      "title": "Cais",
+      "year": 1972,
+      "country": "Brasil",
+      "genre": "MPB",
+      "layer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "600LATAM",
+        "RS-BR",
+        "ACCLAIM",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Novos Baianos",
+      "title": "Mistério do Planeta",
+      "year": 1972,
+      "country": "Brasil",
+      "genre": "MPB y samba",
+      "layer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "600LATAM",
+        "RS-BR",
+        "ACCLAIM",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Dolly Parton",
+      "title": "Jolene",
+      "year": 1973,
+      "country": "Estados Unidos",
+      "genre": "Country",
+      "layer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RS-SONG",
+        "LOC",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Pescado Rabioso",
+      "title": "Cementerio Club",
+      "year": 1973,
+      "country": "Argentina",
+      "genre": "Rock argentino",
+      "layer": "Regional/indie",
+      "monthlyRole": "Foco mensual",
+      "sourceRoute": [
+        "600LATAM",
+        "INDIEHOY",
+        "ACCLAIM",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Elis Regina & Tom Jobim",
+      "title": "Águas de Março",
+      "year": 1974,
+      "country": "Brasil",
+      "genre": "MPB y bossa nova",
+      "layer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "600LATAM",
+        "RS-BR",
+        "RS-SONG",
+        "LOC",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Jorge Ben",
+      "title": "Os Alquimistas Estão Chegando os Alquimistas",
+      "year": 1974,
+      "country": "Brasil",
+      "genre": "Samba rock",
+      "layer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "600LATAM",
+        "RS-BR",
+        "ACCLAIM",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Mulatu Astatke",
+      "title": "Tezeta",
+      "year": 1974,
+      "country": "Etiopía",
+      "genre": "Ethio-jazz",
+      "layer": "Regional/indie",
+      "monthlyRole": "Foco mensual",
+      "sourceRoute": [
+        "PAM",
+        "JAZZWISE",
+        "PITCH",
+        "ACCLAIM",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Fela Kuti",
+      "title": "Water No Get Enemy",
+      "year": 1975,
+      "country": "Nigeria",
+      "genre": "Afrobeat",
+      "layer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "PAM",
+        "ACCLAIM",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Cartola",
+      "title": "O Mundo É um Moinho",
+      "year": 1976,
+      "country": "Brasil",
+      "genre": "Samba",
+      "layer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "600LATAM",
+        "RS-BR",
+        "ACCLAIM",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Joni Mitchell",
+      "title": "Amelia",
+      "year": 1976,
+      "country": "Canadá",
+      "genre": "Folk y canción de autor",
+      "layer": "Intermedia",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "ACCLAIM",
+        "PITCH",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Stevie Wonder",
+      "title": "As",
+      "year": 1976,
+      "country": "Estados Unidos",
+      "genre": "Soul",
+      "layer": "Intermedia",
+      "monthlyRole": "Rotación",
+      "sourceRoute": [
+        "ACCLAIM",
+        "PITCH",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "David Bowie",
+      "title": "Sound and Vision",
+      "year": 1977,
+      "country": "Reino Unido",
+      "genre": "Art rock",
+      "layer": "Intermedia",
+      "monthlyRole": "Rotación",
+      "sourceRoute": [
+        "ACCLAIM",
+        "PITCH",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Miriam Makeba",
+      "title": "Soweto Blues",
+      "year": 1977,
+      "country": "Sudáfrica",
+      "genre": "Afropop",
+      "layer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "PAM",
+        "ACCLAIM",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Rubén Blades",
+      "title": "Pablo Pueblo",
+      "year": 1977,
+      "country": "Panamá",
+      "genre": "Salsa",
+      "layer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "600LATAM",
+        "RADIONICA",
+        "ACCLAIM",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Taeko Ohnuki",
+      "title": "4:00A.M.",
+      "year": 1978,
+      "country": "Japón",
+      "genre": "City pop",
+      "layer": "Regional/indie",
+      "monthlyRole": "Foco mensual",
+      "sourceRoute": [
+        "RS-JP",
+        "BEEHYPE",
+        "ACCLAIM",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Michael Jackson",
+      "title": "I Can't Help It",
+      "year": 1979,
+      "country": "Estados Unidos",
+      "genre": "Soul y pop",
+      "layer": "Intermedia",
+      "monthlyRole": "Rotación",
+      "sourceRoute": [
+        "ACCLAIM",
+        "PITCH",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Yellow Magic Orchestra",
+      "title": "Behind the Mask",
+      "year": 1979,
+      "country": "Japón",
+      "genre": "Electropop",
+      "layer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RS-JP",
+        "BEEHYPE",
+        "RA",
+        "ROCKDELUX",
+        "ACCLAIM"
+      ]
+    },
+    {
+      "artist": "Ryuichi Sakamoto",
+      "title": "Riot in Lagos",
+      "year": 1980,
+      "country": "Japón",
+      "genre": "Electrónica",
+      "layer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RS-JP",
+        "BEEHYPE",
+        "RA",
+        "ROCKDELUX",
+        "ACCLAIM"
+      ]
+    },
+    {
+      "artist": "Talking Heads",
+      "title": "The Great Curve",
+      "year": 1980,
+      "country": "Estados Unidos",
+      "genre": "Art rock y funk",
+      "layer": "Intermedia",
+      "monthlyRole": "Rotación",
+      "sourceRoute": [
+        "ACCLAIM",
+        "PITCH",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "The Cure",
+      "title": "A Forest",
+      "year": 1980,
+      "country": "Reino Unido",
+      "genre": "Post-punk",
+      "layer": "Intermedia",
+      "monthlyRole": "Rotación",
+      "sourceRoute": [
+        "ACCLAIM",
+        "PITCH",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Los Jaivas",
+      "title": "La poderosa muerte",
+      "year": 1981,
+      "country": "Chile",
+      "genre": "Rock progresivo andino",
+      "layer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "600LATAM",
+        "RADIONICA",
+        "ACCLAIM",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "New Order",
+      "title": "Temptation",
+      "year": 1982,
+      "country": "Reino Unido",
+      "genre": "Post-punk y electrónica",
+      "layer": "Intermedia",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RA",
+        "ROCKDELUX",
+        "ACCLAIM",
+        "PITCH",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Luis Alberto Spinetta",
+      "title": "Barro tal vez",
+      "year": 1982,
+      "country": "Argentina",
+      "genre": "Jazz rock",
+      "layer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "600LATAM",
+        "INDIEHOY",
+        "JAZZWISE",
+        "PITCH",
+        "ACCLAIM"
+      ]
+    },
+    {
+      "artist": "Tatsuro Yamashita",
+      "title": "Sparkle",
+      "year": 1982,
+      "country": "Japón",
+      "genre": "City pop",
+      "layer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RS-JP",
+        "BEEHYPE",
+        "ACCLAIM",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Charly García",
+      "title": "Ojos de videotape",
+      "year": 1983,
+      "country": "Argentina",
+      "genre": "Rock y new wave",
+      "layer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "600LATAM",
+        "INDIEHOY",
+        "ACCLAIM",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Héctor Lavoe",
+      "title": "Juanito Alimaña",
+      "year": 1983,
+      "country": "Puerto Rico",
+      "genre": "Salsa",
+      "layer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "600LATAM",
+        "RADIONICA",
+        "ACCLAIM",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "William Onyeabor",
+      "title": "Fantastic Man",
+      "year": 1983,
+      "country": "Nigeria",
+      "genre": "Funk electrónico",
+      "layer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "PAM",
+        "RA",
+        "ROCKDELUX",
+        "ACCLAIM",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Kate Bush",
+      "title": "Cloudbusting",
+      "year": 1985,
+      "country": "Reino Unido",
+      "genre": "Art pop",
+      "layer": "Intermedia",
+      "monthlyRole": "Rotación",
+      "sourceRoute": [
+        "ACCLAIM",
+        "PITCH",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Prince",
+      "title": "If I Was Your Girlfriend",
+      "year": 1987,
+      "country": "Estados Unidos",
+      "genre": "Pop y funk",
+      "layer": "Intermedia",
+      "monthlyRole": "Rotación",
+      "sourceRoute": [
+        "ACCLAIM",
+        "PITCH",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Joe Arroyo",
+      "title": "La noche",
+      "year": 1988,
+      "country": "Colombia",
+      "genre": "Salsa y música tropical",
+      "layer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "600LATAM",
+        "RADIONICA",
+        "ACCLAIM",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Public Enemy",
+      "title": "Fight the Power",
+      "year": 1989,
+      "country": "Estados Unidos",
+      "genre": "Hip-hop",
+      "layer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RS-SONG",
+        "LOC",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Cocteau Twins",
+      "title": "Cherry-Coloured Funk",
+      "year": 1990,
+      "country": "Escocia",
+      "genre": "Dream pop",
+      "layer": "Intermedia",
+      "monthlyRole": "Rotación",
+      "sourceRoute": [
+        "ACCLAIM",
+        "PITCH",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Juan Luis Guerra 4.40",
+      "title": "A pedir su mano",
+      "year": 1990,
+      "country": "República Dominicana",
+      "genre": "Merengue",
+      "layer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "600LATAM",
+        "RADIONICA",
+        "ACCLAIM",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Massive Attack",
+      "title": "Unfinished Sympathy",
+      "year": 1991,
+      "country": "Reino Unido",
+      "genre": "Trip-hop",
+      "layer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RA",
+        "ROCKDELUX",
+        "RS-SONG",
+        "LOC",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "My Bloody Valentine",
+      "title": "Sometimes",
+      "year": 1991,
+      "country": "Irlanda",
+      "genre": "Shoegaze",
+      "layer": "Intermedia",
+      "monthlyRole": "Rotación",
+      "sourceRoute": [
+        "ACCLAIM",
+        "PITCH",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Aphex Twin",
+      "title": "Xtal",
+      "year": 1992,
+      "country": "Reino Unido",
+      "genre": "Ambient techno",
+      "layer": "Intermedia",
+      "monthlyRole": "Rotación",
+      "sourceRoute": [
+        "RA",
+        "ROCKDELUX",
+        "ACCLAIM",
+        "PITCH",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Cesária Évora",
+      "title": "Sodade",
+      "year": 1992,
+      "country": "Cabo Verde",
+      "genre": "Morna",
+      "layer": "Regional/indie",
+      "monthlyRole": "Foco mensual",
+      "sourceRoute": [
+        "PAM",
+        "ACCLAIM",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Sade",
+      "title": "Kiss of Life",
+      "year": 1992,
+      "country": "Reino Unido",
+      "genre": "Soul y sophisti-pop",
+      "layer": "Intermedia",
+      "monthlyRole": "Rotación",
+      "sourceRoute": [
+        "ACCLAIM",
+        "PITCH",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "A Tribe Called Quest",
+      "title": "Electric Relaxation",
+      "year": 1993,
+      "country": "Estados Unidos",
+      "genre": "Hip-hop",
+      "layer": "Intermedia",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "ACCLAIM",
+        "PITCH",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Blur",
+      "title": "To the End",
+      "year": 1994,
+      "country": "Reino Unido",
+      "genre": "Britpop",
+      "layer": "Intermedia",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "ACCLAIM",
+        "PITCH",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Nas",
+      "title": "Memory Lane (Sittin' in da Park)",
+      "year": 1994,
+      "country": "Estados Unidos",
+      "genre": "Hip-hop",
+      "layer": "Intermedia",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "ACCLAIM",
+        "PITCH",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Oasis",
+      "title": "Listen Up",
+      "year": 1994,
+      "country": "Reino Unido",
+      "genre": "Britpop",
+      "layer": "Regional/indie",
+      "monthlyRole": "Foco mensual",
+      "sourceRoute": [
+        "ACCLAIM",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Portishead",
+      "title": "Roads",
+      "year": 1994,
+      "country": "Reino Unido",
+      "genre": "Trip-hop",
+      "layer": "Intermedia",
+      "monthlyRole": "Rotación",
+      "sourceRoute": [
+        "RA",
+        "ROCKDELUX",
+        "ACCLAIM",
+        "PITCH",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Aterciopelados",
+      "title": "El estuche",
+      "year": 1995,
+      "country": "Colombia",
+      "genre": "Rock alternativo latino",
+      "layer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "600LATAM",
+        "RADIONICA",
+        "ACCLAIM",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Fishmans",
+      "title": "Long Season",
+      "year": 1996,
+      "country": "Japón",
+      "genre": "Dream pop y dub",
+      "layer": "Regional/indie",
+      "monthlyRole": "Foco mensual",
+      "sourceRoute": [
+        "RS-JP",
+        "BEEHYPE",
+        "ACCLAIM",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Soda Stereo",
+      "title": "Té para tres (MTV Unplugged)",
+      "year": 1996,
+      "country": "Argentina",
+      "genre": "Rock acústico",
+      "layer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "600LATAM",
+        "INDIEHOY",
+        "ACCLAIM",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Missy Elliott",
+      "title": "The Rain (Supa Dupa Fly)",
+      "year": 1997,
+      "country": "Estados Unidos",
+      "genre": "Hip-hop",
+      "layer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RS-SONG",
+        "LOC",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Air",
+      "title": "La femme d'argent",
+      "year": 1998,
+      "country": "Francia",
+      "genre": "Downtempo",
+      "layer": "Intermedia",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "LESINROCKS",
+        "ROCKDELUX",
+        "RA",
+        "ACCLAIM",
+        "PITCH"
+      ]
+    },
+    {
+      "artist": "Hikaru Utada",
+      "title": "Automatic",
+      "year": 1998,
+      "country": "Japón",
+      "genre": "J-pop y R&B",
+      "layer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RS-JP",
+        "BEEHYPE",
+        "ACCLAIM",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Lauryn Hill",
+      "title": "Ex-Factor",
+      "year": 1998,
+      "country": "Estados Unidos",
+      "genre": "R&B y hip-hop",
+      "layer": "Intermedia",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "ACCLAIM",
+        "PITCH",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Outkast",
+      "title": "Da Art of Storytellin' (Pt. 1)",
+      "year": 1998,
+      "country": "Estados Unidos",
+      "genre": "Hip-hop",
+      "layer": "Intermedia",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "ACCLAIM",
+        "PITCH",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Pulp",
+      "title": "This Is Hardcore",
+      "year": 1998,
+      "country": "Reino Unido",
+      "genre": "Art rock",
+      "layer": "Intermedia",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "ACCLAIM",
+        "PITCH",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Shakira",
+      "title": "Moscas en la casa",
+      "year": 1998,
+      "country": "Colombia",
+      "genre": "Pop rock latino",
+      "layer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "600LATAM",
+        "RADIONICA",
+        "ACCLAIM",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Stardust",
+      "title": "Music Sounds Better With You",
+      "year": 1998,
+      "country": "Francia",
+      "genre": "French house",
+      "layer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "LESINROCKS",
+        "ROCKDELUX",
+        "RA",
+        "RS-SONG",
+        "LOC"
+      ]
+    },
+    {
+      "artist": "Café Tacvba",
+      "title": "La muerte chiquita",
+      "year": 1999,
+      "country": "México",
+      "genre": "Rock alternativo latino",
+      "layer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "600LATAM",
+        "RADIONICA",
+        "ACCLAIM",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Gustavo Cerati",
+      "title": "Tabú",
+      "year": 1999,
+      "country": "Argentina",
+      "genre": "Art pop y electrónica",
+      "layer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "600LATAM",
+        "INDIEHOY",
+        "RA",
+        "ROCKDELUX",
+        "ACCLAIM"
+      ]
+    },
+    {
+      "artist": "MF DOOM",
+      "title": "Doomsday",
+      "year": 1999,
+      "country": "Estados Unidos / Reino Unido",
+      "genre": "Hip-hop",
+      "layer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "ACCLAIM",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Alan Braxe & Fred Falke",
+      "title": "Intro",
+      "year": 2000,
+      "country": "Francia",
+      "genre": "French house",
+      "layer": "Intermedia",
+      "monthlyRole": "Rotación",
+      "sourceRoute": [
+        "LESINROCKS",
+        "ROCKDELUX",
+        "RA",
+        "ACCLAIM",
+        "PITCH"
+      ]
+    },
+    {
+      "artist": "D'Angelo",
+      "title": "One Mo'Gin",
+      "year": 2000,
+      "country": "Estados Unidos",
+      "genre": "Neo soul",
+      "layer": "Intermedia",
+      "monthlyRole": "Rotación",
+      "sourceRoute": [
+        "ACCLAIM",
+        "PITCH",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Erykah Badu",
+      "title": "Didn't Cha Know",
+      "year": 2000,
+      "country": "Estados Unidos",
+      "genre": "Neo soul",
+      "layer": "Intermedia",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "ACCLAIM",
+        "PITCH",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Julieta Venegas",
+      "title": "Sería feliz",
+      "year": 2000,
+      "country": "México",
+      "genre": "Pop rock",
+      "layer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "600LATAM",
+        "RADIONICA",
+        "ACCLAIM",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Daft Punk",
+      "title": "Something About Us",
+      "year": 2001,
+      "country": "Francia",
+      "genre": "House y pop",
+      "layer": "Intermedia",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "LESINROCKS",
+        "ROCKDELUX",
+        "RA",
+        "ACCLAIM",
+        "PITCH"
+      ]
+    },
+    {
+      "artist": "Radiohead",
+      "title": "Pyramid Song",
+      "year": 2001,
+      "country": "Reino Unido",
+      "genre": "Art rock",
+      "layer": "Intermedia",
+      "monthlyRole": "Rotación",
+      "sourceRoute": [
+        "ACCLAIM",
+        "PITCH",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "The Strokes",
+      "title": "Hard to Explain",
+      "year": 2001,
+      "country": "Estados Unidos",
+      "genre": "Indie rock",
+      "layer": "Intermedia",
+      "monthlyRole": "Rotación",
+      "sourceRoute": [
+        "ACCLAIM",
+        "PITCH",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "M.I.A.",
+      "title": "Galang",
+      "year": 2003,
+      "country": "Reino Unido / Sri Lanka",
+      "genre": "Hip-hop y electrónica",
+      "layer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RA",
+        "ROCKDELUX",
+        "ACCLAIM",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Tego Calderón",
+      "title": "Loíza",
+      "year": 2003,
+      "country": "Puerto Rico",
+      "genre": "Reguetón y hip-hop",
+      "layer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "600LATAM",
+        "RADIONICA",
+        "ACCLAIM",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Daddy Yankee",
+      "title": "Gasolina",
+      "year": 2004,
+      "country": "Puerto Rico",
+      "genre": "Reguetón",
+      "layer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "600LATAM",
+        "RADIONICA",
+        "RS-SONG",
+        "LOC",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Burial",
+      "title": "Archangel",
+      "year": 2007,
+      "country": "Reino Unido",
+      "genre": "UK garage y ambient",
+      "layer": "Intermedia",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RA",
+        "ROCKDELUX",
+        "ACCLAIM",
+        "PITCH",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "LCD Soundsystem",
+      "title": "All My Friends",
+      "year": 2007,
+      "country": "Estados Unidos",
+      "genre": "Dance-punk",
+      "layer": "Intermedia",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "ACCLAIM",
+        "PITCH",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Phoenix",
+      "title": "Love Like a Sunset, Parts I & II",
+      "year": 2009,
+      "country": "Francia",
+      "genre": "Indie pop",
+      "layer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "LESINROCKS",
+        "ROCKDELUX",
+        "ACCLAIM",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Frank Ocean",
+      "title": "Pyramids",
+      "year": 2012,
+      "country": "Estados Unidos",
+      "genre": "R&B",
+      "layer": "Intermedia",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "ACCLAIM",
+        "PITCH",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Kendrick Lamar",
+      "title": "Sing About Me, I'm Dying of Thirst",
+      "year": 2012,
+      "country": "Estados Unidos",
+      "genre": "Hip-hop",
+      "layer": "Intermedia",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "ACCLAIM",
+        "PITCH",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Beyoncé",
+      "title": "Formation",
+      "year": 2016,
+      "country": "Estados Unidos",
+      "genre": "Pop y R&B",
+      "layer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RS-SONG",
+        "LOC",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Rosalía",
+      "title": "De aquí no sales",
+      "year": 2018,
+      "country": "España",
+      "genre": "Flamenco pop",
+      "layer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "ROCKDELUX",
+        "ACCLAIM",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "SOPHIE",
+      "title": "Immaterial",
+      "year": 2018,
+      "country": "Escocia",
+      "genre": "Pop experimental",
+      "layer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "ACCLAIM",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "FKA twigs",
+      "title": "Cellophane",
+      "year": 2019,
+      "country": "Reino Unido",
+      "genre": "Art pop",
+      "layer": "Intermedia",
+      "monthlyRole": "Rotación",
+      "sourceRoute": [
+        "ACCLAIM",
+        "PITCH",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Bad Bunny",
+      "title": "Andrea",
+      "year": 2022,
+      "country": "Puerto Rico",
+      "genre": "Reguetón y pop",
+      "layer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "600LATAM",
+        "RADIONICA",
+        "ACCLAIM",
+        "DISCOGS"
+      ]
+    },
+    {
+      "artist": "Silvana Estrada",
+      "title": "Te guardo",
+      "year": 2022,
+      "country": "México",
+      "genre": "Canción de autor",
+      "layer": "Regional/indie",
+      "monthlyRole": "Foco mensual",
+      "sourceRoute": [
+        "600LATAM",
+        "RADIONICA",
+        "ACCLAIM",
+        "DISCOGS"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "RS-ALB",
+      "name": "Rolling Stone — 500 Greatest Albums",
+      "scope": "Estados Unidos",
+      "layer": "Mainstream/canon",
+      "use": "Álbumes",
+      "url": "https://www.rollingstone.com/music/music-lists/best-albums-of-all-time-1062063/"
+    },
+    {
+      "id": "RS-SONG",
+      "name": "Rolling Stone — 500 Greatest Songs",
+      "scope": "Estados Unidos",
+      "layer": "Mainstream/canon",
+      "use": "Canciones",
+      "url": "https://www.rollingstone.com/music/music-lists/best-songs-of-all-time-1224767/"
+    },
+    {
+      "id": "APPLE",
+      "name": "Apple Music — 100 Best Albums",
+      "scope": "Global",
+      "layer": "Mainstream/editorial",
+      "use": "Álbumes",
+      "url": "https://www.apple.com/newsroom/2024/05/apple-music-celebrates-the-launch-of-inaugural-100-best-albums-list/"
+    },
+    {
+      "id": "NME",
+      "name": "NME — 500 Greatest Albums",
+      "scope": "Reino Unido",
+      "layer": "Mainstream/alternativo",
+      "use": "Álbumes",
+      "url": "https://www.nme.com/photos/the-500-greatest-albums-of-all-time-100-1-1426116"
+    },
+    {
+      "id": "PITCH",
+      "name": "Pitchfork — listas por década y año",
+      "scope": "Estados Unidos",
+      "layer": "Intermedia/indie",
+      "use": "Ambos",
+      "url": "https://pitchfork.com/features/lists-and-guides/"
+    },
+    {
+      "id": "ACCLAIM",
+      "name": "Acclaimed Music",
+      "scope": "Suecia / global",
+      "layer": "Agregador crítico",
+      "use": "Ambos",
+      "url": "https://www.acclaimedmusic.net/"
+    },
+    {
+      "id": "600LATAM",
+      "name": "Los 600 Discos de Latinoamérica",
+      "scope": "Latinoamérica",
+      "layer": "Regional",
+      "use": "Álbumes",
+      "url": "https://www.600discoslatam.com/indice-general-de-los-600-discos-de-latinoamerica/"
+    },
+    {
+      "id": "RS-BR",
+      "name": "Rolling Stone Brasil — 100 discos / 100 músicas",
+      "scope": "Brasil",
+      "layer": "Regional/mainstream",
+      "use": "Ambos",
+      "url": "https://rollingstone.com.br/artigo/os-100-maiores-discos-da-musica-brasileira/"
+    },
+    {
+      "id": "ROCKDELUX",
+      "name": "Rockdelux — listas por género y escena",
+      "scope": "España",
+      "layer": "Intermedia/especialista",
+      "use": "Ambos",
+      "url": "https://www.rockdelux.com/es/listas"
+    },
+    {
+      "id": "INDIEHOY",
+      "name": "Indie Hoy — listas argentinas y por década",
+      "scope": "Argentina",
+      "layer": "Indie/regional",
+      "use": "Ambos",
+      "url": "https://indiehoy.com/listas/"
+    },
+    {
+      "id": "RADIONICA",
+      "name": "Radiónica — música colombiana y latinoamericana",
+      "scope": "Colombia",
+      "layer": "Intermedia/regional",
+      "use": "Ambos",
+      "url": "https://www.radionica.rocks/musica"
+    },
+    {
+      "id": "LESINROCKS",
+      "name": "Les Inrockuptibles — listas francesas",
+      "scope": "Francia",
+      "layer": "Intermedia/indie",
+      "use": "Ambos",
+      "url": "https://www.lesinrocks.com/musique/les-100-meilleurs-albums-francais-de-tous-les-temps-125490-25-08-2017/"
+    },
+    {
+      "id": "RA",
+      "name": "Resident Advisor — Best Music / tracks of the decade",
+      "scope": "Reino Unido / global",
+      "layer": "Especialista electrónica",
+      "use": "Ambos",
+      "url": "https://www.residentadvisor.net/features.aspx?series=bestmusic"
+    },
+    {
+      "id": "JAZZWISE",
+      "name": "Jazzwise — 100 Jazz Albums That Shook the World",
+      "scope": "Reino Unido",
+      "layer": "Especialista jazz",
+      "use": "Álbumes",
+      "url": "https://www.jazzwise.com/features/article/the-100-jazz-albums-that-shook-the-world"
+    },
+    {
+      "id": "PAM",
+      "name": "Pan African Music — selecciones africanas",
+      "scope": "África / Francia",
+      "layer": "Indie/regional",
+      "use": "Ambos",
+      "url": "https://pan-african-music.com/en/80-best-albums-2010s/"
+    },
+    {
+      "id": "RS-JP",
+      "name": "Rolling Stone Japan — 100 Japanese Rock Albums",
+      "scope": "Japón",
+      "layer": "Regional",
+      "use": "Álbumes",
+      "url": "https://neojaponisme.com/2007/11/09/100-greatest-japanese-rock-albums/"
+    },
+    {
+      "id": "BEEHYPE",
+      "name": "Beehype — Best Japanese Albums",
+      "scope": "Japón / global",
+      "layer": "Indie/local",
+      "use": "Álbumes",
+      "url": "https://beehy.pe/special/best-japanese-albums/"
+    },
+    {
+      "id": "LOC",
+      "name": "National Recording Registry",
+      "scope": "Estados Unidos",
+      "layer": "Histórica/institucional",
+      "use": "Ambos",
+      "url": "https://www.loc.gov/programs/national-recording-preservation-board/recording-registry/complete-national-recording-registry-listing/"
+    },
+    {
+      "id": "DISCOGS",
+      "name": "Discogs — colección, demanda y ediciones",
+      "scope": "Global",
+      "layer": "Comunidad/metadata",
+      "use": "Ambos",
+      "url": "https://support.discogs.com/hc/en-us/articles/360003622014-How-To-Browse-Search-In-The-Database"
+    }
+  ]
+}

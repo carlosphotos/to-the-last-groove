@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "status": "retry-candidates",
+  "records": [
+    {
+      "id": "album-018",
+      "url": "https://open.spotify.com/album/4OxTjyLbMo30jdfpOkwBoS",
+      "score": 1,
+      "status": "retry-candidate"
+    },
+    {
+      "id": "album-017",
+      "url": "https://open.spotify.com/album/2kv4wZ8XsygAghVBiqnb12",
+      "score": 1,
+      "status": "retry-candidate"
+    },
+    {
+      "id": "album-060",
+      "url": "https://open.spotify.com/album/7IpcJbVxLLEfW0KXB7ndE2",
+      "score": 1,
+      "status": "retry-candidate"
+    },
+    {
+      "id": "album-021",
+      "url": "https://open.spotify.com/album/5huSLRTVHrDd28npUTRQgU",
+      "score": 1,
+      "status": "retry-candidate"
+    },
+    {
+      "id": "album-070",
+      "url": "https://open.spotify.com/album/76iTNsPU1yhKWcQrTc2qdA",
+      "score": 1,
+      "status": "retry-candidate"
+    },
+    {
+      "id": "album-033",
+      "url": "https://open.spotify.com/album/0HMsmYvoT1h2x1C4di5faf",
+      "score": 1,
+      "status": "retry-candidate"
+    },
+    {
+      "id": "album-093",
+      "url": "https://open.spotify.com/album/1UzrzuOmZfBgXyS3pgKD10",
+      "score": 1,
+      "status": "retry-candidate"
+    },
+    {
+      "id": "album-044",
+      "url": "https://open.spotify.com/album/1C30LhZB9I48LdpVCRRYvq",
+      "score": 1,
+      "status": "retry-candidate"
+    },
+    {
+      "id": "album-106",
+      "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5",
+      "score": 1,
+      "status": "retry-candidate"
+    },
+    {
+      "id": "song-060",
+      "url": "https://open.spotify.com/track/2MGaxVjCfwk8OA6LHAoY6D",
+      "score": 1,
+      "status": "retry-candidate"
+    },
+    {
+      "id": "song-063",
+      "url": "https://open.spotify.com/track/1fWUWwXvAxlLEwJOVq67zE",
+      "score": 1,
+      "status": "retry-candidate"
+    },
+    {
+      "id": "song-065",
+      "url": "https://open.spotify.com/track/7CEKLxFNX1ow9iLwcwLjBH",
+      "score": 1,
+      "status": "retry-candidate"
+    },
+    {
+      "id": "song-071",
+      "url": "https://open.spotify.com/track/78qzpcAasDDxEhfQSL457i",
+      "score": 1,
+      "status": "retry-candidate"
+    },
+    {
+      "id": "song-081",
+      "url": "https://open.spotify.com/track/6ArNvGUEBngQ9sliZXeGrr",
+      "score": 1,
+      "status": "retry-candidate"
+    },
+    {
+      "id": "song-083",
+      "url": "https://open.spotify.com/track/4y1ze4JPCe7XVv28VlZ4k0",
+      "score": 1,
+      "status": "retry-candidate"
+    },
+    {
+      "id": "song-091",
+      "url": "https://open.spotify.com/track/7cPG74cXXlEZ34POFvHZor",
+      "score": 1,
+      "status": "retry-candidate"
+    },
+    {
+      "id": "song-096",
+      "url": "https://open.spotify.com/track/32WDVNZXIAuu7EqncTTKjH",
+      "score": 1,
+      "status": "retry-candidate"
+    },
+    {
+      "id": "song-102",
+      "url": "https://open.spotify.com/track/7tEzlrjJEHjWzDQ6cqGD06",
+      "score": 1,
+      "status": "retry-candidate"
+    },
+    {
+      "id": "song-038",
+      "url": "https://open.spotify.com/track/0NNxCT63tXUIOESKpJxQlb",
+      "score": 1,
+      "status": "retry-candidate"
+    },
+    {
+      "id": "song-113",
+      "url": "https://open.spotify.com/track/3EXPdW0NGGkPlyDMcScfgu",
+      "score": 1,
+      "status": "retry-candidate"
+    },
+    {
+      "id": "song-116",
+      "url": "https://open.spotify.com/track/3kwjfht296P1KhIsHwUTmY",
+      "score": 1,
+      "status": "retry-candidate"
+    },
+    {
+      "id": "song-123",
+      "url": "https://open.spotify.com/track/1huN927tTdSiwF90FBHXkT",
+      "score": 1,
+      "status": "retry-candidate"
+    }
+  ]
+}

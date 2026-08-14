@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "note": "Exact Apple Music entity pages verified manually. No search-result URLs are allowed.",
+  "records": [
+    {"id": "album-030", "url": "https://music.apple.com/us/album/sign-o-the-times/1544303593", "marketResolved": "US"},
+    {"id": "album-033", "url": "https://music.apple.com/us/album/homogenic/20833577", "marketResolved": "US"},
+    {"id": "album-041", "url": "https://music.apple.com/us/album/is-this-it/266376953", "marketResolved": "US"},
+    {"id": "album-043", "url": "https://music.apple.com/us/album/kala/296393419", "marketResolved": "US"},
+    {"id": "album-045", "url": "https://music.apple.com/us/album/channel-orange/1440765580", "marketResolved": "US"},
+    {"id": "album-047", "url": "https://music.apple.com/us/album/fetch-the-bolt-cutters/1507811635", "marketResolved": "US"},
+    {"id": "album-067", "url": "https://music.apple.com/us/album/%E9%A2%A8%E8%A1%97%E3%82%8D%E3%81%BE%E3%82%93/1675259114", "marketResolved": "US"},
+    {"id": "album-073", "url": "https://music.apple.com/us/album/expensive-shit/739004054", "marketResolved": "US"},
+    {"id": "album-081", "url": "https://music.apple.com/us/album/it-takes-a-nation-of-millions-to-hold-us-back/1440837788", "marketResolved": "US"},
+    {"id": "album-086", "url": "https://music.apple.com/us/album/the-low-end-theory/278911460", "marketResolved": "US"},
+    {"id": "album-089", "url": "https://music.apple.com/us/album/rid-of-me/1440923277", "marketResolved": "US"},
+    {"id": "album-097", "url": "https://music.apple.com/us/album/el-abayarde/535880568", "marketResolved": "US"},
+    {"id": "album-098", "url": "https://music.apple.com/us/album/madvillainy/887699504", "marketResolved": "US"},
+    {"id": "album-102", "url": "https://music.apple.com/us/album/black-messiah/950764300", "marketResolved": "US"},
+    {"id": "album-104", "url": "https://music.apple.com/us/album/a-seat-at-the-table/1159507212", "marketResolved": "US"},
+    {"id": "album-106", "url": "https://music.apple.com/us/album/un-verano-sin-ti/1622045624", "marketResolved": "US"},
+    {"id": "song-047", "url": "https://music.apple.com/gb/song/pyramids/1440766589", "marketResolved": "GB"},
+    {"id": "song-058", "url": "https://music.apple.com/us/song/nassam-alayna-el-hawa/1420594749", "marketResolved": "US"},
+    {"id": "song-083", "url": "https://music.apple.com/uy/song/barro-tal-vez/1091406776", "marketResolved": "UY"},
+    {"id": "song-119", "url": "https://music.apple.com/us/song/lo%C3%ADza/535880848", "marketResolved": "US"},
+    {"id": "song-084", "status": "unavailable-original", "reason": "The original Tatsuro Yamashita recording was not found as a playable Apple Music entity; covers and search pages are intentionally excluded."}
+  ]
+}

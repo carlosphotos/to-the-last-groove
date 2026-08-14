@@ -1,4 +1,5 @@
 const translations = window.TLG_TRANSLATIONS;
+const catalogVersion = "7.3";
 
 const languageOrder = ["es", "en", "fr"];
 const coverColors = {
@@ -42,6 +43,8 @@ const elements = {
   discoverButton: document.querySelector("#discoverButton"),
   filterMessage: document.querySelector("#filterMessage"),
 
+  recommendationArea: document.querySelector(".recommendation-area"),
+  recommendationCard: document.querySelector(".recommendation-card"),
   featuredRecord: document.querySelector("#featuredRecord"),
   stackCovers: [...document.querySelectorAll(".stack-cover")],
   coverArt: document.querySelector("#coverArt"),
@@ -58,11 +61,6 @@ const elements = {
   recommendationDescription: document.querySelector(
     "#recommendationDescription"
   ),
-  recognitionBlock: document.querySelector("#recognitionBlock"),
-  recognitionEyebrow: document.querySelector("#recognitionEyebrow"),
-  recognitionLink: document.querySelector("#recognitionLink"),
-  recognitionText: document.querySelector("#recognitionText"),
-  recognitionSource: document.querySelector("#recognitionSource"),
   openListeningNote: document.querySelector("#openListeningNote"),
   listeningNoteDialog: document.querySelector("#listeningNoteDialog"),
   closeListeningNote: document.querySelector("#closeListeningNote"),
@@ -78,6 +76,9 @@ const elements = {
     "#listeningNoteListenForTitle"
   ),
   listeningNoteListenFor: document.querySelector("#listeningNoteListenFor"),
+  listeningNoteEntrySection: document.querySelector(
+    "#listeningNoteEntrySection"
+  ),
   listeningNoteEntryTitle: document.querySelector("#listeningNoteEntryTitle"),
   listeningNoteEntryTrack: document.querySelector("#listeningNoteEntryTrack"),
   listeningNoteEntryReason: document.querySelector("#listeningNoteEntryReason"),
@@ -167,6 +168,18 @@ function replaceDirectText(element, text) {
   }
 }
 
+function updateDiscoverButtonLabel() {
+  const discoveryText = getText().discovery;
+  const labelsByFormat = {
+    album: discoveryText.button,
+    song: discoveryText.songButton,
+    surprise: discoveryText.surpriseButton
+  };
+
+  elements.discoverButton.textContent =
+    labelsByFormat[state.format] || discoveryText.button;
+}
+
 function applyTranslations() {
   const text = getText();
 
@@ -234,8 +247,7 @@ function applyTranslations() {
     }
   );
 
-  elements.discoverButton.textContent =
-    text.discovery.button;
+  updateDiscoverButtonLabel();
 
   elements.staffPick.textContent =
     text.recommendation.essential;
@@ -302,9 +314,9 @@ async function loadCatalog() {
       songResponse,
       editorialResponse
     ] = await Promise.all([
-      fetch("data/albums.json"),
-      fetch("data/songs.json"),
-      fetch("data/editorial-notes.json")
+      fetch(`data/albums.json?v=${catalogVersion}`),
+      fetch(`data/songs.json?v=${catalogVersion}`),
+      fetch(`data/editorial-notes.json?v=${catalogVersion}`)
     ]);
 
     if (
@@ -347,6 +359,9 @@ async function loadCatalog() {
 function getFilteredRecords() {
   const selectedDecade = elements.decadeFilter.value;
   const selectedGenre = elements.genreFilter.value;
+  const listenedIds = new Set(
+    state.collection.map((record) => record.id)
+  );
 
   return state.records.filter((record) => {
     const matchesFormat =
@@ -364,9 +379,57 @@ function getFilteredRecords() {
     return (
       matchesFormat &&
       matchesDecade &&
-      matchesGenre
+      matchesGenre &&
+      !listenedIds.has(record.id)
     );
   });
+}
+
+function configureStreamingLink(
+  element,
+  service,
+  ariaLabel
+) {
+  const url = service?.url;
+
+  element.hidden = !url;
+
+  if (!url) {
+    element.removeAttribute("href");
+    element.removeAttribute("aria-label");
+    return false;
+  }
+
+  element.href = url;
+  element.target = "_blank";
+  element.rel = "noopener noreferrer";
+  element.setAttribute("aria-label", ariaLabel);
+  return true;
+}
+
+function recommendationWeight(record) {
+  return {
+    "Foco mensual": 4,
+    "Rotación": 2,
+    "Ancla": 1
+  }[record.monthlyRole] || 1;
+}
+
+function weightedRandomIndex(records) {
+  const totalWeight = records.reduce(
+    (total, record) => total + recommendationWeight(record),
+    0
+  );
+  let cursor = Math.random() * totalWeight;
+
+  for (let index = 0; index < records.length; index += 1) {
+    cursor -= recommendationWeight(records[index]);
+    if (cursor < 0) {
+      return index;
+    }
+  }
+
+  return Math.max(0, records.length - 1);
 }
 
 function chooseRecord(animate = true) {
@@ -397,7 +460,7 @@ function chooseRecord(animate = true) {
 
   const selectedRecord = queuedIndex >= 0
     ? state.recommendationQueue.splice(queuedIndex, 1)[0]
-    : candidates[Math.floor(Math.random() * candidates.length)];
+    : candidates[weightedRandomIndex(candidates)];
 
   if (animate && state.current) {
     elements.featuredRecord.classList.add("is-changing");
@@ -443,9 +506,16 @@ function renderRecommendation() {
     "is-single",
     record.type === "song"
   );
+  elements.recommendationArea.classList.toggle(
+    "is-song",
+    record.type === "song"
+  );
+  elements.recommendationCard.classList.toggle(
+    "is-song",
+    record.type === "song"
+  );
 
   renderCoverImage(record);
-  renderRecognition(record);
   renderEditorialAvailability(record);
 
   elements.recommendationTitle.textContent =
@@ -461,71 +531,28 @@ function renderRecommendation() {
     record.description[state.language] ||
     record.description.es;
 
-  const platformQuery = `${record.artist} ${record.title}`;
-  const encodedSearch = encodeURIComponent(platformQuery);
   const accessibleTitle = `${record.title} — ${record.artist}`;
-
-  elements.spotifyLink.href =
-    `https://open.spotify.com/search/${encodedSearch}`;
-
-  elements.appleMusicLink.href =
-    `https://music.apple.com/search?term=${encodedSearch}`;
-
-  elements.youtubeMusicLink.href =
-    `https://music.youtube.com/search?q=${encodedSearch}`;
-
-  elements.spotifyLink.setAttribute(
-    "aria-label",
-    `${text.recommendation.listenOn} Spotify: ${accessibleTitle}`
-  );
-
-  elements.appleMusicLink.setAttribute(
-    "aria-label",
-    `${text.recommendation.listenOn} Apple Music: ${accessibleTitle}`
-  );
-
-  elements.youtubeMusicLink.setAttribute(
-    "aria-label",
-    `${text.recommendation.listenOn} YouTube Music: ${accessibleTitle}`
-  );
+  const availablePlatforms = [
+    configureStreamingLink(
+      elements.spotifyLink,
+      record.streaming?.spotify,
+      `${text.recommendation.listenOn} Spotify: ${accessibleTitle}`
+    ),
+    configureStreamingLink(
+      elements.appleMusicLink,
+      record.streaming?.appleMusic,
+      `${text.recommendation.listenOn} Apple Music: ${accessibleTitle}`
+    ),
+    configureStreamingLink(
+      elements.youtubeMusicLink,
+      record.streaming?.youtubeMusic,
+      `${text.recommendation.listenOn} YouTube Music: ${accessibleTitle}`
+    )
+  ];
+  elements.platformLabel.hidden =
+    !availablePlatforms.some(Boolean);
 
   updateHeardButton();
-}
-
-function renderRecognition(record) {
-  const recognition = record.recognition;
-  const text = getText();
-
-  if (!recognition?.url) {
-    elements.recognitionBlock.hidden = true;
-    return;
-  }
-
-  const localizedTitle =
-    recognition.title?.[state.language] ||
-    recognition.title?.es ||
-    recognition.title ||
-    "";
-
-  const template =
-    text.recommendation[recognition.type] ||
-    text.recommendation.selection;
-
-  const recognitionText = template
-    .replace("{rank}", recognition.rank ?? "")
-    .replace("{title}", localizedTitle);
-
-  elements.recognitionEyebrow.textContent =
-    text.recommendation.recognitionEyebrow;
-  elements.recognitionText.textContent = recognitionText;
-  elements.recognitionSource.textContent =
-    `${recognition.source} · ${recognition.year} ↗`;
-  elements.recognitionLink.href = recognition.url;
-  elements.recognitionLink.setAttribute(
-    "aria-label",
-    `${text.accessibility.recognitionSource}: ${recognitionText}, ${recognition.source}, ${recognition.year}`
-  );
-  elements.recognitionBlock.hidden = false;
 }
 
 function getEditorialContent(record = state.current) {
@@ -577,15 +604,19 @@ function renderListeningNote() {
     text.editorial.readTime.replace("{minutes}", minutes);
   elements.listeningNoteTitle.textContent = state.current.title;
   elements.listeningNoteArtist.textContent = state.current.artist;
-  elements.listeningNoteCoverImage.src = state.current.coverUrl;
+  elements.listeningNoteCoverImage.src =
+    state.current.resolvedCoverUrl ||
+    state.current.coverUrl ||
+    state.current.coverSourceUrl ||
+    "";
   elements.listeningNoteCoverImage.style.objectPosition =
     editorial.headerPosition || "center";
   elements.listeningNoteListenForTitle.textContent =
     text.editorial.listenFor;
+  const showEntryPoint = state.current.type === "album";
+  elements.listeningNoteEntrySection.hidden = !showEntryPoint;
   elements.listeningNoteEntryTitle.textContent =
-    state.current.type === "song"
-      ? text.editorial.keyMoment
-      : text.editorial.entryPoint;
+    text.editorial.entryPoint;
   elements.listeningNoteSourcesTitle.textContent =
     text.editorial.sources;
 
@@ -612,43 +643,38 @@ function renderListeningNote() {
   });
 
   const entryTitle = content.entryPoint?.title || "";
-  const streamingTitle =
-    state.current.type === "song"
-      ? state.current.title
-      : entryTitle;
-  const entryQuery = encodeURIComponent(
-    `${state.current.artist} ${streamingTitle}`
-  );
+  elements.listeningNoteEntryTrack.hidden = !entryTitle;
   const entryDescription =
-    `${streamingTitle} — ${state.current.artist}`;
+    `${state.current.title} — ${state.current.artist}`;
 
   elements.listeningNoteEntryTrack.textContent = entryTitle;
-  elements.listeningNoteEntryReason.textContent =
-    content.entryPoint?.reason || "";
+  const entryReason = content.entryPoint?.reason || "";
+  elements.listeningNoteEntryReason.textContent = entryReason;
+  elements.listeningNoteEntryReason.hidden = !entryReason;
   elements.listeningNoteListenLabel.textContent =
     text.editorial.listenNow;
-  elements.listeningNoteListenLabel.hidden = !entryTitle;
-  elements.listeningNotePlatforms.hidden = !entryTitle;
-
-  elements.listeningNoteSpotify.href =
-    `https://open.spotify.com/search/${entryQuery}`;
-  elements.listeningNoteAppleMusic.href =
-    `https://music.apple.com/search?term=${entryQuery}`;
-  elements.listeningNoteYouTubeMusic.href =
-    `https://music.youtube.com/search?q=${entryQuery}`;
-
-  elements.listeningNoteSpotify.setAttribute(
-    "aria-label",
-    `${text.editorial.listenNow} — Spotify: ${entryDescription}`
-  );
-  elements.listeningNoteAppleMusic.setAttribute(
-    "aria-label",
-    `${text.editorial.listenNow} — Apple Music: ${entryDescription}`
-  );
-  elements.listeningNoteYouTubeMusic.setAttribute(
-    "aria-label",
-    `${text.editorial.listenNow} — YouTube Music: ${entryDescription}`
-  );
+  const listeningPlatforms = [
+    configureStreamingLink(
+      elements.listeningNoteSpotify,
+      state.current.streaming?.spotify,
+      `${text.editorial.listenNow} — Spotify: ${entryDescription}`
+    ),
+    configureStreamingLink(
+      elements.listeningNoteAppleMusic,
+      state.current.streaming?.appleMusic,
+      `${text.editorial.listenNow} — Apple Music: ${entryDescription}`
+    ),
+    configureStreamingLink(
+      elements.listeningNoteYouTubeMusic,
+      state.current.streaming?.youtubeMusic,
+      `${text.editorial.listenNow} — YouTube Music: ${entryDescription}`
+    )
+  ];
+  const hasListeningPlatform = listeningPlatforms.some(Boolean);
+  elements.listeningNoteListenLabel.hidden =
+    !showEntryPoint || !entryTitle || !hasListeningPlatform;
+  elements.listeningNotePlatforms.hidden =
+    !showEntryPoint || !entryTitle || !hasListeningPlatform;
 
   elements.listeningNoteSources.replaceChildren();
   (editorial.sources || []).forEach((source) => {
@@ -711,8 +737,12 @@ function appendHighlightedText(container, value, highlights = []) {
 function renderCoverImage(record) {
   const requestId = Symbol(record.id);
   renderCoverImage.currentRequest = requestId;
+  const candidateUrls = [
+    record.coverUrl,
+    record.coverSourceUrl
+  ].filter((url, index, urls) => url && urls.indexOf(url) === index);
 
-  if (!record.coverUrl) {
+  if (candidateUrls.length === 0) {
     elements.coverImage.alt = "";
     elements.coverImage.removeAttribute("src");
     elements.coverArt.classList.remove("has-real-cover");
@@ -723,17 +753,15 @@ function renderCoverImage(record) {
     return;
   }
 
-  const expectedUrl = record.coverUrl;
-  const pendingImage = new Image();
-
   elements.coverArt.classList.add("is-loading");
   elements.coverArt.setAttribute("aria-busy", "true");
 
-  const revealCover = () => {
+  const revealCover = (expectedUrl) => {
     if (renderCoverImage.currentRequest !== requestId) {
       return;
     }
 
+    record.resolvedCoverUrl = expectedUrl;
     elements.coverImage.src = expectedUrl;
     elements.coverImage.alt = `${record.title} — ${record.artist}`;
     elements.coverArt.classList.remove("is-loading");
@@ -743,21 +771,12 @@ function renderCoverImage(record) {
     prepareRecommendationQueue();
   };
 
-  pendingImage.onload = () => {
-    if (typeof pendingImage.decode === "function") {
-      pendingImage.decode()
-        .catch(() => {})
-        .finally(revealCover);
-    } else {
-      revealCover();
-    }
-  };
-
-  pendingImage.onerror = () => {
+  const showFallbackArtwork = () => {
     if (renderCoverImage.currentRequest !== requestId) {
       return;
     }
 
+    delete record.resolvedCoverUrl;
     elements.coverImage.alt = "";
     elements.coverImage.removeAttribute("src");
     elements.coverArt.classList.remove("is-loading");
@@ -767,9 +786,39 @@ function renderCoverImage(record) {
     prepareRecommendationQueue();
   };
 
-  pendingImage.decoding = "async";
-  pendingImage.fetchPriority = "high";
-  pendingImage.src = expectedUrl;
+  const tryCandidate = (candidateIndex) => {
+    if (candidateIndex >= candidateUrls.length) {
+      showFallbackArtwork();
+      return;
+    }
+
+    const expectedUrl = candidateUrls[candidateIndex];
+    const pendingImage = new Image();
+
+    pendingImage.onload = () => {
+      if (typeof pendingImage.decode === "function") {
+        pendingImage.decode()
+          .catch(() => {})
+          .finally(() => revealCover(expectedUrl));
+      } else {
+        revealCover(expectedUrl);
+      }
+    };
+
+    pendingImage.onerror = () => {
+      if (renderCoverImage.currentRequest !== requestId) {
+        return;
+      }
+
+      tryCandidate(candidateIndex + 1);
+    };
+
+    pendingImage.decoding = "async";
+    pendingImage.fetchPriority = "high";
+    pendingImage.src = expectedUrl;
+  };
+
+  tryCandidate(0);
 }
 
 renderCoverImage.currentRequest = null;
@@ -867,9 +916,7 @@ function prepareRecommendationQueue() {
     state.recommendationQueue.length < recommendationQueueSize &&
     remainingCandidates.length > 0
   ) {
-    const randomIndex = Math.floor(
-      Math.random() * remainingCandidates.length
-    );
+    const randomIndex = weightedRandomIndex(remainingCandidates);
     const [nextRecord] = remainingCandidates.splice(randomIndex, 1);
 
     state.recommendationQueue.push(nextRecord);
@@ -920,7 +967,7 @@ function updateHeardButton() {
 
   if (!state.current) {
     elements.heardButton.textContent =
-      text.recommendation.heard;
+      `○ ${text.recommendation.heard}`;
     return;
   }
 
@@ -930,7 +977,7 @@ function updateHeardButton() {
 
   elements.heardButton.textContent = alreadySaved
     ? `✓ ${text.recommendation.saved}`
-    : text.recommendation.heard;
+    : `○ ${text.recommendation.heard}`;
 
   elements.heardButton.classList.toggle(
     "saved",
@@ -1112,6 +1159,7 @@ elements.formatButtons.forEach((button) => {
 
     button.classList.add("active");
     state.format = button.dataset.format;
+    updateDiscoverButtonLabel();
 
     if (state.records.length > 0) {
       chooseRecord(true);

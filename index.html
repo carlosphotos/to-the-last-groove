@@ -11,7 +11,10 @@
 
   <title>To the Last Groove</title>
 
-  <link rel="icon" href="favicon-vinyl.png?v=2" type="image/png" sizes="64x64">
+  <link rel="icon" href="favicon.svg?v=7.3" type="image/svg+xml">
+  <link rel="alternate icon" href="favicon-vinyl.png?v=7.3" type="image/png" sizes="64x64">
+  <link rel="shortcut icon" href="favicon.ico?v=7.3" type="image/x-icon">
+  <link rel="apple-touch-icon" href="favicon-vinyl.png?v=7.3">
 
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -22,7 +25,7 @@
     rel="stylesheet"
   >
 
-  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="styles.css?v=7.3">
 </head>
 
 <body>
@@ -130,6 +133,8 @@
 
             <select id="decadeFilter">
               <option value="all">Cualquier década</option>
+              <option value="1930">1930</option>
+              <option value="1940">1940</option>
               <option value="1950">1950</option>
               <option value="1960">1960</option>
               <option value="1970">1970</option>
@@ -168,20 +173,20 @@
       <div class="recommendation-area">
         <div class="record-stage" id="recordStage">
           <div class="sleeve-stack" aria-hidden="true">
-            <div class="back-sleeve sleeve-one">
-              <img class="stack-cover" data-record-id="album-006" alt="" decoding="async" fetchpriority="low" hidden>
+            <div class="back-sleeve sleeve-one has-real-cover">
+              <img class="stack-cover" data-record-id="album-006" data-loaded="true" src="assets/covers-master/album-006.webp" alt="" decoding="async" loading="eager">
             </div>
-            <div class="back-sleeve sleeve-two">
-              <img class="stack-cover" data-record-id="album-005" alt="" decoding="async" fetchpriority="low" hidden>
+            <div class="back-sleeve sleeve-two has-real-cover">
+              <img class="stack-cover" data-record-id="album-003" data-loaded="true" src="assets/covers-master/album-003.webp" alt="" decoding="async" loading="eager">
             </div>
-            <div class="back-sleeve sleeve-three">
-              <img class="stack-cover" data-record-id="album-004" alt="" decoding="async" fetchpriority="low" hidden>
+            <div class="back-sleeve sleeve-three has-real-cover">
+              <img class="stack-cover" data-record-id="album-094" data-loaded="true" src="assets/covers-master/album-094.webp" alt="" decoding="async" loading="eager">
             </div>
-            <div class="back-sleeve sleeve-four">
-              <img class="stack-cover" data-record-id="album-008" alt="" decoding="async" fetchpriority="low" hidden>
+            <div class="back-sleeve sleeve-four has-real-cover">
+              <img class="stack-cover" data-record-id="album-017" data-loaded="true" src="assets/covers-master/album-017.webp" alt="" decoding="async" loading="eager">
             </div>
-            <div class="back-sleeve sleeve-five">
-              <img class="stack-cover" data-record-id="album-007" alt="" decoding="async" fetchpriority="low" hidden>
+            <div class="back-sleeve sleeve-five has-real-cover">
+              <img class="stack-cover" data-record-id="album-029" data-loaded="true" src="assets/covers-master/album-029.webp" alt="" decoding="async" loading="eager">
             </div>
           </div>
 
@@ -219,7 +224,19 @@
         </div>
 
         <article class="recommendation-card">
-          <p class="staff-pick">★ Selección esencial</p>
+          <div class="recommendation-card-topline">
+            <p class="staff-pick">★ Selección esencial</p>
+
+            <div class="recommendation-card-top-actions">
+              <button class="secondary-button" id="heardButton" type="button">
+                ○ Ya lo escuché
+              </button>
+
+              <button class="text-button" id="anotherButton" type="button">
+                Dame otro
+              </button>
+            </div>
+          </div>
 
           <h2 id="recommendationTitle">The Touch of Your Lips</h2>
           <p class="recommendation-artist" id="recommendationArtist">
@@ -234,18 +251,11 @@
             Una escucha íntima, delicada y esencial.
           </p>
 
-          <div class="recognition-block" id="recognitionBlock" hidden>
-            <p class="recognition-eyebrow" id="recognitionEyebrow">
-              Por qué es imprescindible
-            </p>
-
-            <a
-              class="recognition-link"
-              id="recognitionLink"
-              href="#"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
+          <!-- Compatibilidad con pestañas que aún conservan app.js v6. -->
+          <div class="legacy-recognition-compat" id="recognitionBlock" hidden>
+            <p id="recognitionEyebrow"></p>
+            <strong id="essentialReason"></strong>
+            <a id="recognitionLink" href="#" hidden>
               <strong id="recognitionText"></strong>
               <span id="recognitionSource"></span>
             </a>
@@ -258,7 +268,7 @@
             aria-haspopup="dialog"
             hidden
           >
-            Leer nota de escucha · 1 min
+            Leer por qué es imprescindible · 1 min
           </button>
 
           <p class="platform-label" id="platformLabel">Escuchar en</p>
@@ -295,15 +305,6 @@
             </a>
           </div>
 
-          <div class="recommendation-actions">
-            <button class="secondary-button" id="heardButton" type="button">
-              Ya lo escuché
-            </button>
-
-            <button class="text-button" id="anotherButton" type="button">
-              Dame otro
-            </button>
-          </div>
         </article>
       </div>
     </section>
@@ -377,7 +378,10 @@
           <ul id="listeningNoteListenFor"></ul>
         </section>
 
-        <section class="listening-note-section listening-note-entry">
+        <section
+          class="listening-note-section listening-note-entry"
+          id="listeningNoteEntrySection"
+        >
           <h3 id="listeningNoteEntryTitle">Punto de entrada</h3>
           <strong id="listeningNoteEntryTrack">I Waited for You</strong>
           <p id="listeningNoteEntryReason"></p>
@@ -464,7 +468,7 @@
     <p>Escucha hasta el último surco.</p>
   </footer>
 
-  <script src="translations.js"></script>
-<script src="app.js"></script>
+  <script src="translations.js?v=7.3"></script>
+  <script src="app.js?v=7.3"></script>
 </body>
 </html>

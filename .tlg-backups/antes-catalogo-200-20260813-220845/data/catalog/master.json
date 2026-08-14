@@ -1,0 +1,5546 @@
+{
+  "schemaVersion": 1,
+  "editionId": "2026-09",
+  "approvedAt": "2026-08-13",
+  "releaseStatus": "draft-enrichment",
+  "publicationRule": "A record is publishable only with verified metadata, optimized local cover, exact streaming links, essential reason and a reviewed editorial note in ES/EN/FR.",
+  "records": [
+    {
+      "id": "album-051",
+      "type": "album",
+      "artist": "Billie Holiday",
+      "title": "Lady in Satin",
+      "year": 1958,
+      "decade": "1950",
+      "country": "Estados Unidos",
+      "genre": "Jazz vocal",
+      "selectionLayer": "Intermedia",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "JAZZWISE",
+        "PITCH",
+        "ACCLAIM",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "album-052",
+      "type": "album",
+      "artist": "Charles Mingus",
+      "title": "Mingus Ah Um",
+      "year": 1959,
+      "decade": "1950",
+      "country": "Estados Unidos",
+      "genre": "Jazz",
+      "selectionLayer": "Intermedia",
+      "monthlyRole": "Rotación",
+      "sourceRoute": [
+        "JAZZWISE",
+        "PITCH",
+        "ACCLAIM",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "album-018",
+      "type": "album",
+      "artist": "João Gilberto",
+      "title": "Chega de Saudade",
+      "year": 1959,
+      "decade": "1950",
+      "country": "Brasil",
+      "genre": "Bossa nova",
+      "selectionLayer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "600LATAM",
+        "RS-BR",
+        "ACCLAIM",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": "album-018",
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "existing-to-review"
+      },
+      "publishable": false
+    },
+    {
+      "id": "album-011",
+      "type": "album",
+      "artist": "Miles Davis",
+      "title": "Kind of Blue",
+      "year": 1959,
+      "decade": "1950",
+      "country": "Estados Unidos",
+      "genre": "Jazz",
+      "selectionLayer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "JAZZWISE",
+        "PITCH",
+        "RS-ALB",
+        "APPLE",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": "album-011",
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "existing-to-review"
+      },
+      "publishable": false
+    },
+    {
+      "id": "album-053",
+      "type": "album",
+      "artist": "Ornette Coleman",
+      "title": "The Shape of Jazz to Come",
+      "year": 1959,
+      "decade": "1950",
+      "country": "Estados Unidos",
+      "genre": "Jazz",
+      "selectionLayer": "Intermedia",
+      "monthlyRole": "Rotación",
+      "sourceRoute": [
+        "JAZZWISE",
+        "PITCH",
+        "ACCLAIM",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "album-054",
+      "type": "album",
+      "artist": "James Brown",
+      "title": "Live at the Apollo",
+      "year": 1963,
+      "decade": "1960",
+      "country": "Estados Unidos",
+      "genre": "Soul",
+      "selectionLayer": "Canon",
+      "monthlyRole": "Rotación",
+      "sourceRoute": [
+        "RS-ALB",
+        "APPLE",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "album-012",
+      "type": "album",
+      "artist": "John Coltrane",
+      "title": "A Love Supreme",
+      "year": 1965,
+      "decade": "1960",
+      "country": "Estados Unidos",
+      "genre": "Jazz",
+      "selectionLayer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "JAZZWISE",
+        "PITCH",
+        "RS-ALB",
+        "APPLE",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": "album-012",
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "existing-to-review"
+      },
+      "publishable": false
+    },
+    {
+      "id": "album-055",
+      "type": "album",
+      "artist": "Nina Simone",
+      "title": "Pastel Blues",
+      "year": 1965,
+      "decade": "1960",
+      "country": "Estados Unidos",
+      "genre": "Jazz y soul",
+      "selectionLayer": "Intermedia",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "JAZZWISE",
+        "PITCH",
+        "ACCLAIM",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "album-056",
+      "type": "album",
+      "artist": "The Beach Boys",
+      "title": "Pet Sounds",
+      "year": 1966,
+      "decade": "1960",
+      "country": "Estados Unidos",
+      "genre": "Pop",
+      "selectionLayer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RS-ALB",
+        "APPLE",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "album-013",
+      "type": "album",
+      "artist": "The Beatles",
+      "title": "Revolver",
+      "year": 1966,
+      "decade": "1960",
+      "country": "Reino Unido",
+      "genre": "Rock y pop",
+      "selectionLayer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RS-ALB",
+        "APPLE",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": "album-013",
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "existing-to-review"
+      },
+      "publishable": false
+    },
+    {
+      "id": "album-014",
+      "type": "album",
+      "artist": "Violeta Parra",
+      "title": "Las últimas composiciones",
+      "year": 1966,
+      "decade": "1960",
+      "country": "Chile",
+      "genre": "Nueva canción",
+      "selectionLayer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "600LATAM",
+        "RADIONICA",
+        "ACCLAIM",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": "album-014",
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "existing-to-review"
+      },
+      "publishable": false
+    },
+    {
+      "id": "album-015",
+      "type": "album",
+      "artist": "Aretha Franklin",
+      "title": "I Never Loved a Man the Way I Love You",
+      "year": 1967,
+      "decade": "1960",
+      "country": "Estados Unidos",
+      "genre": "Soul",
+      "selectionLayer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RS-ALB",
+        "APPLE",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": "album-015",
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "existing-to-review"
+      },
+      "publishable": false
+    },
+    {
+      "id": "album-016",
+      "type": "album",
+      "artist": "The Velvet Underground & Nico",
+      "title": "The Velvet Underground & Nico",
+      "year": 1967,
+      "decade": "1960",
+      "country": "Estados Unidos",
+      "genre": "Rock experimental",
+      "selectionLayer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RS-ALB",
+        "APPLE",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": "album-016",
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "existing-to-review"
+      },
+      "publishable": false
+    },
+    {
+      "id": "album-057",
+      "type": "album",
+      "artist": "Jimi Hendrix Experience",
+      "title": "Electric Ladyland",
+      "year": 1968,
+      "decade": "1960",
+      "country": "Estados Unidos",
+      "genre": "Rock psicodélico",
+      "selectionLayer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RS-ALB",
+        "APPLE",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "album-017",
+      "type": "album",
+      "artist": "Os Mutantes",
+      "title": "Os Mutantes",
+      "year": 1968,
+      "decade": "1960",
+      "country": "Brasil",
+      "genre": "Tropicália",
+      "selectionLayer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "600LATAM",
+        "RS-BR",
+        "ACCLAIM",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": "album-017",
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "existing-to-review"
+      },
+      "publishable": false
+    },
+    {
+      "id": "album-058",
+      "type": "album",
+      "artist": "Van Morrison",
+      "title": "Astral Weeks",
+      "year": 1968,
+      "decade": "1960",
+      "country": "Irlanda del Norte",
+      "genre": "Folk soul",
+      "selectionLayer": "Intermedia",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "ACCLAIM",
+        "PITCH",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "album-059",
+      "type": "album",
+      "artist": "Varios artistas",
+      "title": "Tropicália ou Panis et Circencis",
+      "year": 1968,
+      "decade": "1960",
+      "country": "Brasil",
+      "genre": "Tropicália",
+      "selectionLayer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "600LATAM",
+        "RS-BR",
+        "ACCLAIM",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "album-060",
+      "type": "album",
+      "artist": "Nick Drake",
+      "title": "Five Leaves Left",
+      "year": 1969,
+      "decade": "1960",
+      "country": "Reino Unido",
+      "genre": "Folk",
+      "selectionLayer": "Intermedia",
+      "monthlyRole": "Rotación",
+      "sourceRoute": [
+        "ACCLAIM",
+        "PITCH",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "album-061",
+      "type": "album",
+      "artist": "Pharoah Sanders",
+      "title": "Karma",
+      "year": 1969,
+      "decade": "1960",
+      "country": "Estados Unidos",
+      "genre": "Spiritual jazz",
+      "selectionLayer": "Regional/indie",
+      "monthlyRole": "Foco mensual",
+      "sourceRoute": [
+        "JAZZWISE",
+        "PITCH",
+        "ACCLAIM",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "album-062",
+      "type": "album",
+      "artist": "Black Sabbath",
+      "title": "Paranoid",
+      "year": 1970,
+      "decade": "1970",
+      "country": "Reino Unido",
+      "genre": "Heavy metal",
+      "selectionLayer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RS-ALB",
+        "APPLE",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "album-063",
+      "type": "album",
+      "artist": "Alice Coltrane",
+      "title": "Journey in Satchidananda",
+      "year": 1971,
+      "decade": "1970",
+      "country": "Estados Unidos",
+      "genre": "Spiritual jazz",
+      "selectionLayer": "Regional/indie",
+      "monthlyRole": "Rotación",
+      "sourceRoute": [
+        "JAZZWISE",
+        "PITCH",
+        "ACCLAIM",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "album-064",
+      "type": "album",
+      "artist": "Can",
+      "title": "Tago Mago",
+      "year": 1971,
+      "decade": "1970",
+      "country": "Alemania",
+      "genre": "Krautrock",
+      "selectionLayer": "Intermedia",
+      "monthlyRole": "Rotación",
+      "sourceRoute": [
+        "ACCLAIM",
+        "PITCH",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "album-021",
+      "type": "album",
+      "artist": "Chico Buarque",
+      "title": "Construção",
+      "year": 1971,
+      "decade": "1970",
+      "country": "Brasil",
+      "genre": "MPB",
+      "selectionLayer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "600LATAM",
+        "RS-BR",
+        "ACCLAIM",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": "album-021",
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "existing-to-review"
+      },
+      "publishable": false
+    },
+    {
+      "id": "album-065",
+      "type": "album",
+      "artist": "David Bowie",
+      "title": "Hunky Dory",
+      "year": 1971,
+      "decade": "1970",
+      "country": "Reino Unido",
+      "genre": "Art rock",
+      "selectionLayer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RS-ALB",
+        "APPLE",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "album-066",
+      "type": "album",
+      "artist": "Françoise Hardy",
+      "title": "La question",
+      "year": 1971,
+      "decade": "1970",
+      "country": "Francia",
+      "genre": "Chanson y folk",
+      "selectionLayer": "Regional/indie",
+      "monthlyRole": "Rotación",
+      "sourceRoute": [
+        "LESINROCKS",
+        "ROCKDELUX",
+        "ACCLAIM",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "album-049",
+      "type": "album",
+      "artist": "Funkadelic",
+      "title": "Maggot Brain",
+      "year": 1971,
+      "decade": "1970",
+      "country": "Estados Unidos",
+      "genre": "Funk rock",
+      "selectionLayer": "Intermedia",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "ACCLAIM",
+        "PITCH",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": "album-049",
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "existing-to-review"
+      },
+      "publishable": false
+    },
+    {
+      "id": "album-067",
+      "type": "album",
+      "artist": "Happy End",
+      "title": "Kazemachi Roman",
+      "year": 1971,
+      "decade": "1970",
+      "country": "Japón",
+      "genre": "Folk rock",
+      "selectionLayer": "Regional/indie",
+      "monthlyRole": "Foco mensual",
+      "sourceRoute": [
+        "RS-JP",
+        "BEEHYPE",
+        "ACCLAIM",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "album-005",
+      "type": "album",
+      "artist": "Joni Mitchell",
+      "title": "Blue",
+      "year": 1971,
+      "decade": "1970",
+      "country": "Canadá",
+      "genre": "Folk y canción de autor",
+      "selectionLayer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RS-ALB",
+        "APPLE",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": "album-005",
+      "status": {
+        "metadata": "curated",
+        "cover": "existing-to-verify",
+        "streaming": "pending-direct-links",
+        "editorial": "existing-to-review",
+        "essentialReason": "existing-to-review"
+      },
+      "publishable": false
+    },
+    {
+      "id": "album-002",
+      "type": "album",
+      "artist": "Marvin Gaye",
+      "title": "What's Going On",
+      "year": 1971,
+      "decade": "1970",
+      "country": "Estados Unidos",
+      "genre": "Soul",
+      "selectionLayer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RS-ALB",
+        "APPLE",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": "album-002",
+      "status": {
+        "metadata": "curated",
+        "cover": "existing-to-verify",
+        "streaming": "pending-direct-links",
+        "editorial": "existing-to-review",
+        "essentialReason": "existing-to-review"
+      },
+      "publishable": false
+    },
+    {
+      "id": "album-068",
+      "type": "album",
+      "artist": "Serge Gainsbourg",
+      "title": "Histoire de Melody Nelson",
+      "year": 1971,
+      "decade": "1970",
+      "country": "Francia",
+      "genre": "Pop orquestal",
+      "selectionLayer": "Intermedia",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "LESINROCKS",
+        "ROCKDELUX",
+        "ACCLAIM",
+        "PITCH",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "album-069",
+      "type": "album",
+      "artist": "Arthur Verocai",
+      "title": "Arthur Verocai",
+      "year": 1972,
+      "decade": "1970",
+      "country": "Brasil",
+      "genre": "MPB y jazz",
+      "selectionLayer": "Regional/indie",
+      "monthlyRole": "Foco mensual",
+      "sourceRoute": [
+        "600LATAM",
+        "RS-BR",
+        "JAZZWISE",
+        "PITCH",
+        "ACCLAIM"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "album-019",
+      "type": "album",
+      "artist": "Milton Nascimento & Lô Borges",
+      "title": "Clube da Esquina",
+      "year": 1972,
+      "decade": "1970",
+      "country": "Brasil",
+      "genre": "MPB",
+      "selectionLayer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "600LATAM",
+        "RS-BR",
+        "ACCLAIM",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": "album-019",
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "existing-to-review"
+      },
+      "publishable": false
+    },
+    {
+      "id": "album-070",
+      "type": "album",
+      "artist": "Novos Baianos",
+      "title": "Acabou Chorare",
+      "year": 1972,
+      "decade": "1970",
+      "country": "Brasil",
+      "genre": "MPB y samba",
+      "selectionLayer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "600LATAM",
+        "RS-BR",
+        "ACCLAIM",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "album-071",
+      "type": "album",
+      "artist": "Pescado Rabioso",
+      "title": "Artaud",
+      "year": 1973,
+      "decade": "1970",
+      "country": "Argentina",
+      "genre": "Rock argentino",
+      "selectionLayer": "Regional/indie",
+      "monthlyRole": "Foco mensual",
+      "sourceRoute": [
+        "600LATAM",
+        "INDIEHOY",
+        "ACCLAIM",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "album-020",
+      "type": "album",
+      "artist": "Stevie Wonder",
+      "title": "Innervisions",
+      "year": 1973,
+      "decade": "1970",
+      "country": "Estados Unidos",
+      "genre": "Soul y funk",
+      "selectionLayer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RS-ALB",
+        "APPLE",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": "album-020",
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "existing-to-review"
+      },
+      "publishable": false
+    },
+    {
+      "id": "album-072",
+      "type": "album",
+      "artist": "Jorge Ben",
+      "title": "A Tábua de Esmeralda",
+      "year": 1974,
+      "decade": "1970",
+      "country": "Brasil",
+      "genre": "Samba rock",
+      "selectionLayer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "600LATAM",
+        "RS-BR",
+        "ACCLAIM",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "album-073",
+      "type": "album",
+      "artist": "Fela Kuti & Africa 70",
+      "title": "Expensive Shit",
+      "year": 1975,
+      "decade": "1970",
+      "country": "Nigeria",
+      "genre": "Afrobeat",
+      "selectionLayer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "PAM",
+        "ACCLAIM",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "album-023",
+      "type": "album",
+      "artist": "Parliament",
+      "title": "Mothership Connection",
+      "year": 1975,
+      "decade": "1970",
+      "country": "Estados Unidos",
+      "genre": "P-Funk",
+      "selectionLayer": "Intermedia",
+      "monthlyRole": "Rotación",
+      "sourceRoute": [
+        "ACCLAIM",
+        "PITCH",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": "album-023",
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "existing-to-review"
+      },
+      "publishable": false
+    },
+    {
+      "id": "album-022",
+      "type": "album",
+      "artist": "Patti Smith",
+      "title": "Horses",
+      "year": 1975,
+      "decade": "1970",
+      "country": "Estados Unidos",
+      "genre": "Punk y art rock",
+      "selectionLayer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RS-ALB",
+        "APPLE",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": "album-022",
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "existing-to-review"
+      },
+      "publishable": false
+    },
+    {
+      "id": "album-003",
+      "type": "album",
+      "artist": "Kraftwerk",
+      "title": "Trans-Europe Express",
+      "year": 1977,
+      "decade": "1970",
+      "country": "Alemania",
+      "genre": "Electrónica",
+      "selectionLayer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RA",
+        "ROCKDELUX",
+        "RS-ALB",
+        "APPLE",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": "album-003",
+      "status": {
+        "metadata": "curated",
+        "cover": "existing-to-verify",
+        "streaming": "pending-direct-links",
+        "editorial": "existing-to-review",
+        "essentialReason": "existing-to-review"
+      },
+      "publishable": false
+    },
+    {
+      "id": "album-074",
+      "type": "album",
+      "artist": "The Congos",
+      "title": "Heart of the Congos",
+      "year": 1977,
+      "decade": "1970",
+      "country": "Jamaica",
+      "genre": "Roots reggae",
+      "selectionLayer": "Regional/indie",
+      "monthlyRole": "Rotación",
+      "sourceRoute": [
+        "ACCLAIM",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "album-075",
+      "type": "album",
+      "artist": "Brian Eno",
+      "title": "Ambient 1: Music for Airports",
+      "year": 1978,
+      "decade": "1970",
+      "country": "Reino Unido",
+      "genre": "Ambient",
+      "selectionLayer": "Intermedia",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RA",
+        "ROCKDELUX",
+        "ACCLAIM",
+        "PITCH",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "album-025",
+      "type": "album",
+      "artist": "Willie Colón & Rubén Blades",
+      "title": "Siembra",
+      "year": 1978,
+      "decade": "1970",
+      "country": "Estados Unidos / Panamá",
+      "genre": "Salsa",
+      "selectionLayer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "600LATAM",
+        "RADIONICA",
+        "ACCLAIM",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": "album-025",
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "existing-to-review"
+      },
+      "publishable": false
+    },
+    {
+      "id": "album-076",
+      "type": "album",
+      "artist": "Yellow Magic Orchestra",
+      "title": "Solid State Survivor",
+      "year": 1979,
+      "decade": "1970",
+      "country": "Japón",
+      "genre": "Electropop",
+      "selectionLayer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RS-JP",
+        "BEEHYPE",
+        "RA",
+        "ROCKDELUX",
+        "ACCLAIM"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "album-027",
+      "type": "album",
+      "artist": "Talking Heads",
+      "title": "Remain in Light",
+      "year": 1980,
+      "decade": "1980",
+      "country": "Estados Unidos",
+      "genre": "Art rock y funk",
+      "selectionLayer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RS-ALB",
+        "APPLE",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": "album-027",
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "existing-to-review"
+      },
+      "publishable": false
+    },
+    {
+      "id": "album-077",
+      "type": "album",
+      "artist": "Los Jaivas",
+      "title": "Alturas de Macchu Picchu",
+      "year": 1981,
+      "decade": "1980",
+      "country": "Chile",
+      "genre": "Rock progresivo andino",
+      "selectionLayer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "600LATAM",
+        "RADIONICA",
+        "ACCLAIM",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "album-028",
+      "type": "album",
+      "artist": "Charly García",
+      "title": "Clics modernos",
+      "year": 1983,
+      "decade": "1980",
+      "country": "Argentina",
+      "genre": "Rock y new wave",
+      "selectionLayer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "600LATAM",
+        "INDIEHOY",
+        "ACCLAIM",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": "album-028",
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "existing-to-review"
+      },
+      "publishable": false
+    },
+    {
+      "id": "album-078",
+      "type": "album",
+      "artist": "Sade",
+      "title": "Diamond Life",
+      "year": 1984,
+      "decade": "1980",
+      "country": "Reino Unido",
+      "genre": "Soul y sophisti-pop",
+      "selectionLayer": "Intermedia",
+      "monthlyRole": "Rotación",
+      "sourceRoute": [
+        "ACCLAIM",
+        "PITCH",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "album-029",
+      "type": "album",
+      "artist": "Kate Bush",
+      "title": "Hounds of Love",
+      "year": 1985,
+      "decade": "1980",
+      "country": "Reino Unido",
+      "genre": "Art pop",
+      "selectionLayer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RS-ALB",
+        "APPLE",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": "album-029",
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "existing-to-review"
+      },
+      "publishable": false
+    },
+    {
+      "id": "album-031",
+      "type": "album",
+      "artist": "Janet Jackson",
+      "title": "Control",
+      "year": 1986,
+      "decade": "1980",
+      "country": "Estados Unidos",
+      "genre": "Pop y R&B",
+      "selectionLayer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RS-ALB",
+        "APPLE",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": "album-031",
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "existing-to-review"
+      },
+      "publishable": false
+    },
+    {
+      "id": "album-079",
+      "type": "album",
+      "artist": "The Smiths",
+      "title": "The Queen Is Dead",
+      "year": 1986,
+      "decade": "1980",
+      "country": "Reino Unido",
+      "genre": "Indie rock",
+      "selectionLayer": "Canon",
+      "monthlyRole": "Rotación",
+      "sourceRoute": [
+        "RS-ALB",
+        "APPLE",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "album-030",
+      "type": "album",
+      "artist": "Prince",
+      "title": "Sign o' the Times",
+      "year": 1987,
+      "decade": "1980",
+      "country": "Estados Unidos",
+      "genre": "Pop y funk",
+      "selectionLayer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RS-ALB",
+        "APPLE",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": "album-030",
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "existing-to-review"
+      },
+      "publishable": false
+    },
+    {
+      "id": "album-080",
+      "type": "album",
+      "artist": "N.W.A",
+      "title": "Straight Outta Compton",
+      "year": 1988,
+      "decade": "1980",
+      "country": "Estados Unidos",
+      "genre": "Hip-hop",
+      "selectionLayer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RS-ALB",
+        "APPLE",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "album-081",
+      "type": "album",
+      "artist": "Public Enemy",
+      "title": "It Takes a Nation of Millions to Hold Us Back",
+      "year": 1988,
+      "decade": "1980",
+      "country": "Estados Unidos",
+      "genre": "Hip-hop",
+      "selectionLayer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RS-ALB",
+        "APPLE",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "album-082",
+      "type": "album",
+      "artist": "Sonic Youth",
+      "title": "Daydream Nation",
+      "year": 1988,
+      "decade": "1980",
+      "country": "Estados Unidos",
+      "genre": "Noise rock",
+      "selectionLayer": "Intermedia",
+      "monthlyRole": "Rotación",
+      "sourceRoute": [
+        "ACCLAIM",
+        "PITCH",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "album-083",
+      "type": "album",
+      "artist": "Nusrat Fateh Ali Khan",
+      "title": "Shahen-Shah",
+      "year": 1989,
+      "decade": "1980",
+      "country": "Pakistán",
+      "genre": "Qawwali",
+      "selectionLayer": "Regional/indie",
+      "monthlyRole": "Foco mensual",
+      "sourceRoute": [
+        "ACCLAIM",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "album-084",
+      "type": "album",
+      "artist": "The Cure",
+      "title": "Disintegration",
+      "year": 1989,
+      "decade": "1980",
+      "country": "Reino Unido",
+      "genre": "Rock alternativo",
+      "selectionLayer": "Canon",
+      "monthlyRole": "Rotación",
+      "sourceRoute": [
+        "RS-ALB",
+        "APPLE",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "album-085",
+      "type": "album",
+      "artist": "Cocteau Twins",
+      "title": "Heaven or Las Vegas",
+      "year": 1990,
+      "decade": "1990",
+      "country": "Escocia",
+      "genre": "Dream pop",
+      "selectionLayer": "Intermedia",
+      "monthlyRole": "Rotación",
+      "sourceRoute": [
+        "ACCLAIM",
+        "PITCH",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "album-086",
+      "type": "album",
+      "artist": "A Tribe Called Quest",
+      "title": "The Low End Theory",
+      "year": 1991,
+      "decade": "1990",
+      "country": "Estados Unidos",
+      "genre": "Hip-hop",
+      "selectionLayer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RS-ALB",
+        "APPLE",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "album-036",
+      "type": "album",
+      "artist": "Massive Attack",
+      "title": "Blue Lines",
+      "year": 1991,
+      "decade": "1990",
+      "country": "Reino Unido",
+      "genre": "Trip-hop",
+      "selectionLayer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RA",
+        "ROCKDELUX",
+        "RS-ALB",
+        "APPLE",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": "album-036",
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "existing-to-review"
+      },
+      "publishable": false
+    },
+    {
+      "id": "album-006",
+      "type": "album",
+      "artist": "My Bloody Valentine",
+      "title": "Loveless",
+      "year": 1991,
+      "decade": "1990",
+      "country": "Irlanda",
+      "genre": "Shoegaze",
+      "selectionLayer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RS-ALB",
+        "APPLE",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": "album-006",
+      "status": {
+        "metadata": "curated",
+        "cover": "existing-to-verify",
+        "streaming": "pending-direct-links",
+        "editorial": "existing-to-review",
+        "essentialReason": "existing-to-review"
+      },
+      "publishable": false
+    },
+    {
+      "id": "album-087",
+      "type": "album",
+      "artist": "Aphex Twin",
+      "title": "Selected Ambient Works 85–92",
+      "year": 1992,
+      "decade": "1990",
+      "country": "Reino Unido",
+      "genre": "Electrónica",
+      "selectionLayer": "Intermedia",
+      "monthlyRole": "Rotación",
+      "sourceRoute": [
+        "RA",
+        "ROCKDELUX",
+        "ACCLAIM",
+        "PITCH",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "album-088",
+      "type": "album",
+      "artist": "Nirvana",
+      "title": "In Utero",
+      "year": 1993,
+      "decade": "1990",
+      "country": "Estados Unidos",
+      "genre": "Rock alternativo",
+      "selectionLayer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RS-ALB",
+        "APPLE",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "album-089",
+      "type": "album",
+      "artist": "PJ Harvey",
+      "title": "Rid of Me",
+      "year": 1993,
+      "decade": "1990",
+      "country": "Reino Unido",
+      "genre": "Rock alternativo",
+      "selectionLayer": "Intermedia",
+      "monthlyRole": "Rotación",
+      "sourceRoute": [
+        "ACCLAIM",
+        "PITCH",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "album-090",
+      "type": "album",
+      "artist": "Wu-Tang Clan",
+      "title": "Enter the Wu-Tang (36 Chambers)",
+      "year": 1993,
+      "decade": "1990",
+      "country": "Estados Unidos",
+      "genre": "Hip-hop",
+      "selectionLayer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RS-ALB",
+        "APPLE",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "album-032",
+      "type": "album",
+      "artist": "Café Tacvba",
+      "title": "Re",
+      "year": 1994,
+      "decade": "1990",
+      "country": "México",
+      "genre": "Rock alternativo latino",
+      "selectionLayer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "600LATAM",
+        "RADIONICA",
+        "ACCLAIM",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": "album-032",
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "existing-to-review"
+      },
+      "publishable": false
+    },
+    {
+      "id": "album-038",
+      "type": "album",
+      "artist": "Nas",
+      "title": "Illmatic",
+      "year": 1994,
+      "decade": "1990",
+      "country": "Estados Unidos",
+      "genre": "Hip-hop",
+      "selectionLayer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RS-ALB",
+        "APPLE",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": "album-038",
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "existing-to-review"
+      },
+      "publishable": false
+    },
+    {
+      "id": "album-037",
+      "type": "album",
+      "artist": "Portishead",
+      "title": "Dummy",
+      "year": 1994,
+      "decade": "1990",
+      "country": "Reino Unido",
+      "genre": "Trip-hop",
+      "selectionLayer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RA",
+        "ROCKDELUX",
+        "RS-ALB",
+        "APPLE",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": "album-037",
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "existing-to-review"
+      },
+      "publishable": false
+    },
+    {
+      "id": "album-091",
+      "type": "album",
+      "artist": "Fishmans",
+      "title": "Long Season",
+      "year": 1996,
+      "decade": "1990",
+      "country": "Japón",
+      "genre": "Dream pop y dub",
+      "selectionLayer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RS-JP",
+        "BEEHYPE",
+        "ACCLAIM",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "album-092",
+      "type": "album",
+      "artist": "Motorbass",
+      "title": "Pansoul",
+      "year": 1996,
+      "decade": "1990",
+      "country": "Francia",
+      "genre": "French house",
+      "selectionLayer": "Intermedia",
+      "monthlyRole": "Rotación",
+      "sourceRoute": [
+        "LESINROCKS",
+        "ROCKDELUX",
+        "RA",
+        "ACCLAIM",
+        "PITCH"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "album-033",
+      "type": "album",
+      "artist": "Björk",
+      "title": "Homogenic",
+      "year": 1997,
+      "decade": "1990",
+      "country": "Islandia",
+      "genre": "Art pop y electrónica",
+      "selectionLayer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RA",
+        "ROCKDELUX",
+        "RS-ALB",
+        "APPLE",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": "album-033",
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "existing-to-review"
+      },
+      "publishable": false
+    },
+    {
+      "id": "album-093",
+      "type": "album",
+      "artist": "Racionais MC's",
+      "title": "Sobrevivendo no Inferno",
+      "year": 1997,
+      "decade": "1990",
+      "country": "Brasil",
+      "genre": "Hip-hop",
+      "selectionLayer": "Regional/indie",
+      "monthlyRole": "Foco mensual",
+      "sourceRoute": [
+        "600LATAM",
+        "RS-BR",
+        "ACCLAIM",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "album-094",
+      "type": "album",
+      "artist": "Air",
+      "title": "Moon Safari",
+      "year": 1998,
+      "decade": "1990",
+      "country": "Francia",
+      "genre": "Downtempo",
+      "selectionLayer": "Intermedia",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "LESINROCKS",
+        "ROCKDELUX",
+        "RA",
+        "ACCLAIM",
+        "PITCH"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "album-095",
+      "type": "album",
+      "artist": "Aterciopelados",
+      "title": "Caribe Atómico",
+      "year": 1998,
+      "decade": "1990",
+      "country": "Colombia",
+      "genre": "Rock alternativo latino",
+      "selectionLayer": "Regional/indie",
+      "monthlyRole": "Foco mensual",
+      "sourceRoute": [
+        "600LATAM",
+        "RADIONICA",
+        "ACCLAIM",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "album-034",
+      "type": "album",
+      "artist": "Lauryn Hill",
+      "title": "The Miseducation of Lauryn Hill",
+      "year": 1998,
+      "decade": "1990",
+      "country": "Estados Unidos",
+      "genre": "Hip-hop y soul",
+      "selectionLayer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RS-ALB",
+        "APPLE",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": "album-034",
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "existing-to-review"
+      },
+      "publishable": false
+    },
+    {
+      "id": "album-039",
+      "type": "album",
+      "artist": "Shakira",
+      "title": "¿Dónde están los ladrones?",
+      "year": 1998,
+      "decade": "1990",
+      "country": "Colombia",
+      "genre": "Pop rock latino",
+      "selectionLayer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "600LATAM",
+        "RADIONICA",
+        "ACCLAIM",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": "album-039",
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "existing-to-review"
+      },
+      "publishable": false
+    },
+    {
+      "id": "album-035",
+      "type": "album",
+      "artist": "Gustavo Cerati",
+      "title": "Bocanada",
+      "year": 1999,
+      "decade": "1990",
+      "country": "Argentina",
+      "genre": "Art pop y electrónica",
+      "selectionLayer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "600LATAM",
+        "INDIEHOY",
+        "RA",
+        "ROCKDELUX",
+        "ACCLAIM"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": "album-035",
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "existing-to-review"
+      },
+      "publishable": false
+    },
+    {
+      "id": "album-096",
+      "type": "album",
+      "artist": "Julieta Venegas",
+      "title": "Bueninvento",
+      "year": 2000,
+      "decade": "2000",
+      "country": "México",
+      "genre": "Pop rock",
+      "selectionLayer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "600LATAM",
+        "RADIONICA",
+        "ACCLAIM",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "album-040",
+      "type": "album",
+      "artist": "Radiohead",
+      "title": "Kid A",
+      "year": 2000,
+      "decade": "2000",
+      "country": "Reino Unido",
+      "genre": "Art rock y electrónica",
+      "selectionLayer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RA",
+        "ROCKDELUX",
+        "RS-ALB",
+        "APPLE",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": "album-040",
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "existing-to-review"
+      },
+      "publishable": false
+    },
+    {
+      "id": "album-007",
+      "type": "album",
+      "artist": "Daft Punk",
+      "title": "Discovery",
+      "year": 2001,
+      "decade": "2000",
+      "country": "Francia",
+      "genre": "House y pop",
+      "selectionLayer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "LESINROCKS",
+        "ROCKDELUX",
+        "RA",
+        "RS-ALB",
+        "APPLE"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": "album-007",
+      "status": {
+        "metadata": "curated",
+        "cover": "existing-to-verify",
+        "streaming": "pending-direct-links",
+        "editorial": "existing-to-review",
+        "essentialReason": "existing-to-review"
+      },
+      "publishable": false
+    },
+    {
+      "id": "album-041",
+      "type": "album",
+      "artist": "The Strokes",
+      "title": "Is This It",
+      "year": 2001,
+      "decade": "2000",
+      "country": "Estados Unidos",
+      "genre": "Indie rock",
+      "selectionLayer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RS-ALB",
+        "APPLE",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": "album-041",
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "existing-to-review"
+      },
+      "publishable": false
+    },
+    {
+      "id": "album-097",
+      "type": "album",
+      "artist": "Tego Calderón",
+      "title": "El Abayarde",
+      "year": 2002,
+      "decade": "2000",
+      "country": "Puerto Rico",
+      "genre": "Reguetón y hip-hop",
+      "selectionLayer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "600LATAM",
+        "RADIONICA",
+        "ACCLAIM",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "album-098",
+      "type": "album",
+      "artist": "Madvillain",
+      "title": "Madvillainy",
+      "year": 2004,
+      "decade": "2000",
+      "country": "Estados Unidos",
+      "genre": "Hip-hop",
+      "selectionLayer": "Intermedia",
+      "monthlyRole": "Rotación",
+      "sourceRoute": [
+        "ACCLAIM",
+        "PITCH",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "album-099",
+      "type": "album",
+      "artist": "Phoenix",
+      "title": "Alphabetical",
+      "year": 2004,
+      "decade": "2000",
+      "country": "Francia",
+      "genre": "Indie pop",
+      "selectionLayer": "Intermedia",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "LESINROCKS",
+        "ROCKDELUX",
+        "ACCLAIM",
+        "PITCH",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "album-042",
+      "type": "album",
+      "artist": "Amy Winehouse",
+      "title": "Back to Black",
+      "year": 2006,
+      "decade": "2000",
+      "country": "Reino Unido",
+      "genre": "Soul",
+      "selectionLayer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RS-ALB",
+        "APPLE",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": "album-042",
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "existing-to-review"
+      },
+      "publishable": false
+    },
+    {
+      "id": "album-044",
+      "type": "album",
+      "artist": "Burial",
+      "title": "Untrue",
+      "year": 2007,
+      "decade": "2000",
+      "country": "Reino Unido",
+      "genre": "UK garage y ambient",
+      "selectionLayer": "Intermedia",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RA",
+        "ROCKDELUX",
+        "ACCLAIM",
+        "PITCH",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": "album-044",
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "existing-to-review"
+      },
+      "publishable": false
+    },
+    {
+      "id": "album-100",
+      "type": "album",
+      "artist": "LCD Soundsystem",
+      "title": "Sound of Silver",
+      "year": 2007,
+      "decade": "2000",
+      "country": "Estados Unidos",
+      "genre": "Dance-punk",
+      "selectionLayer": "Intermedia",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "ACCLAIM",
+        "PITCH",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "album-043",
+      "type": "album",
+      "artist": "M.I.A.",
+      "title": "Kala",
+      "year": 2007,
+      "decade": "2000",
+      "country": "Reino Unido / Sri Lanka",
+      "genre": "Hip-hop y electrónica",
+      "selectionLayer": "Intermedia",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RA",
+        "ROCKDELUX",
+        "ACCLAIM",
+        "PITCH",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": "album-043",
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "existing-to-review"
+      },
+      "publishable": false
+    },
+    {
+      "id": "album-101",
+      "type": "album",
+      "artist": "Ana Tijoux",
+      "title": "1977",
+      "year": 2010,
+      "decade": "2010",
+      "country": "Chile",
+      "genre": "Hip-hop",
+      "selectionLayer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "600LATAM",
+        "RADIONICA",
+        "ACCLAIM",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "album-045",
+      "type": "album",
+      "artist": "Frank Ocean",
+      "title": "Channel Orange",
+      "year": 2012,
+      "decade": "2010",
+      "country": "Estados Unidos",
+      "genre": "R&B",
+      "selectionLayer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RS-ALB",
+        "APPLE",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": "album-045",
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "existing-to-review"
+      },
+      "publishable": false
+    },
+    {
+      "id": "album-102",
+      "type": "album",
+      "artist": "D'Angelo and the Vanguard",
+      "title": "Black Messiah",
+      "year": 2014,
+      "decade": "2010",
+      "country": "Estados Unidos",
+      "genre": "Soul y funk",
+      "selectionLayer": "Intermedia",
+      "monthlyRole": "Rotación",
+      "sourceRoute": [
+        "ACCLAIM",
+        "PITCH",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "album-103",
+      "type": "album",
+      "artist": "Elza Soares",
+      "title": "A Mulher do Fim do Mundo",
+      "year": 2015,
+      "decade": "2010",
+      "country": "Brasil",
+      "genre": "MPB experimental",
+      "selectionLayer": "Regional/indie",
+      "monthlyRole": "Foco mensual",
+      "sourceRoute": [
+        "600LATAM",
+        "RS-BR",
+        "ACCLAIM",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "album-009",
+      "type": "album",
+      "artist": "Kendrick Lamar",
+      "title": "To Pimp a Butterfly",
+      "year": 2015,
+      "decade": "2010",
+      "country": "Estados Unidos",
+      "genre": "Hip-hop",
+      "selectionLayer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RS-ALB",
+        "APPLE",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": "album-009",
+      "status": {
+        "metadata": "curated",
+        "cover": "existing-to-verify",
+        "streaming": "pending-direct-links",
+        "editorial": "existing-to-review",
+        "essentialReason": "existing-to-review"
+      },
+      "publishable": false
+    },
+    {
+      "id": "album-104",
+      "type": "album",
+      "artist": "Solange",
+      "title": "A Seat at the Table",
+      "year": 2016,
+      "decade": "2010",
+      "country": "Estados Unidos",
+      "genre": "R&B",
+      "selectionLayer": "Intermedia",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "ACCLAIM",
+        "PITCH",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "album-046",
+      "type": "album",
+      "artist": "Rosalía",
+      "title": "El mal querer",
+      "year": 2018,
+      "decade": "2010",
+      "country": "España",
+      "genre": "Flamenco pop",
+      "selectionLayer": "Intermedia",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "ROCKDELUX",
+        "ACCLAIM",
+        "PITCH",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": "album-046",
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "existing-to-review"
+      },
+      "publishable": false
+    },
+    {
+      "id": "album-105",
+      "type": "album",
+      "artist": "SOPHIE",
+      "title": "Oil of Every Pearl's Un-Insides",
+      "year": 2018,
+      "decade": "2010",
+      "country": "Escocia",
+      "genre": "Pop experimental",
+      "selectionLayer": "Regional/indie",
+      "monthlyRole": "Foco mensual",
+      "sourceRoute": [
+        "ACCLAIM",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "album-047",
+      "type": "album",
+      "artist": "Fiona Apple",
+      "title": "Fetch the Bolt Cutters",
+      "year": 2020,
+      "decade": "2020",
+      "country": "Estados Unidos",
+      "genre": "Art pop",
+      "selectionLayer": "Intermedia",
+      "monthlyRole": "Rotación",
+      "sourceRoute": [
+        "ACCLAIM",
+        "PITCH",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": "album-047",
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "existing-to-review"
+      },
+      "publishable": false
+    },
+    {
+      "id": "album-106",
+      "type": "album",
+      "artist": "Bad Bunny",
+      "title": "Un verano sin ti",
+      "year": 2022,
+      "decade": "2020",
+      "country": "Puerto Rico",
+      "genre": "Reguetón y pop",
+      "selectionLayer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "600LATAM",
+        "RADIONICA",
+        "RS-ALB",
+        "APPLE",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "album-107",
+      "type": "album",
+      "artist": "Beyoncé",
+      "title": "Renaissance",
+      "year": 2022,
+      "decade": "2020",
+      "country": "Estados Unidos",
+      "genre": "Dance y R&B",
+      "selectionLayer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RS-ALB",
+        "APPLE",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "album-108",
+      "type": "album",
+      "artist": "Silvana Estrada",
+      "title": "Marchita",
+      "year": 2022,
+      "decade": "2020",
+      "country": "México",
+      "genre": "Canción de autor",
+      "selectionLayer": "Regional/indie",
+      "monthlyRole": "Foco mensual",
+      "sourceRoute": [
+        "600LATAM",
+        "RADIONICA",
+        "ACCLAIM",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "song-011",
+      "type": "song",
+      "artist": "Billie Holiday",
+      "title": "Strange Fruit",
+      "year": 1939,
+      "decade": "1930",
+      "country": "Estados Unidos",
+      "genre": "Jazz vocal",
+      "selectionLayer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "JAZZWISE",
+        "PITCH",
+        "RS-SONG",
+        "LOC",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": "song-011",
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "existing-to-review"
+      },
+      "publishable": false
+    },
+    {
+      "id": "song-012",
+      "type": "song",
+      "artist": "Édith Piaf",
+      "title": "La vie en rose",
+      "year": 1946,
+      "decade": "1940",
+      "country": "Francia",
+      "genre": "Chanson",
+      "selectionLayer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "LESINROCKS",
+        "ROCKDELUX",
+        "RS-SONG",
+        "LOC",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": "song-012",
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "existing-to-review"
+      },
+      "publishable": false
+    },
+    {
+      "id": "song-051",
+      "type": "song",
+      "artist": "Muddy Waters",
+      "title": "Hoochie Coochie Man",
+      "year": 1954,
+      "decade": "1950",
+      "country": "Estados Unidos",
+      "genre": "Blues",
+      "selectionLayer": "Canon",
+      "monthlyRole": "Rotación",
+      "sourceRoute": [
+        "RS-SONG",
+        "LOC",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "song-001",
+      "type": "song",
+      "artist": "Chuck Berry",
+      "title": "Johnny B. Goode",
+      "year": 1958,
+      "decade": "1950",
+      "country": "Estados Unidos",
+      "genre": "Rock and roll",
+      "selectionLayer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RS-SONG",
+        "LOC",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": "song-001",
+      "status": {
+        "metadata": "curated",
+        "cover": "existing-to-verify",
+        "streaming": "pending-direct-links",
+        "editorial": "existing-to-review",
+        "essentialReason": "existing-to-review"
+      },
+      "publishable": false
+    },
+    {
+      "id": "song-052",
+      "type": "song",
+      "artist": "João Gilberto",
+      "title": "Chega de Saudade",
+      "year": 1958,
+      "decade": "1950",
+      "country": "Brasil",
+      "genre": "Bossa nova",
+      "selectionLayer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "600LATAM",
+        "RS-BR",
+        "ACCLAIM",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "song-053",
+      "type": "song",
+      "artist": "Ray Charles",
+      "title": "What'd I Say",
+      "year": 1959,
+      "decade": "1950",
+      "country": "Estados Unidos",
+      "genre": "Soul y R&B",
+      "selectionLayer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RS-SONG",
+        "LOC",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "song-013",
+      "type": "song",
+      "artist": "Sam Cooke",
+      "title": "A Change Is Gonna Come",
+      "year": 1964,
+      "decade": "1960",
+      "country": "Estados Unidos",
+      "genre": "Soul",
+      "selectionLayer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RS-SONG",
+        "LOC",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": "song-013",
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "existing-to-review"
+      },
+      "publishable": false
+    },
+    {
+      "id": "song-014",
+      "type": "song",
+      "artist": "Bob Dylan",
+      "title": "Like a Rolling Stone",
+      "year": 1965,
+      "decade": "1960",
+      "country": "Estados Unidos",
+      "genre": "Folk rock",
+      "selectionLayer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RS-SONG",
+        "LOC",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": "song-014",
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "existing-to-review"
+      },
+      "publishable": false
+    },
+    {
+      "id": "song-018",
+      "type": "song",
+      "artist": "Nina Simone",
+      "title": "Sinnerman",
+      "year": 1965,
+      "decade": "1960",
+      "country": "Estados Unidos",
+      "genre": "Jazz y gospel",
+      "selectionLayer": "Intermedia",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "JAZZWISE",
+        "PITCH",
+        "ACCLAIM",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": "song-018",
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "existing-to-review"
+      },
+      "publishable": false
+    },
+    {
+      "id": "song-054",
+      "type": "song",
+      "artist": "Violeta Parra",
+      "title": "Volver a los 17",
+      "year": 1966,
+      "decade": "1960",
+      "country": "Chile",
+      "genre": "Nueva canción",
+      "selectionLayer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "600LATAM",
+        "RADIONICA",
+        "ACCLAIM",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "song-016",
+      "type": "song",
+      "artist": "Aretha Franklin",
+      "title": "Respect",
+      "year": 1967,
+      "decade": "1960",
+      "country": "Estados Unidos",
+      "genre": "Soul",
+      "selectionLayer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RS-SONG",
+        "LOC",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": "song-016",
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "existing-to-review"
+      },
+      "publishable": false
+    },
+    {
+      "id": "song-055",
+      "type": "song",
+      "artist": "James Brown",
+      "title": "Cold Sweat",
+      "year": 1967,
+      "decade": "1960",
+      "country": "Estados Unidos",
+      "genre": "Funk",
+      "selectionLayer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RS-SONG",
+        "LOC",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "song-017",
+      "type": "song",
+      "artist": "The Beatles",
+      "title": "A Day in the Life",
+      "year": 1967,
+      "decade": "1960",
+      "country": "Reino Unido",
+      "genre": "Rock y pop",
+      "selectionLayer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RS-SONG",
+        "LOC",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": "song-017",
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "existing-to-review"
+      },
+      "publishable": false
+    },
+    {
+      "id": "song-019",
+      "type": "song",
+      "artist": "Glen Campbell",
+      "title": "Wichita Lineman",
+      "year": 1968,
+      "decade": "1960",
+      "country": "Estados Unidos",
+      "genre": "Country pop",
+      "selectionLayer": "Intermedia",
+      "monthlyRole": "Rotación",
+      "sourceRoute": [
+        "ACCLAIM",
+        "PITCH",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": "song-019",
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "existing-to-review"
+      },
+      "publishable": false
+    },
+    {
+      "id": "song-056",
+      "type": "song",
+      "artist": "Os Mutantes",
+      "title": "A Minha Menina",
+      "year": 1968,
+      "decade": "1960",
+      "country": "Brasil",
+      "genre": "Tropicália",
+      "selectionLayer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "600LATAM",
+        "RS-BR",
+        "ACCLAIM",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "song-057",
+      "type": "song",
+      "artist": "Mercedes Sosa",
+      "title": "Duerme negrito",
+      "year": 1969,
+      "decade": "1960",
+      "country": "Argentina",
+      "genre": "Folk latinoamericano",
+      "selectionLayer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "600LATAM",
+        "INDIEHOY",
+        "ACCLAIM",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "song-058",
+      "type": "song",
+      "artist": "Fairuz",
+      "title": "Nassam Alayna el-Hawa",
+      "year": 1970,
+      "decade": "1970",
+      "country": "Líbano",
+      "genre": "Pop árabe",
+      "selectionLayer": "Regional/indie",
+      "monthlyRole": "Foco mensual",
+      "sourceRoute": [
+        "ACCLAIM",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "song-059",
+      "type": "song",
+      "artist": "Chico Buarque",
+      "title": "Construção",
+      "year": 1971,
+      "decade": "1970",
+      "country": "Brasil",
+      "genre": "MPB",
+      "selectionLayer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "600LATAM",
+        "RS-BR",
+        "ACCLAIM",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "song-060",
+      "type": "song",
+      "artist": "Françoise Hardy",
+      "title": "La question",
+      "year": 1971,
+      "decade": "1970",
+      "country": "Francia",
+      "genre": "Chanson y folk",
+      "selectionLayer": "Regional/indie",
+      "monthlyRole": "Foco mensual",
+      "sourceRoute": [
+        "LESINROCKS",
+        "ROCKDELUX",
+        "ACCLAIM",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "song-061",
+      "type": "song",
+      "artist": "Happy End",
+      "title": "Kaze wo Atsumete",
+      "year": 1971,
+      "decade": "1970",
+      "country": "Japón",
+      "genre": "Folk rock",
+      "selectionLayer": "Regional/indie",
+      "monthlyRole": "Foco mensual",
+      "sourceRoute": [
+        "RS-JP",
+        "BEEHYPE",
+        "ACCLAIM",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "song-062",
+      "type": "song",
+      "artist": "Marvin Gaye",
+      "title": "Inner City Blues (Make Me Wanna Holler)",
+      "year": 1971,
+      "decade": "1970",
+      "country": "Estados Unidos",
+      "genre": "Soul",
+      "selectionLayer": "Canon",
+      "monthlyRole": "Rotación",
+      "sourceRoute": [
+        "RS-SONG",
+        "LOC",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "song-063",
+      "type": "song",
+      "artist": "Serge Gainsbourg",
+      "title": "Ballade de Melody Nelson",
+      "year": 1971,
+      "decade": "1970",
+      "country": "Francia",
+      "genre": "Pop orquestal",
+      "selectionLayer": "Intermedia",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "LESINROCKS",
+        "ROCKDELUX",
+        "ACCLAIM",
+        "PITCH",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "song-064",
+      "type": "song",
+      "artist": "Milton Nascimento",
+      "title": "Cais",
+      "year": 1972,
+      "decade": "1970",
+      "country": "Brasil",
+      "genre": "MPB",
+      "selectionLayer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "600LATAM",
+        "RS-BR",
+        "ACCLAIM",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "song-065",
+      "type": "song",
+      "artist": "Novos Baianos",
+      "title": "Mistério do Planeta",
+      "year": 1972,
+      "decade": "1970",
+      "country": "Brasil",
+      "genre": "MPB y samba",
+      "selectionLayer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "600LATAM",
+        "RS-BR",
+        "ACCLAIM",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "song-023",
+      "type": "song",
+      "artist": "Dolly Parton",
+      "title": "Jolene",
+      "year": 1973,
+      "decade": "1970",
+      "country": "Estados Unidos",
+      "genre": "Country",
+      "selectionLayer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RS-SONG",
+        "LOC",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": "song-023",
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "existing-to-review"
+      },
+      "publishable": false
+    },
+    {
+      "id": "song-066",
+      "type": "song",
+      "artist": "Pescado Rabioso",
+      "title": "Cementerio Club",
+      "year": 1973,
+      "decade": "1970",
+      "country": "Argentina",
+      "genre": "Rock argentino",
+      "selectionLayer": "Regional/indie",
+      "monthlyRole": "Foco mensual",
+      "sourceRoute": [
+        "600LATAM",
+        "INDIEHOY",
+        "ACCLAIM",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "song-067",
+      "type": "song",
+      "artist": "Elis Regina & Tom Jobim",
+      "title": "Águas de Março",
+      "year": 1974,
+      "decade": "1970",
+      "country": "Brasil",
+      "genre": "MPB y bossa nova",
+      "selectionLayer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "600LATAM",
+        "RS-BR",
+        "RS-SONG",
+        "LOC",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "song-068",
+      "type": "song",
+      "artist": "Jorge Ben",
+      "title": "Os Alquimistas Estão Chegando os Alquimistas",
+      "year": 1974,
+      "decade": "1970",
+      "country": "Brasil",
+      "genre": "Samba rock",
+      "selectionLayer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "600LATAM",
+        "RS-BR",
+        "ACCLAIM",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "song-069",
+      "type": "song",
+      "artist": "Mulatu Astatke",
+      "title": "Tezeta",
+      "year": 1974,
+      "decade": "1970",
+      "country": "Etiopía",
+      "genre": "Ethio-jazz",
+      "selectionLayer": "Regional/indie",
+      "monthlyRole": "Foco mensual",
+      "sourceRoute": [
+        "PAM",
+        "JAZZWISE",
+        "PITCH",
+        "ACCLAIM",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "song-070",
+      "type": "song",
+      "artist": "Fela Kuti",
+      "title": "Water No Get Enemy",
+      "year": 1975,
+      "decade": "1970",
+      "country": "Nigeria",
+      "genre": "Afrobeat",
+      "selectionLayer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "PAM",
+        "ACCLAIM",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "song-071",
+      "type": "song",
+      "artist": "Cartola",
+      "title": "O Mundo É um Moinho",
+      "year": 1976,
+      "decade": "1970",
+      "country": "Brasil",
+      "genre": "Samba",
+      "selectionLayer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "600LATAM",
+        "RS-BR",
+        "ACCLAIM",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "song-072",
+      "type": "song",
+      "artist": "Joni Mitchell",
+      "title": "Amelia",
+      "year": 1976,
+      "decade": "1970",
+      "country": "Canadá",
+      "genre": "Folk y canción de autor",
+      "selectionLayer": "Intermedia",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "ACCLAIM",
+        "PITCH",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "song-022",
+      "type": "song",
+      "artist": "Stevie Wonder",
+      "title": "As",
+      "year": 1976,
+      "decade": "1970",
+      "country": "Estados Unidos",
+      "genre": "Soul",
+      "selectionLayer": "Intermedia",
+      "monthlyRole": "Rotación",
+      "sourceRoute": [
+        "ACCLAIM",
+        "PITCH",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": "song-022",
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "existing-to-review"
+      },
+      "publishable": false
+    },
+    {
+      "id": "song-021",
+      "type": "song",
+      "artist": "David Bowie",
+      "title": "Sound and Vision",
+      "year": 1977,
+      "decade": "1970",
+      "country": "Reino Unido",
+      "genre": "Art rock",
+      "selectionLayer": "Intermedia",
+      "monthlyRole": "Rotación",
+      "sourceRoute": [
+        "ACCLAIM",
+        "PITCH",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": "song-021",
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "existing-to-review"
+      },
+      "publishable": false
+    },
+    {
+      "id": "song-073",
+      "type": "song",
+      "artist": "Miriam Makeba",
+      "title": "Soweto Blues",
+      "year": 1977,
+      "decade": "1970",
+      "country": "Sudáfrica",
+      "genre": "Afropop",
+      "selectionLayer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "PAM",
+        "ACCLAIM",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "song-074",
+      "type": "song",
+      "artist": "Rubén Blades",
+      "title": "Pablo Pueblo",
+      "year": 1977,
+      "decade": "1970",
+      "country": "Panamá",
+      "genre": "Salsa",
+      "selectionLayer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "600LATAM",
+        "RADIONICA",
+        "ACCLAIM",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "song-075",
+      "type": "song",
+      "artist": "Taeko Ohnuki",
+      "title": "4:00A.M.",
+      "year": 1978,
+      "decade": "1970",
+      "country": "Japón",
+      "genre": "City pop",
+      "selectionLayer": "Regional/indie",
+      "monthlyRole": "Foco mensual",
+      "sourceRoute": [
+        "RS-JP",
+        "BEEHYPE",
+        "ACCLAIM",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "song-076",
+      "type": "song",
+      "artist": "Michael Jackson",
+      "title": "I Can't Help It",
+      "year": 1979,
+      "decade": "1970",
+      "country": "Estados Unidos",
+      "genre": "Soul y pop",
+      "selectionLayer": "Intermedia",
+      "monthlyRole": "Rotación",
+      "sourceRoute": [
+        "ACCLAIM",
+        "PITCH",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "song-077",
+      "type": "song",
+      "artist": "Yellow Magic Orchestra",
+      "title": "Behind the Mask",
+      "year": 1979,
+      "decade": "1970",
+      "country": "Japón",
+      "genre": "Electropop",
+      "selectionLayer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RS-JP",
+        "BEEHYPE",
+        "RA",
+        "ROCKDELUX",
+        "ACCLAIM"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "song-078",
+      "type": "song",
+      "artist": "Ryuichi Sakamoto",
+      "title": "Riot in Lagos",
+      "year": 1980,
+      "decade": "1980",
+      "country": "Japón",
+      "genre": "Electrónica",
+      "selectionLayer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RS-JP",
+        "BEEHYPE",
+        "RA",
+        "ROCKDELUX",
+        "ACCLAIM"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "song-079",
+      "type": "song",
+      "artist": "Talking Heads",
+      "title": "The Great Curve",
+      "year": 1980,
+      "decade": "1980",
+      "country": "Estados Unidos",
+      "genre": "Art rock y funk",
+      "selectionLayer": "Intermedia",
+      "monthlyRole": "Rotación",
+      "sourceRoute": [
+        "ACCLAIM",
+        "PITCH",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "song-080",
+      "type": "song",
+      "artist": "The Cure",
+      "title": "A Forest",
+      "year": 1980,
+      "decade": "1980",
+      "country": "Reino Unido",
+      "genre": "Post-punk",
+      "selectionLayer": "Intermedia",
+      "monthlyRole": "Rotación",
+      "sourceRoute": [
+        "ACCLAIM",
+        "PITCH",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "song-081",
+      "type": "song",
+      "artist": "Los Jaivas",
+      "title": "La poderosa muerte",
+      "year": 1981,
+      "decade": "1980",
+      "country": "Chile",
+      "genre": "Rock progresivo andino",
+      "selectionLayer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "600LATAM",
+        "RADIONICA",
+        "ACCLAIM",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "song-082",
+      "type": "song",
+      "artist": "New Order",
+      "title": "Temptation",
+      "year": 1982,
+      "decade": "1980",
+      "country": "Reino Unido",
+      "genre": "Post-punk y electrónica",
+      "selectionLayer": "Intermedia",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RA",
+        "ROCKDELUX",
+        "ACCLAIM",
+        "PITCH",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "song-083",
+      "type": "song",
+      "artist": "Spinetta Jade",
+      "title": "Barro tal vez",
+      "year": 1982,
+      "decade": "1980",
+      "country": "Argentina",
+      "genre": "Jazz rock",
+      "selectionLayer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "600LATAM",
+        "INDIEHOY",
+        "JAZZWISE",
+        "PITCH",
+        "ACCLAIM"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "song-084",
+      "type": "song",
+      "artist": "Tatsuro Yamashita",
+      "title": "Sparkle",
+      "year": 1982,
+      "decade": "1980",
+      "country": "Japón",
+      "genre": "City pop",
+      "selectionLayer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RS-JP",
+        "BEEHYPE",
+        "ACCLAIM",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "song-085",
+      "type": "song",
+      "artist": "Charly García",
+      "title": "Ojos de videotape",
+      "year": 1983,
+      "decade": "1980",
+      "country": "Argentina",
+      "genre": "Rock y new wave",
+      "selectionLayer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "600LATAM",
+        "INDIEHOY",
+        "ACCLAIM",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "song-086",
+      "type": "song",
+      "artist": "Héctor Lavoe",
+      "title": "Juanito Alimaña",
+      "year": 1983,
+      "decade": "1980",
+      "country": "Puerto Rico",
+      "genre": "Salsa",
+      "selectionLayer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "600LATAM",
+        "RADIONICA",
+        "ACCLAIM",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "song-087",
+      "type": "song",
+      "artist": "William Onyeabor",
+      "title": "Fantastic Man",
+      "year": 1983,
+      "decade": "1980",
+      "country": "Nigeria",
+      "genre": "Funk electrónico",
+      "selectionLayer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "PAM",
+        "RA",
+        "ROCKDELUX",
+        "ACCLAIM",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "song-028",
+      "type": "song",
+      "artist": "Kate Bush",
+      "title": "Cloudbusting",
+      "year": 1985,
+      "decade": "1980",
+      "country": "Reino Unido",
+      "genre": "Art pop",
+      "selectionLayer": "Intermedia",
+      "monthlyRole": "Rotación",
+      "sourceRoute": [
+        "ACCLAIM",
+        "PITCH",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": "song-028",
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "existing-to-review"
+      },
+      "publishable": false
+    },
+    {
+      "id": "song-029",
+      "type": "song",
+      "artist": "Prince",
+      "title": "If I Was Your Girlfriend",
+      "year": 1987,
+      "decade": "1980",
+      "country": "Estados Unidos",
+      "genre": "Pop y funk",
+      "selectionLayer": "Intermedia",
+      "monthlyRole": "Rotación",
+      "sourceRoute": [
+        "ACCLAIM",
+        "PITCH",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": "song-029",
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "existing-to-review"
+      },
+      "publishable": false
+    },
+    {
+      "id": "song-088",
+      "type": "song",
+      "artist": "Joe Arroyo",
+      "title": "La noche",
+      "year": 1988,
+      "decade": "1980",
+      "country": "Colombia",
+      "genre": "Salsa y música tropical",
+      "selectionLayer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "600LATAM",
+        "RADIONICA",
+        "ACCLAIM",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "song-089",
+      "type": "song",
+      "artist": "Public Enemy",
+      "title": "Fight the Power",
+      "year": 1989,
+      "decade": "1980",
+      "country": "Estados Unidos",
+      "genre": "Hip-hop",
+      "selectionLayer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RS-SONG",
+        "LOC",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "song-090",
+      "type": "song",
+      "artist": "Cocteau Twins",
+      "title": "Cherry-Coloured Funk",
+      "year": 1990,
+      "decade": "1990",
+      "country": "Escocia",
+      "genre": "Dream pop",
+      "selectionLayer": "Intermedia",
+      "monthlyRole": "Rotación",
+      "sourceRoute": [
+        "ACCLAIM",
+        "PITCH",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "song-091",
+      "type": "song",
+      "artist": "Juan Luis Guerra 4.40",
+      "title": "A pedir su mano",
+      "year": 1990,
+      "decade": "1990",
+      "country": "República Dominicana",
+      "genre": "Merengue",
+      "selectionLayer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "600LATAM",
+        "RADIONICA",
+        "ACCLAIM",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "song-035",
+      "type": "song",
+      "artist": "Massive Attack",
+      "title": "Unfinished Sympathy",
+      "year": 1991,
+      "decade": "1990",
+      "country": "Reino Unido",
+      "genre": "Trip-hop",
+      "selectionLayer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RA",
+        "ROCKDELUX",
+        "RS-SONG",
+        "LOC",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": "song-035",
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "existing-to-review"
+      },
+      "publishable": false
+    },
+    {
+      "id": "song-092",
+      "type": "song",
+      "artist": "My Bloody Valentine",
+      "title": "Sometimes",
+      "year": 1991,
+      "decade": "1990",
+      "country": "Irlanda",
+      "genre": "Shoegaze",
+      "selectionLayer": "Intermedia",
+      "monthlyRole": "Rotación",
+      "sourceRoute": [
+        "ACCLAIM",
+        "PITCH",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "song-093",
+      "type": "song",
+      "artist": "Aphex Twin",
+      "title": "Xtal",
+      "year": 1992,
+      "decade": "1990",
+      "country": "Reino Unido",
+      "genre": "Ambient techno",
+      "selectionLayer": "Intermedia",
+      "monthlyRole": "Rotación",
+      "sourceRoute": [
+        "RA",
+        "ROCKDELUX",
+        "ACCLAIM",
+        "PITCH",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "song-094",
+      "type": "song",
+      "artist": "Césaria Évora",
+      "title": "Sodade",
+      "year": 1992,
+      "decade": "1990",
+      "country": "Cabo Verde",
+      "genre": "Morna",
+      "selectionLayer": "Regional/indie",
+      "monthlyRole": "Foco mensual",
+      "sourceRoute": [
+        "PAM",
+        "ACCLAIM",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "song-095",
+      "type": "song",
+      "artist": "Sade",
+      "title": "Kiss of Life",
+      "year": 1992,
+      "decade": "1990",
+      "country": "Reino Unido",
+      "genre": "Soul y sophisti-pop",
+      "selectionLayer": "Intermedia",
+      "monthlyRole": "Rotación",
+      "sourceRoute": [
+        "ACCLAIM",
+        "PITCH",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "song-096",
+      "type": "song",
+      "artist": "A Tribe Called Quest",
+      "title": "Electric Relaxation",
+      "year": 1993,
+      "decade": "1990",
+      "country": "Estados Unidos",
+      "genre": "Hip-hop",
+      "selectionLayer": "Intermedia",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "ACCLAIM",
+        "PITCH",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "song-097",
+      "type": "song",
+      "artist": "Blur",
+      "title": "To the End",
+      "year": 1994,
+      "decade": "1990",
+      "country": "Reino Unido",
+      "genre": "Britpop",
+      "selectionLayer": "Intermedia",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "ACCLAIM",
+        "PITCH",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "song-098",
+      "type": "song",
+      "artist": "Nas",
+      "title": "Memory Lane (Sittin' in da Park)",
+      "year": 1994,
+      "decade": "1990",
+      "country": "Estados Unidos",
+      "genre": "Hip-hop",
+      "selectionLayer": "Intermedia",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "ACCLAIM",
+        "PITCH",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "song-099",
+      "type": "song",
+      "artist": "Oasis",
+      "title": "Listen Up",
+      "year": 1994,
+      "decade": "1990",
+      "country": "Reino Unido",
+      "genre": "Britpop",
+      "selectionLayer": "Regional/indie",
+      "monthlyRole": "Foco mensual",
+      "sourceRoute": [
+        "ACCLAIM",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "song-100",
+      "type": "song",
+      "artist": "Portishead",
+      "title": "Roads",
+      "year": 1994,
+      "decade": "1990",
+      "country": "Reino Unido",
+      "genre": "Trip-hop",
+      "selectionLayer": "Intermedia",
+      "monthlyRole": "Rotación",
+      "sourceRoute": [
+        "RA",
+        "ROCKDELUX",
+        "ACCLAIM",
+        "PITCH",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "song-101",
+      "type": "song",
+      "artist": "Aterciopelados",
+      "title": "El estuche",
+      "year": 1995,
+      "decade": "1990",
+      "country": "Colombia",
+      "genre": "Rock alternativo latino",
+      "selectionLayer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "600LATAM",
+        "RADIONICA",
+        "ACCLAIM",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "song-102",
+      "type": "song",
+      "artist": "Fishmans",
+      "title": "Long Season",
+      "year": 1996,
+      "decade": "1990",
+      "country": "Japón",
+      "genre": "Dream pop y dub",
+      "selectionLayer": "Regional/indie",
+      "monthlyRole": "Foco mensual",
+      "sourceRoute": [
+        "RS-JP",
+        "BEEHYPE",
+        "ACCLAIM",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "song-033",
+      "type": "song",
+      "artist": "Soda Stereo",
+      "title": "Té para tres (MTV Unplugged)",
+      "year": 1996,
+      "decade": "1990",
+      "country": "Argentina",
+      "genre": "Rock acústico",
+      "selectionLayer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "600LATAM",
+        "INDIEHOY",
+        "ACCLAIM",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": "song-033",
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "existing-to-review"
+      },
+      "publishable": false
+    },
+    {
+      "id": "song-103",
+      "type": "song",
+      "artist": "Missy Elliott",
+      "title": "The Rain (Supa Dupa Fly)",
+      "year": 1997,
+      "decade": "1990",
+      "country": "Estados Unidos",
+      "genre": "Hip-hop",
+      "selectionLayer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RS-SONG",
+        "LOC",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "song-104",
+      "type": "song",
+      "artist": "Air",
+      "title": "La femme d'argent",
+      "year": 1998,
+      "decade": "1990",
+      "country": "Francia",
+      "genre": "Downtempo",
+      "selectionLayer": "Intermedia",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "LESINROCKS",
+        "ROCKDELUX",
+        "RA",
+        "ACCLAIM",
+        "PITCH"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "song-105",
+      "type": "song",
+      "artist": "Hikaru Utada",
+      "title": "Automatic",
+      "year": 1998,
+      "decade": "1990",
+      "country": "Japón",
+      "genre": "J-pop y R&B",
+      "selectionLayer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RS-JP",
+        "BEEHYPE",
+        "ACCLAIM",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "song-106",
+      "type": "song",
+      "artist": "Lauryn Hill",
+      "title": "Ex-Factor",
+      "year": 1998,
+      "decade": "1990",
+      "country": "Estados Unidos",
+      "genre": "R&B y hip-hop",
+      "selectionLayer": "Intermedia",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "ACCLAIM",
+        "PITCH",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "song-107",
+      "type": "song",
+      "artist": "Outkast",
+      "title": "Da Art of Storytellin' (Pt. 1)",
+      "year": 1998,
+      "decade": "1990",
+      "country": "Estados Unidos",
+      "genre": "Hip-hop",
+      "selectionLayer": "Intermedia",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "ACCLAIM",
+        "PITCH",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "song-108",
+      "type": "song",
+      "artist": "Pulp",
+      "title": "This Is Hardcore",
+      "year": 1998,
+      "decade": "1990",
+      "country": "Reino Unido",
+      "genre": "Art rock",
+      "selectionLayer": "Intermedia",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "ACCLAIM",
+        "PITCH",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "song-109",
+      "type": "song",
+      "artist": "Shakira",
+      "title": "Moscas en la casa",
+      "year": 1998,
+      "decade": "1990",
+      "country": "Colombia",
+      "genre": "Pop rock latino",
+      "selectionLayer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "600LATAM",
+        "RADIONICA",
+        "ACCLAIM",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "song-110",
+      "type": "song",
+      "artist": "Stardust",
+      "title": "Music Sounds Better With You",
+      "year": 1998,
+      "decade": "1990",
+      "country": "Francia",
+      "genre": "French house",
+      "selectionLayer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "LESINROCKS",
+        "ROCKDELUX",
+        "RA",
+        "RS-SONG",
+        "LOC"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "song-038",
+      "type": "song",
+      "artist": "Café Tacvba",
+      "title": "La muerte chiquita",
+      "year": 1999,
+      "decade": "1990",
+      "country": "México",
+      "genre": "Rock alternativo latino",
+      "selectionLayer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "600LATAM",
+        "RADIONICA",
+        "ACCLAIM",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": "song-038",
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "existing-to-review"
+      },
+      "publishable": false
+    },
+    {
+      "id": "song-111",
+      "type": "song",
+      "artist": "Gustavo Cerati",
+      "title": "Tabú",
+      "year": 1999,
+      "decade": "1990",
+      "country": "Argentina",
+      "genre": "Art pop y electrónica",
+      "selectionLayer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "600LATAM",
+        "INDIEHOY",
+        "RA",
+        "ROCKDELUX",
+        "ACCLAIM"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "song-112",
+      "type": "song",
+      "artist": "MF DOOM",
+      "title": "Doomsday",
+      "year": 1999,
+      "decade": "1990",
+      "country": "Estados Unidos / Reino Unido",
+      "genre": "Hip-hop",
+      "selectionLayer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "ACCLAIM",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "song-113",
+      "type": "song",
+      "artist": "Alan Braxe & Fred Falke",
+      "title": "Intro",
+      "year": 2000,
+      "decade": "2000",
+      "country": "Francia",
+      "genre": "French house",
+      "selectionLayer": "Intermedia",
+      "monthlyRole": "Rotación",
+      "sourceRoute": [
+        "LESINROCKS",
+        "ROCKDELUX",
+        "RA",
+        "ACCLAIM",
+        "PITCH"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "song-114",
+      "type": "song",
+      "artist": "D'Angelo",
+      "title": "One Mo'Gin",
+      "year": 2000,
+      "decade": "2000",
+      "country": "Estados Unidos",
+      "genre": "Neo soul",
+      "selectionLayer": "Intermedia",
+      "monthlyRole": "Rotación",
+      "sourceRoute": [
+        "ACCLAIM",
+        "PITCH",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "song-115",
+      "type": "song",
+      "artist": "Erykah Badu",
+      "title": "Didn't Cha Know",
+      "year": 2000,
+      "decade": "2000",
+      "country": "Estados Unidos",
+      "genre": "Neo soul",
+      "selectionLayer": "Intermedia",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "ACCLAIM",
+        "PITCH",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "song-116",
+      "type": "song",
+      "artist": "Julieta Venegas",
+      "title": "Sería feliz",
+      "year": 2000,
+      "decade": "2000",
+      "country": "México",
+      "genre": "Pop rock",
+      "selectionLayer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "600LATAM",
+        "RADIONICA",
+        "ACCLAIM",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "song-117",
+      "type": "song",
+      "artist": "Daft Punk",
+      "title": "Something About Us",
+      "year": 2001,
+      "decade": "2000",
+      "country": "Francia",
+      "genre": "House y pop",
+      "selectionLayer": "Intermedia",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "LESINROCKS",
+        "ROCKDELUX",
+        "RA",
+        "ACCLAIM",
+        "PITCH"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "song-118",
+      "type": "song",
+      "artist": "Radiohead",
+      "title": "Pyramid Song",
+      "year": 2001,
+      "decade": "2000",
+      "country": "Reino Unido",
+      "genre": "Art rock",
+      "selectionLayer": "Intermedia",
+      "monthlyRole": "Rotación",
+      "sourceRoute": [
+        "ACCLAIM",
+        "PITCH",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "song-041",
+      "type": "song",
+      "artist": "The Strokes",
+      "title": "Hard to Explain",
+      "year": 2001,
+      "decade": "2000",
+      "country": "Estados Unidos",
+      "genre": "Indie rock",
+      "selectionLayer": "Intermedia",
+      "monthlyRole": "Rotación",
+      "sourceRoute": [
+        "ACCLAIM",
+        "PITCH",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": "song-041",
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "existing-to-review"
+      },
+      "publishable": false
+    },
+    {
+      "id": "song-042",
+      "type": "song",
+      "artist": "M.I.A.",
+      "title": "Galang",
+      "year": 2003,
+      "decade": "2000",
+      "country": "Reino Unido / Sri Lanka",
+      "genre": "Hip-hop y electrónica",
+      "selectionLayer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RA",
+        "ROCKDELUX",
+        "ACCLAIM",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": "song-042",
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "existing-to-review"
+      },
+      "publishable": false
+    },
+    {
+      "id": "song-119",
+      "type": "song",
+      "artist": "Tego Calderón",
+      "title": "Loíza",
+      "year": 2003,
+      "decade": "2000",
+      "country": "Puerto Rico",
+      "genre": "Reguetón y hip-hop",
+      "selectionLayer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "600LATAM",
+        "RADIONICA",
+        "ACCLAIM",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "song-044",
+      "type": "song",
+      "artist": "Daddy Yankee",
+      "title": "Gasolina",
+      "year": 2004,
+      "decade": "2000",
+      "country": "Puerto Rico",
+      "genre": "Reguetón",
+      "selectionLayer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "600LATAM",
+        "RADIONICA",
+        "RS-SONG",
+        "LOC",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": "song-044",
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "existing-to-review"
+      },
+      "publishable": false
+    },
+    {
+      "id": "song-046",
+      "type": "song",
+      "artist": "Burial",
+      "title": "Archangel",
+      "year": 2007,
+      "decade": "2000",
+      "country": "Reino Unido",
+      "genre": "UK garage y ambient",
+      "selectionLayer": "Intermedia",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RA",
+        "ROCKDELUX",
+        "ACCLAIM",
+        "PITCH",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": "song-046",
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "existing-to-review"
+      },
+      "publishable": false
+    },
+    {
+      "id": "song-045",
+      "type": "song",
+      "artist": "LCD Soundsystem",
+      "title": "All My Friends",
+      "year": 2007,
+      "decade": "2000",
+      "country": "Estados Unidos",
+      "genre": "Dance-punk",
+      "selectionLayer": "Intermedia",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "ACCLAIM",
+        "PITCH",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": "song-045",
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "existing-to-review"
+      },
+      "publishable": false
+    },
+    {
+      "id": "song-120",
+      "type": "song",
+      "artist": "Phoenix",
+      "title": "Love Like a Sunset, Parts I & II",
+      "year": 2009,
+      "decade": "2000",
+      "country": "Francia",
+      "genre": "Indie pop",
+      "selectionLayer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "LESINROCKS",
+        "ROCKDELUX",
+        "ACCLAIM",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "song-047",
+      "type": "song",
+      "artist": "Frank Ocean",
+      "title": "Pyramids",
+      "year": 2012,
+      "decade": "2010",
+      "country": "Estados Unidos",
+      "genre": "R&B",
+      "selectionLayer": "Intermedia",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "ACCLAIM",
+        "PITCH",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": "song-047",
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "existing-to-review"
+      },
+      "publishable": false
+    },
+    {
+      "id": "song-121",
+      "type": "song",
+      "artist": "Kendrick Lamar",
+      "title": "Sing About Me, I'm Dying of Thirst",
+      "year": 2012,
+      "decade": "2010",
+      "country": "Estados Unidos",
+      "genre": "Hip-hop",
+      "selectionLayer": "Intermedia",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "ACCLAIM",
+        "PITCH",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "song-049",
+      "type": "song",
+      "artist": "Beyoncé",
+      "title": "Formation",
+      "year": 2016,
+      "decade": "2010",
+      "country": "Estados Unidos",
+      "genre": "Pop y R&B",
+      "selectionLayer": "Canon",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "RS-SONG",
+        "LOC",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": "song-049",
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "existing-to-review"
+      },
+      "publishable": false
+    },
+    {
+      "id": "song-122",
+      "type": "song",
+      "artist": "Rosalía",
+      "title": "De aquí no sales",
+      "year": 2018,
+      "decade": "2010",
+      "country": "España",
+      "genre": "Flamenco pop",
+      "selectionLayer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "ROCKDELUX",
+        "ACCLAIM",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "song-123",
+      "type": "song",
+      "artist": "SOPHIE",
+      "title": "Immaterial",
+      "year": 2018,
+      "decade": "2010",
+      "country": "Escocia",
+      "genre": "Pop experimental",
+      "selectionLayer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "ACCLAIM",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "song-124",
+      "type": "song",
+      "artist": "FKA twigs",
+      "title": "Cellophane",
+      "year": 2019,
+      "decade": "2010",
+      "country": "Reino Unido",
+      "genre": "Art pop",
+      "selectionLayer": "Intermedia",
+      "monthlyRole": "Rotación",
+      "sourceRoute": [
+        "ACCLAIM",
+        "PITCH",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "song-125",
+      "type": "song",
+      "artist": "Bad Bunny",
+      "title": "Andrea",
+      "year": 2022,
+      "decade": "2020",
+      "country": "Puerto Rico",
+      "genre": "Reguetón y pop",
+      "selectionLayer": "Regional/indie",
+      "monthlyRole": "Ancla",
+      "sourceRoute": [
+        "600LATAM",
+        "RADIONICA",
+        "ACCLAIM",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": null,
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "pending-three-languages"
+      },
+      "publishable": false
+    },
+    {
+      "id": "song-050",
+      "type": "song",
+      "artist": "Silvana Estrada",
+      "title": "Te guardo",
+      "year": 2022,
+      "decade": "2020",
+      "country": "México",
+      "genre": "Canción de autor",
+      "selectionLayer": "Regional/indie",
+      "monthlyRole": "Foco mensual",
+      "sourceRoute": [
+        "600LATAM",
+        "RADIONICA",
+        "ACCLAIM",
+        "DISCOGS"
+      ],
+      "editionIntroduced": "2026-09",
+      "legacyCatalogId": "song-050",
+      "status": {
+        "metadata": "curated",
+        "cover": "pending",
+        "streaming": "pending-direct-links",
+        "editorial": "pending-three-languages",
+        "essentialReason": "existing-to-review"
+      },
+      "publishable": false
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "storageKey": "tlg-vault-v1",
+  "legacyStorageKey": "tlg-collection",
+  "distinction": {
+    "saved": "Stays in My Collection and may remain recommendable.",
+    "listened": "Moves to the personal Vault and is excluded from recommendations by default."
+  },
+  "vaultRecord": [
+    "id",
+    "type",
+    "artist",
+    "title",
+    "listenedAt",
+    "editionId",
+    "snapshot"
+  ],
+  "replacementRule": "Use a reserve of the same format and, when possible, the same decade or genre.",
+  "editionArchiveIsSeparate": true
+}

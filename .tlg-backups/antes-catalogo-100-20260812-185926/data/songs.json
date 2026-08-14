@@ -1,0 +1,331 @@
+[
+  {
+    "id": "song-001",
+    "type": "song",
+    "artist": "Chuck Berry",
+    "title": "Johnny B. Goode",
+    "year": 1958,
+    "decade": "1950",
+    "genre": "rock",
+    "duration": "2:41",
+    "catalogue": "TLG–S–0001",
+    "coverClass": "cover-yellow",
+    "coverUrl": "assets/covers/song-001-500.jpg",
+    "thumbnailUrl": "assets/covers/song-001-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release/bcbb0a69-eebf-4c16-a857-72a3726c8510/front-500",
+    "searchQuery": "Chuck Berry Johnny B. Goode",
+    "description": {
+      "es": "Uno de los planos fundamentales sobre los que se construyó el rock.",
+      "en": "One of the fundamental blueprints upon which rock was built.",
+      "fr": "L’un des morceaux fondateurs du rock."
+    },
+    "recognition": {
+      "type": "ranking",
+      "rank": 33,
+      "title": {
+        "es": "Las 500 mejores canciones de todos los tiempos",
+        "en": "The 500 Greatest Songs of All Time",
+        "fr": "Les 500 plus grandes chansons de tous les temps"
+      },
+      "source": "Rolling Stone",
+      "year": 2021,
+      "url": "https://www.rollingstone.com/music/music-lists/best-songs-of-all-time-1224767/"
+    }
+  },
+  {
+    "id": "song-002",
+    "type": "song",
+    "artist": "The Ronettes",
+    "title": "Be My Baby",
+    "year": 1963,
+    "decade": "1960",
+    "genre": "pop",
+    "duration": "2:40",
+    "catalogue": "TLG–S–0002",
+    "coverClass": "cover-red",
+    "coverUrl": "assets/covers/song-002-500.jpg",
+    "thumbnailUrl": "assets/covers/song-002-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release-group/b24ffd1d-1cbc-32bd-bf45-b76b30792b8d/front-500",
+    "searchQuery": "The Ronettes Be My Baby",
+    "description": {
+      "es": "Una entrada de batería inolvidable y una producción que definió una época.",
+      "en": "An unforgettable drum intro and production that defined an era.",
+      "fr": "Une introduction à la batterie inoubliable et une production qui a défini une époque."
+    },
+    "recognition": {
+      "type": "ranking",
+      "rank": 22,
+      "title": {
+        "es": "Las 500 mejores canciones de todos los tiempos",
+        "en": "The 500 Greatest Songs of All Time",
+        "fr": "Les 500 plus grandes chansons de tous les temps"
+      },
+      "source": "Rolling Stone",
+      "year": 2021,
+      "url": "https://www.rollingstone.com/music/music-lists/best-songs-of-all-time-1224767/"
+    }
+  },
+  {
+    "id": "song-003",
+    "type": "song",
+    "artist": "The Beach Boys",
+    "title": "God Only Knows",
+    "year": 1966,
+    "decade": "1960",
+    "genre": "pop",
+    "duration": "2:55",
+    "catalogue": "TLG–S–0003",
+    "coverClass": "cover-green",
+    "coverUrl": "assets/covers/song-003-500.jpg",
+    "thumbnailUrl": "assets/covers/song-003-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release-group/fdd96703-7b21-365e-bdea-38029fbeb84e/front-500",
+    "searchQuery": "The Beach Boys God Only Knows",
+    "description": {
+      "es": "Pop de enorme sofisticación convertido en una declaración sencilla.",
+      "en": "Highly sophisticated pop transformed into a simple declaration.",
+      "fr": "Une pop sophistiquée ramenée à une déclaration d’une simplicité désarmante."
+    },
+    "recognition": {
+      "type": "ranking",
+      "rank": 11,
+      "title": {
+        "es": "Las 500 mejores canciones de todos los tiempos",
+        "en": "The 500 Greatest Songs of All Time",
+        "fr": "Les 500 plus grandes chansons de tous les temps"
+      },
+      "source": "Rolling Stone",
+      "year": 2021,
+      "url": "https://www.rollingstone.com/music/music-lists/best-songs-of-all-time-1224767/"
+    }
+  },
+  {
+    "id": "song-004",
+    "type": "song",
+    "artist": "Marvin Gaye",
+    "title": "What's Going On",
+    "year": 1971,
+    "decade": "1970",
+    "genre": "soul",
+    "duration": "3:53",
+    "catalogue": "TLG–S–0004",
+    "coverClass": "cover-blue",
+    "coverUrl": "assets/covers/song-004-500.jpg",
+    "thumbnailUrl": "assets/covers/song-004-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release-group/c1fa4d2c-ec62-37d5-b01d-6df7f8fd2c90/front-500",
+    "searchQuery": "Marvin Gaye What's Going On",
+    "description": {
+      "es": "Una pregunta política expresada con calidez, compasión y elegancia.",
+      "en": "A political question expressed with warmth, compassion and elegance.",
+      "fr": "Une question politique exprimée avec chaleur, compassion et élégance."
+    },
+    "recognition": {
+      "type": "ranking",
+      "rank": 6,
+      "title": {
+        "es": "Las 500 mejores canciones de todos los tiempos",
+        "en": "The 500 Greatest Songs of All Time",
+        "fr": "Les 500 plus grandes chansons de tous les temps"
+      },
+      "source": "Rolling Stone",
+      "year": 2021,
+      "url": "https://www.rollingstone.com/music/music-lists/best-songs-of-all-time-1224767/"
+    }
+  },
+  {
+    "id": "song-005",
+    "type": "song",
+    "artist": "New Order",
+    "title": "Blue Monday",
+    "year": 1983,
+    "decade": "1980",
+    "genre": "electronic",
+    "duration": "7:29",
+    "catalogue": "TLG–S–0005",
+    "coverClass": "cover-purple",
+    "coverUrl": "assets/covers/song-005-500.jpg",
+    "thumbnailUrl": "assets/covers/song-005-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release/1b32eb3d-21a8-4e0a-8213-40d7ed95a85c/front-500",
+    "searchQuery": "New Order Blue Monday",
+    "description": {
+      "es": "El punto de encuentro entre el post-punk, las máquinas y la pista de baile.",
+      "en": "The meeting point between post-punk, machines and the dance floor.",
+      "fr": "Le point de rencontre entre le post-punk, les machines et la piste de danse."
+    },
+    "recognition": {
+      "type": "ranking",
+      "rank": 234,
+      "title": {
+        "es": "Las 500 mejores canciones de todos los tiempos",
+        "en": "The 500 Greatest Songs of All Time",
+        "fr": "Les 500 plus grandes chansons de tous les temps"
+      },
+      "source": "Rolling Stone",
+      "year": 2021,
+      "url": "https://www.rollingstone.com/music/music-lists/best-songs-of-all-time-1224767/"
+    }
+  },
+  {
+    "id": "song-006",
+    "type": "song",
+    "artist": "Pulp",
+    "title": "Common People",
+    "year": 1995,
+    "decade": "1990",
+    "genre": "rock",
+    "duration": "5:50",
+    "catalogue": "TLG–S–0006",
+    "coverClass": "cover-red",
+    "coverUrl": "assets/covers/song-006-500.jpg",
+    "thumbnailUrl": "assets/covers/song-006-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release-group/88f69eab-8f07-343b-847c-b944ad33dfcf/front-500",
+    "searchQuery": "Pulp Common People",
+    "description": {
+      "es": "Una historia de clase social que crece hasta convertirse en un himno.",
+      "en": "A story about social class that grows into an anthem.",
+      "fr": "Une histoire de classe sociale qui grandit jusqu’à devenir un hymne."
+    },
+    "recognition": {
+      "type": "ranking",
+      "rank": 75,
+      "title": {
+        "es": "Las 500 mejores canciones de todos los tiempos",
+        "en": "The 500 Greatest Songs of All Time",
+        "fr": "Les 500 plus grandes chansons de tous les temps"
+      },
+      "source": "Rolling Stone",
+      "year": 2021,
+      "url": "https://www.rollingstone.com/music/music-lists/best-songs-of-all-time-1224767/"
+    }
+  },
+  {
+    "id": "song-007",
+    "type": "song",
+    "artist": "Celia Cruz",
+    "title": "La vida es un carnaval",
+    "year": 1998,
+    "decade": "1990",
+    "genre": "latin",
+    "duration": "4:36",
+    "catalogue": "TLG–S–0007",
+    "coverClass": "cover-yellow",
+    "coverUrl": "assets/covers/song-007-500.jpg",
+    "thumbnailUrl": "assets/covers/song-007-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release-group/aba55334-2f86-3ef7-a175-5db2be7b168b/front-500",
+    "searchQuery": "Celia Cruz La vida es un carnaval",
+    "description": {
+      "es": "Una celebración de resistencia y alegría convertida en canto colectivo.",
+      "en": "A celebration of resilience and joy transformed into a collective song.",
+      "fr": "Une célébration de la résilience et de la joie, devenue un hymne collectif."
+    },
+    "recognition": {
+      "type": "ranking",
+      "rank": 439,
+      "title": {
+        "es": "Las 500 mejores canciones de todos los tiempos",
+        "en": "The 500 Greatest Songs of All Time",
+        "fr": "Les 500 plus grandes chansons de tous les temps"
+      },
+      "source": "Rolling Stone",
+      "year": 2021,
+      "url": "https://www.rollingstone.com/music/music-lists/best-songs-of-all-time-1224767/"
+    }
+  },
+  {
+    "id": "song-008",
+    "type": "song",
+    "artist": "Daft Punk",
+    "title": "Digital Love",
+    "year": 2001,
+    "decade": "2000",
+    "genre": "electronic",
+    "duration": "4:58",
+    "catalogue": "TLG–S–0008",
+    "coverClass": "cover-blue",
+    "coverUrl": "assets/covers/song-008-500.jpg",
+    "thumbnailUrl": "assets/covers/song-008-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release-group/48117b90-a16e-34ca-a514-19c702df1158/front-500",
+    "searchQuery": "Daft Punk Digital Love",
+    "description": {
+      "es": "Nostalgia, tecnología y romanticismo dentro de una canción pop perfecta.",
+      "en": "Nostalgia, technology and romance inside a perfect pop song.",
+      "fr": "Nostalgie, technologie et romantisme dans une chanson pop parfaite."
+    },
+    "recognition": {
+      "type": "ranking",
+      "rank": 23,
+      "title": {
+        "es": "Las 500 mejores canciones de los años 2000",
+        "en": "The Top 500 Tracks of the 2000s",
+        "fr": "Les 500 meilleurs morceaux des années 2000"
+      },
+      "source": "Pitchfork",
+      "year": 2009,
+      "url": "https://pitchfork.com/features/lists-and-guides/7693-the-top-500-tracks-of-the-2000s-20-1/"
+    }
+  },
+  {
+    "id": "song-009",
+    "type": "song",
+    "artist": "Phoenix",
+    "title": "1901",
+    "year": 2009,
+    "decade": "2000",
+    "genre": "pop",
+    "duration": "3:13",
+    "catalogue": "TLG–S–0009",
+    "coverClass": "cover-green",
+    "coverUrl": "assets/covers/song-009-500.jpg",
+    "thumbnailUrl": "assets/covers/song-009-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release-group/32304f6e-5b80-3818-a66b-47f09efff0d9/front-500",
+    "searchQuery": "Phoenix 1901",
+    "description": {
+      "es": "Sintetizadores, guitarras y energía reunidas en tres minutos de pop preciso.",
+      "en": "Synths, guitars and energy condensed into three minutes of precise pop.",
+      "fr": "Synthétiseurs, guitares et énergie réunis en trois minutes de pop ciselée."
+    },
+    "recognition": {
+      "type": "chart",
+      "rank": 1,
+      "title": {
+        "es": "Lista Alternative Songs",
+        "en": "Alternative Songs chart",
+        "fr": "Classement Alternative Songs"
+      },
+      "source": "Billboard",
+      "year": 2010,
+      "url": "https://www.billboard.com/music/rock/daniel-glass-phoenix-1901-billboard-moment-8504810/"
+    }
+  },
+  {
+    "id": "song-010",
+    "type": "song",
+    "artist": "Kendrick Lamar",
+    "title": "Alright",
+    "year": 2015,
+    "decade": "2010",
+    "genre": "hip-hop",
+    "duration": "3:39",
+    "catalogue": "TLG–S–0010",
+    "coverClass": "cover-purple",
+    "coverUrl": "assets/covers/song-010-500.jpg",
+    "thumbnailUrl": "assets/covers/song-010-250.jpg",
+    "coverSourceUrl": "https://coverartarchive.org/release-group/d9103c72-3807-4378-9ce7-b6f3e8fdd547/front-500",
+    "searchQuery": "Kendrick Lamar Alright",
+    "description": {
+      "es": "Una canción de supervivencia personal que se convirtió en protesta colectiva.",
+      "en": "A song of personal survival that became a collective protest.",
+      "fr": "Une chanson de survie personnelle devenue un hymne collectif de protestation."
+    },
+    "recognition": {
+      "type": "award",
+      "title": {
+        "es": "Mejor canción de rap",
+        "en": "Best Rap Song",
+        "fr": "Meilleure chanson rap"
+      },
+      "source": "Grammy Awards",
+      "year": 2016,
+      "url": "https://www.grammy.com/awards/categories/best-rap-song/"
+    }
+  }
+]

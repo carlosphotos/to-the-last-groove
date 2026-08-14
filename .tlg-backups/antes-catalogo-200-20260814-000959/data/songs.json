@@ -1,0 +1,4702 @@
+[
+  {
+    "id": "song-011",
+    "type": "song",
+    "artist": "Billie Holiday",
+    "title": "Strange Fruit",
+    "year": 1939,
+    "decade": "1930",
+    "genre": "jazz",
+    "genreDetail": "Jazz vocal",
+    "country": "Estados Unidos",
+    "duration": "3:13",
+    "catalogue": "TLG–S–0011",
+    "coverClass": "cover-blue",
+    "coverUrl": "assets/covers-master/song-011.webp",
+    "thumbnailUrl": "assets/covers-master/song-011.webp",
+    "description": {
+      "es": "Una escucha guiada por la conversación entre timbre, espacio e improvisación.",
+      "en": "A listen shaped by the conversation among timbre, space and improvisation.",
+      "fr": "Une écoute portée par le dialogue entre timbre, espace et improvisation."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Registro Nacional de Grabaciones",
+        "en": "National Recording Registry",
+        "fr": "Registre national des enregistrements"
+      },
+      "source": "National Recording Registry",
+      "url": "https://www.loc.gov/programs/national-recording-preservation-board/recording-registry/complete-national-recording-registry-listing/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/1CTex49P0iWwzUGsMNjgaV"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/strange-fruit/1429177620?i=1429177627"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=pCgyKVxSkuw"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-012",
+    "type": "song",
+    "artist": "Édith Piaf",
+    "title": "La vie en rose",
+    "year": 1946,
+    "decade": "1940",
+    "genre": "folk",
+    "genreDetail": "Chanson",
+    "country": "Francia",
+    "duration": "3:09",
+    "catalogue": "TLG–S–0012",
+    "coverClass": "cover-red",
+    "coverUrl": "assets/covers-master/song-012.webp",
+    "thumbnailUrl": "assets/covers-master/song-012.webp",
+    "description": {
+      "es": "Una escucha guiada por la cercanía de la voz, el relato y el detalle acústico.",
+      "en": "A listen shaped by the closeness of voice, narrative and acoustic detail.",
+      "fr": "Une écoute portée par la proximité de la voix, du récit et du détail acoustique."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Les Inrockuptibles — listas francesas",
+        "en": "Les Inrockuptibles — French lists",
+        "fr": "Les Inrockuptibles — sélections françaises"
+      },
+      "source": "Les Inrockuptibles",
+      "url": "https://www.lesinrocks.com/musique/les-100-meilleurs-albums-francais-de-tous-les-temps-125490-25-08-2017/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/3lAun9V0YdTlCSIEXPvfsY"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/la-vie-en-rose/1556334257?i=1556335175"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=-RWGTddDZKc"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-051",
+    "type": "song",
+    "artist": "Muddy Waters",
+    "title": "Hoochie Coochie Man",
+    "year": 1954,
+    "decade": "1950",
+    "genre": "electronic",
+    "genreDetail": "Blues",
+    "country": "Estados Unidos",
+    "duration": "2:52",
+    "catalogue": "TLG–S–0051",
+    "coverClass": "cover-yellow",
+    "coverUrl": "assets/covers-master/song-051.webp",
+    "thumbnailUrl": "assets/covers-master/song-051.webp",
+    "description": {
+      "es": "Una escucha guiada por el contraste, la textura y el desplazamiento de expectativas.",
+      "en": "A listen shaped by contrast, texture and displaced expectations.",
+      "fr": "Une écoute portée par le contraste, la texture et le déplacement des attentes."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Registro Nacional de Grabaciones",
+        "en": "National Recording Registry",
+        "fr": "Registre national des enregistrements"
+      },
+      "source": "National Recording Registry",
+      "url": "https://www.loc.gov/programs/national-recording-preservation-board/recording-registry/complete-national-recording-registry-listing/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/5F7qmHHRIsYxnVZttf4cr9"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/hoochie-coochie-man/632938619?i=632939064"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=sSnxwnPkgas"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Rotación"
+  },
+  {
+    "id": "song-001",
+    "type": "song",
+    "artist": "Chuck Berry",
+    "title": "Johnny B. Goode",
+    "year": 1958,
+    "decade": "1950",
+    "genre": "rock",
+    "genreDetail": "Rock and roll",
+    "country": "Estados Unidos",
+    "duration": "2:39",
+    "catalogue": "TLG–S–0001",
+    "coverClass": "cover-green",
+    "coverUrl": "assets/covers-master/song-001.webp",
+    "thumbnailUrl": "assets/covers-master/song-001.webp",
+    "description": {
+      "es": "Una escucha guiada por la fricción entre textura, ritmo y forma de canción.",
+      "en": "A listen shaped by the friction among texture, rhythm and song form.",
+      "fr": "Une écoute portée par la friction entre texture, rythme et forme de la chanson."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Registro Nacional de Grabaciones",
+        "en": "National Recording Registry",
+        "fr": "Registre national des enregistrements"
+      },
+      "source": "National Recording Registry",
+      "url": "https://www.loc.gov/programs/national-recording-preservation-board/recording-registry/complete-national-recording-registry-listing/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/2QfiRTz5Yc8DdShCxG1tB2"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/johnny-b-goode/1485639733?i=1485640046"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=uFeZ_x--aRg"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-052",
+    "type": "song",
+    "artist": "João Gilberto",
+    "title": "Chega de Saudade",
+    "year": 1958,
+    "decade": "1950",
+    "genre": "latin",
+    "genreDetail": "Bossa nova",
+    "country": "Brasil",
+    "duration": "2:05",
+    "catalogue": "TLG–S–0052",
+    "coverClass": "cover-blue",
+    "coverUrl": "assets/covers-master/song-052.webp",
+    "thumbnailUrl": "assets/covers-master/song-052.webp",
+    "description": {
+      "es": "Una escucha guiada por el diálogo rítmico entre percusión, voz y melodía.",
+      "en": "A listen shaped by the rhythmic dialogue among percussion, voice and melody.",
+      "fr": "Une écoute portée par le dialogue rythmique entre percussions, voix et mélodie."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Los 600 Discos de Latinoamérica",
+        "en": "The 600 Albums of Latin America",
+        "fr": "Les 600 albums d’Amérique latine"
+      },
+      "source": "Los 600 Discos de Latinoamérica",
+      "url": "https://www.600discoslatam.com/indice-general-de-los-600-discos-de-latinoamerica/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/0DZefMHdBkDk4vnkzP1jMD"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/chega-de-saudade/1451670605?i=1451670610"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=Y0a0QuLEC8A"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-053",
+    "type": "song",
+    "artist": "Ray Charles",
+    "title": "What'd I Say",
+    "year": 1959,
+    "decade": "1950",
+    "genre": "soul",
+    "genreDetail": "Soul y R&B",
+    "country": "Estados Unidos",
+    "duration": "5:07",
+    "catalogue": "TLG–S–0053",
+    "coverClass": "cover-red",
+    "coverUrl": "assets/covers-master/song-053.webp",
+    "thumbnailUrl": "assets/covers-master/song-053.webp",
+    "description": {
+      "es": "Una escucha guiada por la tensión entre voz, groove y arreglo.",
+      "en": "A listen shaped by the tension among voice, groove and arrangement.",
+      "fr": "Une écoute portée par la tension entre voix, groove et arrangement."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Registro Nacional de Grabaciones",
+        "en": "National Recording Registry",
+        "fr": "Registre national des enregistrements"
+      },
+      "source": "National Recording Registry",
+      "url": "https://www.loc.gov/programs/national-recording-preservation-board/recording-registry/complete-national-recording-registry-listing/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/6h4rAPuTPv0iAI1NaF2SRL"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/whatd-i-say/1621492038?i=1621492567"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=MWDzgiYBhUw"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-013",
+    "type": "song",
+    "artist": "Sam Cooke",
+    "title": "A Change Is Gonna Come",
+    "year": 1964,
+    "decade": "1960",
+    "genre": "soul",
+    "genreDetail": "Soul",
+    "country": "Estados Unidos",
+    "duration": "3:11",
+    "catalogue": "TLG–S–0013",
+    "coverClass": "cover-yellow",
+    "coverUrl": "assets/covers-master/song-013.webp",
+    "thumbnailUrl": "assets/covers-master/song-013.webp",
+    "description": {
+      "es": "Una escucha guiada por la tensión entre voz, groove y arreglo.",
+      "en": "A listen shaped by the tension among voice, groove and arrangement.",
+      "fr": "Une écoute portée par la tension entre voix, groove et arrangement."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Registro Nacional de Grabaciones",
+        "en": "National Recording Registry",
+        "fr": "Registre national des enregistrements"
+      },
+      "source": "National Recording Registry",
+      "url": "https://www.loc.gov/programs/national-recording-preservation-board/recording-registry/complete-national-recording-registry-listing/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/0KOE1hat4SIer491XKk4Pa"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/a-change-is-gonna-come/1440495264?i=1440495265"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=Z5zDRtEC0x0"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-014",
+    "type": "song",
+    "artist": "Bob Dylan",
+    "title": "Like a Rolling Stone",
+    "year": 1965,
+    "decade": "1960",
+    "genre": "folk",
+    "genreDetail": "Folk rock",
+    "country": "Estados Unidos",
+    "duration": "6:07",
+    "catalogue": "TLG–S–0014",
+    "coverClass": "cover-green",
+    "coverUrl": "assets/covers-master/song-014.webp",
+    "thumbnailUrl": "assets/covers-master/song-014.webp",
+    "description": {
+      "es": "Una escucha guiada por la cercanía de la voz, el relato y el detalle acústico.",
+      "en": "A listen shaped by the closeness of voice, narrative and acoustic detail.",
+      "fr": "Une écoute portée par la proximité de la voix, du récit et du détail acoustique."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Rolling Stone — 500 mejores canciones",
+        "en": "Rolling Stone — 500 Greatest Songs",
+        "fr": "Rolling Stone — 500 meilleures chansons"
+      },
+      "source": "Rolling Stone",
+      "url": "https://www.rollingstone.com/music/music-lists/best-songs-of-all-time-1224767/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/3AhXZa8sUQht0UEdBJgpGc"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/like-a-rolling-stone/298810980?i=298810998"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=syNLBJ_Lq9E"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-018",
+    "type": "song",
+    "artist": "Nina Simone",
+    "title": "Sinnerman",
+    "year": 1965,
+    "decade": "1960",
+    "genre": "jazz",
+    "genreDetail": "Jazz y gospel",
+    "country": "Estados Unidos",
+    "duration": "10:19",
+    "catalogue": "TLG–S–0018",
+    "coverClass": "cover-blue",
+    "coverUrl": "assets/covers-master/song-018.webp",
+    "thumbnailUrl": "assets/covers-master/song-018.webp",
+    "description": {
+      "es": "Una escucha guiada por la conversación entre timbre, espacio e improvisación.",
+      "en": "A listen shaped by the conversation among timbre, space and improvisation.",
+      "fr": "Une écoute portée par le dialogue entre timbre, espace et improvisation."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Jazzwise — 100 discos que transformaron el jazz",
+        "en": "Jazzwise — 100 Jazz Albums That Shook the World",
+        "fr": "Jazzwise — 100 albums qui ont transformé le jazz"
+      },
+      "source": "Jazzwise",
+      "url": "https://www.jazzwise.com/features/article/the-100-jazz-albums-that-shook-the-world"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/5xRP5iyVdGglqlY4Vcjhkx"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/sinnerman/1470670125?i=1470670838"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=xP7XuE1Fw9s"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-054",
+    "type": "song",
+    "artist": "Violeta Parra",
+    "title": "Volver a los 17",
+    "year": 1966,
+    "decade": "1960",
+    "genre": "folk",
+    "genreDetail": "Nueva canción",
+    "country": "Chile",
+    "duration": "4:11",
+    "catalogue": "TLG–S–0054",
+    "coverClass": "cover-red",
+    "coverUrl": "assets/covers-master/song-054.webp",
+    "thumbnailUrl": "assets/covers-master/song-054.webp",
+    "description": {
+      "es": "Una escucha guiada por la cercanía de la voz, el relato y el detalle acústico.",
+      "en": "A listen shaped by the closeness of voice, narrative and acoustic detail.",
+      "fr": "Une écoute portée par la proximité de la voix, du récit et du détail acoustique."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Los 600 Discos de Latinoamérica",
+        "en": "The 600 Albums of Latin America",
+        "fr": "Les 600 albums d’Amérique latine"
+      },
+      "source": "Los 600 Discos de Latinoamérica",
+      "url": "https://www.600discoslatam.com/indice-general-de-los-600-discos-de-latinoamerica/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/4xoYCWR8PdQT3izdZsjjPV"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/volver-a-los-17-versi%C3%B3n-alternativa/1600028521?i=1600036624"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=jurI4MfV5Gs"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-016",
+    "type": "song",
+    "artist": "Aretha Franklin",
+    "title": "Respect",
+    "year": 1967,
+    "decade": "1960",
+    "genre": "soul",
+    "genreDetail": "Soul",
+    "country": "Estados Unidos",
+    "duration": "2:26",
+    "catalogue": "TLG–S–0016",
+    "coverClass": "cover-yellow",
+    "coverUrl": "assets/covers-master/song-016.webp",
+    "thumbnailUrl": "assets/covers-master/song-016.webp",
+    "description": {
+      "es": "Una escucha guiada por la tensión entre voz, groove y arreglo.",
+      "en": "A listen shaped by the tension among voice, groove and arrangement.",
+      "fr": "Une écoute portée par la tension entre voix, groove et arrangement."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Rolling Stone — 500 mejores canciones",
+        "en": "Rolling Stone — 500 Greatest Songs",
+        "fr": "Rolling Stone — 500 meilleures chansons"
+      },
+      "source": "Rolling Stone",
+      "url": "https://www.rollingstone.com/music/music-lists/best-songs-of-all-time-1224767/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/7s25THrKz86DM225dOYwnr"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/respect/878000342?i=878000348"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=9iayJ8u4Qew"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-055",
+    "type": "song",
+    "artist": "James Brown",
+    "title": "Cold Sweat",
+    "year": 1967,
+    "decade": "1960",
+    "genre": "soul",
+    "genreDetail": "Funk",
+    "country": "Estados Unidos",
+    "duration": "2:54",
+    "catalogue": "TLG–S–0055",
+    "coverClass": "cover-green",
+    "coverUrl": "assets/covers-master/song-055.webp",
+    "thumbnailUrl": "assets/covers-master/song-055.webp",
+    "description": {
+      "es": "Una escucha guiada por la tensión entre voz, groove y arreglo.",
+      "en": "A listen shaped by the tension among voice, groove and arrangement.",
+      "fr": "Une écoute portée par la tension entre voix, groove et arrangement."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Registro Nacional de Grabaciones",
+        "en": "National Recording Registry",
+        "fr": "Registre national des enregistrements"
+      },
+      "source": "National Recording Registry",
+      "url": "https://www.loc.gov/programs/national-recording-preservation-board/recording-registry/complete-national-recording-registry-listing/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/4zX5gsJl05CQaRXlCY4WQz"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/cold-sweat/1469584155?i=1469584356"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=qkgIoMuaoQ0"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-017",
+    "type": "song",
+    "artist": "The Beatles",
+    "title": "A Day in the Life",
+    "year": 1967,
+    "decade": "1960",
+    "genre": "rock",
+    "genreDetail": "Rock y pop",
+    "country": "Reino Unido",
+    "duration": "5:35",
+    "catalogue": "TLG–S–0017",
+    "coverClass": "cover-blue",
+    "coverUrl": "assets/covers-master/song-017.webp",
+    "thumbnailUrl": "assets/covers-master/song-017.webp",
+    "description": {
+      "es": "Una escucha guiada por la fricción entre textura, ritmo y forma de canción.",
+      "en": "A listen shaped by the friction among texture, rhythm and song form.",
+      "fr": "Une écoute portée par la friction entre texture, rythme et forme de la chanson."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Registro Nacional de Grabaciones",
+        "en": "National Recording Registry",
+        "fr": "Registre national des enregistrements"
+      },
+      "source": "National Recording Registry",
+      "url": "https://www.loc.gov/programs/national-recording-preservation-board/recording-registry/complete-national-recording-registry-listing/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/4XiDAxr6alWzxm24i2Rt4K"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/a-day-in-the-life/1441164604?i=1441165168"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=UYeV7jLBXvA"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-019",
+    "type": "song",
+    "artist": "Glen Campbell",
+    "title": "Wichita Lineman",
+    "year": 1968,
+    "decade": "1960",
+    "genre": "folk",
+    "genreDetail": "Country pop",
+    "country": "Estados Unidos",
+    "duration": "3:07",
+    "catalogue": "TLG–S–0019",
+    "coverClass": "cover-red",
+    "coverUrl": "assets/covers-master/song-019.webp",
+    "thumbnailUrl": "assets/covers-master/song-019.webp",
+    "description": {
+      "es": "Una escucha guiada por la cercanía de la voz, el relato y el detalle acústico.",
+      "en": "A listen shaped by the closeness of voice, narrative and acoustic detail.",
+      "fr": "Une écoute portée par la proximité de la voix, du récit et du détail acoustique."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Pitchfork — listas por década y año",
+        "en": "Pitchfork — lists by decade and year",
+        "fr": "Pitchfork — sélections par décennie et par année"
+      },
+      "source": "Pitchfork",
+      "url": "https://pitchfork.com/features/lists-and-guides/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/0H1X2br2ZPFznGDtpGpJ11"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/wichita-lineman/1443109329?i=1443109565"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=Q8P_xTBpAcY"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Rotación"
+  },
+  {
+    "id": "song-056",
+    "type": "song",
+    "artist": "Os Mutantes",
+    "title": "A Minha Menina",
+    "year": 1968,
+    "decade": "1960",
+    "genre": "latin",
+    "genreDetail": "Tropicália",
+    "country": "Brasil",
+    "duration": "4:45",
+    "catalogue": "TLG–S–0056",
+    "coverClass": "cover-yellow",
+    "coverUrl": "assets/covers-master/song-056.webp",
+    "thumbnailUrl": "assets/covers-master/song-056.webp",
+    "description": {
+      "es": "Una escucha guiada por el diálogo rítmico entre percusión, voz y melodía.",
+      "en": "A listen shaped by the rhythmic dialogue among percussion, voice and melody.",
+      "fr": "Une écoute portée par le dialogue rythmique entre percussions, voix et mélodie."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Los 600 Discos de Latinoamérica",
+        "en": "The 600 Albums of Latin America",
+        "fr": "Les 600 albums d’Amérique latine"
+      },
+      "source": "Los 600 Discos de Latinoamérica",
+      "url": "https://www.600discoslatam.com/indice-general-de-los-600-discos-de-latinoamerica/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/5EsmRORNr0LcbfqI4Toir0"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/a-minha-menina/1443152697?i=1443152710"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=XIbJylD_c84"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-057",
+    "type": "song",
+    "artist": "Mercedes Sosa",
+    "title": "Duerme negrito",
+    "year": 1969,
+    "decade": "1960",
+    "genre": "folk",
+    "genreDetail": "Folk latinoamericano",
+    "country": "Argentina",
+    "duration": "2:24",
+    "catalogue": "TLG–S–0057",
+    "coverClass": "cover-green",
+    "coverUrl": "assets/covers-master/song-057.webp",
+    "thumbnailUrl": "assets/covers-master/song-057.webp",
+    "description": {
+      "es": "Una escucha guiada por la cercanía de la voz, el relato y el detalle acústico.",
+      "en": "A listen shaped by the closeness of voice, narrative and acoustic detail.",
+      "fr": "Une écoute portée par la proximité de la voix, du récit et du détail acoustique."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Indie Hoy — listas argentinas y por década",
+        "en": "Indie Hoy — Argentine and decade lists",
+        "fr": "Indie Hoy — sélections argentines et par décennie"
+      },
+      "source": "Indie Hoy",
+      "url": "https://indiehoy.com/listas/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/6kK7DGDR1OppRrxsZXV9ac"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/duerme-negrito-feat-kelo-palacios/1443456474?i=1443456568"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=BHWtQXMoVvA"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-058",
+    "type": "song",
+    "artist": "Fairuz",
+    "title": "Nassam Alayna el-Hawa",
+    "year": 1970,
+    "decade": "1970",
+    "genre": "folk",
+    "genreDetail": "Pop árabe",
+    "country": "Líbano",
+    "duration": "4:03",
+    "catalogue": "TLG–S–0058",
+    "coverClass": "cover-blue",
+    "coverUrl": "assets/covers-master/song-058.webp",
+    "thumbnailUrl": "assets/covers-master/song-058.webp",
+    "description": {
+      "es": "Una escucha guiada por el pulso colectivo, la voz y la forma cíclica.",
+      "en": "A listen shaped by collective pulse, voice and cyclical form.",
+      "fr": "Une écoute portée par le rythme collectif, la voix et la forme cyclique."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Acclaimed Music — agregador crítico",
+        "en": "Acclaimed Music — critical aggregator",
+        "fr": "Acclaimed Music — agrégateur critique"
+      },
+      "source": "Acclaimed Music",
+      "url": "https://www.acclaimedmusic.net/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/7BXhyXma11NSNQlQDZOgiN"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/us/song/nassam-alayna-el-hawa/1420594749"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=YFDW86Sb4nw"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Foco mensual"
+  },
+  {
+    "id": "song-059",
+    "type": "song",
+    "artist": "Chico Buarque",
+    "title": "Construção",
+    "year": 1971,
+    "decade": "1970",
+    "genre": "latin",
+    "genreDetail": "MPB",
+    "country": "Brasil",
+    "duration": "6:25",
+    "catalogue": "TLG–S–0059",
+    "coverClass": "cover-red",
+    "coverUrl": "assets/covers-master/song-059.webp",
+    "thumbnailUrl": "assets/covers-master/song-059.webp",
+    "description": {
+      "es": "Una escucha guiada por el diálogo rítmico entre percusión, voz y melodía.",
+      "en": "A listen shaped by the rhythmic dialogue among percussion, voice and melody.",
+      "fr": "Une écoute portée par le dialogue rythmique entre percussions, voix et mélodie."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Rolling Stone Brasil — discos y canciones",
+        "en": "Rolling Stone Brasil — albums and songs",
+        "fr": "Rolling Stone Brasil — albums et chansons"
+      },
+      "source": "Rolling Stone Brasil",
+      "url": "https://rollingstone.com.br/artigo/os-100-maiores-discos-da-musica-brasileira/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/6hLwtZdn9KPSYLP2BuM3tr"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/constru%C3%A7%C3%A3o/1442845496?i=1442845504"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=wBfVsucRe1w"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-060",
+    "type": "song",
+    "artist": "Françoise Hardy",
+    "title": "La question",
+    "year": 1971,
+    "decade": "1970",
+    "genre": "folk",
+    "genreDetail": "Chanson y folk",
+    "country": "Francia",
+    "duration": "3:02",
+    "catalogue": "TLG–S–0060",
+    "coverClass": "cover-yellow",
+    "coverUrl": "assets/covers-master/song-060.webp",
+    "thumbnailUrl": "assets/covers-master/song-060.webp",
+    "description": {
+      "es": "Una escucha guiada por la cercanía de la voz, el relato y el detalle acústico.",
+      "en": "A listen shaped by the closeness of voice, narrative and acoustic detail.",
+      "fr": "Une écoute portée par la proximité de la voix, du récit et du détail acoustique."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Les Inrockuptibles — listas francesas",
+        "en": "Les Inrockuptibles — French lists",
+        "fr": "Les Inrockuptibles — sélections françaises"
+      },
+      "source": "Les Inrockuptibles",
+      "url": "https://www.lesinrocks.com/musique/les-100-meilleurs-albums-francais-de-tous-les-temps-125490-25-08-2017/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/2MGaxVjCfwk8OA6LHAoY6D"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/la-question/1490263490?i=1490263602"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=yxJkpcBmrf8"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Foco mensual"
+  },
+  {
+    "id": "song-061",
+    "type": "song",
+    "artist": "Happy End",
+    "title": "Kaze wo Atsumete",
+    "year": 1971,
+    "decade": "1970",
+    "genre": "folk",
+    "genreDetail": "Folk rock",
+    "country": "Japón",
+    "duration": "4:07",
+    "catalogue": "TLG–S–0061",
+    "coverClass": "cover-green",
+    "coverUrl": "assets/covers-master/song-061.webp",
+    "thumbnailUrl": "assets/covers-master/song-061.webp",
+    "description": {
+      "es": "Una escucha guiada por la cercanía de la voz, el relato y el detalle acústico.",
+      "en": "A listen shaped by the closeness of voice, narrative and acoustic detail.",
+      "fr": "Une écoute portée par la proximité de la voix, du récit et du détail acoustique."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Beehype — mejores álbumes japoneses",
+        "en": "Beehype — best Japanese albums",
+        "fr": "Beehype — meilleurs albums japonais"
+      },
+      "source": "Beehype",
+      "url": "https://beehy.pe/special/best-japanese-albums/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/1tTAWGgTIRdym9wIg25Uhw"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/kaze-wo-atsumete/164362427?i=164362528"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=ZyZ8s09rVEE"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Foco mensual"
+  },
+  {
+    "id": "song-062",
+    "type": "song",
+    "artist": "Marvin Gaye",
+    "title": "Inner City Blues (Make Me Wanna Holler)",
+    "year": 1971,
+    "decade": "1970",
+    "genre": "soul",
+    "genreDetail": "Soul",
+    "country": "Estados Unidos",
+    "duration": "5:28",
+    "catalogue": "TLG–S–0062",
+    "coverClass": "cover-blue",
+    "coverUrl": "assets/covers-master/song-062.webp",
+    "thumbnailUrl": "assets/covers-master/song-062.webp",
+    "description": {
+      "es": "Una escucha guiada por la tensión entre voz, groove y arreglo.",
+      "en": "A listen shaped by the tension among voice, groove and arrangement.",
+      "fr": "Une écoute portée par la tension entre voix, groove et arrangement."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Rolling Stone — 500 mejores canciones",
+        "en": "Rolling Stone — 500 Greatest Songs",
+        "fr": "Rolling Stone — 500 meilleures chansons"
+      },
+      "source": "Rolling Stone",
+      "url": "https://www.rollingstone.com/music/music-lists/best-songs-of-all-time-1224767/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/4KuBTG9nvmPhgwlRoXnJrJ"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/inner-city-blues-make-me-wanna-holler/1475816828?i=1475817954"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=WRLwTO_T52U"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Rotación"
+  },
+  {
+    "id": "song-063",
+    "type": "song",
+    "artist": "Serge Gainsbourg",
+    "title": "Ballade de Melody Nelson",
+    "year": 1971,
+    "decade": "1970",
+    "genre": "pop",
+    "genreDetail": "Pop orquestal",
+    "country": "Francia",
+    "duration": "2:01",
+    "catalogue": "TLG–S–0063",
+    "coverClass": "cover-red",
+    "coverUrl": "assets/covers-master/song-063.webp",
+    "thumbnailUrl": "assets/covers-master/song-063.webp",
+    "description": {
+      "es": "Una escucha guiada por el equilibrio entre gancho, arreglo y detalle tímbrico.",
+      "en": "A listen shaped by the balance among hook, arrangement and timbral detail.",
+      "fr": "Une écoute portée par l’équilibre entre accroche, arrangement et détail de timbre."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Les Inrockuptibles — listas francesas",
+        "en": "Les Inrockuptibles — French lists",
+        "fr": "Les Inrockuptibles — sélections françaises"
+      },
+      "source": "Les Inrockuptibles",
+      "url": "https://www.lesinrocks.com/musique/les-100-meilleurs-albums-francais-de-tous-les-temps-125490-25-08-2017/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/2lmaHr8ih1E5GWEVmn50k5"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/ballade-de-melody-nelson/1443118514?i=1443118519"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=KYphb65yWKI"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-064",
+    "type": "song",
+    "artist": "Milton Nascimento",
+    "title": "Cais",
+    "year": 1972,
+    "decade": "1970",
+    "genre": "latin",
+    "genreDetail": "MPB",
+    "country": "Brasil",
+    "duration": "2:45",
+    "catalogue": "TLG–S–0064",
+    "coverClass": "cover-yellow",
+    "coverUrl": "assets/covers-master/song-064.webp",
+    "thumbnailUrl": "assets/covers-master/song-064.webp",
+    "description": {
+      "es": "Una escucha guiada por el diálogo rítmico entre percusión, voz y melodía.",
+      "en": "A listen shaped by the rhythmic dialogue among percussion, voice and melody.",
+      "fr": "Une écoute portée par le dialogue rythmique entre percussions, voix et mélodie."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Los 600 Discos de Latinoamérica",
+        "en": "The 600 Albums of Latin America",
+        "fr": "Les 600 albums d’Amérique latine"
+      },
+      "source": "Los 600 Discos de Latinoamérica",
+      "url": "https://www.600discoslatam.com/indice-general-de-los-600-discos-de-latinoamerica/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/1UvOFJFyfsm2OJkE3s48fs"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/cais/1473446573?i=1473446727"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=dtZVQGa9eDw"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-065",
+    "type": "song",
+    "artist": "Novos Baianos",
+    "title": "Mistério do Planeta",
+    "year": 1972,
+    "decade": "1970",
+    "genre": "latin",
+    "genreDetail": "MPB y samba",
+    "country": "Brasil",
+    "duration": "3:38",
+    "catalogue": "TLG–S–0065",
+    "coverClass": "cover-green",
+    "coverUrl": "assets/covers-master/song-065.webp",
+    "thumbnailUrl": "assets/covers-master/song-065.webp",
+    "description": {
+      "es": "Una escucha guiada por el diálogo rítmico entre percusión, voz y melodía.",
+      "en": "A listen shaped by the rhythmic dialogue among percussion, voice and melody.",
+      "fr": "Une écoute portée par le dialogue rythmique entre percussions, voix et mélodie."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Rolling Stone Brasil — discos y canciones",
+        "en": "Rolling Stone Brasil — albums and songs",
+        "fr": "Rolling Stone Brasil — albums et chansons"
+      },
+      "source": "Rolling Stone Brasil",
+      "url": "https://rollingstone.com.br/artigo/os-100-maiores-discos-da-musica-brasileira/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/7CEKLxFNX1ow9iLwcwLjBH"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/mist%C3%A9rio-do-planeta/1831607320?i=1831607574"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=UtTqTFC0l5Y"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-023",
+    "type": "song",
+    "artist": "Dolly Parton",
+    "title": "Jolene",
+    "year": 1973,
+    "decade": "1970",
+    "genre": "folk",
+    "genreDetail": "Country",
+    "country": "Estados Unidos",
+    "duration": "2:43",
+    "catalogue": "TLG–S–0023",
+    "coverClass": "cover-blue",
+    "coverUrl": "assets/covers-master/song-023.webp",
+    "thumbnailUrl": "assets/covers-master/song-023.webp",
+    "description": {
+      "es": "Una escucha guiada por la cercanía de la voz, el relato y el detalle acústico.",
+      "en": "A listen shaped by the closeness of voice, narrative and acoustic detail.",
+      "fr": "Une écoute portée par la proximité de la voix, du récit et du détail acoustique."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Registro Nacional de Grabaciones",
+        "en": "National Recording Registry",
+        "fr": "Registre national des enregistrements"
+      },
+      "source": "National Recording Registry",
+      "url": "https://www.loc.gov/programs/national-recording-preservation-board/recording-registry/complete-national-recording-registry-listing/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/2SpEHTbUuebeLkgs9QB7Ue"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/jolene/1062400323?i=1062400330"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=ZCwWAD6ZuPk"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-066",
+    "type": "song",
+    "artist": "Pescado Rabioso",
+    "title": "Cementerio Club",
+    "year": 1973,
+    "decade": "1970",
+    "genre": "rock",
+    "genreDetail": "Rock argentino",
+    "country": "Argentina",
+    "duration": "4:56",
+    "catalogue": "TLG–S–0066",
+    "coverClass": "cover-red",
+    "coverUrl": "assets/covers-master/song-066.webp",
+    "thumbnailUrl": "assets/covers-master/song-066.webp",
+    "description": {
+      "es": "Una escucha guiada por la fricción entre textura, ritmo y forma de canción.",
+      "en": "A listen shaped by the friction among texture, rhythm and song form.",
+      "fr": "Une écoute portée par la friction entre texture, rythme et forme de la chanson."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Los 600 Discos de Latinoamérica",
+        "en": "The 600 Albums of Latin America",
+        "fr": "Les 600 albums d’Amérique latine"
+      },
+      "source": "Los 600 Discos de Latinoamérica",
+      "url": "https://www.600discoslatam.com/indice-general-de-los-600-discos-de-latinoamerica/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/0O9BqfU1Cdm7YqmD0TrT9i"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/cementerio-club/321645242?i=321645301"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=fIeVgSvqFyY"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Foco mensual"
+  },
+  {
+    "id": "song-067",
+    "type": "song",
+    "artist": "Elis Regina & Tom Jobim",
+    "title": "Águas de Março",
+    "year": 1974,
+    "decade": "1970",
+    "genre": "latin",
+    "genreDetail": "MPB y bossa nova",
+    "country": "Brasil",
+    "duration": "3:34",
+    "catalogue": "TLG–S–0067",
+    "coverClass": "cover-yellow",
+    "coverUrl": "assets/covers-master/song-067.webp",
+    "thumbnailUrl": "assets/covers-master/song-067.webp",
+    "description": {
+      "es": "Una escucha guiada por el diálogo rítmico entre percusión, voz y melodía.",
+      "en": "A listen shaped by the rhythmic dialogue among percussion, voice and melody.",
+      "fr": "Une écoute portée par le dialogue rythmique entre percussions, voix et mélodie."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Registro Nacional de Grabaciones",
+        "en": "National Recording Registry",
+        "fr": "Registre national des enregistrements"
+      },
+      "source": "National Recording Registry",
+      "url": "https://www.loc.gov/programs/national-recording-preservation-board/recording-registry/complete-national-recording-registry-listing/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/1CFpxBiLtcnBVIbnmAJCBk"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/%C3%A1guas-de-mar%C3%A7o/1438430508?i=1438430509"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=3dVe9WiZa2c"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-068",
+    "type": "song",
+    "artist": "Jorge Ben",
+    "title": "Os Alquimistas Estão Chegando os Alquimistas",
+    "year": 1974,
+    "decade": "1970",
+    "genre": "latin",
+    "genreDetail": "Samba rock",
+    "country": "Brasil",
+    "duration": "3:15",
+    "catalogue": "TLG–S–0068",
+    "coverClass": "cover-green",
+    "coverUrl": "assets/covers-master/song-068.webp",
+    "thumbnailUrl": "assets/covers-master/song-068.webp",
+    "description": {
+      "es": "Una escucha guiada por el diálogo rítmico entre percusión, voz y melodía.",
+      "en": "A listen shaped by the rhythmic dialogue among percussion, voice and melody.",
+      "fr": "Une écoute portée par le dialogue rythmique entre percussions, voix et mélodie."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Los 600 Discos de Latinoamérica",
+        "en": "The 600 Albums of Latin America",
+        "fr": "Les 600 albums d’Amérique latine"
+      },
+      "source": "Los 600 Discos de Latinoamérica",
+      "url": "https://www.600discoslatam.com/indice-general-de-los-600-discos-de-latinoamerica/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/25U56VP5BwMQX4apCV0BfA"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/os-alquimistas-est%C3%A3o-chegando-os-alquimistas/1444036491?i=1444036498"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=RZWl7CMRmMc"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-069",
+    "type": "song",
+    "artist": "Mulatu Astatke",
+    "title": "Tezeta",
+    "year": 1974,
+    "decade": "1970",
+    "genre": "jazz",
+    "genreDetail": "Ethio-jazz",
+    "country": "Etiopía",
+    "duration": "6:17",
+    "catalogue": "TLG–S–0069",
+    "coverClass": "cover-blue",
+    "coverUrl": "assets/covers-master/song-069.webp",
+    "thumbnailUrl": "assets/covers-master/song-069.webp",
+    "description": {
+      "es": "Una escucha guiada por la conversación entre timbre, espacio e improvisación.",
+      "en": "A listen shaped by the conversation among timbre, space and improvisation.",
+      "fr": "Une écoute portée par le dialogue entre timbre, espace et improvisation."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Pan African Music — selecciones africanas",
+        "en": "Pan African Music — African selections",
+        "fr": "Pan African Music — sélections africaines"
+      },
+      "source": "Pan African Music",
+      "url": "https://pan-african-music.com/en/80-best-albums-2010s/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/7JPNvoMjoIXkTDAMx9Aajj"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/tezeta-nostalgia/78928362?i=78928247"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=sXLfV2kegUI"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Foco mensual"
+  },
+  {
+    "id": "song-070",
+    "type": "song",
+    "artist": "Fela Kuti",
+    "title": "Water No Get Enemy",
+    "year": 1975,
+    "decade": "1970",
+    "genre": "folk",
+    "genreDetail": "Afrobeat",
+    "country": "Nigeria",
+    "duration": "9:52",
+    "catalogue": "TLG–S–0070",
+    "coverClass": "cover-red",
+    "coverUrl": "assets/covers-master/song-070.webp",
+    "thumbnailUrl": "assets/covers-master/song-070.webp",
+    "description": {
+      "es": "Una escucha guiada por el pulso colectivo, la voz y la forma cíclica.",
+      "en": "A listen shaped by collective pulse, voice and cyclical form.",
+      "fr": "Une écoute portée par le rythme collectif, la voix et la forme cyclique."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Pan African Music — selecciones africanas",
+        "en": "Pan African Music — African selections",
+        "fr": "Pan African Music — sélections africaines"
+      },
+      "source": "Pan African Music",
+      "url": "https://pan-african-music.com/en/80-best-albums-2010s/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/6jzbUvXYVbH6NrUS3WRMoL"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/water-no-get-enemy/1783205871?i=1783205879"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=RHR0tKRxiyY"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-071",
+    "type": "song",
+    "artist": "Cartola",
+    "title": "O Mundo É um Moinho",
+    "year": 1976,
+    "decade": "1970",
+    "genre": "latin",
+    "genreDetail": "Samba",
+    "country": "Brasil",
+    "duration": "3:58",
+    "catalogue": "TLG–S–0071",
+    "coverClass": "cover-yellow",
+    "coverUrl": "assets/covers-master/song-071.webp",
+    "thumbnailUrl": "assets/covers-master/song-071.webp",
+    "description": {
+      "es": "Una escucha guiada por el diálogo rítmico entre percusión, voz y melodía.",
+      "en": "A listen shaped by the rhythmic dialogue among percussion, voice and melody.",
+      "fr": "Une écoute portée par le dialogue rythmique entre percussions, voix et mélodie."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Rolling Stone Brasil — discos y canciones",
+        "en": "Rolling Stone Brasil — albums and songs",
+        "fr": "Rolling Stone Brasil — albums et chansons"
+      },
+      "source": "Rolling Stone Brasil",
+      "url": "https://rollingstone.com.br/artigo/os-100-maiores-discos-da-musica-brasileira/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/78qzpcAasDDxEhfQSL457i"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/o-mundo-%C3%A9-um-moinho/1444042772?i=1444042773"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=F4RK4uNf2vU"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-072",
+    "type": "song",
+    "artist": "Joni Mitchell",
+    "title": "Amelia",
+    "year": 1976,
+    "decade": "1970",
+    "genre": "folk",
+    "genreDetail": "Folk y canción de autor",
+    "country": "Canadá",
+    "duration": "6:02",
+    "catalogue": "TLG–S–0072",
+    "coverClass": "cover-green",
+    "coverUrl": "assets/covers-master/song-072.webp",
+    "thumbnailUrl": "assets/covers-master/song-072.webp",
+    "description": {
+      "es": "Una escucha guiada por la cercanía de la voz, el relato y el detalle acústico.",
+      "en": "A listen shaped by the closeness of voice, narrative and acoustic detail.",
+      "fr": "Une écoute portée par la proximité de la voix, du récit et du détail acoustique."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Pitchfork — listas por década y año",
+        "en": "Pitchfork — lists by decade and year",
+        "fr": "Pitchfork — sélections par décennie et par année"
+      },
+      "source": "Pitchfork",
+      "url": "https://pitchfork.com/features/lists-and-guides/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/6e3dnIRDSPUxRMPRgMlqj1"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/amelia/1492262288?i=1492262290"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=BsWVRN8DDjs"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-022",
+    "type": "song",
+    "artist": "Stevie Wonder",
+    "title": "As",
+    "year": 1976,
+    "decade": "1970",
+    "genre": "soul",
+    "genreDetail": "Soul",
+    "country": "Estados Unidos",
+    "duration": "7:08",
+    "catalogue": "TLG–S–0022",
+    "coverClass": "cover-blue",
+    "coverUrl": "assets/covers-master/song-022.webp",
+    "thumbnailUrl": "assets/covers-master/song-022.webp",
+    "description": {
+      "es": "Una escucha guiada por la tensión entre voz, groove y arreglo.",
+      "en": "A listen shaped by the tension among voice, groove and arrangement.",
+      "fr": "Une écoute portée par la tension entre voix, groove et arrangement."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Pitchfork — listas por década y año",
+        "en": "Pitchfork — lists by decade and year",
+        "fr": "Pitchfork — sélections par décennie et par année"
+      },
+      "source": "Pitchfork",
+      "url": "https://pitchfork.com/features/lists-and-guides/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/13toFl1UwJPsRxDiD9jgtn"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/as/1440788438?i=1440788744"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=VCgsmUNNOKM"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Rotación"
+  },
+  {
+    "id": "song-021",
+    "type": "song",
+    "artist": "David Bowie",
+    "title": "Sound and Vision",
+    "year": 1977,
+    "decade": "1970",
+    "genre": "rock",
+    "genreDetail": "Art rock",
+    "country": "Reino Unido",
+    "duration": "3:04",
+    "catalogue": "TLG–S–0021",
+    "coverClass": "cover-red",
+    "coverUrl": "assets/covers-master/song-021.webp",
+    "thumbnailUrl": "assets/covers-master/song-021.webp",
+    "description": {
+      "es": "Una escucha guiada por la fricción entre textura, ritmo y forma de canción.",
+      "en": "A listen shaped by the friction among texture, rhythm and song form.",
+      "fr": "Une écoute portée par la friction entre texture, rythme et forme de la chanson."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Pitchfork — listas por década y año",
+        "en": "Pitchfork — lists by decade and year",
+        "fr": "Pitchfork — sélections par décennie et par année"
+      },
+      "source": "Pitchfork",
+      "url": "https://pitchfork.com/features/lists-and-guides/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/1vP2JEXRsGrFbwOZ0foOQ5"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/sound-and-vision/1347895593?i=1347895843"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=ZV_UsQPTBy4"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Rotación"
+  },
+  {
+    "id": "song-073",
+    "type": "song",
+    "artist": "Miriam Makeba",
+    "title": "Soweto Blues",
+    "year": 1977,
+    "decade": "1970",
+    "genre": "folk",
+    "genreDetail": "Afropop",
+    "country": "Sudáfrica",
+    "duration": "4:17",
+    "catalogue": "TLG–S–0073",
+    "coverClass": "cover-yellow",
+    "coverUrl": "assets/covers-master/song-073.webp",
+    "thumbnailUrl": "assets/covers-master/song-073.webp",
+    "description": {
+      "es": "Una escucha guiada por el pulso colectivo, la voz y la forma cíclica.",
+      "en": "A listen shaped by collective pulse, voice and cyclical form.",
+      "fr": "Une écoute portée par le rythme collectif, la voix et la forme cyclique."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Pan African Music — selecciones africanas",
+        "en": "Pan African Music — African selections",
+        "fr": "Pan African Music — sélections africaines"
+      },
+      "source": "Pan African Music",
+      "url": "https://pan-african-music.com/en/80-best-albums-2010s/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/7qb0KJZ0iXtS8LMSXCH353"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/soweto-blues/656407455?i=656407960"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=bWbrLyZb5c4"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-074",
+    "type": "song",
+    "artist": "Rubén Blades",
+    "title": "Pablo Pueblo",
+    "year": 1977,
+    "decade": "1970",
+    "genre": "latin",
+    "genreDetail": "Salsa",
+    "country": "Panamá",
+    "duration": "3:59",
+    "catalogue": "TLG–S–0074",
+    "coverClass": "cover-green",
+    "coverUrl": "assets/covers-master/song-074.webp",
+    "thumbnailUrl": "assets/covers-master/song-074.webp",
+    "description": {
+      "es": "Una escucha guiada por el diálogo rítmico entre percusión, voz y melodía.",
+      "en": "A listen shaped by the rhythmic dialogue among percussion, voice and melody.",
+      "fr": "Une écoute portée par le dialogue rythmique entre percussions, voix et mélodie."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Los 600 Discos de Latinoamérica",
+        "en": "The 600 Albums of Latin America",
+        "fr": "Les 600 albums d’Amérique latine"
+      },
+      "source": "Los 600 Discos de Latinoamérica",
+      "url": "https://www.600discoslatam.com/indice-general-de-los-600-discos-de-latinoamerica/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/3bNKqH6CugJqI2QyofQtXf"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/pablo-pueblo/1464288853?i=1464288987"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=NEjTc-bFxA0"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-075",
+    "type": "song",
+    "artist": "Taeko Ohnuki",
+    "title": "4:00A.M.",
+    "year": 1978,
+    "decade": "1970",
+    "genre": "pop",
+    "genreDetail": "City pop",
+    "country": "Japón",
+    "duration": "5:37",
+    "catalogue": "TLG–S–0075",
+    "coverClass": "cover-blue",
+    "coverUrl": "assets/covers-master/song-075.webp",
+    "thumbnailUrl": "assets/covers-master/song-075.webp",
+    "description": {
+      "es": "Una escucha guiada por el equilibrio entre gancho, arreglo y detalle tímbrico.",
+      "en": "A listen shaped by the balance among hook, arrangement and timbral detail.",
+      "fr": "Une écoute portée par l’équilibre entre accroche, arrangement et détail de timbre."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Beehype — mejores álbumes japoneses",
+        "en": "Beehype — best Japanese albums",
+        "fr": "Beehype — meilleurs albums japonais"
+      },
+      "source": "Beehype",
+      "url": "https://beehy.pe/special/best-japanese-albums/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/2lV8YY0GQYXgtUWXM4NJ4X"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/4-00a-m/1597423751?i=1597423772"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=_sOKkON_UnQ"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Foco mensual"
+  },
+  {
+    "id": "song-076",
+    "type": "song",
+    "artist": "Michael Jackson",
+    "title": "I Can't Help It",
+    "year": 1979,
+    "decade": "1970",
+    "genre": "soul",
+    "genreDetail": "Soul y pop",
+    "country": "Estados Unidos",
+    "duration": "4:29",
+    "catalogue": "TLG–S–0076",
+    "coverClass": "cover-red",
+    "coverUrl": "assets/covers-master/song-076.webp",
+    "thumbnailUrl": "assets/covers-master/song-076.webp",
+    "description": {
+      "es": "Una escucha guiada por la tensión entre voz, groove y arreglo.",
+      "en": "A listen shaped by the tension among voice, groove and arrangement.",
+      "fr": "Une écoute portée par la tension entre voix, groove et arrangement."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Pitchfork — listas por década y año",
+        "en": "Pitchfork — lists by decade and year",
+        "fr": "Pitchfork — sélections par décennie et par année"
+      },
+      "source": "Pitchfork",
+      "url": "https://pitchfork.com/features/lists-and-guides/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/1HibhNhwk2tljwC4BGGLXV"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/i-cant-help-it/186166282?i=186166572"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=_3h7wQxdM3A"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Rotación"
+  },
+  {
+    "id": "song-077",
+    "type": "song",
+    "artist": "Yellow Magic Orchestra",
+    "title": "Behind the Mask",
+    "year": 1979,
+    "decade": "1970",
+    "genre": "electronic",
+    "genreDetail": "Electropop",
+    "country": "Japón",
+    "duration": "3:37",
+    "catalogue": "TLG–S–0077",
+    "coverClass": "cover-yellow",
+    "coverUrl": "assets/covers-master/song-077.webp",
+    "thumbnailUrl": "assets/covers-master/song-077.webp",
+    "description": {
+      "es": "Una escucha guiada por la repetición, la textura y el cambio microscópico.",
+      "en": "A listen shaped by repetition, texture and microscopic change.",
+      "fr": "Une écoute portée par la répétition, la texture et le changement microscopique."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Beehype — mejores álbumes japoneses",
+        "en": "Beehype — best Japanese albums",
+        "fr": "Beehype — meilleurs albums japonais"
+      },
+      "source": "Beehype",
+      "url": "https://beehy.pe/special/best-japanese-albums/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/2kSet7H0qbOHx4nHlBcpln"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/behind-the-mask/1291843638?i=1291843649"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=02IvYUAJbtY"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-078",
+    "type": "song",
+    "artist": "Ryuichi Sakamoto",
+    "title": "Riot in Lagos",
+    "year": 1980,
+    "decade": "1980",
+    "genre": "electronic",
+    "genreDetail": "Electrónica",
+    "country": "Japón",
+    "duration": "5:40",
+    "catalogue": "TLG–S–0078",
+    "coverClass": "cover-green",
+    "coverUrl": "assets/covers-master/song-078.webp",
+    "thumbnailUrl": "assets/covers-master/song-078.webp",
+    "description": {
+      "es": "Una escucha guiada por la repetición, la textura y el cambio microscópico.",
+      "en": "A listen shaped by repetition, texture and microscopic change.",
+      "fr": "Une écoute portée par la répétition, la texture et le changement microscopique."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Resident Advisor — mejores discos y pistas",
+        "en": "Resident Advisor — best records and tracks",
+        "fr": "Resident Advisor — meilleurs disques et morceaux"
+      },
+      "source": "Resident Advisor",
+      "url": "https://www.residentadvisor.net/features.aspx?series=bestmusic"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/6ysWHPbTCVuBPweb20rYpD"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/riot-in-lagos-2019-remastering/1479414061?i=1479414074"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=GPuBOYsl--M"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-079",
+    "type": "song",
+    "artist": "Talking Heads",
+    "title": "The Great Curve",
+    "year": 1980,
+    "decade": "1980",
+    "genre": "soul",
+    "genreDetail": "Art rock y funk",
+    "country": "Estados Unidos",
+    "duration": "6:28",
+    "catalogue": "TLG–S–0079",
+    "coverClass": "cover-blue",
+    "coverUrl": "assets/covers-master/song-079.webp",
+    "thumbnailUrl": "assets/covers-master/song-079.webp",
+    "description": {
+      "es": "Una escucha guiada por la tensión entre voz, groove y arreglo.",
+      "en": "A listen shaped by the tension among voice, groove and arrangement.",
+      "fr": "Une écoute portée par la tension entre voix, groove et arrangement."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Pitchfork — listas por década y año",
+        "en": "Pitchfork — lists by decade and year",
+        "fr": "Pitchfork — sélections par décennie et par année"
+      },
+      "source": "Pitchfork",
+      "url": "https://pitchfork.com/features/lists-and-guides/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/5N73ncX9gjmRv9lIpZ85nS"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/the-great-curve/300948043?i=300948068"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=3N5qQrGSuJ4"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Rotación"
+  },
+  {
+    "id": "song-080",
+    "type": "song",
+    "artist": "The Cure",
+    "title": "A Forest",
+    "year": 1980,
+    "decade": "1980",
+    "genre": "rock",
+    "genreDetail": "Post-punk",
+    "country": "Reino Unido",
+    "duration": "5:55",
+    "catalogue": "TLG–S–0080",
+    "coverClass": "cover-red",
+    "coverUrl": "assets/covers-master/song-080.webp",
+    "thumbnailUrl": "assets/covers-master/song-080.webp",
+    "description": {
+      "es": "Una escucha guiada por la fricción entre textura, ritmo y forma de canción.",
+      "en": "A listen shaped by the friction among texture, rhythm and song form.",
+      "fr": "Une écoute portée par la friction entre texture, rythme et forme de la chanson."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Pitchfork — listas por década y año",
+        "en": "Pitchfork — lists by decade and year",
+        "fr": "Pitchfork — sélections par décennie et par année"
+      },
+      "source": "Pitchfork",
+      "url": "https://pitchfork.com/features/lists-and-guides/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/0o4S13NJiEdnzy67ZKoyFZ"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/a-forest/1443809010?i=1443809784"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=ouqt7tJiCbc"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Rotación"
+  },
+  {
+    "id": "song-081",
+    "type": "song",
+    "artist": "Los Jaivas",
+    "title": "La poderosa muerte",
+    "year": 1981,
+    "decade": "1980",
+    "genre": "rock",
+    "genreDetail": "Rock progresivo andino",
+    "country": "Chile",
+    "duration": "11:12",
+    "catalogue": "TLG–S–0081",
+    "coverClass": "cover-yellow",
+    "coverUrl": "assets/covers-master/song-081.webp",
+    "thumbnailUrl": "assets/covers-master/song-081.webp",
+    "description": {
+      "es": "Una escucha guiada por la fricción entre textura, ritmo y forma de canción.",
+      "en": "A listen shaped by the friction among texture, rhythm and song form.",
+      "fr": "Une écoute portée par la friction entre texture, rythme et forme de la chanson."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Radiónica — música colombiana y latinoamericana",
+        "en": "Radiónica — Colombian and Latin American music",
+        "fr": "Radiónica — musique colombienne et latino-américaine"
+      },
+      "source": "Radiónica",
+      "url": "https://www.radionica.rocks/musica"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/6ArNvGUEBngQ9sliZXeGrr"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/la-poderosa-muerte/1607400773?i=1607400785"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=FOjHCeGiFOI"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-082",
+    "type": "song",
+    "artist": "New Order",
+    "title": "Temptation",
+    "year": 1982,
+    "decade": "1980",
+    "genre": "electronic",
+    "genreDetail": "Post-punk y electrónica",
+    "country": "Reino Unido",
+    "duration": "5:24",
+    "catalogue": "TLG–S–0082",
+    "coverClass": "cover-green",
+    "coverUrl": "assets/covers-master/song-082.webp",
+    "thumbnailUrl": "assets/covers-master/song-082.webp",
+    "description": {
+      "es": "Una escucha guiada por la repetición, la textura y el cambio microscópico.",
+      "en": "A listen shaped by repetition, texture and microscopic change.",
+      "fr": "Une écoute portée par la répétition, la texture et le changement microscopique."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Rockdelux — listas por género y escena",
+        "en": "Rockdelux — genre and scene lists",
+        "fr": "Rockdelux — sélections par genre et par scène"
+      },
+      "source": "Rockdelux",
+      "url": "https://www.rockdelux.com/es/listas"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/7j5Q3zhjvpQvMeoPSZwdsa"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/temptation-7-version/1129721479?i=1129721526"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=UkFqFoaDkFo"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-083",
+    "type": "song",
+    "artist": "Luis Alberto Spinetta",
+    "title": "Barro tal vez",
+    "year": 1982,
+    "decade": "1980",
+    "genre": "jazz",
+    "genreDetail": "Jazz rock",
+    "country": "Argentina",
+    "duration": "3:18",
+    "catalogue": "TLG–S–0083",
+    "coverClass": "cover-blue",
+    "coverUrl": "assets/covers-master/song-083.webp",
+    "thumbnailUrl": "assets/covers-master/song-083.webp",
+    "description": {
+      "es": "Una escucha guiada por la conversación entre timbre, espacio e improvisación.",
+      "en": "A listen shaped by the conversation among timbre, space and improvisation.",
+      "fr": "Une écoute portée par le dialogue entre timbre, espace et improvisation."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Pitchfork — listas por década y año",
+        "en": "Pitchfork — lists by decade and year",
+        "fr": "Pitchfork — sélections par décennie et par année"
+      },
+      "source": "Pitchfork",
+      "url": "https://pitchfork.com/features/lists-and-guides/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/1y96w7WDPlwByq9aISEi6G"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/uy/song/barro-tal-vez/1091406776"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=EhCcza2Tgc8"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-084",
+    "type": "song",
+    "artist": "Tatsuro Yamashita",
+    "title": "Sparkle",
+    "year": 1982,
+    "decade": "1980",
+    "genre": "pop",
+    "genreDetail": "City pop",
+    "country": "Japón",
+    "duration": "4:15",
+    "catalogue": "TLG–S–0084",
+    "coverClass": "cover-red",
+    "coverUrl": "assets/covers-master/song-084.webp",
+    "thumbnailUrl": "assets/covers-master/song-084.webp",
+    "description": {
+      "es": "Una escucha guiada por el equilibrio entre gancho, arreglo y detalle tímbrico.",
+      "en": "A listen shaped by the balance among hook, arrangement and timbral detail.",
+      "fr": "Une écoute portée par l’équilibre entre accroche, arrangement et détail de timbre."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Rolling Stone Japan — 100 álbumes japoneses de rock",
+        "en": "Rolling Stone Japan — 100 Japanese Rock Albums",
+        "fr": "Rolling Stone Japan — 100 albums japonais de rock"
+      },
+      "source": "Rolling Stone Japan",
+      "url": "https://neojaponisme.com/2007/11/09/100-greatest-japanese-rock-albums/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "unavailable",
+        "reason": "The original Tatsuro Yamashita recording was not found as a playable Spotify track entity; a similarly titled orchestral recording is intentionally excluded."
+      },
+      "appleMusic": {
+        "status": "unavailable",
+        "reason": "The original Tatsuro Yamashita recording was not found as a playable Apple Music entity; covers and search pages are intentionally excluded."
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=pqobRu9aR3M"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-085",
+    "type": "song",
+    "artist": "Charly García",
+    "title": "Ojos de videotape",
+    "year": 1983,
+    "decade": "1980",
+    "genre": "rock",
+    "genreDetail": "Rock y new wave",
+    "country": "Argentina",
+    "duration": "3:35",
+    "catalogue": "TLG–S–0085",
+    "coverClass": "cover-yellow",
+    "coverUrl": "assets/covers-master/song-085.webp",
+    "thumbnailUrl": "assets/covers-master/song-085.webp",
+    "description": {
+      "es": "Una escucha guiada por la fricción entre textura, ritmo y forma de canción.",
+      "en": "A listen shaped by the friction among texture, rhythm and song form.",
+      "fr": "Une écoute portée par la friction entre texture, rythme et forme de la chanson."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Indie Hoy — listas argentinas y por década",
+        "en": "Indie Hoy — Argentine and decade lists",
+        "fr": "Indie Hoy — sélections argentines et par décennie"
+      },
+      "source": "Indie Hoy",
+      "url": "https://indiehoy.com/listas/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/0UZXsxq8BziChG01WwNRNz"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/ojos-de-video-tape/1443921010?i=1443921386"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=QzOC1bd8Kow"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-086",
+    "type": "song",
+    "artist": "Héctor Lavoe",
+    "title": "Juanito Alimaña",
+    "year": 1983,
+    "decade": "1980",
+    "genre": "latin",
+    "genreDetail": "Salsa",
+    "country": "Puerto Rico",
+    "duration": "5:46",
+    "catalogue": "TLG–S–0086",
+    "coverClass": "cover-green",
+    "coverUrl": "assets/covers-master/song-086.webp",
+    "thumbnailUrl": "assets/covers-master/song-086.webp",
+    "description": {
+      "es": "Una escucha guiada por el diálogo rítmico entre percusión, voz y melodía.",
+      "en": "A listen shaped by the rhythmic dialogue among percussion, voice and melody.",
+      "fr": "Une écoute portée par le dialogue rythmique entre percussions, voix et mélodie."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Los 600 Discos de Latinoamérica",
+        "en": "The 600 Albums of Latin America",
+        "fr": "Les 600 albums d’Amérique latine"
+      },
+      "source": "Los 600 Discos de Latinoamérica",
+      "url": "https://www.600discoslatam.com/indice-general-de-los-600-discos-de-latinoamerica/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/02c7d670y3o6IvkBPazlFu"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/juanito-alima%C3%B1a/1464288853?i=1464288986"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=LrVjKqXjjpM"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-087",
+    "type": "song",
+    "artist": "William Onyeabor",
+    "title": "Fantastic Man",
+    "year": 1983,
+    "decade": "1980",
+    "genre": "soul",
+    "genreDetail": "Funk electrónico",
+    "country": "Nigeria",
+    "duration": "6:26",
+    "catalogue": "TLG–S–0087",
+    "coverClass": "cover-blue",
+    "coverUrl": "assets/covers-master/song-087.webp",
+    "thumbnailUrl": "assets/covers-master/song-087.webp",
+    "description": {
+      "es": "Una escucha guiada por la tensión entre voz, groove y arreglo.",
+      "en": "A listen shaped by the tension among voice, groove and arrangement.",
+      "fr": "Une écoute portée par la tension entre voix, groove et arrangement."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Pan African Music — selecciones africanas",
+        "en": "Pan African Music — African selections",
+        "fr": "Pan African Music — sélections africaines"
+      },
+      "source": "Pan African Music",
+      "url": "https://pan-african-music.com/en/80-best-albums-2010s/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/1ETZhP9orTkDclKEyt0xqm"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/fantastic-man/708418132?i=708418258"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=PW-lgA8Esjc"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-028",
+    "type": "song",
+    "artist": "Kate Bush",
+    "title": "Cloudbusting",
+    "year": 1985,
+    "decade": "1980",
+    "genre": "pop",
+    "genreDetail": "Art pop",
+    "country": "Reino Unido",
+    "duration": "5:10",
+    "catalogue": "TLG–S–0028",
+    "coverClass": "cover-red",
+    "coverUrl": "assets/covers-master/song-028.webp",
+    "thumbnailUrl": "assets/covers-master/song-028.webp",
+    "description": {
+      "es": "Una escucha guiada por el equilibrio entre gancho, arreglo y detalle tímbrico.",
+      "en": "A listen shaped by the balance among hook, arrangement and timbral detail.",
+      "fr": "Une écoute portée par l’équilibre entre accroche, arrangement et détail de timbre."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Pitchfork — listas por década y año",
+        "en": "Pitchfork — lists by decade and year",
+        "fr": "Pitchfork — sélections par décennie et par année"
+      },
+      "source": "Pitchfork",
+      "url": "https://pitchfork.com/features/lists-and-guides/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/373vZ0g1dpWaUcrbh0WKhd"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/cloudbusting-2018-remaster/1675560565?i=1675560844"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=ns7EW5G9ses"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Rotación"
+  },
+  {
+    "id": "song-029",
+    "type": "song",
+    "artist": "Prince",
+    "title": "If I Was Your Girlfriend",
+    "year": 1987,
+    "decade": "1980",
+    "genre": "soul",
+    "genreDetail": "Pop y funk",
+    "country": "Estados Unidos",
+    "duration": "3:46",
+    "catalogue": "TLG–S–0029",
+    "coverClass": "cover-yellow",
+    "coverUrl": "assets/covers-master/song-029.webp",
+    "thumbnailUrl": "assets/covers-master/song-029.webp",
+    "description": {
+      "es": "Una escucha guiada por la tensión entre voz, groove y arreglo.",
+      "en": "A listen shaped by the tension among voice, groove and arrangement.",
+      "fr": "Une écoute portée par la tension entre voix, groove et arrangement."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Pitchfork — listas por década y año",
+        "en": "Pitchfork — lists by decade and year",
+        "fr": "Pitchfork — sélections par décennie et par année"
+      },
+      "source": "Pitchfork",
+      "url": "https://pitchfork.com/features/lists-and-guides/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/6yK7QgE4H7dIzHa9EV4FKL"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/if-i-was-your-girlfriend/212972881?i=212975497"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=4n0j2ZAqeVk"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Rotación"
+  },
+  {
+    "id": "song-088",
+    "type": "song",
+    "artist": "Joe Arroyo",
+    "title": "La noche",
+    "year": 1988,
+    "decade": "1980",
+    "genre": "latin",
+    "genreDetail": "Salsa y música tropical",
+    "country": "Colombia",
+    "duration": "4:24",
+    "catalogue": "TLG–S–0088",
+    "coverClass": "cover-green",
+    "coverUrl": "assets/covers-master/song-088.webp",
+    "thumbnailUrl": "assets/covers-master/song-088.webp",
+    "description": {
+      "es": "Una escucha guiada por el diálogo rítmico entre percusión, voz y melodía.",
+      "en": "A listen shaped by the rhythmic dialogue among percussion, voice and melody.",
+      "fr": "Une écoute portée par le dialogue rythmique entre percussions, voix et mélodie."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Los 600 Discos de Latinoamérica",
+        "en": "The 600 Albums of Latin America",
+        "fr": "Les 600 albums d’Amérique latine"
+      },
+      "source": "Los 600 Discos de Latinoamérica",
+      "url": "https://www.600discoslatam.com/indice-general-de-los-600-discos-de-latinoamerica/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/2uyCcoHiRGttV0uXaNXGB1"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/la-noche/1444508173?i=1444508177"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=p6k02-A_VB4"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-089",
+    "type": "song",
+    "artist": "Public Enemy",
+    "title": "Fight the Power",
+    "year": 1989,
+    "decade": "1980",
+    "genre": "hip-hop",
+    "genreDetail": "Hip-hop",
+    "country": "Estados Unidos",
+    "duration": "4:37",
+    "catalogue": "TLG–S–0089",
+    "coverClass": "cover-blue",
+    "coverUrl": "assets/covers-master/song-089.webp",
+    "thumbnailUrl": "assets/covers-master/song-089.webp",
+    "description": {
+      "es": "Una escucha guiada por la relación entre flujo verbal, ritmo y montaje sonoro.",
+      "en": "A listen shaped by the relationship among verbal flow, rhythm and sonic montage.",
+      "fr": "Une écoute portée par la relation entre flux verbal, rythme et montage sonore."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Registro Nacional de Grabaciones",
+        "en": "National Recording Registry",
+        "fr": "Registre national des enregistrements"
+      },
+      "source": "National Recording Registry",
+      "url": "https://www.loc.gov/programs/national-recording-preservation-board/recording-registry/complete-national-recording-registry-listing/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/1yo16b3u0lptm6Cs7lx4AD"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/fight-the-power/1440751334?i=1440751885"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=jRJKjiCtVco"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-090",
+    "type": "song",
+    "artist": "Cocteau Twins",
+    "title": "Cherry-Coloured Funk",
+    "year": 1990,
+    "decade": "1990",
+    "genre": "rock",
+    "genreDetail": "Dream pop",
+    "country": "Escocia",
+    "duration": "3:12",
+    "catalogue": "TLG–S–0090",
+    "coverClass": "cover-red",
+    "coverUrl": "assets/covers-master/song-090.webp",
+    "thumbnailUrl": "assets/covers-master/song-090.webp",
+    "description": {
+      "es": "Una escucha guiada por la fricción entre textura, ritmo y forma de canción.",
+      "en": "A listen shaped by the friction among texture, rhythm and song form.",
+      "fr": "Une écoute portée par la friction entre texture, rythme et forme de la chanson."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Pitchfork — listas por década y año",
+        "en": "Pitchfork — lists by decade and year",
+        "fr": "Pitchfork — sélections par décennie et par année"
+      },
+      "source": "Pitchfork",
+      "url": "https://pitchfork.com/features/lists-and-guides/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/6sVQNUvcVFTXvlk3ec0ngd"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/cherry-coloured-funk/258198881?i=258198956"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=PbbUeLkZt74"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Rotación"
+  },
+  {
+    "id": "song-091",
+    "type": "song",
+    "artist": "Juan Luis Guerra 4.40",
+    "title": "A pedir su mano",
+    "year": 1990,
+    "decade": "1990",
+    "genre": "latin",
+    "genreDetail": "Merengue",
+    "country": "República Dominicana",
+    "duration": "4:56",
+    "catalogue": "TLG–S–0091",
+    "coverClass": "cover-yellow",
+    "coverUrl": "assets/covers-master/song-091.webp",
+    "thumbnailUrl": "assets/covers-master/song-091.webp",
+    "description": {
+      "es": "Una escucha guiada por el diálogo rítmico entre percusión, voz y melodía.",
+      "en": "A listen shaped by the rhythmic dialogue among percussion, voice and melody.",
+      "fr": "Une écoute portée par le dialogue rythmique entre percussions, voix et mélodie."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Radiónica — música colombiana y latinoamericana",
+        "en": "Radiónica — Colombian and Latin American music",
+        "fr": "Radiónica — musique colombienne et latino-américaine"
+      },
+      "source": "Radiónica",
+      "url": "https://www.radionica.rocks/musica"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/7cPG74cXXlEZ34POFvHZor"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/a-pedir-su-mano/19468976?i=19468964"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=VQQOemYLu3o"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-035",
+    "type": "song",
+    "artist": "Massive Attack",
+    "title": "Unfinished Sympathy",
+    "year": 1991,
+    "decade": "1990",
+    "genre": "electronic",
+    "genreDetail": "Trip-hop",
+    "country": "Reino Unido",
+    "duration": "5:16",
+    "catalogue": "TLG–S–0035",
+    "coverClass": "cover-green",
+    "coverUrl": "assets/covers-master/song-035.webp",
+    "thumbnailUrl": "assets/covers-master/song-035.webp",
+    "description": {
+      "es": "Una escucha guiada por la repetición, la textura y el cambio microscópico.",
+      "en": "A listen shaped by repetition, texture and microscopic change.",
+      "fr": "Une écoute portée par la répétition, la texture et le changement microscopique."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Registro Nacional de Grabaciones",
+        "en": "National Recording Registry",
+        "fr": "Registre national des enregistrements"
+      },
+      "source": "National Recording Registry",
+      "url": "https://www.loc.gov/programs/national-recording-preservation-board/recording-registry/complete-national-recording-registry-listing/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/6OKUMxI7u6p3c4ViM8IXIx"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/unfinished-sympathy/816331899?i=816331921"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=VLRa4nvkTy4"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-092",
+    "type": "song",
+    "artist": "My Bloody Valentine",
+    "title": "Sometimes",
+    "year": 1991,
+    "decade": "1990",
+    "genre": "rock",
+    "genreDetail": "Shoegaze",
+    "country": "Irlanda",
+    "duration": "5:19",
+    "catalogue": "TLG–S–0092",
+    "coverClass": "cover-blue",
+    "coverUrl": "assets/covers-master/song-092.webp",
+    "thumbnailUrl": "assets/covers-master/song-092.webp",
+    "description": {
+      "es": "Una escucha guiada por la fricción entre textura, ritmo y forma de canción.",
+      "en": "A listen shaped by the friction among texture, rhythm and song form.",
+      "fr": "Une écoute portée par la friction entre texture, rythme et forme de la chanson."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Pitchfork — listas por década y año",
+        "en": "Pitchfork — lists by decade and year",
+        "fr": "Pitchfork — sélections par décennie et par année"
+      },
+      "source": "Pitchfork",
+      "url": "https://pitchfork.com/features/lists-and-guides/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/5KBKqxYY263Tr0haAu3fMz"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/sometimes/1556921230?i=1556921238"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=1J5H7DIqRQQ"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Rotación"
+  },
+  {
+    "id": "song-093",
+    "type": "song",
+    "artist": "Aphex Twin",
+    "title": "Xtal",
+    "year": 1992,
+    "decade": "1990",
+    "genre": "electronic",
+    "genreDetail": "Ambient techno",
+    "country": "Reino Unido",
+    "duration": "4:54",
+    "catalogue": "TLG–S–0093",
+    "coverClass": "cover-red",
+    "coverUrl": "assets/covers-master/song-093.webp",
+    "thumbnailUrl": "assets/covers-master/song-093.webp",
+    "description": {
+      "es": "Una escucha guiada por la repetición, la textura y el cambio microscópico.",
+      "en": "A listen shaped by repetition, texture and microscopic change.",
+      "fr": "Une écoute portée par la répétition, la texture et le changement microscopique."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Resident Advisor — mejores discos y pistas",
+        "en": "Resident Advisor — best records and tracks",
+        "fr": "Resident Advisor — meilleurs disques et morceaux"
+      },
+      "source": "Resident Advisor",
+      "url": "https://www.residentadvisor.net/features.aspx?series=bestmusic"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/7o2AeQZzfCERsRmOM86EcB"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/xtal/1668862636?i=1668862649"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=sWcLccMuCA8"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Rotación"
+  },
+  {
+    "id": "song-094",
+    "type": "song",
+    "artist": "Cesária Évora",
+    "title": "Sodade",
+    "year": 1992,
+    "decade": "1990",
+    "genre": "latin",
+    "genreDetail": "Morna",
+    "country": "Cabo Verde",
+    "duration": "4:55",
+    "catalogue": "TLG–S–0094",
+    "coverClass": "cover-yellow",
+    "coverUrl": "assets/covers-master/song-094.webp",
+    "thumbnailUrl": "assets/covers-master/song-094.webp",
+    "description": {
+      "es": "Una escucha guiada por el diálogo rítmico entre percusión, voz y melodía.",
+      "en": "A listen shaped by the rhythmic dialogue among percussion, voice and melody.",
+      "fr": "Une écoute portée par le dialogue rythmique entre percussions, voix et mélodie."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Pan African Music — selecciones africanas",
+        "en": "Pan African Music — African selections",
+        "fr": "Pan African Music — sélections africaines"
+      },
+      "source": "Pan African Music",
+      "url": "https://pan-african-music.com/en/80-best-albums-2010s/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/6j81QCtGal0wGRBF7OQH1s"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/sodade/573376804?i=573377330"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=xBpUo-VHXHQ"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Foco mensual"
+  },
+  {
+    "id": "song-095",
+    "type": "song",
+    "artist": "Sade",
+    "title": "Kiss of Life",
+    "year": 1992,
+    "decade": "1990",
+    "genre": "soul",
+    "genreDetail": "Soul y sophisti-pop",
+    "country": "Reino Unido",
+    "duration": "5:50",
+    "catalogue": "TLG–S–0095",
+    "coverClass": "cover-green",
+    "coverUrl": "assets/covers-master/song-095.webp",
+    "thumbnailUrl": "assets/covers-master/song-095.webp",
+    "description": {
+      "es": "Una escucha guiada por la tensión entre voz, groove y arreglo.",
+      "en": "A listen shaped by the tension among voice, groove and arrangement.",
+      "fr": "Une écoute portée par la tension entre voix, groove et arrangement."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Pitchfork — listas por década y año",
+        "en": "Pitchfork — lists by decade and year",
+        "fr": "Pitchfork — sélections par décennie et par année"
+      },
+      "source": "Pitchfork",
+      "url": "https://pitchfork.com/features/lists-and-guides/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/4S0NYVAQdIb81uLoZoQmgq"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/kiss-of-life/158796559?i=158796603"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=4MOzk7-6j-I"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Rotación"
+  },
+  {
+    "id": "song-096",
+    "type": "song",
+    "artist": "A Tribe Called Quest",
+    "title": "Electric Relaxation",
+    "year": 1993,
+    "decade": "1990",
+    "genre": "hip-hop",
+    "genreDetail": "Hip-hop",
+    "country": "Estados Unidos",
+    "duration": "4:04",
+    "catalogue": "TLG–S–0096",
+    "coverClass": "cover-blue",
+    "coverUrl": "assets/covers-master/song-096.webp",
+    "thumbnailUrl": "assets/covers-master/song-096.webp",
+    "description": {
+      "es": "Una escucha guiada por la relación entre flujo verbal, ritmo y montaje sonoro.",
+      "en": "A listen shaped by the relationship among verbal flow, rhythm and sonic montage.",
+      "fr": "Une écoute portée par la relation entre flux verbal, rythme et montage sonore."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Pitchfork — listas por década y año",
+        "en": "Pitchfork — lists by decade and year",
+        "fr": "Pitchfork — sélections par décennie et par année"
+      },
+      "source": "Pitchfork",
+      "url": "https://pitchfork.com/features/lists-and-guides/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/32WDVNZXIAuu7EqncTTKjH"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/electric-relaxation/265670545?i=265670650"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=B2kWufDC3Bc"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-097",
+    "type": "song",
+    "artist": "Blur",
+    "title": "To the End",
+    "year": 1994,
+    "decade": "1990",
+    "genre": "rock",
+    "genreDetail": "Britpop",
+    "country": "Reino Unido",
+    "duration": "3:52",
+    "catalogue": "TLG–S–0097",
+    "coverClass": "cover-red",
+    "coverUrl": "assets/covers-master/song-097.webp",
+    "thumbnailUrl": "assets/covers-master/song-097.webp",
+    "description": {
+      "es": "Una escucha guiada por la fricción entre textura, ritmo y forma de canción.",
+      "en": "A listen shaped by the friction among texture, rhythm and song form.",
+      "fr": "Une écoute portée par la friction entre texture, rythme et forme de la chanson."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Pitchfork — listas por década y año",
+        "en": "Pitchfork — lists by decade and year",
+        "fr": "Pitchfork — sélections par décennie et par année"
+      },
+      "source": "Pitchfork",
+      "url": "https://pitchfork.com/features/lists-and-guides/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/5tA1P3JwJtCJ3Xv90rhYta"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/to-the-end/867694889?i=867694937"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=4Dut0MGifbE"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-098",
+    "type": "song",
+    "artist": "Nas",
+    "title": "Memory Lane (Sittin' in da Park)",
+    "year": 1994,
+    "decade": "1990",
+    "genre": "hip-hop",
+    "genreDetail": "Hip-hop",
+    "country": "Estados Unidos",
+    "duration": "4:08",
+    "catalogue": "TLG–S–0098",
+    "coverClass": "cover-yellow",
+    "coverUrl": "assets/covers-master/song-098.webp",
+    "thumbnailUrl": "assets/covers-master/song-098.webp",
+    "description": {
+      "es": "Una escucha guiada por la relación entre flujo verbal, ritmo y montaje sonoro.",
+      "en": "A listen shaped by the relationship among verbal flow, rhythm and sonic montage.",
+      "fr": "Une écoute portée par la relation entre flux verbal, rythme et montage sonore."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Pitchfork — listas por década y año",
+        "en": "Pitchfork — lists by decade and year",
+        "fr": "Pitchfork — sélections par décennie et par année"
+      },
+      "source": "Pitchfork",
+      "url": "https://pitchfork.com/features/lists-and-guides/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/2W58HMaCbjcUfZnZaeHtcC"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/memory-lane-sittin-in-da-park/856131729?i=856131736"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=ImSoA_fAVL4"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-099",
+    "type": "song",
+    "artist": "Oasis",
+    "title": "Listen Up",
+    "year": 1994,
+    "decade": "1990",
+    "genre": "rock",
+    "genreDetail": "Britpop",
+    "country": "Reino Unido",
+    "duration": "6:42",
+    "catalogue": "TLG–S–0099",
+    "coverClass": "cover-green",
+    "coverUrl": "assets/covers-master/song-099.webp",
+    "thumbnailUrl": "assets/covers-master/song-099.webp",
+    "description": {
+      "es": "Una escucha guiada por la fricción entre textura, ritmo y forma de canción.",
+      "en": "A listen shaped by the friction among texture, rhythm and song form.",
+      "fr": "Une écoute portée par la friction entre texture, rythme et forme de la chanson."
+    },
+    "recognition": {
+      "type": "reference",
+      "title": {
+        "es": "Discogs — comunidad, ediciones y colección",
+        "en": "Discogs — community, editions and collecting",
+        "fr": "Discogs — communauté, éditions et collection"
+      },
+      "source": "Discogs",
+      "url": "https://support.discogs.com/hc/en-us/articles/360003622014-How-To-Browse-Search-In-The-Database"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/7IN0xNq5UxvsJXTqZ3rdSE"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/listen-up-remastered/828329184?i=828329217"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=Nb5iCUJ3LyE"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Foco mensual"
+  },
+  {
+    "id": "song-100",
+    "type": "song",
+    "artist": "Portishead",
+    "title": "Roads",
+    "year": 1994,
+    "decade": "1990",
+    "genre": "electronic",
+    "genreDetail": "Trip-hop",
+    "country": "Reino Unido",
+    "duration": "5:04",
+    "catalogue": "TLG–S–0100",
+    "coverClass": "cover-blue",
+    "coverUrl": "assets/covers-master/song-100.webp",
+    "thumbnailUrl": "assets/covers-master/song-100.webp",
+    "description": {
+      "es": "Una escucha guiada por la repetición, la textura y el cambio microscópico.",
+      "en": "A listen shaped by repetition, texture and microscopic change.",
+      "fr": "Une écoute portée par la répétition, la texture et le changement microscopique."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Rockdelux — listas por género y escena",
+        "en": "Rockdelux — genre and scene lists",
+        "fr": "Rockdelux — sélections par genre et par scène"
+      },
+      "source": "Rockdelux",
+      "url": "https://www.rockdelux.com/es/listas"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/2sW8fmnISifQTRgnRrQTYW"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/roads/1440653096?i=1440653203"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=7nxWP9BhI7w"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Rotación"
+  },
+  {
+    "id": "song-101",
+    "type": "song",
+    "artist": "Aterciopelados",
+    "title": "El estuche",
+    "year": 1995,
+    "decade": "1990",
+    "genre": "rock",
+    "genreDetail": "Rock alternativo latino",
+    "country": "Colombia",
+    "duration": "3:22",
+    "catalogue": "TLG–S–0101",
+    "coverClass": "cover-red",
+    "coverUrl": "assets/covers-master/song-101.webp",
+    "thumbnailUrl": "assets/covers-master/song-101.webp",
+    "description": {
+      "es": "Una escucha guiada por la fricción entre textura, ritmo y forma de canción.",
+      "en": "A listen shaped by the friction among texture, rhythm and song form.",
+      "fr": "Une écoute portée par la friction entre texture, rythme et forme de la chanson."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Radiónica — música colombiana y latinoamericana",
+        "en": "Radiónica — Colombian and Latin American music",
+        "fr": "Radiónica — musique colombienne et latino-américaine"
+      },
+      "source": "Radiónica",
+      "url": "https://www.radionica.rocks/musica"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/56x4HIuzPoH8O2CD21fM3r"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/el-estuche/268462696?i=268462708"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=mU-0CStclRM"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-102",
+    "type": "song",
+    "artist": "Fishmans",
+    "title": "Long Season",
+    "year": 1996,
+    "decade": "1990",
+    "genre": "rock",
+    "genreDetail": "Dream pop y dub",
+    "country": "Japón",
+    "duration": "35:16",
+    "catalogue": "TLG–S–0102",
+    "coverClass": "cover-yellow",
+    "coverUrl": "assets/covers-master/song-102.webp",
+    "thumbnailUrl": "assets/covers-master/song-102.webp",
+    "description": {
+      "es": "Una escucha guiada por la fricción entre textura, ritmo y forma de canción.",
+      "en": "A listen shaped by the friction among texture, rhythm and song form.",
+      "fr": "Une écoute portée par la friction entre texture, rythme et forme de la chanson."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Rolling Stone Japan — 100 álbumes japoneses de rock",
+        "en": "Rolling Stone Japan — 100 Japanese Rock Albums",
+        "fr": "Rolling Stone Japan — 100 albums japonais de rock"
+      },
+      "source": "Rolling Stone Japan",
+      "url": "https://neojaponisme.com/2007/11/09/100-greatest-japanese-rock-albums/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/7tEzlrjJEHjWzDQ6cqGD06"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/long-season/1416925635?i=1416925644"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=GwWv-T4rM0k"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Foco mensual"
+  },
+  {
+    "id": "song-033",
+    "type": "song",
+    "artist": "Soda Stereo",
+    "title": "Té para tres (MTV Unplugged)",
+    "year": 1996,
+    "decade": "1990",
+    "genre": "rock",
+    "genreDetail": "Rock acústico",
+    "country": "Argentina",
+    "duration": "4:07",
+    "catalogue": "TLG–S–0033",
+    "coverClass": "cover-green",
+    "coverUrl": "assets/covers-master/song-033.webp",
+    "thumbnailUrl": "assets/covers-master/song-033.webp",
+    "description": {
+      "es": "Una escucha guiada por la fricción entre textura, ritmo y forma de canción.",
+      "en": "A listen shaped by the friction among texture, rhythm and song form.",
+      "fr": "Une écoute portée par la friction entre texture, rythme et forme de la chanson."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Indie Hoy — listas argentinas y por década",
+        "en": "Indie Hoy — Argentine and decade lists",
+        "fr": "Indie Hoy — sélections argentines et par décennie"
+      },
+      "source": "Indie Hoy",
+      "url": "https://indiehoy.com/listas/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/1q1vvCImOp88UbKQkKsiMi"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/t%C3%A9-para-tres/286722893?i=286722988"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=KKxlkJkVULM"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-103",
+    "type": "song",
+    "artist": "Missy Elliott",
+    "title": "The Rain (Supa Dupa Fly)",
+    "year": 1997,
+    "decade": "1990",
+    "genre": "hip-hop",
+    "genreDetail": "Hip-hop",
+    "country": "Estados Unidos",
+    "duration": "4:11",
+    "catalogue": "TLG–S–0103",
+    "coverClass": "cover-blue",
+    "coverUrl": "assets/covers-master/song-103.webp",
+    "thumbnailUrl": "assets/covers-master/song-103.webp",
+    "description": {
+      "es": "Una escucha guiada por la relación entre flujo verbal, ritmo y montaje sonoro.",
+      "en": "A listen shaped by the relationship among verbal flow, rhythm and sonic montage.",
+      "fr": "Une écoute portée par la relation entre flux verbal, rythme et montage sonore."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Registro Nacional de Grabaciones",
+        "en": "National Recording Registry",
+        "fr": "Registre national des enregistrements"
+      },
+      "source": "National Recording Registry",
+      "url": "https://www.loc.gov/programs/national-recording-preservation-board/recording-registry/complete-national-recording-registry-listing/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/2WRzpLD8qDRrxMXc63E5WJ"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/the-rain-supa-dupa-fly/302943316?i=302943332"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=BucB2h2Ykhg"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-104",
+    "type": "song",
+    "artist": "Air",
+    "title": "La femme d'argent",
+    "year": 1998,
+    "decade": "1990",
+    "genre": "electronic",
+    "genreDetail": "Downtempo",
+    "country": "Francia",
+    "duration": "7:07",
+    "catalogue": "TLG–S–0104",
+    "coverClass": "cover-red",
+    "coverUrl": "assets/covers-master/song-104.webp",
+    "thumbnailUrl": "assets/covers-master/song-104.webp",
+    "description": {
+      "es": "Una escucha guiada por la repetición, la textura y el cambio microscópico.",
+      "en": "A listen shaped by repetition, texture and microscopic change.",
+      "fr": "Une écoute portée par la répétition, la texture et le changement microscopique."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Les Inrockuptibles — listas francesas",
+        "en": "Les Inrockuptibles — French lists",
+        "fr": "Les Inrockuptibles — sélections françaises"
+      },
+      "source": "Les Inrockuptibles",
+      "url": "https://www.lesinrocks.com/musique/les-100-meilleurs-albums-francais-de-tous-les-temps-125490-25-08-2017/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/6tEaLXZlN8b71vWV1SSsRf"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/la-femme-dargent/697240234?i=697240265"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=fh2E1I-cW0w"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-105",
+    "type": "song",
+    "artist": "Hikaru Utada",
+    "title": "Automatic",
+    "year": 1998,
+    "decade": "1990",
+    "genre": "soul",
+    "genreDetail": "J-pop y R&B",
+    "country": "Japón",
+    "duration": "5:12",
+    "catalogue": "TLG–S–0105",
+    "coverClass": "cover-yellow",
+    "coverUrl": "assets/covers-master/song-105.webp",
+    "thumbnailUrl": "assets/covers-master/song-105.webp",
+    "description": {
+      "es": "Una escucha guiada por la tensión entre voz, groove y arreglo.",
+      "en": "A listen shaped by the tension among voice, groove and arrangement.",
+      "fr": "Une écoute portée par la tension entre voix, groove et arrangement."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Beehype — mejores álbumes japoneses",
+        "en": "Beehype — best Japanese albums",
+        "fr": "Beehype — meilleurs albums japonais"
+      },
+      "source": "Beehype",
+      "url": "https://beehy.pe/special/best-japanese-albums/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/6DJ3dfsY7fOU161ZMjzWIH"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/automatic/1444899395?i=1444899623"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=KZrx_5QOwEA"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-106",
+    "type": "song",
+    "artist": "Lauryn Hill",
+    "title": "Ex-Factor",
+    "year": 1998,
+    "decade": "1990",
+    "genre": "hip-hop",
+    "genreDetail": "R&B y hip-hop",
+    "country": "Estados Unidos",
+    "duration": "5:27",
+    "catalogue": "TLG–S–0106",
+    "coverClass": "cover-green",
+    "coverUrl": "assets/covers-master/song-106.webp",
+    "thumbnailUrl": "assets/covers-master/song-106.webp",
+    "description": {
+      "es": "Una escucha guiada por la relación entre flujo verbal, ritmo y montaje sonoro.",
+      "en": "A listen shaped by the relationship among verbal flow, rhythm and sonic montage.",
+      "fr": "Une écoute portée par la relation entre flux verbal, rythme et montage sonore."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Pitchfork — listas por década y año",
+        "en": "Pitchfork — lists by decade and year",
+        "fr": "Pitchfork — sélections par décennie et par année"
+      },
+      "source": "Pitchfork",
+      "url": "https://pitchfork.com/features/lists-and-guides/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/2VjXGuPVVxyhMgER3Uz2Fe"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/ex-factor/1276760743?i=1276760746"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=r3p3G0tZunE"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-107",
+    "type": "song",
+    "artist": "Outkast",
+    "title": "Da Art of Storytellin' (Pt. 1)",
+    "year": 1998,
+    "decade": "1990",
+    "genre": "hip-hop",
+    "genreDetail": "Hip-hop",
+    "country": "Estados Unidos",
+    "duration": "3:24",
+    "catalogue": "TLG–S–0107",
+    "coverClass": "cover-blue",
+    "coverUrl": "assets/covers-master/song-107.webp",
+    "thumbnailUrl": "assets/covers-master/song-107.webp",
+    "description": {
+      "es": "Una escucha guiada por la relación entre flujo verbal, ritmo y montaje sonoro.",
+      "en": "A listen shaped by the relationship among verbal flow, rhythm and sonic montage.",
+      "fr": "Une écoute portée par la relation entre flux verbal, rythme et montage sonore."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Pitchfork — listas por década y año",
+        "en": "Pitchfork — lists by decade and year",
+        "fr": "Pitchfork — sélections par décennie et par année"
+      },
+      "source": "Pitchfork",
+      "url": "https://pitchfork.com/features/lists-and-guides/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/1KQymTxNJfWk6vCD5ywKW2"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/da-art-of-storytellin-pt-1/1536669507?i=1536670028"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=qgnHmtsjFN4"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-108",
+    "type": "song",
+    "artist": "Pulp",
+    "title": "This Is Hardcore",
+    "year": 1998,
+    "decade": "1990",
+    "genre": "rock",
+    "genreDetail": "Art rock",
+    "country": "Reino Unido",
+    "duration": "6:25",
+    "catalogue": "TLG–S–0108",
+    "coverClass": "cover-red",
+    "coverUrl": "assets/covers-master/song-108.webp",
+    "thumbnailUrl": "assets/covers-master/song-108.webp",
+    "description": {
+      "es": "Una escucha guiada por la fricción entre textura, ritmo y forma de canción.",
+      "en": "A listen shaped by the friction among texture, rhythm and song form.",
+      "fr": "Une écoute portée par la friction entre texture, rythme et forme de la chanson."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Pitchfork — listas por década y año",
+        "en": "Pitchfork — lists by decade and year",
+        "fr": "Pitchfork — sélections par décennie et par année"
+      },
+      "source": "Pitchfork",
+      "url": "https://pitchfork.com/features/lists-and-guides/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/1so0qYkfkiZNNcvJN02qdo"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/this-is-hardcore/1452855037?i=1452855450"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=f8JCyNMgK54"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-109",
+    "type": "song",
+    "artist": "Shakira",
+    "title": "Moscas en la casa",
+    "year": 1998,
+    "decade": "1990",
+    "genre": "rock",
+    "genreDetail": "Pop rock latino",
+    "country": "Colombia",
+    "duration": "3:32",
+    "catalogue": "TLG–S–0109",
+    "coverClass": "cover-yellow",
+    "coverUrl": "assets/covers-master/song-109.webp",
+    "thumbnailUrl": "assets/covers-master/song-109.webp",
+    "description": {
+      "es": "Una escucha guiada por la fricción entre textura, ritmo y forma de canción.",
+      "en": "A listen shaped by the friction among texture, rhythm and song form.",
+      "fr": "Une écoute portée par la friction entre texture, rythme et forme de la chanson."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Radiónica — música colombiana y latinoamericana",
+        "en": "Radiónica — Colombian and Latin American music",
+        "fr": "Radiónica — musique colombienne et latino-américaine"
+      },
+      "source": "Radiónica",
+      "url": "https://www.radionica.rocks/musica"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/1j5NOlhczuiPnZdT6aovgY"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/moscas-en-la-casa/192682818?i=192682983"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=gSf-RRnuuYs"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-110",
+    "type": "song",
+    "artist": "Stardust",
+    "title": "Music Sounds Better With You",
+    "year": 1998,
+    "decade": "1990",
+    "genre": "electronic",
+    "genreDetail": "French house",
+    "country": "Francia",
+    "duration": "6:43",
+    "catalogue": "TLG–S–0110",
+    "coverClass": "cover-green",
+    "coverUrl": "assets/covers-master/song-110.webp",
+    "thumbnailUrl": "assets/covers-master/song-110.webp",
+    "description": {
+      "es": "Una escucha guiada por la repetición, la textura y el cambio microscópico.",
+      "en": "A listen shaped by repetition, texture and microscopic change.",
+      "fr": "Une écoute portée par la répétition, la texture et le changement microscopique."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Les Inrockuptibles — listas francesas",
+        "en": "Les Inrockuptibles — French lists",
+        "fr": "Les Inrockuptibles — sélections françaises"
+      },
+      "source": "Les Inrockuptibles",
+      "url": "https://www.lesinrocks.com/musique/les-100-meilleurs-albums-francais-de-tous-les-temps-125490-25-08-2017/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/303ccTay2FiDTZ9fZ2AdBt"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/music-sounds-better-with-you/1463775966?i=1463775972"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=hRvrj_diWYQ"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-038",
+    "type": "song",
+    "artist": "Café Tacvba",
+    "title": "La muerte chiquita",
+    "year": 1999,
+    "decade": "1990",
+    "genre": "rock",
+    "genreDetail": "Rock alternativo latino",
+    "country": "México",
+    "duration": "2:52",
+    "catalogue": "TLG–S–0038",
+    "coverClass": "cover-blue",
+    "coverUrl": "assets/covers-master/song-038.webp",
+    "thumbnailUrl": "assets/covers-master/song-038.webp",
+    "description": {
+      "es": "Una escucha guiada por la fricción entre textura, ritmo y forma de canción.",
+      "en": "A listen shaped by the friction among texture, rhythm and song form.",
+      "fr": "Une écoute portée par la friction entre texture, rythme et forme de la chanson."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Los 600 Discos de Latinoamérica",
+        "en": "The 600 Albums of Latin America",
+        "fr": "Les 600 albums d’Amérique latine"
+      },
+      "source": "Los 600 Discos de Latinoamérica",
+      "url": "https://www.600discoslatam.com/indice-general-de-los-600-discos-de-latinoamerica/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/0NNxCT63tXUIOESKpJxQlb"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/la-muerte-chiquita/397724876?i=397724883"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=1co2HGN7bTA"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-111",
+    "type": "song",
+    "artist": "Gustavo Cerati",
+    "title": "Tabú",
+    "year": 1999,
+    "decade": "1990",
+    "genre": "electronic",
+    "genreDetail": "Art pop y electrónica",
+    "country": "Argentina",
+    "duration": "4:49",
+    "catalogue": "TLG–S–0111",
+    "coverClass": "cover-red",
+    "coverUrl": "assets/covers-master/song-111.webp",
+    "thumbnailUrl": "assets/covers-master/song-111.webp",
+    "description": {
+      "es": "Una escucha guiada por la repetición, la textura y el cambio microscópico.",
+      "en": "A listen shaped by repetition, texture and microscopic change.",
+      "fr": "Une écoute portée par la répétition, la texture et le changement microscopique."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Rockdelux — listas por género y escena",
+        "en": "Rockdelux — genre and scene lists",
+        "fr": "Rockdelux — sélections par genre et par scène"
+      },
+      "source": "Rockdelux",
+      "url": "https://www.rockdelux.com/es/listas"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/5NHyNFYxLRifc2kI1FqDUP"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/tab%C3%BA/304792998?i=304793005"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=m7uiaakuLpQ"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-112",
+    "type": "song",
+    "artist": "MF DOOM",
+    "title": "Doomsday",
+    "year": 1999,
+    "decade": "1990",
+    "genre": "hip-hop",
+    "genreDetail": "Hip-hop",
+    "country": "Estados Unidos / Reino Unido",
+    "duration": "4:59",
+    "catalogue": "TLG–S–0112",
+    "coverClass": "cover-yellow",
+    "coverUrl": "assets/covers-master/song-112.webp",
+    "thumbnailUrl": "assets/covers-master/song-112.webp",
+    "description": {
+      "es": "Una escucha guiada por la relación entre flujo verbal, ritmo y montaje sonoro.",
+      "en": "A listen shaped by the relationship among verbal flow, rhythm and sonic montage.",
+      "fr": "Une écoute portée par la relation entre flux verbal, rythme et montage sonore."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Acclaimed Music — agregador crítico",
+        "en": "Acclaimed Music — critical aggregator",
+        "fr": "Acclaimed Music — agrégateur critique"
+      },
+      "source": "Acclaimed Music",
+      "url": "https://www.acclaimedmusic.net/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/6k7oi8uzQ2sAVh1JvFQTj6"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/doomsday-instrumental/1654811465?i=1654813188"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=gndkFhYh5Mo"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-113",
+    "type": "song",
+    "artist": "Alan Braxe & Fred Falke",
+    "title": "Intro",
+    "year": 2000,
+    "decade": "2000",
+    "genre": "electronic",
+    "genreDetail": "French house",
+    "country": "Francia",
+    "duration": "4:55",
+    "catalogue": "TLG–S–0113",
+    "coverClass": "cover-green",
+    "coverUrl": "assets/covers-master/song-113.webp",
+    "thumbnailUrl": "assets/covers-master/song-113.webp",
+    "description": {
+      "es": "Una escucha guiada por la repetición, la textura y el cambio microscópico.",
+      "en": "A listen shaped by repetition, texture and microscopic change.",
+      "fr": "Une écoute portée par la répétition, la texture et le changement microscopique."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Rockdelux — listas por género y escena",
+        "en": "Rockdelux — genre and scene lists",
+        "fr": "Rockdelux — sélections par genre et par scène"
+      },
+      "source": "Rockdelux",
+      "url": "https://www.rockdelux.com/es/listas"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/3EXPdW0NGGkPlyDMcScfgu"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/intro/1616792066?i=1616792067"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=z3uLFiWLvHA"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Rotación"
+  },
+  {
+    "id": "song-114",
+    "type": "song",
+    "artist": "D'Angelo",
+    "title": "One Mo'Gin",
+    "year": 2000,
+    "decade": "2000",
+    "genre": "soul",
+    "genreDetail": "Neo soul",
+    "country": "Estados Unidos",
+    "duration": "6:13",
+    "catalogue": "TLG–S–0114",
+    "coverClass": "cover-blue",
+    "coverUrl": "assets/covers-master/song-114.webp",
+    "thumbnailUrl": "assets/covers-master/song-114.webp",
+    "description": {
+      "es": "Una escucha guiada por la tensión entre voz, groove y arreglo.",
+      "en": "A listen shaped by the tension among voice, groove and arrangement.",
+      "fr": "Une écoute portée par la tension entre voix, groove et arrangement."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Pitchfork — listas por década y año",
+        "en": "Pitchfork — lists by decade and year",
+        "fr": "Pitchfork — sélections par décennie et par année"
+      },
+      "source": "Pitchfork",
+      "url": "https://pitchfork.com/features/lists-and-guides/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/4KdHmcUVArJeN7XPjp6Czx"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/one-mogin/1440841365?i=1440841904"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=EQq-KwgolxE"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Rotación"
+  },
+  {
+    "id": "song-115",
+    "type": "song",
+    "artist": "Erykah Badu",
+    "title": "Didn't Cha Know",
+    "year": 2000,
+    "decade": "2000",
+    "genre": "soul",
+    "genreDetail": "Neo soul",
+    "country": "Estados Unidos",
+    "duration": "3:59",
+    "catalogue": "TLG–S–0115",
+    "coverClass": "cover-red",
+    "coverUrl": "assets/covers-master/song-115.webp",
+    "thumbnailUrl": "assets/covers-master/song-115.webp",
+    "description": {
+      "es": "Una escucha guiada por la tensión entre voz, groove y arreglo.",
+      "en": "A listen shaped by the tension among voice, groove and arrangement.",
+      "fr": "Une écoute portée par la tension entre voix, groove et arrangement."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Pitchfork — listas por década y año",
+        "en": "Pitchfork — lists by decade and year",
+        "fr": "Pitchfork — sélections par décennie et par année"
+      },
+      "source": "Pitchfork",
+      "url": "https://pitchfork.com/features/lists-and-guides/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/7pv80uUHfocFqfTytu1MVi"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/didnt-cha-know/1440755899?i=1440756135"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=b4fCymLkgOQ"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-116",
+    "type": "song",
+    "artist": "Julieta Venegas",
+    "title": "Sería feliz",
+    "year": 2000,
+    "decade": "2000",
+    "genre": "rock",
+    "genreDetail": "Pop rock",
+    "country": "México",
+    "duration": "3:25",
+    "catalogue": "TLG–S–0116",
+    "coverClass": "cover-yellow",
+    "coverUrl": "assets/covers-master/song-116.webp",
+    "thumbnailUrl": "assets/covers-master/song-116.webp",
+    "description": {
+      "es": "Una escucha guiada por la fricción entre textura, ritmo y forma de canción.",
+      "en": "A listen shaped by the friction among texture, rhythm and song form.",
+      "fr": "Une écoute portée par la friction entre texture, rythme et forme de la chanson."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Los 600 Discos de Latinoamérica",
+        "en": "The 600 Albums of Latin America",
+        "fr": "Les 600 albums d’Amérique latine"
+      },
+      "source": "Los 600 Discos de Latinoamérica",
+      "url": "https://www.600discoslatam.com/indice-general-de-los-600-discos-de-latinoamerica/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/3kwjfht296P1KhIsHwUTmY"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/ser%C3%ADa-feliz/252667214?i=252667883"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=DPr1ZzQbmFI"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-117",
+    "type": "song",
+    "artist": "Daft Punk",
+    "title": "Something About Us",
+    "year": 2001,
+    "decade": "2000",
+    "genre": "electronic",
+    "genreDetail": "House y pop",
+    "country": "Francia",
+    "duration": "3:53",
+    "catalogue": "TLG–S–0117",
+    "coverClass": "cover-green",
+    "coverUrl": "assets/covers-master/song-117.webp",
+    "thumbnailUrl": "assets/covers-master/song-117.webp",
+    "description": {
+      "es": "Una escucha guiada por la repetición, la textura y el cambio microscópico.",
+      "en": "A listen shaped by repetition, texture and microscopic change.",
+      "fr": "Une écoute portée par la répétition, la texture et le changement microscopique."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Rockdelux — listas por género y escena",
+        "en": "Rockdelux — genre and scene lists",
+        "fr": "Rockdelux — sélections par genre et par scène"
+      },
+      "source": "Rockdelux",
+      "url": "https://www.rockdelux.com/es/listas"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/1NeLwFETswx8Fzxl2AFl91"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/something-about-us/703078650?i=703078831"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=URzOGF_QGls"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-118",
+    "type": "song",
+    "artist": "Radiohead",
+    "title": "Pyramid Song",
+    "year": 2001,
+    "decade": "2000",
+    "genre": "rock",
+    "genreDetail": "Art rock",
+    "country": "Reino Unido",
+    "duration": "4:49",
+    "catalogue": "TLG–S–0118",
+    "coverClass": "cover-blue",
+    "coverUrl": "assets/covers-master/song-118.webp",
+    "thumbnailUrl": "assets/covers-master/song-118.webp",
+    "description": {
+      "es": "Una escucha guiada por la fricción entre textura, ritmo y forma de canción.",
+      "en": "A listen shaped by the friction among texture, rhythm and song form.",
+      "fr": "Une écoute portée par la friction entre texture, rythme et forme de la chanson."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Pitchfork — listas por década y año",
+        "en": "Pitchfork — lists by decade and year",
+        "fr": "Pitchfork — sélections par décennie et par année"
+      },
+      "source": "Pitchfork",
+      "url": "https://pitchfork.com/features/lists-and-guides/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/55q3Ro66yXWi9rsEddeEN4"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/pyramid-song/1097864180?i=1097864572"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=2Agt3XfmccM"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Rotación"
+  },
+  {
+    "id": "song-041",
+    "type": "song",
+    "artist": "The Strokes",
+    "title": "Hard to Explain",
+    "year": 2001,
+    "decade": "2000",
+    "genre": "rock",
+    "genreDetail": "Indie rock",
+    "country": "Estados Unidos",
+    "duration": "3:44",
+    "catalogue": "TLG–S–0041",
+    "coverClass": "cover-red",
+    "coverUrl": "assets/covers-master/song-041.webp",
+    "thumbnailUrl": "assets/covers-master/song-041.webp",
+    "description": {
+      "es": "Una escucha guiada por la fricción entre textura, ritmo y forma de canción.",
+      "en": "A listen shaped by the friction among texture, rhythm and song form.",
+      "fr": "Une écoute portée par la friction entre texture, rythme et forme de la chanson."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Pitchfork — listas por década y año",
+        "en": "Pitchfork — lists by decade and year",
+        "fr": "Pitchfork — sélections par décennie et par année"
+      },
+      "source": "Pitchfork",
+      "url": "https://pitchfork.com/features/lists-and-guides/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/2LMloFiV7DHpBhITOaBSam"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/hard-to-explain/269080434?i=269080614"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=2iF9-LAVcjE"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Rotación"
+  },
+  {
+    "id": "song-042",
+    "type": "song",
+    "artist": "M.I.A.",
+    "title": "Galang",
+    "year": 2003,
+    "decade": "2000",
+    "genre": "hip-hop",
+    "genreDetail": "Hip-hop y electrónica",
+    "country": "Reino Unido / Sri Lanka",
+    "duration": "3:34",
+    "catalogue": "TLG–S–0042",
+    "coverClass": "cover-yellow",
+    "coverUrl": "assets/covers-master/song-042.webp",
+    "thumbnailUrl": "assets/covers-master/song-042.webp",
+    "description": {
+      "es": "Una escucha guiada por la relación entre flujo verbal, ritmo y montaje sonoro.",
+      "en": "A listen shaped by the relationship among verbal flow, rhythm and sonic montage.",
+      "fr": "Une écoute portée par la relation entre flux verbal, rythme et montage sonore."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Resident Advisor — mejores discos y pistas",
+        "en": "Resident Advisor — best records and tracks",
+        "fr": "Resident Advisor — meilleurs disques et morceaux"
+      },
+      "source": "Resident Advisor",
+      "url": "https://www.residentadvisor.net/features.aspx?series=bestmusic"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/5nkcHStGMrEDph0DkuYSEk"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/galang/1450124269?i=1450124393"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=FJce_YJGQM8"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-119",
+    "type": "song",
+    "artist": "Tego Calderón",
+    "title": "Loíza",
+    "year": 2003,
+    "decade": "2000",
+    "genre": "hip-hop",
+    "genreDetail": "Reguetón y hip-hop",
+    "country": "Puerto Rico",
+    "duration": "3:10",
+    "catalogue": "TLG–S–0119",
+    "coverClass": "cover-green",
+    "coverUrl": "assets/covers-master/song-119.webp",
+    "thumbnailUrl": "assets/covers-master/song-119.webp",
+    "description": {
+      "es": "Una escucha guiada por la relación entre flujo verbal, ritmo y montaje sonoro.",
+      "en": "A listen shaped by the relationship among verbal flow, rhythm and sonic montage.",
+      "fr": "Une écoute portée par la relation entre flux verbal, rythme et montage sonore."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Radiónica — música colombiana y latinoamericana",
+        "en": "Radiónica — Colombian and Latin American music",
+        "fr": "Radiónica — musique colombienne et latino-américaine"
+      },
+      "source": "Radiónica",
+      "url": "https://www.radionica.rocks/musica"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/1N5k7ZIktblvLZ2QFS5nHn"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/us/song/lo%C3%ADza/535880848"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=LVuoi-vS5ag"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-044",
+    "type": "song",
+    "artist": "Daddy Yankee",
+    "title": "Gasolina",
+    "year": 2004,
+    "decade": "2000",
+    "genre": "latin",
+    "genreDetail": "Reguetón",
+    "country": "Puerto Rico",
+    "duration": "3:13",
+    "catalogue": "TLG–S–0044",
+    "coverClass": "cover-blue",
+    "coverUrl": "assets/covers-master/song-044.webp",
+    "thumbnailUrl": "assets/covers-master/song-044.webp",
+    "description": {
+      "es": "Una escucha guiada por el diálogo rítmico entre percusión, voz y melodía.",
+      "en": "A listen shaped by the rhythmic dialogue among percussion, voice and melody.",
+      "fr": "Une écoute portée par le dialogue rythmique entre percussions, voix et mélodie."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Los 600 Discos de Latinoamérica",
+        "en": "The 600 Albums of Latin America",
+        "fr": "Les 600 albums d’Amérique latine"
+      },
+      "source": "Los 600 Discos de Latinoamérica",
+      "url": "https://www.600discoslatam.com/indice-general-de-los-600-discos-de-latinoamerica/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/6jEZLz3YpnEBRpVkv35AmP"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/gasolina/1785999696?i=1786000124"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=2djj_KnGwjk"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-046",
+    "type": "song",
+    "artist": "Burial",
+    "title": "Archangel",
+    "year": 2007,
+    "decade": "2000",
+    "genre": "electronic",
+    "genreDetail": "UK garage y ambient",
+    "country": "Reino Unido",
+    "duration": "3:58",
+    "catalogue": "TLG–S–0046",
+    "coverClass": "cover-red",
+    "coverUrl": "assets/covers-master/song-046.webp",
+    "thumbnailUrl": "assets/covers-master/song-046.webp",
+    "description": {
+      "es": "Una escucha guiada por la repetición, la textura y el cambio microscópico.",
+      "en": "A listen shaped by repetition, texture and microscopic change.",
+      "fr": "Une écoute portée par la répétition, la texture et le changement microscopique."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Rockdelux — listas por género y escena",
+        "en": "Rockdelux — genre and scene lists",
+        "fr": "Rockdelux — sélections par genre et par scène"
+      },
+      "source": "Rockdelux",
+      "url": "https://www.rockdelux.com/es/listas"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/2agb1CPPGWXqXnrKn6cx7u"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/archangel/893175779?i=893175788"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=PzYrr7K1dvU"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-045",
+    "type": "song",
+    "artist": "LCD Soundsystem",
+    "title": "All My Friends",
+    "year": 2007,
+    "decade": "2000",
+    "genre": "electronic",
+    "genreDetail": "Dance-punk",
+    "country": "Estados Unidos",
+    "duration": "7:42",
+    "catalogue": "TLG–S–0045",
+    "coverClass": "cover-yellow",
+    "coverUrl": "assets/covers-master/song-045.webp",
+    "thumbnailUrl": "assets/covers-master/song-045.webp",
+    "description": {
+      "es": "Una escucha guiada por la repetición, la textura y el cambio microscópico.",
+      "en": "A listen shaped by repetition, texture and microscopic change.",
+      "fr": "Une écoute portée par la répétition, la texture et le changement microscopique."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Pitchfork — listas por década y año",
+        "en": "Pitchfork — lists by decade and year",
+        "fr": "Pitchfork — sélections par décennie et par année"
+      },
+      "source": "Pitchfork",
+      "url": "https://pitchfork.com/features/lists-and-guides/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/2Ud3deeqLAG988pfW0Kwcl"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/all-my-friends/742432549?i=742434954"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=vVEZNvqecdE"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-120",
+    "type": "song",
+    "artist": "Phoenix",
+    "title": "Love Like a Sunset, Parts I & II",
+    "year": 2009,
+    "decade": "2000",
+    "genre": "rock",
+    "genreDetail": "Indie pop",
+    "country": "Francia",
+    "duration": "5:39",
+    "catalogue": "TLG–S–0120",
+    "coverClass": "cover-green",
+    "coverUrl": "assets/covers-master/song-120.webp",
+    "thumbnailUrl": "assets/covers-master/song-120.webp",
+    "description": {
+      "es": "Una escucha guiada por la fricción entre textura, ritmo y forma de canción.",
+      "en": "A listen shaped by the friction among texture, rhythm and song form.",
+      "fr": "Une écoute portée par la friction entre texture, rythme et forme de la chanson."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Les Inrockuptibles — listas francesas",
+        "en": "Les Inrockuptibles — French lists",
+        "fr": "Les Inrockuptibles — sélections françaises"
+      },
+      "source": "Les Inrockuptibles",
+      "url": "https://www.lesinrocks.com/musique/les-100-meilleurs-albums-francais-de-tous-les-temps-125490-25-08-2017/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/3KMHONJQytkungXeE7aOi6"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/love-like-a-sunset-pt-i/1771710012?i=1771710558"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=5F8hTrbKH0I"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-047",
+    "type": "song",
+    "artist": "Frank Ocean",
+    "title": "Pyramids",
+    "year": 2012,
+    "decade": "2010",
+    "genre": "soul",
+    "genreDetail": "R&B",
+    "country": "Estados Unidos",
+    "duration": "9:53",
+    "catalogue": "TLG–S–0047",
+    "coverClass": "cover-blue",
+    "coverUrl": "assets/covers-master/song-047.webp",
+    "thumbnailUrl": "assets/covers-master/song-047.webp",
+    "description": {
+      "es": "Una escucha guiada por la tensión entre voz, groove y arreglo.",
+      "en": "A listen shaped by the tension among voice, groove and arrangement.",
+      "fr": "Une écoute portée par la tension entre voix, groove et arrangement."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Pitchfork — listas por década y año",
+        "en": "Pitchfork — lists by decade and year",
+        "fr": "Pitchfork — sélections par décennie et par année"
+      },
+      "source": "Pitchfork",
+      "url": "https://pitchfork.com/features/lists-and-guides/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/4QhWbupniDd44EDtnh2bFJ"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/gb/song/pyramids/1440766589"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=dMV31MWIjLE"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-121",
+    "type": "song",
+    "artist": "Kendrick Lamar",
+    "title": "Sing About Me, I'm Dying of Thirst",
+    "year": 2012,
+    "decade": "2010",
+    "genre": "hip-hop",
+    "genreDetail": "Hip-hop",
+    "country": "Estados Unidos",
+    "duration": "12:04",
+    "catalogue": "TLG–S–0121",
+    "coverClass": "cover-red",
+    "coverUrl": "assets/covers-master/song-121.webp",
+    "thumbnailUrl": "assets/covers-master/song-121.webp",
+    "description": {
+      "es": "Una escucha guiada por la relación entre flujo verbal, ritmo y montaje sonoro.",
+      "en": "A listen shaped by the relationship among verbal flow, rhythm and sonic montage.",
+      "fr": "Une écoute portée par la relation entre flux verbal, rythme et montage sonore."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Pitchfork — listas por década y año",
+        "en": "Pitchfork — lists by decade and year",
+        "fr": "Pitchfork — sélections par décennie et par année"
+      },
+      "source": "Pitchfork",
+      "url": "https://pitchfork.com/features/lists-and-guides/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/3q2v8QaTnHLveAQzR6gvYm"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/sing-about-me-im-dying-of-thirst/1440860389?i=1440860410"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=9-XbXBq8cl8"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-049",
+    "type": "song",
+    "artist": "Beyoncé",
+    "title": "Formation",
+    "year": 2016,
+    "decade": "2010",
+    "genre": "soul",
+    "genreDetail": "Pop y R&B",
+    "country": "Estados Unidos",
+    "duration": "3:26",
+    "catalogue": "TLG–S–0049",
+    "coverClass": "cover-yellow",
+    "coverUrl": "assets/covers-master/song-049.webp",
+    "thumbnailUrl": "assets/covers-master/song-049.webp",
+    "description": {
+      "es": "Una escucha guiada por la tensión entre voz, groove y arreglo.",
+      "en": "A listen shaped by the tension among voice, groove and arrangement.",
+      "fr": "Une écoute portée par la tension entre voix, groove et arrangement."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Registro Nacional de Grabaciones",
+        "en": "National Recording Registry",
+        "fr": "Registre national des enregistrements"
+      },
+      "source": "National Recording Registry",
+      "url": "https://www.loc.gov/programs/national-recording-preservation-board/recording-registry/complete-national-recording-registry-listing/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/6g0Orsxv6glTJCt4cHsRsQ"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/formation/1460432013?i=1460432163"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=sj9q5ve6bh0"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-122",
+    "type": "song",
+    "artist": "Rosalía",
+    "title": "De aquí no sales",
+    "year": 2018,
+    "decade": "2010",
+    "genre": "latin",
+    "genreDetail": "Flamenco pop",
+    "country": "España",
+    "duration": "2:25",
+    "catalogue": "TLG–S–0122",
+    "coverClass": "cover-green",
+    "coverUrl": "assets/covers-master/song-122.webp",
+    "thumbnailUrl": "assets/covers-master/song-122.webp",
+    "description": {
+      "es": "Una escucha guiada por el diálogo rítmico entre percusión, voz y melodía.",
+      "en": "A listen shaped by the rhythmic dialogue among percussion, voice and melody.",
+      "fr": "Une écoute portée par le dialogue rythmique entre percussions, voix et mélodie."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Rockdelux — listas por género y escena",
+        "en": "Rockdelux — genre and scene lists",
+        "fr": "Rockdelux — sélections par genre et par scène"
+      },
+      "source": "Rockdelux",
+      "url": "https://www.rockdelux.com/es/listas"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/2BGzvk6J3fbN4nJY3kOUoz"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/de-aqu%C3%AD-no-sales-cap-4-disputa/1436309944?i=1436310380"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=vk4dTui5EQo"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-123",
+    "type": "song",
+    "artist": "SOPHIE",
+    "title": "Immaterial",
+    "year": 2018,
+    "decade": "2010",
+    "genre": "pop",
+    "genreDetail": "Pop experimental",
+    "country": "Escocia",
+    "duration": "3:53",
+    "catalogue": "TLG–S–0123",
+    "coverClass": "cover-blue",
+    "coverUrl": "assets/covers-master/song-123.webp",
+    "thumbnailUrl": "assets/covers-master/song-123.webp",
+    "description": {
+      "es": "Una escucha guiada por el equilibrio entre gancho, arreglo y detalle tímbrico.",
+      "en": "A listen shaped by the balance among hook, arrangement and timbral detail.",
+      "fr": "Une écoute portée par l’équilibre entre accroche, arrangement et détail de timbre."
+    },
+    "recognition": {
+      "type": "reference",
+      "title": {
+        "es": "Discogs — comunidad, ediciones y colección",
+        "en": "Discogs — community, editions and collecting",
+        "fr": "Discogs — communauté, éditions et collection"
+      },
+      "source": "Discogs",
+      "url": "https://support.discogs.com/hc/en-us/articles/360003622014-How-To-Browse-Search-In-The-Database"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/1huN927tTdSiwF90FBHXkT"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/immaterial/1395045797?i=1395046305"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=PB5tnokRFS0"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-124",
+    "type": "song",
+    "artist": "FKA twigs",
+    "title": "Cellophane",
+    "year": 2019,
+    "decade": "2010",
+    "genre": "pop",
+    "genreDetail": "Art pop",
+    "country": "Reino Unido",
+    "duration": "3:24",
+    "catalogue": "TLG–S–0124",
+    "coverClass": "cover-red",
+    "coverUrl": "assets/covers-master/song-124.webp",
+    "thumbnailUrl": "assets/covers-master/song-124.webp",
+    "description": {
+      "es": "Una escucha guiada por el equilibrio entre gancho, arreglo y detalle tímbrico.",
+      "en": "A listen shaped by the balance among hook, arrangement and timbral detail.",
+      "fr": "Une écoute portée par l’équilibre entre accroche, arrangement et détail de timbre."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Pitchfork — listas por década y año",
+        "en": "Pitchfork — lists by decade and year",
+        "fr": "Pitchfork — sélections par décennie et par année"
+      },
+      "source": "Pitchfork",
+      "url": "https://pitchfork.com/features/lists-and-guides/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/3VwZqgfrM3xb1usuLprkTu"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/cellophane/1477652618?i=1477652823"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=ZruInYsvwuY"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Rotación"
+  },
+  {
+    "id": "song-125",
+    "type": "song",
+    "artist": "Bad Bunny",
+    "title": "Andrea",
+    "year": 2022,
+    "decade": "2020",
+    "genre": "latin",
+    "genreDetail": "Reguetón y pop",
+    "country": "Puerto Rico",
+    "duration": "3:31",
+    "catalogue": "TLG–S–0125",
+    "coverClass": "cover-yellow",
+    "coverUrl": "assets/covers-master/song-125.webp",
+    "thumbnailUrl": "assets/covers-master/song-125.webp",
+    "description": {
+      "es": "Una escucha guiada por el diálogo rítmico entre percusión, voz y melodía.",
+      "en": "A listen shaped by the rhythmic dialogue among percussion, voice and melody.",
+      "fr": "Une écoute portée par le dialogue rythmique entre percussions, voix et mélodie."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Radiónica — música colombiana y latinoamericana",
+        "en": "Radiónica — Colombian and Latin American music",
+        "fr": "Radiónica — musique colombienne et latino-américaine"
+      },
+      "source": "Radiónica",
+      "url": "https://www.radionica.rocks/musica"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/44XjoNvtwevktFKjvVe1vH"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/andrea/1209997077?i=1209997759"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=gjWk-MY3pc4"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Ancla"
+  },
+  {
+    "id": "song-050",
+    "type": "song",
+    "artist": "Silvana Estrada",
+    "title": "Te guardo",
+    "year": 2022,
+    "decade": "2020",
+    "genre": "folk",
+    "genreDetail": "Canción de autor",
+    "country": "México",
+    "duration": "3:22",
+    "catalogue": "TLG–S–0050",
+    "coverClass": "cover-green",
+    "coverUrl": "assets/covers-master/song-050.webp",
+    "thumbnailUrl": "assets/covers-master/song-050.webp",
+    "description": {
+      "es": "Una escucha guiada por la cercanía de la voz, el relato y el detalle acústico.",
+      "en": "A listen shaped by the closeness of voice, narrative and acoustic detail.",
+      "fr": "Une écoute portée par la proximité de la voix, du récit et du détail acoustique."
+    },
+    "recognition": {
+      "type": "selection",
+      "title": {
+        "es": "Los 600 Discos de Latinoamérica",
+        "en": "The 600 Albums of Latin America",
+        "fr": "Les 600 albums d’Amérique latine"
+      },
+      "source": "Los 600 Discos de Latinoamérica",
+      "url": "https://www.600discoslatam.com/indice-general-de-los-600-discos-de-latinoamerica/"
+    },
+    "streaming": {
+      "spotify": {
+        "status": "available",
+        "url": "https://open.spotify.com/track/0MbiIQrfTj9U3MXzv3AsoK"
+      },
+      "appleMusic": {
+        "status": "available",
+        "url": "https://music.apple.com/mx/album/te-guardo/1590308123?i=1590308341"
+      },
+      "youtubeMusic": {
+        "status": "available",
+        "url": "https://music.youtube.com/watch?v=5kONPvuwLQw"
+      }
+    },
+    "editionId": "2026-09",
+    "monthlyRole": "Foco mensual"
+  }
+]

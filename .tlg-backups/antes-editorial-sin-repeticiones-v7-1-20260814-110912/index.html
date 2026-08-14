@@ -1,0 +1,461 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <meta
+    name="description"
+    content="Descubre álbumes y canciones imprescindibles, una escucha a la vez."
+  >
+
+  <title>To the Last Groove</title>
+
+  <link rel="icon" href="favicon-vinyl.png?v=2" type="image/png" sizes="64x64">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="preconnect" href="https://coverartarchive.org">
+
+  <link
+    href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700;800&family=Inter:wght@400;500;600;700&display=swap"
+    rel="stylesheet"
+  >
+
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+  <header class="site-header">
+    <a
+      class="logo"
+      href="#"
+      aria-label="To the Last Groove"
+    >
+      <span class="logo-prefix">TO THE LAST</span>
+
+      <span class="logo-groove" aria-hidden="true">
+        GR<span class="logo-record logo-record-solid">O</span><span class="logo-record logo-record-rings">O</span>VE
+      </span>
+    </a>
+
+    <nav class="main-nav" aria-label="Navegación principal">
+      <button class="nav-link active" type="button">
+        Descubrir
+      </button>
+
+      <button class="nav-link" id="openCollection" type="button">
+        Mi colección
+        <span class="collection-count" id="collectionCount">0</span>
+      </button>
+
+      <button class="nav-link" id="openAbout" type="button">
+        Acerca de
+      </button>
+    </nav>
+
+    <div
+  class="language-switcher"
+  role="group"
+  aria-label="Idioma / Language / Langue"
+>
+  <button
+    class="language-option active"
+    type="button"
+    data-language="es"
+    aria-pressed="true"
+  >
+    ES
+  </button>
+
+  <button
+    class="language-option"
+    type="button"
+    data-language="en"
+    aria-pressed="false"
+  >
+    EN
+  </button>
+
+  <button
+    class="language-option"
+    type="button"
+    data-language="fr"
+    aria-pressed="false"
+  >
+    FR
+  </button>
+</div>
+  </header>
+
+  <main>
+    <section class="discovery-layout">
+      <div class="discovery-controls">
+        <p class="eyebrow">Música imprescindible, una escucha a la vez</p>
+
+        <h1>¿Qué quieres escuchar?</h1>
+
+        <div class="format-selector" aria-label="Tipo de recomendación">
+          <button
+            class="format-button active"
+            type="button"
+            data-format="album"
+          >
+            <span class="format-icon format-icon-record"></span>
+            Álbum
+          </button>
+
+          <button
+            class="format-button"
+            type="button"
+            data-format="song"
+          >
+            <span class="format-icon">♪</span>
+            Canción
+          </button>
+
+          <button
+            class="format-button"
+            type="button"
+            data-format="surprise"
+          >
+            <span class="format-icon">⚄</span>
+            Sorpréndeme
+          </button>
+        </div>
+
+        <div class="filters">
+          <label class="filter-field">
+            <span>Década</span>
+
+            <select id="decadeFilter">
+              <option value="all">Cualquier década</option>
+              <option value="1930">1930</option>
+              <option value="1940">1940</option>
+              <option value="1950">1950</option>
+              <option value="1960">1960</option>
+              <option value="1970">1970</option>
+              <option value="1980">1980</option>
+              <option value="1990">1990</option>
+              <option value="2000">2000</option>
+              <option value="2010">2010</option>
+              <option value="2020">2020</option>
+            </select>
+          </label>
+
+          <label class="filter-field">
+            <span>Género</span>
+
+            <select id="genreFilter">
+              <option value="all">Cualquier género</option>
+              <option value="rock">Rock</option>
+              <option value="pop">Pop</option>
+              <option value="jazz">Jazz</option>
+              <option value="soul">Soul y R&amp;B</option>
+              <option value="hip-hop">Hip-hop</option>
+              <option value="electronic">Electrónica</option>
+              <option value="folk">Folk y country</option>
+              <option value="latin">Música latina</option>
+            </select>
+          </label>
+        </div>
+
+        <button class="primary-button" id="discoverButton" type="button">
+          Buscar entre los discos
+        </button>
+
+        <p class="filter-message" id="filterMessage" aria-live="polite"></p>
+      </div>
+
+      <div class="recommendation-area">
+        <div class="record-stage" id="recordStage">
+          <div class="sleeve-stack" aria-hidden="true">
+            <div class="back-sleeve sleeve-one has-real-cover">
+              <img class="stack-cover" data-record-id="album-006" data-loaded="true" src="assets/covers-master/album-006.webp" alt="" decoding="async" loading="eager">
+            </div>
+            <div class="back-sleeve sleeve-two has-real-cover">
+              <img class="stack-cover" data-record-id="album-003" data-loaded="true" src="assets/covers-master/album-003.webp" alt="" decoding="async" loading="eager">
+            </div>
+            <div class="back-sleeve sleeve-three has-real-cover">
+              <img class="stack-cover" data-record-id="album-094" data-loaded="true" src="assets/covers-master/album-094.webp" alt="" decoding="async" loading="eager">
+            </div>
+            <div class="back-sleeve sleeve-four has-real-cover">
+              <img class="stack-cover" data-record-id="album-017" data-loaded="true" src="assets/covers-master/album-017.webp" alt="" decoding="async" loading="eager">
+            </div>
+            <div class="back-sleeve sleeve-five has-real-cover">
+              <img class="stack-cover" data-record-id="album-029" data-loaded="true" src="assets/covers-master/album-029.webp" alt="" decoding="async" loading="eager">
+            </div>
+          </div>
+
+          <article class="featured-record" id="featuredRecord">
+            <div class="vinyl-record">
+              <div class="vinyl-label"></div>
+            </div>
+
+            <div class="record-sleeve">
+              <div class="cover-art cover-blue" id="coverArt">
+                <img
+                  class="cover-image"
+                  id="coverImage"
+                  alt=""
+                  decoding="async"
+                  fetchpriority="high"
+                >
+                <div class="cover-shape cover-shape-large"></div>
+                <div class="cover-shape cover-shape-small"></div>
+
+                <div class="cover-copy">
+                  <p class="cover-artist" id="coverArtist">Chet Baker</p>
+                  <p class="cover-title" id="coverTitle">
+                    The Touch<br>of Your Lips
+                  </p>
+                </div>
+
+                <p class="cover-year" id="coverYear">1979</p>
+                <p class="catalogue-number" id="catalogueNumber">
+                  TLG–A–0074
+                </p>
+              </div>
+            </div>
+          </article>
+        </div>
+
+        <article class="recommendation-card">
+          <div class="recommendation-card-topline">
+            <p class="staff-pick">★ Selección esencial</p>
+
+            <div class="recommendation-card-top-actions">
+              <button class="secondary-button" id="heardButton" type="button">
+                ○ Ya lo escuché
+              </button>
+
+              <button class="text-button" id="anotherButton" type="button">
+                Dame otro
+              </button>
+            </div>
+          </div>
+
+          <h2 id="recommendationTitle">The Touch of Your Lips</h2>
+          <p class="recommendation-artist" id="recommendationArtist">
+            Chet Baker
+          </p>
+
+          <p class="recommendation-details" id="recommendationDetails">
+            1979 · Jazz · 44 min
+          </p>
+
+          <p class="recommendation-description" id="recommendationDescription">
+            Una escucha íntima, delicada y esencial.
+          </p>
+
+          <button
+            class="listening-note-button"
+            id="openListeningNote"
+            type="button"
+            aria-haspopup="dialog"
+            hidden
+          >
+            Leer por qué es imprescindible · 1 min
+          </button>
+
+          <p class="platform-label" id="platformLabel">Escuchar en</p>
+
+          <div class="platform-links" aria-labelledby="platformLabel">
+            <a
+              class="platform-link"
+              id="spotifyLink"
+              href="https://open.spotify.com/search/Chet%20Baker%20The%20Touch%20of%20Your%20Lips"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              ● Spotify
+            </a>
+
+            <a
+              class="platform-link"
+              id="appleMusicLink"
+              href="https://music.apple.com/search?term=Chet%20Baker%20The%20Touch%20of%20Your%20Lips"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              ♪ Apple Music
+            </a>
+
+            <a
+              class="platform-link"
+              id="youtubeMusicLink"
+              href="https://music.youtube.com/search?q=Chet%20Baker%20The%20Touch%20of%20Your%20Lips"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              ▶ YouTube Music
+            </a>
+          </div>
+
+        </article>
+      </div>
+    </section>
+  </main>
+
+  <dialog class="collection-dialog" id="collectionDialog">
+    <div class="collection-header">
+      <div>
+        <p class="eyebrow">Tu historial musical</p>
+        <h2>Mi colección</h2>
+      </div>
+
+      <button
+        class="close-dialog"
+        id="closeCollection"
+        type="button"
+        aria-label="Cerrar colección"
+      >
+        ×
+      </button>
+    </div>
+
+    <div class="collection-grid" id="collectionGrid">
+      <p class="empty-collection">
+        Los discos que escuches aparecerán aquí.
+      </p>
+    </div>
+  </dialog>
+
+  <dialog
+    class="listening-note-dialog"
+    id="listeningNoteDialog"
+    aria-labelledby="listeningNoteTitle"
+  >
+    <header class="listening-note-header">
+      <img
+        class="listening-note-cover-image"
+        id="listeningNoteCoverImage"
+        alt=""
+        decoding="async"
+      >
+
+      <div>
+        <div class="listening-note-meta">
+          <p class="eyebrow" id="listeningNoteEyebrow">Nota de escucha</p>
+          <p id="listeningNoteReadTime">1 min de lectura</p>
+        </div>
+
+        <h2 id="listeningNoteTitle">The Touch of Your Lips</h2>
+        <p class="listening-note-artist" id="listeningNoteArtist">
+          Chet Baker
+        </p>
+      </div>
+
+      <button
+        class="close-dialog"
+        id="closeListeningNote"
+        type="button"
+        aria-label="Cerrar nota de escucha"
+      >
+        ×
+      </button>
+    </header>
+
+    <div class="listening-note-layout">
+      <div class="listening-note-review" id="listeningNoteReview"></div>
+
+      <aside class="listening-note-sidebar">
+        <section class="listening-note-section">
+          <h3 id="listeningNoteListenForTitle">Escucha con atención</h3>
+          <ul id="listeningNoteListenFor"></ul>
+        </section>
+
+        <section
+          class="listening-note-section listening-note-entry"
+          id="listeningNoteEntrySection"
+        >
+          <h3 id="listeningNoteEntryTitle">Punto de entrada</h3>
+          <strong id="listeningNoteEntryTrack">I Waited for You</strong>
+          <p id="listeningNoteEntryReason"></p>
+          <p class="listening-note-listen-label" id="listeningNoteListenLabel">
+            Escuchar ahora
+          </p>
+          <div class="listening-note-platforms" id="listeningNotePlatforms">
+            <a
+              id="listeningNoteSpotify"
+              href="#"
+              target="_blank"
+              rel="noopener noreferrer"
+            >● Spotify</a>
+            <a
+              id="listeningNoteAppleMusic"
+              href="#"
+              target="_blank"
+              rel="noopener noreferrer"
+            >♪ Apple Music</a>
+            <a
+              id="listeningNoteYouTubeMusic"
+              href="#"
+              target="_blank"
+              rel="noopener noreferrer"
+            >▶ YouTube</a>
+          </div>
+        </section>
+
+        <section class="listening-note-section listening-note-sources">
+          <h3 id="listeningNoteSourcesTitle">Fuentes</h3>
+          <ul id="listeningNoteSources"></ul>
+        </section>
+      </aside>
+    </div>
+  </dialog>
+
+  <dialog class="about-dialog" id="aboutDialog">
+    <div class="about-header">
+      <div>
+        <p class="eyebrow" id="aboutEyebrow">Detrás de la colección</p>
+        <h2 id="aboutTitle">Una escucha puede llevarte a otra</h2>
+      </div>
+
+      <button
+        class="close-dialog"
+        id="closeAbout"
+        type="button"
+        aria-label="Cerrar acerca de"
+      >
+        ×
+      </button>
+    </div>
+
+    <div class="about-content">
+      <p class="about-lead" id="aboutIntro">
+        To the Last Groove nace de una idea sencilla: cuando toda la música
+        está disponible, a veces solo hace falta una buena recomendación.
+      </p>
+
+      <p id="aboutBody">
+        Elige entre álbumes y sencillos, filtra por década o género, o deja
+        que el azar decida. Marca lo que escuchaste y cada elección pasará a
+        formar parte de Mi colección.
+      </p>
+
+      <p id="aboutMethod">
+        Cada recomendación se apoya en listas editoriales, premios o archivos
+        culturales. El reconocimiento mostrado incluye su fuente y edición.
+      </p>
+
+      <p class="about-note" id="aboutNote">
+        Las portadas proceden de Cover Art Archive. Los botones de escucha
+        abren búsquedas en Spotify, Apple Music y YouTube Music; este proyecto
+        no está afiliado con esas plataformas.
+      </p>
+    </div>
+  </dialog>
+
+  <footer class="site-footer">
+    <p>To the Last Groove</p>
+    <button class="footer-about" id="openAboutFooter" type="button">
+      Acerca de
+    </button>
+    <p>Escucha hasta el último surco.</p>
+  </footer>
+
+  <script src="translations.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
