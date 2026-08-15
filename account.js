@@ -278,16 +278,14 @@ async function signInWithGoogle() {
   auth.languageCode = progressApi.getLanguage();
 
   try {
-    const prefersRedirect = window.matchMedia("(max-width: 700px)").matches;
-
-    if (prefersRedirect) {
-      await authSdk.signInWithRedirect(auth, googleProvider);
-    } else {
-      await authSdk.signInWithPopup(auth, googleProvider);
-    }
+    await authSdk.signInWithPopup(auth, googleProvider);
   } catch (error) {
-    if (error.code === "auth/popup-blocked") {
-      await authSdk.signInWithRedirect(auth, googleProvider);
+    if (
+      error.code === "auth/popup-closed-by-user" ||
+      error.code === "auth/cancelled-popup-request"
+    ) {
+      interfaceState = "ready";
+      renderAccount();
       return;
     }
     handleSyncError(error);
@@ -334,7 +332,6 @@ async function initializeFirebase() {
     );
 
     authSdk.onAuthStateChanged(auth, handleAuthState);
-    await authSdk.getRedirectResult(auth);
   } catch (error) {
     handleSyncError(error);
   }

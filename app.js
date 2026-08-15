@@ -1,5 +1,5 @@
 const translations = window.TLG_TRANSLATIONS;
-const catalogVersion = "8.0";
+const catalogVersion = "8.1";
 
 const languageOrder = ["es", "en", "fr"];
 const coverColors = {
@@ -341,6 +341,9 @@ function replaceCollectionProgress(progress, storageKey) {
   persistCollection();
   updateHeardButton();
   renderCollection();
+  syncRecommendationCycleWithCollection({
+    replaceListenedCurrent: true
+  });
 
   return getCollectionProgress();
 }
@@ -783,12 +786,9 @@ function updateFilterAvailability() {
     : "all";
 }
 
-function getFilteredRecords() {
+function getMatchingRecords() {
   const selectedDecade = elements.decadeFilter.value;
   const selectedGenre = elements.genreFilter.value;
-  const listenedIds = new Set(
-    state.collection.map((record) => record.id)
-  );
 
   return state.records.filter((record) => {
     const matchesFormat = recordMatchesFormat(record);
@@ -804,10 +804,19 @@ function getFilteredRecords() {
     return (
       matchesFormat &&
       matchesDecade &&
-      matchesGenre &&
-      !listenedIds.has(record.id)
+      matchesGenre
     );
   });
+}
+
+function getFilteredRecords() {
+  const listenedIds = new Set(
+    state.collection.map((record) => record.id)
+  );
+
+  return getMatchingRecords().filter(
+    (record) => !listenedIds.has(record.id)
+  );
 }
 
 function getRecommendationFilterKey() {
@@ -826,6 +835,13 @@ function getSeenRecommendationIds(filterKey) {
   return state.seenRecommendationsByFilter.get(filterKey);
 }
 
+function getCycleProgressIds(filterKey) {
+  return new Set([
+    ...getSeenRecommendationIds(filterKey),
+    ...state.collection.map((record) => record.id)
+  ]);
+}
+
 function formatCycleMessage(template, current, total) {
   return template
     .replace("{current}", String(current))
@@ -838,17 +854,17 @@ function updateRecommendationCycleProgress() {
   }
 
   const filterKey = getRecommendationFilterKey();
-  const availableRecords = getFilteredRecords();
-  const total = availableRecords.length;
+  const matchingRecords = getMatchingRecords();
+  const total = matchingRecords.length;
 
   if (total === 0) {
     elements.recommendationCycle.hidden = true;
     return;
   }
 
-  const seenIds = getSeenRecommendationIds(filterKey);
-  const current = availableRecords.filter(
-    (record) => seenIds.has(record.id)
+  const progressIds = getCycleProgressIds(filterKey);
+  const current = matchingRecords.filter(
+    (record) => progressIds.has(record.id)
   ).length;
   const cycleIsComplete =
     state.completedCycle?.filterKey === filterKey;
@@ -929,16 +945,17 @@ function clearRecommendationCycleFeedback() {
 
 function syncRecommendationCycleFeedback() {
   const filterKey = getRecommendationFilterKey();
+  const matchingRecords = getMatchingRecords();
   const availableRecords = getFilteredRecords();
   const seenIds = getSeenRecommendationIds(filterKey);
   const hasUnseenRecords = availableRecords.some(
     (record) => !seenIds.has(record.id)
   );
 
-  if (availableRecords.length > 0 && !hasUnseenRecords) {
+  if (matchingRecords.length > 0 && !hasUnseenRecords) {
     markRecommendationCycleComplete(
       filterKey,
-      availableRecords.length
+      matchingRecords.length
     );
     return true;
   }
@@ -968,10 +985,64 @@ function restartRecommendationCycle() {
   chooseRecord(true);
 }
 
+function getSpotifyAppUri(url) {
+  try {
+    const parsedUrl = new URL(url);
+    const pathParts = parsedUrl.pathname
+      .split("/")
+      .filter(Boolean);
+    const supportedTypes = new Set([
+      "album",
+      "track",
+      "playlist",
+      "episode",
+      "show",
+      "artist"
+    ]);
+    const typeIndex = pathParts.findIndex(
+      (part) => supportedTypes.has(part)
+    );
+    const type = pathParts[typeIndex];
+    const id = pathParts[typeIndex + 1];
+
+    if (!type || !id || !parsedUrl.hostname.endsWith("spotify.com")) {
+      return null;
+    }
+
+    return `spotify:${type}:${id}`;
+  } catch (error) {
+    return null;
+  }
+}
+
+function configureStreamingDestination(
+  element,
+  platform,
+  url
+) {
+  const appUri = platform === "spotify"
+    ? getSpotifyAppUri(url)
+    : null;
+
+  element.href = appUri || url;
+  element.dataset.platform = platform;
+  element.dataset.webUrl = url;
+
+  if (appUri) {
+    element.removeAttribute("target");
+    element.removeAttribute("rel");
+    return;
+  }
+
+  element.target = "_blank";
+  element.rel = "noopener noreferrer";
+}
+
 function configureStreamingLink(
   element,
   service,
-  ariaLabel
+  ariaLabel,
+  platform
 ) {
   const url = service?.url;
 
@@ -980,12 +1051,12 @@ function configureStreamingLink(
   if (!url) {
     element.removeAttribute("href");
     element.removeAttribute("aria-label");
+    element.removeAttribute("data-platform");
+    element.removeAttribute("data-web-url");
     return false;
   }
 
-  element.href = url;
-  element.target = "_blank";
-  element.rel = "noopener noreferrer";
+  configureStreamingDestination(element, platform, url);
   element.setAttribute("aria-label", ariaLabel);
   return true;
 }
@@ -1022,9 +1093,16 @@ function chooseRecord(animate = true) {
   const seenIds = getSeenRecommendationIds(filterKey);
 
   if (availableRecords.length === 0) {
-    clearRecommendationCycleFeedback();
-    elements.filterMessage.textContent =
-      text.discovery.noResults;
+    if (getMatchingRecords().length > 0) {
+      markRecommendationCycleComplete(
+        filterKey,
+        getMatchingRecords().length
+      );
+    } else {
+      clearRecommendationCycleFeedback();
+      elements.filterMessage.textContent =
+        text.discovery.noResults;
+    }
     return;
   }
 
@@ -1042,7 +1120,7 @@ function chooseRecord(animate = true) {
   if (candidates.length === 0) {
     markRecommendationCycleComplete(
       filterKey,
-      availableRecords.length
+      getMatchingRecords().length
     );
     return;
   }
@@ -1067,7 +1145,7 @@ function chooseRecord(animate = true) {
   if (remainingCount === 0) {
     markRecommendationCycleComplete(
       filterKey,
-      availableRecords.length
+      getMatchingRecords().length
     );
   } else {
     clearRecommendationCycleFeedback();
@@ -1149,17 +1227,20 @@ function renderRecommendation() {
     configureStreamingLink(
       elements.spotifyLink,
       record.streaming?.spotify,
-      `${text.recommendation.listenOn} Spotify: ${accessibleTitle}`
+      `${text.recommendation.listenOn} Spotify: ${accessibleTitle}`,
+      "spotify"
     ),
     configureStreamingLink(
       elements.appleMusicLink,
       record.streaming?.appleMusic,
-      `${text.recommendation.listenOn} Apple Music: ${accessibleTitle}`
+      `${text.recommendation.listenOn} Apple Music: ${accessibleTitle}`,
+      "appleMusic"
     ),
     configureStreamingLink(
       elements.youtubeMusicLink,
       record.streaming?.youtubeMusic,
-      `${text.recommendation.listenOn} YouTube Music: ${accessibleTitle}`
+      `${text.recommendation.listenOn} YouTube Music: ${accessibleTitle}`,
+      "youtubeMusic"
     )
   ];
   elements.platformLabel.hidden =
@@ -1271,17 +1352,20 @@ function renderListeningNote(record = state.current) {
     configureStreamingLink(
       elements.listeningNoteSpotify,
       record.streaming?.spotify,
-      `${text.editorial.listenNow} — Spotify: ${entryDescription}`
+      `${text.editorial.listenNow} — Spotify: ${entryDescription}`,
+      "spotify"
     ),
     configureStreamingLink(
       elements.listeningNoteAppleMusic,
       record.streaming?.appleMusic,
-      `${text.editorial.listenNow} — Apple Music: ${entryDescription}`
+      `${text.editorial.listenNow} — Apple Music: ${entryDescription}`,
+      "appleMusic"
     ),
     configureStreamingLink(
       elements.listeningNoteYouTubeMusic,
       record.streaming?.youtubeMusic,
-      `${text.editorial.listenNow} — YouTube Music: ${entryDescription}`
+      `${text.editorial.listenNow} — YouTube Music: ${entryDescription}`,
+      "youtubeMusic"
     )
   ];
   const hasListeningPlatform = listeningPlatforms.some(Boolean);
@@ -1638,6 +1722,31 @@ function saveCurrentRecord() {
 
   updateHeardButton();
   renderCollection();
+  syncRecommendationCycleWithCollection();
+}
+
+function syncRecommendationCycleWithCollection({
+  replaceListenedCurrent = false
+} = {}) {
+  if (state.records.length === 0) {
+    return;
+  }
+
+  state.recommendationQueue = [];
+  const currentIsListened = state.collection.some(
+    (record) => record.id === state.current?.id
+  );
+
+  if (
+    replaceListenedCurrent &&
+    currentIsListened &&
+    getFilteredRecords().length > 0
+  ) {
+    chooseRecord(false);
+    return;
+  }
+
+  syncRecommendationCycleFeedback();
 }
 
 function syncCollectionWithCatalog() {
@@ -1657,6 +1766,7 @@ function syncCollectionWithCatalog() {
   persistCollection();
 
   renderCollection();
+  syncRecommendationCycleWithCollection();
 }
 
 function renderCollection() {
@@ -1803,9 +1913,11 @@ function renderCollection() {
     });
 
     if (quickListenLink && quickListen) {
-      quickListenLink.href = quickListen.url;
-      quickListenLink.target = "_blank";
-      quickListenLink.rel = "noopener noreferrer";
+      configureStreamingDestination(
+        quickListenLink,
+        quickListen.platform,
+        quickListen.url
+      );
       quickListenLink.setAttribute(
         "aria-label",
         interpolateText(text.collection.quickListenLabel, {

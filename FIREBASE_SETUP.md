@@ -60,3 +60,9 @@ python3 -m http.server 8000
 Abre `http://localhost:8000`, entra en **Mi colección** y pulsa **Continuar con
 Google**. Marca una obra como escuchada, cierra la sesión y vuelve a entrar.
 Después prueba la misma cuenta en otro navegador o dispositivo.
+
+En GitHub Pages, el acceso se abre en una ventana de Google iniciada por el
+propio clic. Esta modalidad evita el problema de `signInWithRedirect()` en
+Safari y otros navegadores que bloquean el almacenamiento de terceros. Para
+comprobar la persistencia en iPhone, usa una pestaña normal de Safari: la
+navegación privada elimina el estado local al cerrar la sesión privada.

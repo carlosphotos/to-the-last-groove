@@ -19,6 +19,7 @@ html = (ROOT / "index.html").read_text(encoding="utf-8")
 app = (ROOT / "app.js").read_text(encoding="utf-8")
 account = (ROOT / "account.js").read_text(encoding="utf-8")
 translations = (ROOT / "translations.js").read_text(encoding="utf-8")
+styles = (ROOT / "styles.css").read_text(encoding="utf-8")
 rules = (ROOT / "firestore.rules").read_text(encoding="utf-8")
 config = (ROOT / "firebase-config.js").read_text(encoding="utf-8")
 
@@ -36,10 +37,10 @@ for element_id in required_ids:
     require(html_ids.count(element_id) == 1, f"missing or repeated #{element_id}")
 
 script_order = [
-    'src="translations.js?v=8.0"',
-    'src="firebase-config.js?v=8.0"',
-    'src="app.js?v=8.0"',
-    'type="module" src="account.js?v=8.0"',
+    'src="translations.js?v=8.1"',
+    'src="firebase-config.js?v=8.1"',
+    'src="app.js?v=8.1"',
+    'type="module" src="account.js?v=8.1"',
 ]
 positions = [html.find(fragment) for fragment in script_order]
 require(all(position >= 0 for position in positions), "account scripts are incomplete")
@@ -55,6 +56,10 @@ for fragment in (
     "getQuickListenDestination",
     "renderListeningPreference",
     "collection-choose-service",
+    "getMatchingRecords",
+    "getCycleProgressIds",
+    "syncRecommendationCycleWithCollection",
+    "getSpotifyAppUri",
     "isCompleteCollectionRecord",
 ):
     require(fragment in app, f"progress adapter is missing {fragment!r}")
@@ -62,7 +67,7 @@ for fragment in (
 for fragment in (
     'const FIREBASE_SDK_VERSION = "12.16.0"',
     "signInWithPopup",
-    "signInWithRedirect",
+    "browserLocalPersistence",
     "onAuthStateChanged",
     "onSnapshot",
     '"users"',
@@ -70,6 +75,17 @@ for fragment in (
     "cleanedProgress",
 ):
     require(fragment in account, f"account integration is missing {fragment!r}")
+
+require("signInWithRedirect" not in account, "mobile auth still forces redirect sign-in")
+require("Curated listening" not in html, "the old logo kicker is still visible")
+require('class="logo-rule"' in html, "the logo rule is missing")
+for fragment in (
+    ".collection-item {",
+    "flex-direction: column;",
+    ".collection-listen-action {",
+    ".logo-rule {",
+):
+    require(fragment in styles, f"layout polish is missing {fragment!r}")
 
 require(translations.count("signedOutTitle") == 3, "account copy is not trilingual")
 require(translations.count("headerSignIn") == 3, "header account copy is not trilingual")
