@@ -1,5 +1,5 @@
 const translations = window.TLG_TRANSLATIONS;
-const catalogVersion = "8.1";
+const catalogVersion = "8.2";
 
 const languageOrder = ["es", "en", "fr"];
 const coverColors = {
@@ -160,6 +160,7 @@ const elements = {
   ),
 
   platformLabel: document.querySelector("#platformLabel"),
+  platformLinks: document.querySelector(".platform-links"),
   spotifyLink: document.querySelector("#spotifyLink"),
   appleMusicLink: document.querySelector("#appleMusicLink"),
   youtubeMusicLink: document.querySelector("#youtubeMusicLink"),
@@ -411,6 +412,58 @@ function renderListeningPreference() {
     button.classList.toggle("is-selected", isSelected);
     button.setAttribute("aria-pressed", String(isSelected));
   });
+
+  if (state.current) {
+    renderRecommendationStreamingHierarchy();
+  }
+}
+
+function renderRecommendationStreamingHierarchy(
+  record = state.current
+) {
+  const text = getText().recommendation;
+  const preferredPlatform = getPreferredListeningPlatform();
+  const links = [
+    [elements.spotifyLink, "spotify"],
+    [elements.appleMusicLink, "appleMusic"],
+    [elements.youtubeMusicLink, "youtubeMusic"]
+  ].filter(([link, platform]) =>
+    Boolean(record?.streaming?.[platform]?.url) && !link.hidden
+  );
+  const primaryEntry =
+    links.find(([, platform]) => platform === preferredPlatform) ||
+    links[0];
+
+  elements.platformLabel.textContent =
+    text.listenNow || text.listenOn;
+  elements.platformLabel.hidden = links.length === 0;
+  elements.platformLinks.hidden = links.length === 0;
+  elements.platformLinks.classList.toggle(
+    "has-alternatives",
+    links.length > 1
+  );
+  elements.platformLinks.dataset.alternativeLabel =
+    text.alsoOn || text.listenOn;
+
+  [
+    [elements.spotifyLink, "spotify"],
+    [elements.appleMusicLink, "appleMusic"],
+    [elements.youtubeMusicLink, "youtubeMusic"]
+  ].forEach(([link, platform]) => {
+    const isPrimary = primaryEntry?.[1] === platform;
+
+    link.classList.toggle("is-primary", isPrimary);
+    link.classList.toggle(
+      "is-alternative",
+      !link.hidden && !isPrimary
+    );
+    link.textContent = isPrimary
+      ? interpolateText(
+          text.primaryListen || `${text.listenOn} {platform}`,
+          { platform: listeningPlatformNames[platform] }
+        )
+      : listeningPlatformNames[platform];
+  });
 }
 
 function getQuickListenDestination(record) {
@@ -563,9 +616,6 @@ function applyTranslations() {
   updateDiscoverButtonLabel();
 
   updateEditorialRoleLabel();
-
-  elements.platformLabel.textContent =
-    text.recommendation.listenOn;
 
   updateAnotherButtonLabel();
 
@@ -1243,8 +1293,7 @@ function renderRecommendation() {
       "youtubeMusic"
     )
   ];
-  elements.platformLabel.hidden =
-    !availablePlatforms.some(Boolean);
+  renderRecommendationStreamingHierarchy(record);
 
   updateHeardButton();
 }

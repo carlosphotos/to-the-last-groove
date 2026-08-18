@@ -60,6 +60,9 @@ window.TLG_TRANSLATIONS = {
         focus: "● Foco"
       },
       listenOn: "Escuchar en",
+      listenNow: "Escuchar ahora",
+      alsoOn: "También en",
+      primaryListen: "Escuchar en {platform}",
       heard: "Ya lo escuché",
       heardShort: "○ Escuché",
       saved: "Guardado",
@@ -208,6 +211,9 @@ window.TLG_TRANSLATIONS = {
         focus: "● Focus"
       },
       listenOn: "Listen on",
+      listenNow: "Listen now",
+      alsoOn: "Also on",
+      primaryListen: "Listen on {platform}",
       heard: "I’ve heard it",
       heardShort: "○ Heard",
       saved: "Saved",
@@ -356,6 +362,9 @@ window.TLG_TRANSLATIONS = {
         focus: "● Focus"
       },
       listenOn: "Écouter sur",
+      listenNow: "Écouter maintenant",
+      alsoOn: "Également sur",
+      primaryListen: "Écouter sur {platform}",
       heard: "Je l’ai écouté",
       heardShort: "○ Écouté",
       saved: "Ajouté à la collection",

@@ -37,14 +37,19 @@ for element_id in required_ids:
     require(html_ids.count(element_id) == 1, f"missing or repeated #{element_id}")
 
 script_order = [
-    'src="translations.js?v=8.1"',
-    'src="firebase-config.js?v=8.1"',
-    'src="app.js?v=8.1"',
-    'type="module" src="account.js?v=8.1"',
+    'href="styles.css?v=8.2"',
+    'src="translations.js?v=8.2"',
+    'src="firebase-config.js?v=8.2"',
+    'src="app.js?v=8.2"',
+    'type="module" src="account.js?v=8.2"',
 ]
 positions = [html.find(fragment) for fragment in script_order]
 require(all(position >= 0 for position in positions), "account scripts are incomplete")
 require(positions == sorted(positions), "account scripts load in the wrong order")
+require(
+    html.find('class="platform-links"') < html.find('id="openListeningNote"'),
+    "the primary listening action must appear before the editorial note",
+)
 
 for fragment in (
     "tlg-collection-anonymous",
@@ -60,6 +65,7 @@ for fragment in (
     "getCycleProgressIds",
     "syncRecommendationCycleWithCollection",
     "getSpotifyAppUri",
+    "renderRecommendationStreamingHierarchy",
     "isCompleteCollectionRecord",
 ):
     require(fragment in app, f"progress adapter is missing {fragment!r}")
@@ -84,6 +90,8 @@ for fragment in (
     "flex-direction: column;",
     ".collection-listen-action {",
     ".logo-rule {",
+    ".platform-link.is-primary {",
+    "overflow-x: hidden;",
 ):
     require(fragment in styles, f"layout polish is missing {fragment!r}")
 
@@ -93,6 +101,7 @@ require(translations.count("openNoteLabel") == 3, "collection note copy is not t
 require(translations.count("quickListenLabel") == 3, "collection listening copy is not trilingual")
 require(translations.count("preferenceTitle") == 3, "service preference copy is not trilingual")
 require(translations.count("chooseServiceLabel") == 3, "service chooser copy is not trilingual")
+require(translations.count("primaryListen") == 3, "primary listening action is not trilingual")
 require("window.TLG_FIREBASE_CONFIG" in config, "Firebase config hook is missing")
 require("request.auth.uid == userId" in rules, "Firestore rules do not isolate users")
 require("collection.size() <= 200" in rules, "Firestore rules do not cap progress")
