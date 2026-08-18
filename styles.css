@@ -1119,9 +1119,10 @@ main {
 }
 
 .listening-note-button::after {
-  content: "↗";
+  content: "↗︎";
   flex: 0 0 auto;
   color: currentColor;
+  font-family: Arial, sans-serif;
   font-size: 1.05rem;
 }
 
@@ -1214,15 +1215,20 @@ main {
 }
 
 .platform-link.is-primary::before {
-  content: "▶";
+  content: "";
   flex: 0 0 auto;
-  font-size: 0.78em;
+  width: 0;
+  height: 0;
+  border-top: 5px solid transparent;
+  border-bottom: 5px solid transparent;
+  border-left: 8px solid currentColor;
 }
 
 .platform-link.is-primary::after {
-  content: "↗";
+  content: "↗︎";
   margin-left: auto;
   flex: 0 0 auto;
+  font-family: Arial, sans-serif;
   font-size: 1.05rem;
 }
 
@@ -2344,67 +2350,71 @@ main {
   }
 
   .record-stage {
-    height: 430px;
+    height: 355px;
   }
 
   .back-sleeve,
   .record-sleeve {
-    width: 310px;
+    width: 270px;
   }
 
   .sleeve-one {
-    top: 54px;
-    left: 2%;
+    top: 45px;
+    left: -2%;
   }
 
   .sleeve-two {
-    top: 32px;
-    left: 8%;
+    top: 25px;
+    left: 5%;
   }
 
   .sleeve-three {
-    top: 75px;
-    left: 10%;
+    top: 60px;
+    left: 9%;
   }
 
   .sleeve-four {
-    top: 84px;
-    left: 1%;
+    top: 67px;
+    left: 0;
   }
 
   .sleeve-five {
-    top: 67px;
-    left: 18%;
+    top: 55px;
+    left: 16%;
   }
 
   .featured-record {
-    top: 16px;
-    left: 10%;
-    width: 380px;
-    height: 360px;
+    top: 15px;
+    left: 4%;
+    width: 340px;
+    height: 315px;
   }
 
   .vinyl-record {
-    top: 27px;
-    left: 225px;
-    width: 285px;
+    top: 22px;
+    left: 185px;
+    width: 235px;
   }
 
   .featured-record.is-single {
-    top: 70px;
-    left: 18%;
-    width: 300px;
-    height: 270px;
+    top: 54px;
+    left: 12%;
+    width: 290px;
+    height: 235px;
   }
 
   .featured-record.is-single .record-sleeve {
-    width: 225px;
+    width: 205px;
   }
 
   .featured-record.is-single .vinyl-record {
-    top: 17px;
-    left: 168px;
-    width: 210px;
+    top: 15px;
+    left: 155px;
+    width: 185px;
+  }
+
+  .recommendation-area.is-song .record-stage {
+    height: 320px;
   }
 
   .cover-artist {

@@ -37,11 +37,11 @@ for element_id in required_ids:
     require(html_ids.count(element_id) == 1, f"missing or repeated #{element_id}")
 
 script_order = [
-    'href="styles.css?v=8.2"',
-    'src="translations.js?v=8.2"',
-    'src="firebase-config.js?v=8.2"',
-    'src="app.js?v=8.2"',
-    'type="module" src="account.js?v=8.2"',
+    'href="styles.css?v=8.3"',
+    'src="translations.js?v=8.3"',
+    'src="firebase-config.js?v=8.3"',
+    'src="app.js?v=8.3"',
+    'type="module" src="account.js?v=8.3"',
 ]
 positions = [html.find(fragment) for fragment in script_order]
 require(all(position >= 0 for position in positions), "account scripts are incomplete")
@@ -92,6 +92,8 @@ for fragment in (
     ".logo-rule {",
     ".platform-link.is-primary {",
     "overflow-x: hidden;",
+    ".recommendation-area.is-song .record-stage {",
+    "width: 270px;",
 ):
     require(fragment in styles, f"layout polish is missing {fragment!r}")
 

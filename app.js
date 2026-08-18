@@ -1,5 +1,5 @@
 const translations = window.TLG_TRANSLATIONS;
-const catalogVersion = "8.2";
+const catalogVersion = "8.3";
 
 const languageOrder = ["es", "en", "fr"];
 const coverColors = {
