@@ -96,7 +96,7 @@
 
   if ("serviceWorker" in navigator) {
     window.addEventListener("load", () => {
-      navigator.serviceWorker.register("./sw.js?v=8.9").catch((error) => {
+      navigator.serviceWorker.register("./sw.js?v=9.0").catch((error) => {
         console.error("No se pudo registrar la aplicación instalable:", error);
       });
     });

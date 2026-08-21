@@ -1,25 +1,25 @@
-const CACHE_VERSION = "tlg-v8.9";
+const CACHE_VERSION = "tlg-v9.0";
 const APP_SHELL = [
   "./",
   "./index.html",
-  "./styles.css?v=8.9",
-  "./translations.js?v=8.9",
-  "./firebase-config.js?v=8.9",
-  "./app.js?v=8.9",
-  "./pwa.js?v=8.9",
-  "./account.js?v=8.9",
-  "./manifest.webmanifest?v=8.9",
-  "./favicon.svg?v=8.9",
-  "./favicon-vinyl.png?v=8.9",
-  "./favicon.ico?v=8.9",
-  "./assets/icons/icon-180.png?v=8.9",
+  "./styles.css?v=9.0",
+  "./translations.js?v=9.0",
+  "./firebase-config.js?v=9.0",
+  "./app.js?v=9.0",
+  "./pwa.js?v=9.0",
+  "./account.js?v=9.0",
+  "./manifest.webmanifest?v=9.0",
+  "./favicon.svg?v=9.0",
+  "./favicon-vinyl.png?v=9.0",
+  "./favicon.ico?v=9.0",
+  "./apple-touch-icon.png",
   "./assets/icons/icon-192.png",
   "./assets/icons/icon-512.png",
   "./assets/icons/icon-maskable-512.png",
-  "./data/albums.json?v=8.9",
-  "./data/songs.json?v=8.9",
-  "./data/editorial-notes.json?v=8.9",
-  "./data/screen-appearances.json?v=8.9"
+  "./data/albums.json?v=9.0",
+  "./data/songs.json?v=9.0",
+  "./data/editorial-notes.json?v=9.0",
+  "./data/screen-appearances.json?v=9.0"
 ];
 
 self.addEventListener("install", (event) => {

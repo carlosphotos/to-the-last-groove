@@ -5,6 +5,7 @@ from __future__ import annotations
 
 import re
 import json
+import struct
 from pathlib import Path
 
 
@@ -53,12 +54,12 @@ for element_id in required_ids:
     require(html_ids.count(element_id) == 1, f"missing or repeated #{element_id}")
 
 script_order = [
-    'href="styles.css?v=8.9"',
-    'src="translations.js?v=8.9"',
-    'src="firebase-config.js?v=8.9"',
-    'src="app.js?v=8.9"',
-    'src="pwa.js?v=8.9"',
-    'type="module" src="account.js?v=8.9"',
+    'href="styles.css?v=9.0"',
+    'src="translations.js?v=9.0"',
+    'src="firebase-config.js?v=9.0"',
+    'src="app.js?v=9.0"',
+    'src="pwa.js?v=9.0"',
+    'type="module" src="account.js?v=9.0"',
 ]
 positions = [html.find(fragment) for fragment in script_order]
 require(all(position >= 0 for position in positions), "account scripts are incomplete")
@@ -181,14 +182,26 @@ require("ratings.size() <= 200" in rules, "Firestore rules do not cap ratings")
 require("playlists.size() <= 20" in rules, "Firestore rules do not cap playlists")
 require("request.resource.data.schemaVersion == 2" in rules, "Firestore rules are not on profile schema v2")
 
-require('rel="manifest" href="manifest.webmanifest?v=8.9"' in html, "PWA manifest is not linked")
+require('rel="manifest" href="manifest.webmanifest?v=9.0"' in html, "PWA manifest is not linked")
+require(
+    'rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png"' in html,
+    "the iOS Home Screen icon is not linked from a stable root URL",
+)
 require("beforeinstallprompt" in pwa, "PWA install prompt is missing")
 require("serviceWorker.register" in pwa, "service worker registration is missing")
-require('const CACHE_VERSION = "tlg-v8.9"' in service_worker, "service worker cache is stale")
+require('const CACHE_VERSION = "tlg-v9.0"' in service_worker, "service worker cache is stale")
 require(manifest.get("display") == "standalone", "PWA does not use standalone display")
 icon_sizes = {icon.get("sizes") for icon in manifest.get("icons", [])}
 require({"192x192", "512x512"} <= icon_sizes, "PWA install icons are incomplete")
 for icon in manifest.get("icons", []):
     require((ROOT / icon["src"]).is_file(), f"missing PWA icon {icon['src']}")
+
+touch_icon = ROOT / "apple-touch-icon.png"
+require(touch_icon.is_file(), "the root Apple touch icon is missing")
+touch_icon_bytes = touch_icon.read_bytes()
+require(touch_icon_bytes[:8] == b"\x89PNG\r\n\x1a\n", "the Apple touch icon is not PNG")
+width, height, bit_depth, color_type = struct.unpack(">IIBB", touch_icon_bytes[16:26])
+require((width, height) == (180, 180), "the Apple touch icon is not 180x180")
+require(bit_depth == 8 and color_type == 2, "the Apple touch icon must be opaque 8-bit RGB")
 
 print("OK: installable PWA, trilingual profile, namespaced local progress and per-user Firestore rules validated.")
