@@ -8,24 +8,27 @@
     name="description"
     content="Descubre álbumes y canciones imprescindibles, una escucha a la vez."
   >
+  <meta name="theme-color" content="#f2eee5">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta name="apple-mobile-web-app-title" content="Last Groove">
 
   <title>To the Last Groove</title>
 
-  <link rel="icon" href="favicon.svg?v=8.3" type="image/svg+xml">
-  <link rel="alternate icon" href="favicon-vinyl.png?v=8.3" type="image/png" sizes="64x64">
-  <link rel="shortcut icon" href="favicon.ico?v=8.3" type="image/x-icon">
-  <link rel="apple-touch-icon" href="favicon-vinyl.png?v=8.3">
+  <link rel="manifest" href="manifest.webmanifest?v=8.9">
+  <link rel="icon" href="favicon.svg?v=8.9" type="image/svg+xml">
+  <link rel="alternate icon" href="favicon-vinyl.png?v=8.9" type="image/png" sizes="64x64">
+  <link rel="shortcut icon" href="favicon.ico?v=8.9" type="image/x-icon">
+  <link rel="apple-touch-icon" href="assets/icons/icon-180.png?v=8.9">
 
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link rel="preconnect" href="https://coverartarchive.org">
-
   <link
     href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700;800&family=Inter:wght@400;500;600;700&display=swap"
     rel="stylesheet"
   >
 
-    <link rel="stylesheet" href="styles.css?v=8.3">
+  <link rel="stylesheet" href="styles.css?v=8.9">
 </head>
 
 <body>
@@ -61,6 +64,28 @@
     </nav>
 
     <div class="header-tools">
+      <button
+        class="header-collection"
+        id="mobileCollection"
+        type="button"
+        aria-label="Mi colección"
+      >
+        <span class="header-collection-mark" aria-hidden="true"></span>
+        <span class="header-collection-label" id="mobileCollectionLabel">Mi colección</span>
+        <span class="header-collection-count" id="mobileCollectionCount">0</span>
+      </button>
+
+      <button
+        class="header-install"
+        id="installApp"
+        type="button"
+        aria-label="Instalar aplicación"
+        hidden
+      >
+        <span aria-hidden="true">↓</span>
+        <span id="installAppLabel">Instalar</span>
+      </button>
+
       <button
         class="header-account"
         id="headerAccount"
@@ -244,7 +269,10 @@
 
         <article class="recommendation-card">
           <div class="recommendation-card-topline">
-            <p class="staff-pick role-anchor" data-short-label="◆ Referencia">◆ Obra de referencia</p>
+            <div class="recommendation-status">
+              <p class="staff-pick role-anchor" data-short-label="◆ Referencia">◆ Obra de referencia</p>
+              <p class="edition-label" id="editionLabel">Edición · septiembre de 2026</p>
+            </div>
 
             <div class="recommendation-card-top-actions">
               <button class="secondary-button" id="heardButton" type="button" data-short-label="○ Escuché">
@@ -349,6 +377,51 @@
             Leer por qué es imprescindible · 1 min
           </button>
 
+          <div class="recommendation-personal-actions">
+            <div class="recommendation-save-actions">
+              <button
+                class="record-action-button"
+                id="favoriteButton"
+                type="button"
+                aria-pressed="false"
+              >
+                ☆ Favorito
+              </button>
+
+              <button
+                class="record-action-button"
+                id="addToPlaylistButton"
+                type="button"
+                aria-haspopup="dialog"
+              >
+                ＋ Lista
+              </button>
+
+              <button
+                class="record-action-button"
+                id="shareRecordButton"
+                type="button"
+                aria-haspopup="dialog"
+              >
+                ↗ Compartir
+              </button>
+            </div>
+
+            <div class="reaction-panel" id="reactionPanel" hidden>
+              <p class="reaction-prompt" id="reactionPrompt">¿Qué te pareció?</p>
+              <div
+                class="reaction-actions"
+                id="reactionActions"
+                role="group"
+                aria-label="Tu impresión"
+              >
+                <button type="button" data-rating="like" aria-pressed="false">Me gustó</button>
+                <button type="button" data-rating="meh" aria-pressed="false">Meh</button>
+                <button type="button" data-rating="dislike" aria-pressed="false">No me gustó</button>
+              </div>
+            </div>
+          </div>
+
         </article>
       </div>
     </section>
@@ -436,9 +509,134 @@
       </div>
     </section>
 
+    <div class="collection-tabs" role="tablist" aria-label="Vistas de la colección">
+      <button
+        class="collection-tab is-active"
+        id="collectionListenedTab"
+        type="button"
+        role="tab"
+        data-collection-view="listened"
+        aria-selected="true"
+      >
+        Escuchados <span id="collectionListenedCount">0</span>
+      </button>
+      <button
+        class="collection-tab"
+        id="collectionFavoritesTab"
+        type="button"
+        role="tab"
+        data-collection-view="favorites"
+        aria-selected="false"
+      >
+        Favoritos <span id="collectionFavoritesCount">0</span>
+      </button>
+      <button
+        class="collection-tab"
+        id="collectionPlaylistsTab"
+        type="button"
+        role="tab"
+        data-collection-view="playlists"
+        aria-selected="false"
+      >
+        Listas <span id="collectionPlaylistsCount">0</span>
+      </button>
+    </div>
+
     <div class="collection-grid" id="collectionGrid">
       <p class="empty-collection">
         Los discos que escuches aparecerán aquí.
+      </p>
+    </div>
+  </dialog>
+
+  <dialog class="share-dialog" id="shareDialog" aria-labelledby="shareDialogTitle">
+    <div class="share-dialog-header">
+      <div>
+        <p class="eyebrow" id="shareDialogEyebrow">Comparte la escucha</p>
+        <h2 id="shareDialogTitle">Historia lista para compartir</h2>
+      </div>
+      <button
+        class="close-dialog"
+        id="closeShareDialog"
+        type="button"
+        aria-label="Cerrar compartir"
+      >×</button>
+    </div>
+
+    <div class="share-dialog-content">
+      <div class="share-poster-frame">
+        <canvas
+          id="sharePosterCanvas"
+          width="1080"
+          height="1920"
+          role="img"
+          aria-label="Vista previa vertical de la recomendación"
+        ></canvas>
+      </div>
+
+      <div class="share-dialog-copy">
+        <p id="shareDialogDescription">
+          La imagen vertical está preparada para historias y estados.
+        </p>
+
+        <div class="share-dialog-actions">
+          <button class="share-primary-action" id="sharePosterButton" type="button" disabled>
+            Compartir imagen
+          </button>
+          <button id="downloadPosterButton" type="button" disabled>
+            Descargar imagen
+          </button>
+          <button id="copyShareLinkButton" type="button">
+            Copiar enlace
+          </button>
+        </div>
+
+        <p class="share-status" id="shareStatus" role="status" aria-live="polite"></p>
+        <p class="share-hint" id="shareHint">
+          En Instagram, elige Historias y añade el enlace con el sticker de enlace.
+        </p>
+      </div>
+    </div>
+  </dialog>
+
+  <dialog
+    class="playlist-dialog"
+    id="playlistDialog"
+    aria-labelledby="playlistDialogTitle"
+  >
+    <div class="playlist-dialog-header">
+      <div>
+        <p class="eyebrow" id="playlistDialogEyebrow">Guardar para después</p>
+        <h2 id="playlistDialogTitle">Añadir a una lista</h2>
+        <p id="playlistDialogRecord"></p>
+      </div>
+      <button
+        class="close-dialog"
+        id="closePlaylistDialog"
+        type="button"
+        aria-label="Cerrar listas"
+      >×</button>
+    </div>
+
+    <div class="playlist-dialog-content">
+      <form class="playlist-create-form" id="playlistCreateForm">
+        <label for="playlistName" id="playlistNameLabel">Nombre de la nueva lista</label>
+        <div>
+          <input
+            id="playlistName"
+            name="playlistName"
+            type="text"
+            maxlength="60"
+            autocomplete="off"
+            required
+          >
+          <button type="submit" id="createPlaylistButton">Crear y añadir</button>
+        </div>
+      </form>
+
+      <div class="playlist-options" id="playlistOptions"></div>
+      <p class="playlist-dialog-note" id="playlistDialogNote">
+        Estas listas viven dentro de To the Last Groove y se sincronizan con tu cuenta.
       </p>
     </div>
   </dialog>
@@ -479,7 +677,20 @@
     </header>
 
     <div class="listening-note-layout">
-      <div class="listening-note-review" id="listeningNoteReview"></div>
+      <div class="listening-note-main">
+        <div class="listening-note-review" id="listeningNoteReview"></div>
+
+        <footer
+          class="listening-note-screen-footer listening-note-section"
+          id="listeningNoteScreenSection"
+          hidden
+        >
+          <h3 id="listeningNoteScreenTitle">
+            Puede que lo hayas escuchado en
+          </h3>
+          <ul id="listeningNoteScreenAppearances"></ul>
+        </footer>
+      </div>
 
       <aside class="listening-note-sidebar">
         <section
@@ -535,6 +746,7 @@
           <h3 id="listeningNoteSourcesTitle">Fuentes</h3>
           <ul id="listeningNoteSources"></ul>
         </section>
+
       </aside>
     </div>
   </dialog>
@@ -573,11 +785,48 @@
         culturales. El reconocimiento mostrado incluye su fuente y edición.
       </p>
 
+      <section class="about-listening-plan" aria-labelledby="aboutListeningTitle">
+        <h3 id="aboutListeningTitle">El tiempo de la colección</h3>
+        <p id="aboutListeningSummary"></p>
+        <div class="about-listening-cadence">
+          <p id="aboutSongCadence"></p>
+          <p id="aboutAlbumCadence"></p>
+        </div>
+      </section>
+
       <p class="about-note" id="aboutNote">
         Las portadas proceden de Cover Art Archive. Los botones de escucha
         abren búsquedas en Spotify, Apple Music y YouTube Music; este proyecto
         no está afiliado con esas plataformas.
       </p>
+    </div>
+  </dialog>
+
+  <dialog class="pwa-install-dialog" id="pwaInstallDialog" aria-labelledby="pwaInstallTitle">
+    <div class="pwa-install-header">
+      <div>
+        <p class="eyebrow" id="pwaInstallEyebrow">Llévala contigo</p>
+        <h2 id="pwaInstallTitle">Instalar To the Last Groove</h2>
+      </div>
+      <button
+        class="close-dialog"
+        id="closePwaInstall"
+        type="button"
+        aria-label="Cerrar instalación"
+      >×</button>
+    </div>
+    <div class="pwa-install-content">
+      <div class="pwa-install-record" aria-hidden="true">
+        <span></span>
+      </div>
+      <p id="pwaInstallDescription">
+        Ábrela desde tu pantalla de inicio y úsala como una aplicación.
+      </p>
+      <ol id="pwaInstallSteps">
+        <li>Toca Compartir en Safari.</li>
+        <li>Elige Añadir a pantalla de inicio.</li>
+        <li>Confirma con Añadir.</li>
+      </ol>
     </div>
   </dialog>
 
@@ -589,9 +838,10 @@
     <p>Escucha hasta el último surco.</p>
   </footer>
 
-  <script src="translations.js?v=8.3"></script>
-  <script src="firebase-config.js?v=8.3"></script>
-  <script src="app.js?v=8.3"></script>
-  <script type="module" src="account.js?v=8.3"></script>
+  <script src="translations.js?v=8.9"></script>
+  <script src="firebase-config.js?v=8.9"></script>
+  <script src="app.js?v=8.9"></script>
+  <script src="pwa.js?v=8.9"></script>
+  <script type="module" src="account.js?v=8.9"></script>
 </body>
 </html>

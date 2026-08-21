@@ -30,6 +30,15 @@ FORBIDDEN_EDITORIAL_PHRASES = (
     "Presenta la conversación", "It introduces the conversation",
     "Le morceau présente le dialogue",
 )
+SELF_REFERENTIAL_SCREEN_TITLES = {
+    "Interstella 5555",
+    "Lemonade",
+    "Ray",
+    "Mama Africa",
+    "Shut Up and Play the Hits",
+    "Dolly Parton's Heartstrings",
+    "Sign o' the Times",
+}
 STOPWORDS = {
     "es": set("a al algo ante bajo con como contra cual cuando de del desde donde durante el ella ellos en entre era es esa ese esta este esto fue ha hacia hasta la las le les lo los más muy ni no para pero por porque que se sin sobre su sus un una unos unas y ya".split()),
     "en": set("a an and are as at be been but by for from had has have he her his how in into is it its more most no not of on or our she so than that the their them they this to was were when where which while who with without you".split()),
@@ -86,6 +95,7 @@ master_records = {
     for record in load(DATA / "catalog" / "master.json")["records"]
 }
 notes = {item["id"]: item["editorial"] for item in load(DATA / "editorial-notes.json")}
+screen_appearance_entries = load(DATA / "screen-appearances.json")
 legacy_reason_compat = load(DATA / "essential-reasons.json")
 with (DATA / "editorial-albums-manual.tsv").open("r", encoding="utf-8", newline="") as handle:
     manual_album_ids = {row["id"].strip() for row in csv.DictReader(handle, delimiter="\t")}
@@ -117,6 +127,41 @@ if set(approved_card_copy) != set(ids):
     errors.append("Approved card-copy IDs do not exactly match runtime IDs")
 if set(approved_openings) != set(ids):
     errors.append("Approved editorial-opening IDs do not exactly match runtime IDs")
+
+screen_appearance_ids = [entry.get("id") for entry in screen_appearance_entries]
+if len(screen_appearance_ids) != len(set(screen_appearance_ids)):
+    errors.append("Screen-appearance IDs are not unique")
+if not set(screen_appearance_ids) <= set(ids):
+    errors.append("Screen appearances reference records outside the runtime catalog")
+
+screen_appearance_count = 0
+screen_appearance_types = Counter()
+for entry in screen_appearance_entries:
+    appearances = entry.get("appearances")
+    if not isinstance(appearances, list) or not appearances:
+        errors.append(f"{entry.get('id')}: screen appearances must be a non-empty list")
+        continue
+    for appearance in appearances:
+        screen_appearance_count += 1
+        appearance_type = appearance.get("type")
+        screen_appearance_types[appearance_type] += 1
+        if appearance_type not in {"film", "series"}:
+            errors.append(f"{entry.get('id')}: unknown screen appearance type")
+        if not appearance.get("title"):
+            errors.append(f"{entry.get('id')}: screen appearance title missing")
+        elif appearance["title"] in SELF_REFERENTIAL_SCREEN_TITLES:
+            errors.append(
+                f"{entry.get('id')}: self-referential screen appearance is not editorially useful"
+            )
+        year = appearance.get("year")
+        if not isinstance(year, int) or not 1900 <= year <= 2100:
+            errors.append(f"{entry.get('id')}: invalid screen appearance year")
+        source_url = appearance.get("sourceUrl", "")
+        if urlparse(source_url).scheme != "https":
+            errors.append(f"{entry.get('id')}: screen appearance source must use HTTPS")
+
+if not {"film", "series"} <= set(screen_appearance_types):
+    errors.append("Screen appearances must include both films and series")
 song_ids = {record["id"] for record in songs}
 album_ids = {record["id"] for record in albums}
 expected_manual_album_ids = album_ids - CURATED_EDITORIAL_IDS
@@ -351,6 +396,8 @@ print(json.dumps({
     "albums": len(albums),
     "songs": len(songs),
     "editorials": len(notes),
+    "screenAppearances": screen_appearance_count,
+    "screenAppearanceRecords": len(screen_appearance_entries),
     "serviceLinks": dict(sorted(service_counts.items())),
     "recognitionSources": dict(sorted(source_counts.items())),
 }, ensure_ascii=False, indent=2))
